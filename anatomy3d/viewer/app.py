@@ -102,9 +102,9 @@ def parse_viewer_args(argv=None):
 def make_app_class(E):
     class AnatomyApp(E["EngineApp"]):
         TITLE = "anatomy3d - open anatomy viewer"
-        HELP = ("drag=orbit  wheel=zoom  click=pick/answer  I=isolate  A=show all  "
-                "L=load more  H=hide  C=clip  [ ]=rotate clip  - =move clip  "
-                "Q=quiz  ESC=quit")
+        HELP = ("drag=orbit  wheel=zoom  click=pick/answer  1-9=switch system  "
+                "I=isolate  A=show all  L=load more  H=hide  C=clip  "
+                "[ ]=rotate clip  - =move clip  Q=quiz  ESC=quit")
         SHOW_HUD = True
         SHOTS = ((2.0, "docs/viewer_smoke.png"),)
 
@@ -115,40 +115,13 @@ def make_app_class(E):
 
         def setup(self):
             repo = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-            system = self.ns.system
-            glb = os.path.join(repo, "assets", f"{system}.glb")
-            manifest_path = os.path.join(repo, "assets", f"{system}.manifest.json")
-            if not os.path.exists(glb):
-                raise SystemExit(f"GLB not found: {glb}")
+            self.repo = repo
+            self._systems = self._discover_systems(repo)
             _patch_clip_shader(E)        # 必须在 renderer.program('pbr') 首次调用之前
-            self.doc = E["GLTF"].load(glb)
-            self.manifest = {}
-            # 优先全图谱三语富化清单（M3），退回系统清单
-            enriched_path = os.path.join(repo, "assets", "anatomy.zh.manifest.json")
-            candidates = [enriched_path, manifest_path]
-            for path in candidates:
-                if os.path.exists(path):
-                    with open(path, encoding="utf-8") as f:
-                        loaded = json.load(f)
-                    if any(sys["name"] == system for sys in loaded.get("systems", [])):
-                        self.manifest = loaded
-                        break
-            if not self.manifest and os.path.exists(manifest_path):
-                with open(manifest_path, encoding="utf-8") as f:
-                    self.manifest = json.load(f)
-            self.knowledge = Knowledge()
-            self.quiz = None
-            self.clip_enabled = bool(self.ns.clip)
-            self.clip_yaw = 0.0
-            self.clip_offset = float(self.ns.clip_offset)
-            self.last_quiz_message = ""
-            self.lazy = LazyAtlas(self.doc.json, self.manifest, self.ns.max_nodes)
-            self.scene = E["Scene"](name=f"anatomy:{system}")
             self.environment = E["LightEnvironment"](sky_intensity=0.55,
                                                      sun_intensity=1.4,
                                                      ibl_intensity=0.6)
             self.environment.bake()              # GL 上下文就绪后烘焙 IBL（setup 阶段）
-            self.scene.environment = self.environment
             self.renderer = E["Renderer"](self.window.width, self.window.height,
                                           environment=self.environment)
             self.camera = E["OrbitCamera"](target=(0.0, 0.0, 0.0), yaw=35.0,
@@ -156,10 +129,64 @@ def make_app_class(E):
                                            pitch_range=(-80.0, 89.0),
                                            dist_range=(0.15, 60.0))
             self.picker = E["Picker"]()
-            self.selected = None              # Node
-            self._nodes: dict[str, object] = {}
-            self._build(self.ns.names)
+            self.knowledge = Knowledge()
+            self.quiz = None
+            self.clip_enabled = bool(self.ns.clip)
+            self.clip_yaw = 0.0
+            self.clip_offset = float(self.ns.clip_offset)
+            self.last_quiz_message = ""
+            self.selected = None
+            self._nodes = {}
+            self._load_system(self.ns.system, names=self.ns.names)
             if self.ns.quiz:
+                self.quiz = Quiz(self.manifest, seed=7)
+                self.quiz.next()
+
+        def _discover_systems(self, repo):
+            """assets/*.glb 的确定性清单（按文件名排序），供 1-9 键切换。"""
+            assets = os.path.join(repo, "assets")
+            keys = sorted(
+                f[:-4] for f in os.listdir(assets)
+                if f.endswith(".glb") and not f.startswith("_"))
+            return keys
+
+        def _load_system(self, system, names=None):
+            """加载/切换系统：显式释放旧 GPU 网格，重建 Scene 与懒加载视图。"""
+            glb = os.path.join(self.repo, "assets", f"{system}.glb")
+            manifest_path = os.path.join(self.repo, "assets", f"{system}.manifest.json")
+            if not os.path.exists(glb):
+                raise SystemExit(f"GLB not found: {glb}")
+            # 释放旧网格的 GPU 资源（vlist 不删会泄漏显存）
+            for node in self._nodes.values():
+                d = getattr(node, "drawable", None)
+                vl = getattr(d, "vlist", None)
+                if vl is not None:
+                    try:
+                        vl.delete()
+                    except Exception:
+                        pass
+            self._nodes = {}
+            self.selected = None
+            self.doc = E["GLTF"].load(glb)
+            self.manifest = {}
+            enriched_path = os.path.join(self.repo, "assets", "anatomy.zh.manifest.json")
+            for path in (enriched_path, manifest_path):
+                if os.path.exists(path):
+                    with open(path, encoding="utf-8") as f:
+                        loaded = json.load(f)
+                    if any(s["name"] == system for s in loaded.get("systems", [])):
+                        self.manifest = loaded
+                        break
+            if not self.manifest and os.path.exists(manifest_path):
+                with open(manifest_path, encoding="utf-8") as f:
+                    self.manifest = json.load(f)
+            self.lazy = LazyAtlas(self.doc.json, self.manifest, self.ns.max_nodes)
+            self.current_system = system
+            self.scene = E["Scene"](name=f"anatomy:{system}",
+                                    environment=self.environment)
+            self.scene.environment = self.environment
+            self._build(names)
+            if self.quiz is not None:
                 self.quiz = Quiz(self.manifest, seed=7)
                 self.quiz.next()
 
@@ -249,7 +276,7 @@ def make_app_class(E):
             else:
                 quiz = ""
             msg = f" | {self.last_quiz_message}" if self.last_quiz_message else ""
-            return (f"{self.ns.system}: built {self.lazy.built_count()}/"
+            return (f"{self.current_system}: built {self.lazy.built_count()}/"
                     f"{len(self.lazy.mesh_nodes)}{sel}{clip}{quiz}{msg}")
 
         def on_mouse_drag(self, x, y, dx, dy, buttons, modifiers):
@@ -293,7 +320,11 @@ def make_app_class(E):
 
         def on_key(self, symbol, modifiers):
             from pyglet.window import key
-            if symbol == key.L:
+            if key._1 <= symbol <= key._9:
+                i = symbol - key._1
+                if i < len(self._systems):
+                    self._load_system(self._systems[i])
+            elif symbol == key.L:
                 added = self._build()
                 if self.hud:
                     self.hud.set_status(f"loaded +{added} nodes")

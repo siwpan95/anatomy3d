@@ -2,6 +2,18 @@
 
 本仓遵循「用户可见变更逐条记录」；格式参照 Keep a Changelog 精神（简化版）。
 
+## [1.0.0] - 2026-11-24
+
+首个完整版本：M0–M4 全通。
+
+### Added
+- 查看器运行时系统切换（1–9 键，切换时显式释放旧 GPU 网格防显存泄漏）
+- v1.0.0 tag + Gitee Release（匿名可下载）
+
+### Fixed
+- 反哺 3dworld 上游：`EngineApp.bench_report()` 按 `cpu.report()` 实际 6 值解包
+  （7 值契约对齐 platform 版，P16 闭环）
+
 ## [0.5.0] - 2026-11-24
 
 ### Added
