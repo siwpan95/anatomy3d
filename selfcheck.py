@@ -20,6 +20,8 @@ from anatomy3d import __version__  # noqa: E402
 from anatomy3d.cli import build_report  # noqa: E402
 from anatomy3d.contracts.manifest import validate_manifest  # noqa: E402
 from anatomy3d.knowledge.ta2 import index_by_en, load_ta2_index  # noqa: E402
+from anatomy3d.knowledge.quiz import Quiz  # noqa: E402
+from anatomy3d.knowledge.zh import Knowledge  # noqa: E402
 from anatomy3d.pipeline.blender_export import ExportJob, check_pipeline_prereqs  # noqa: E402
 
 FAILURES: list[str] = []
@@ -86,7 +88,19 @@ def main() -> int:
     check("无 Blender 时前置检查如实报告", any("blender" in p for p in prereqs), str(prereqs))
     check("命令行预览可生成", isinstance(job.command_preview(), list))
 
-    # ── 4. cli ───────────────────────────────────────────────
+    # ── 4. M3 知识层 ─────────────────────────────────────────
+    k = Knowledge()
+    check("三语索引可加载", len(k.zh) >= 700 and len(k.latin) >= 1700, k.summary())
+    check("高频中文映射命中", k.zh_for("Heart") == "心" and k.zh_for("Femur") == "股骨")
+    enriched, stats = k.enrich_manifest({
+        "manifest_version": 1, "source": "test", "systems": [
+            {"name": "t", "structures": [
+                {"id": "TA2:1:t:heart", "ta2_id": "4076", "names": {"en": "Heart"}, "kind": "organ"}]}]})
+    check("manifest 三语富化", stats["zh"] == 1 and enriched["systems"][0]["structures"][0]["names"].get("zh") == "心")
+    q = Quiz(enriched, seed=1)
+    check("quiz 出题可用", q.next() is not None and q.current["answer_id"] == "TA2:1:t:heart")
+
+    # ── 5. cli ───────────────────────────────────────────────
     report = build_report()
     check("装配报告可产出", "anatomy3d" in report and "TA2" in report)
 

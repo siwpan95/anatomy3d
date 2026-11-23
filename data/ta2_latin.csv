@@ -1,0 +1,1734 @@
+ta2_id,latin
+1032*3,Vertebra cervicalis III
+1032*4,Vertebra cervicalis IV
+1032*5,Vertebra cervicalis V
+1032*7,Vertebra cervicalis VII
+1038,Atlas (C1)
+105,Lobulus auriculae
+1050,Axis (C2)
+1055,Vertebra cervicalis VI
+1059*2,Vertebra thoracis II
+1059*3,Vertebra thoracis III
+1059*4,Vertebra thoracis IV
+1059*5,Vertebra thoracis V
+1059*6,Vertebra thoracis VI
+106,Helix
+1063*1,Vertebra thoracis I
+1065*10,Vertebra thoracis X
+1065*11,Vertebra thoracis XI
+1065*12,Vertebra thoracis XII
+1065*7,Vertebra thoracis VII
+1065*8,Vertebra thoracis VIII
+1065*9,Vertebra thoracis IX
+1068*1,Vertebra lumborum I
+1068*2,Vertebra lumborum II
+1068*3,Vertebra lumborum III
+1068*4,Vertebra lumborum IV
+1068*5,Vertebra lumborum V
+1071,Os sacrum
+108,Antihelix
+109,Crura antihelicis
+1092,Os coccygis
+110,Antitragus
+1106*3,Tertia costa
+1106*4,Quarta costa
+1106*5,Quinta costa
+1106*6,Sexta costa
+1106*7,Septima costa
+1107,Costa prima
+111,Tragus
+1111,Costa secunda
+1113*10,Decima costa
+1113*8,Octava costa
+1113*9,Nona costa
+1114*11,Undecima costa
+1114*12,Duodecima costa
+1130,Manubrium sterni
+1134,Corpus sterni
+1135,Processus xiphoideus
+1140*1,Cartilago costae primae costae
+1140*10,Cartilago costae decimae costae
+1140*2,Cartilago costae secundae costae
+1140*3,Cartilago costae tertiae costae
+1140*4,Cartilago costae quarti costae
+1140*5,Cartilago costae quinti costae
+1140*6,Cartilago costae sextae costae
+1140*7,Cartilago costae septimi costae
+1140*8,Cartilago costae octavae costae
+1140*9,Costa cartilago nonae costae
+1143,Scapula
+1168,Clavicula
+1180,Humerus
+1210,Radius
+1230,Ulna
+1250,Os scaphoideum
+1252,Os lunatum
+1253,Os triquetrum
+1254,Os pisiforme
+1255,Os trapezium
+1257,Os trapezoideum
+1258,Os capitatum
+1259,Os hamatum
+1265*1,Os primum metarcapi
+1265*2,Os secundum metacarpi
+1265*4,Os quartum metacarpi
+1265*5,Os quintum metacarpi
+1269,Os tertium metacarpi
+1277*1,Phalanx proximalis primum digitorum manus
+1277*2,Phalanx proximalis secundum digitorum manus
+1277*3,Phalanx proximalis tertium digitorum manus
+1277*4,Phalanx proximalis quartum digitorum manus
+1277*5,Phalanx proximalis quintum digitorum manus
+1278*2,Phalanx media scundum digitorum manus
+1278*3,Phalanx media tertium digitorum manus
+1278*4,Phalanx media quartum digitorum manus
+1278*5,Phalanx media quintum digitorum manus
+1279*1,Phalanx distalis primum digitorum manus
+1279*2,Phalanx distalis secundum digitorum manus
+1279*3,Phalanx distalis tertium digitorum manus
+1279*4,Phalanx distalis quartum digitorum manus
+1279*5,Phalanx distalis quintum digitorum manus
+1307,Os coxae
+1360,Os femoris
+1390,Patella
+1397,Tibia
+14,Ventralis
+1421,Malleolus medialis
+1427,Fibula
+1442,Malleolus lateralis
+1448,Os tali
+1468,Calcaneus
+1484,Os naviculare
+1486,Os cuneiforme mediale
+1487,Os cuneiforme intermedium
+1488,Os cuneiforme laterale
+1489,Os cuboideum
+1496*2,Os secundum metatarsi
+1496*3,Os tertium metatarsi
+1496*4,Os quatum metatarsi
+15,Dorsalis
+1500,Os primum metatarsi
+1502,Os quintum metatarsi
+1510*1,Phalanx proximalis primum digitorum pedis
+1510*2,Phalanx proximalis secundum digitorum pedis
+1510*3,Phalanx proximalis tertium digitorum pedis
+1510*4,Phalanx proximalis quartum digitorum pedis
+1510*5,Phalanx proximalis quintum digitorum pedis
+1511*2,Phalanx media secundum digitorum pedis
+1511*3,Phalanx media tertium digitorum pedis
+1511*4,Phalanx media quartum digitorum pedis
+1511*5,Phalanx media quintum digitorum pedis
+1512*1,Phalanx distalis primum digitorum pedis
+1512*2,Phalanx distalis secundum digitorum pedis
+1512*3,Phalanx distalis tertium digitorum pedis
+1512*4,Phalanx distalis quartum digitorum pedis
+1512*5,Phalanx distalis quintum digitorum pedis
+1514,Ossa sesamoidea pedis
+1566,Ligamentum pterygospinale
+1567,Ligamentum stylohyoideum
+1568,Ligamentum sphenomandibulare
+1569,Ligamentum stylomandibulare
+16,Frontalis
+1623,Discus articulationis temporomandibularis
+1624,Ligamentum temporomandibulare laterale
+1652,Ligamentum thyreohyoideum medianum
+1653,Ligamentum thyreohyoideum laterale
+1658,Membrana quadrangularis
+1662,Ligamentum cricothyreoideum medianum
+1669,Ligamentum cricopharyngeum
+1674,Ligamenta interspinalia
+1675,Ligamenta flava
+1676,Ligamenta intertransversaria
+1677,Ligamentum supraspinale
+1678,Ligamentum nuchae
+1679,Ligamentum longitudinale anterius
+1680,Ligamentum longitudinale posterius
+1681,Ligamentum intercornuale
+17,Occipitalis
+1710,Membrana intercostalis externa
+1711,Membrana intercostalis interna
+1722,Ligamentum radiatum capitis costae
+1723,Ligamentum intraarticulare capitis costae
+1725,Ligamentum costotransversarium
+1740,Ligamentum coracoacromiale
+1741,Ligamentum transversum superius scapulae
+1742,Ligamentum transversum inferius scapulae
+1745,Ligamentum acromioclaviculare
+1746,Discus articulationis acromioclavicularis
+1748,Ligamentum trapezoideum
+1749,Ligamentum conoideum
+1751,Discus articulationis sternoclavicularis
+1754,Ligamentum sternoclaviculare anterius
+1755,Ligamentum sternoclaviculare posterius
+1756,Ligamentum costoclaviculare
+1757,Ligamentum interclaviculare
+1761,Membrana interossea antebrachii
+1762,Chorda obliqua
+1765,Labrum glenoideum
+1767,Ligamentum glenohumerale superius
+1768,Ligamentum glenohumerale medium
+1769,Ligamentum glenohumerale inferius
+1770,Ligamentum coracohumerale
+1771,Ligamentum transversum humeri
+1772*1,Capsula articularis articulation cubiti
+1776,Ligamentum collaterale ulnare cubiti
+1777,Ligamentum collaterale radiale cubiti
+1778,Ligamentum anulare radii
+1779,Ligamentum quadratum
+1782,Discus articulationis radioulnaris distalis
+1784,Ligamentum radioulnare dorsale
+1785,Ligamentum radioulnare palmare
+1786*1,Capsula articularis articulatio radiocarpea
+1787,Ligamentum radiocarpeum dorsale
+1789,Ligamentum radioscaphocapitatum
+1790,Ligamentum radiocapitatum
+1794,Ligamentum ulnocarpeum dorsale
+1796,Ligamentum ulnocapitatum
+1797,Ligamentum ulnolunatum
+1798,Ligamentum ulnotriquetrum
+1799,Ligamentum ulnopisiforme
+180,Regio frontalis
+1800,Ligamentum collaterale ulnare carpi
+1801,Ligamentum collaterale radiale carpi
+1805,Ligamentum radiatum carpi
+1806,Ligamenta intercarpea dorsalia
+1807,Ligamentum scaphotriquetrum dorsale
+1809,Ligamentum scaphotrapeziotrapezoideum
+181,Supercilium
+1810,Ligamentum scaphocapitatum
+1811,Ligamentum scaphotriquetrum palmare
+1812,Ligamentum triquetrocapitatum
+1813,Ligamentum triquetrohamatum
+1814,Ligamentum pisotriquetrum
+1815,Ligamentum capitohamatum palmare
+1816,Ligamentum trapezoideocapitatum palmare
+1817,Ligamentum lunotriquetrum palmare
+1819,Ligamentum scapholunatum interosseum
+182,Regio parietalis
+1820,Ligamentum trapeziotrapezoideum interosseum
+1821,Ligamentum capitohamatum interosseum
+1822,Ligamentum trapezoideocapitatum interosseum
+1823,Ligamentum lunotriquetrum interosseum
+1825,Ligamentum pisohamatum
+1826,Ligamentum pisometacarpeum
+1828,Ligamenta carpometacarpea dorsalia
+1829,Ligamenta carpometacarpea palmaria
+183,Regio occipitalis
+1832,Ligamenta metacarpea dorsalia
+1833,Ligamenta metacarpea palmaria
+1834,Ligamenta metacarpea interossea
+1835*1,Capsulae articulariae articulationes metacarpophalnageae
+1836,Ligamenta metacarpophalangea collateralia
+1838,Ligamentum metacarpeum transversum profundum
+184,Regio temporalis
+1843,Ligamenta interphalangea collateralia manus
+1844,Ligamenta interphalangea palmaria
+1848,Membrana obturatoria
+185,Regio mastoidea
+1850,Ligamentum sacrotuberale
+1852,Ligamentum sacrospinale
+1853,Ligamentum iliolumbale
+1855,Symphysis pubica
+1856,Discus interpubicus
+1857,Ligamentum pubicum superius
+1858,Ligamentum pubicum inferius
+1859,Cartilago triradiata
+186,Regio auricularis
+1862,Ligamentum sacroiliacum anterius
+1863,Ligamentum sacroiliacum interosseum
+1864,Ligamentum sacroiliacum posterius
+1867,Membrana interossea cruris
+1869,Ligamentum tibiofibulare anterius
+187,Fossa triangularis
+1870,Ligamentum tibiofibulare posterius
+1871,Ligamentum tibiofibulare transversum
+1874,Zona orbicularis
+1876,Pars transversa ligamenti iliofemoralis
+1877,Pars descendens ligamenti iliofemoralis
+1878,Ligamentum ischiofemorale
+1879,Ligamentum pubofemorale
+188,Scapha
+1880,Labrum acetabuli
+1881,Ligamentum transversum acetabuli
+1882,Ligamentum capitis femoris
+1883*1,Capsula articularis genus
+1885,Meniscus lateralis
+1888,Meniscus medialis
+1889,Ligamentum transversum genus
+189,Concha auriculae
+1890,Ligamentum cruciatum anterius
+1891,Ligamentum decussatum posterius
+1895,Ligamentum collaterale fibulare
+1897,Pars superficialis ligamenti collateralis tibialis
+1898,Pars profunda ligamenti collateralis tibialis
+1899,Ligamentum popliteum obliquum
+190,Cymba conchae
+1900,Ligamentum popliteum arcuatum
+1904,Ligamentum meniscopatellare
+1906,Ligamentum popliteofibulare
+1908,Corpus adiposum infrapatellare
+191,Cavitas conchae
+1910,Ligamentum anterius capitis fibulae
+1911,Ligamentum posterius capitis fibulae
+1914,Ligamentum tibionaviculare
+1915,Ligamentum calcaneotibiale
+1917,Ligamentum talotibiale posterius
+1919,Ligamentum talofibulare anterius
+192,Incisura anterior auriculae
+1920,Ligamentum talofibulare posterius
+1921,Ligamentum calcaneofibulare
+1925,Ligamentum talocalcaneum laterale
+1926,Ligamentum talocalcaneum mediale
+1927,Ligamentum talocalcaneum posterius
+1928,Ligamentum talocalcaneum interosseum
+1929,Ligamentum talocalcaneum anterius
+193,Incisura intertragica
+1932,Ligamentum calcaneonaviculare
+1933,Ligamentum calcaneocuboideum
+1934,Ligamentum plantare longum
+1936,Ligamentum talonaviculare
+1937,Ligamentum calcaneonaviculare plantare
+1939,Ligamentum calcaneocuboideum dorsale
+194,Tuberculum auriculae
+1940,Ligamentum calcaneocuboideum plantare
+1942,Ligamenta cuneonavicularia dorsalia
+1943,Ligamenta cuneonavicularia plantaria
+1945,Ligamentum cuneocuboideum interosseum
+1946,Ligamentum cuneocuboideum dorsale
+1947,Ligamentum cuneocuboideum plantare
+1949,Ligamentum cuboideonaviculare dorsale
+195,Apex auriculae
+1950,Ligamentum cuboideonaviculare plantare
+1952,Ligamenta intercuneiformia interossea
+1953,Ligamenta intercuneiformia dorsalia
+1954,Ligamenta intercuneiformia plantaria
+1956,Ligamenta tarsometatarsea dorsalia
+1957,Ligamenta tarsometatarsea plantaria
+1958,Ligamenta cuneometatarsea interossea
+196,Sulcus posterior auriculae
+1960,Ligamenta metatarsea interossea
+1961,Ligamenta metatarsea dorsalia
+1962,Ligamenta metatarsea plantaria
+1963,Ligamentum intersesamoideum
+1965,Ligamenta metatarsophalangea collateralia
+1966,Ligamenta metatarsophalangea plantaria
+1967,Ligamentum metatarseum transversum profundum
+1972,Ligamenta interphalangea collateralia pedis
+1973,Ligamenta interphalangea plantaria
+198,Fossa antihelica
+199,Eminentia conchae
+20,Cranialis
+200,Eminentia scaphae
+201,Eminentia fossae triangularis
+203,Regio orbitalis
+2042,Musculus rectus superior
+2043,Musculus rectus inferior
+2044,Musculus rectus medialis
+2045,Musculus rectus lateralis bulbi oculi
+2047,Anulus tendineus communis
+2048,Musculus obliquus superior bulbi oculi
+2049,Trochlea musculi obliqui superioris
+2051,Musculus obliquus inferior bulbi oculi
+2052,Levator palpebrae superioris
+2056,Musculus frontalis
+2057,Musculus occipitalis
+2058,Musculus temporoparietalis
+2059,Galea aponeurotica
+2061,Musculus procerus
+2062,Musculus nasalis
+2065,Depressor septi nasi
+2067,Pars palpebralis musculi orbicularis oculi
+2070,Pars orbitalis musculi orbicularis oculi
+2071,Musculus corrugator supercilii
+2073,Musculus orbicularis oris
+2076,Depressor anguli oris
+2078,Musculus risorius
+2079,Musculus zygomaticus major
+2080,Musculus zygomaticus minor
+2081,Levator labii superioris
+2082,Levator nasolabialis
+2083,Depressor labii inferioris
+2084,Levator anguli oris
+2086,Bucinator
+2087,Musculus mentalis
+21,Caudalis
+2106,Pars superficialis masseteris
+2107,Pars profunda masseteris
+2108,Musculus temporalis
+2110,Caput superius musculi pterygoidei lateralis
+2111,Caput inferius musculi pterygoidei lateralis
+2113,Musculus pterygoideus medialis
+2117,Musculus genioglossus
+2118,Musculus hyoglossus
+212,Regio infraorbitalis
+213,Regio buccalis
+2132,Musculus palatopharyngeus
+2136,Fascia masseterica
+2139,Lamina superficialis fasciae temporalis
+214,Regio parotideomasseterica
+2147,Platysma
+2148,Musculus longus colli
+2149,Musculus longus capitis
+215,Regio zygomatica
+2150,Musculus rectus anterior capitis
+2151,Musculus rectus lateralis capitis
+2152,Musculus scalenus anterior
+2153,Musculus scalenus medius
+2154,Musculus scalenus posterior
+2156,Musculus sternocleidomastoideus
+216,Regio nasalis
+2161,Venter anterior musculi digastrici
+2162,Tendo intermedius musculi digastrici
+2163,Venter posterior musculi digastrici
+2164,Musculus stylohyoideus
+2165,Musculus mylohyoideus
+2166,Musculus geniohyoideus
+2168,Musculus sternohyoideus
+2169,Musculus omohyoideus
+2173,Musculus sternothyreoideus
+2174,Musculus thyreohyoideus
+2179,Constrictor superior pharyngis
+2184,Constrictor medius pharyngis
+2187,Constrictor inferior pharyngis
+2190,Musculus stylopharyngeus
+2194,Pars recta musculi cricothyreoidei
+2195,Pars obliqua musculi cricothyreoidei
+2196,Musculus cricoarytenoideus posterior
+2198,Musculus cricoarytendoideus lateralis
+220,Sulcus nasolabialis
+2200,Pars externa musculi thyreoarytenoidei
+2201,Pars thyreoepiglottica musculi thyreoarytenoidei
+2204,Pars aryepiglottica musculi arytenoidei obliqui
+2205,Musculus arytenoideus transversus
+2207,Fascia investiens superficialis colli lamina
+221,Regio oralis
+222,Philtrum
+2227,Pars descendens musculi trapezii
+2228,Pars transversa musculi trapezii
+2229,Pars ascendens musculi trapezii
+223,Tuberculum labii superioris
+2231,Musculus latissimus dorsi
+2232,Musculus rhomboideus major
+2233,Musculus rhomboideus minor
+2234,Levator scapulae
+2235,Musculus serratus posterior inferior
+2236,Musculus serratus posterior superior
+224,Commissura labiorum oris
+2240,Partes dors. musculorum intertransversariorum lat. lumborum
+2241,Partes vent. musculorum intertransversariorum lat. lumborum
+2243,Lamina posterior fasciae thoracolumbaris
+2245,Lamina media fasciae thoracolumbaris
+2246,Lamina anterior fasciae thoracolumbaris
+2249,Musculus rectus posterior major capitis
+225,Angulus oris
+2250,Musculus rectus posterior minor capitis
+2251,Musculus obliquus superior capitis
+2252,Musculus obliquus inferior capitis
+2258,Musculus iliocostalis lumborum
+226,Sulcus mentolabialis
+2260,Musculus iliocostalis thoracis
+2261,Musculus iliocostalis colli
+2263,Musculus longissimus thoracis
+2265,Musculus longissimus colli
+2266,Musculus longissimus capitis
+2268,Musculus spinalis thoracis
+2269,Musculus spinalis colli
+227,Regio mentalis
+2270,Musculus spinalis capitis
+2273,Musculus splenius capitis
+2274,Musculus splenius colli
+2277,Musculus multifidus lumborum
+2278,Musculus multifidus thoracis
+2279,Musculus multifidus colli
+2281,Musculus semispinalis thoracis
+2282,Musculus semispinalis colli
+2284,Rotatores
+2291,Musculi interspinales lumborum
+2292,Musculi interspinales thoracis
+2293,Musculi interspinales colli
+2302,Pars clavicularis musculi pectoralis majoris
+2303,Pars sternocostalis musculi pectoralis majoris
+2304,(Pars abdominalis musculi pectoralis majoris)
+2305,Musculus pectoralis minor
+2306,Musculus subclavius
+2307,Musculus serratus anterior
+2309,Levatores longi costarum
+2310,Levatores breves costarum
+2311,Musculi intercostales externi
+2312,Musculi intercostales interni
+2313,Musculi intercostales intimi
+2315,Musculus transversus thoracis
+2317,Fascia pectoralis
+2318,Fascia clavipectoralis
+232,Trigonum submandibulare
+2327,Diaphragma
+233,Trigonum submentale
+235,Trigonum caroticum
+2357,Musculus rectus abdominis
+236,Trigonum musculare
+2363,Musculus pyramidalis
+2364,Musculus obliquus externus abdominis
+2365,Ligamentum inguinale
+237,Regio sternocleidomastoidea
+2373,Musculus obliquus internus abdominis
+2375,Musculus transversus abdominis
+2377,Linea alba
+238,Fossa supraclavicularis minor
+2382,Musculus quadratus lumborum
+2384,Fascia investiens abdominis
+2386,Fascia iliopsoae
+2389,Fascia transversalis
+239,Regio lateralis colli
+2394,Fascia diaphragmatica
+240,Fossa supraclavicularis major
+2404,Musculus iliococcygeus
+2405,Musculus pubococcygeus
+2406,Musculus puboanalis
+2412,Musculus coccygeus
+2426,Sphincter externus ani
+243,Regio posterior colli
+2434,Arcus tendineus levatoris ani
+2437,Fascia musculi piriformis
+2453,Pars clavicularis musculi deltoidei
+2454,Pars acromialis musculi deltoidei
+2455,Pars spinalis scapularis musculi deltoidei
+2457,Musculus supraspinatus
+2458,Musculus infraspinatus
+2459,Musculus teres minor
+2460,Musculus subscapularis
+2462,Musculus teres major
+2465,Caput longum musculi bicipitis brachii
+2466,Caput breve musculi bicipitis brachii
+2468,Musculus coracobrachialis
+2469,Musculus brachialis
+247,Regio presternalis
+2472,Caput longum musculi tricipitis brachii
+2473,Caput laterale musculi tricipitis brachii
+2474,Caput mediale musculi tricipitis caput brachii
+2479,Caput superficiale pronatoris teretis
+248,Fossa infraclavicularis
+2480,Caput profundum pronatoris teretis
+2481,Flexor radialis carpi
+2482,Musculus palmaris longus
+2484,Caput humerale flexoris ulnaris carpi
+2485,Caput ulnare flexoris ulnaris carpi
+2487,Caput humeroulnare flexoris superficialis digitorum
+2488,Caput radiale flexoris superficialis digitorum
+249,Trigonum deltopectorale
+2491,Flexor profundus digitorum
+2492,Flexor longus pollicis
+2493,Pronator quadratus
+2496,Musculus brachioradialis
+2497,Extensor radialis longus carpi
+2499,Extensor radialis brevis carpi
+2500,Extensor digitorum
+2506,Extensor digiti minimi
+2508,Caput humerale extensoris ulnaris carpi
+2509,Caput ulnare extensoris ulnaris carpi
+251,Regio pectoralis
+2510,Musculus anconeus
+2512,Supinator
+2515,Extensor indicis
+2516,Extensor longus pollicis
+2517,Abductor longus pollicis
+2518,Extensor brevis pollicis
+252,Regio mammaria
+2521,Abductor brevis pollicis
+2523,Caput superficiale flexoris brevis pollicis
+2524,Caput profundum flexoris brevis pollicis
+2525,Musculus opponens pollicis
+2527,Caput obliquum adductoris pollicis
+2528,Caput transversum adductoris pollicis
+2529,Abductor digiti minimi manus
+253,Regio inframammaria
+2530,Flexor digiti minimi manus
+2531,Musculus opponens digiti minimi manus
+2532,Musculi lumbricales manus
+2533,Musculi interossei dorsales manus
+2534,Musculi interossei palmares
+254,Regio lateralis thoracis
+2540,Fascia deltoidea
+2541,Fascia brachii
+2542,Septum intermusculare mediale brachii
+2543,Septum intermusculare laterale brachii
+2544,Fascia antebrachii
+2546,Retinaculum extensorium carpi
+2547,Fascia dorsalis manus
+2548,Ligamentum metacarpeum transversum superficiale
+2549,Aponeurosis palmaris
+2550,Retinaculum flexorium carpi
+2555,Bursa subtendinea musculi trapezii
+2557,Bursa subacromialis
+2558,Bursa subdeltoidea
+256,Regio hypochondriaca
+2560,Bursa subtendinea musculi infraspinati
+2562,Bursa subtendinea musculi teretis majoris
+2566,Bursa subtendinea musculi tricipitis
+2567,Bursa bicipitoradialis
+257,Regio epigastrica
+2570,Vagina tendinis intertubercularis
+2573,Vagina tendinis flexoris longi pollicis
+2574,Vagina tendinis flexoris radialis carpi
+2575,Vagina communis tendinum flexorum
+2577,Vagina tendinum abd. longi et extensoris brevis pollicis
+2580,Vagina tendinis musculi extensoris pollicis longi
+2581,Vagina tendinum musc. ext. digitorum - extensoris indicis
+2582,Vagina tendinis extensoris ulnaris carpi
+2587,Vaginae synoviales digitorum
+259,Regio lateralis abdominis
+2594,Musculus iliacus
+2595,Psoas major
+2598,Musculus gluteus maximus
+2599,Musculus gluteus medius
+260,Regio umbilicalis
+2600,Musculus gluteus minimus
+2602,Tensor fasciae latae
+2604,Musculus piriformis
+2605,Obturator internus
+2606,Musculus gemellus superior
+2607,Musculus gemellus inferior
+2608,Musculus quadratus femoris
+261,Umbilicus
+2610,Musculus sartorius
+2614,Musculus rectus femoris
+2618,Musculus vastus lateralis
+2619,Musculus vastus intermedius
+262,Regio inguinalis
+2620,Musculus vastus medialis
+2623,Retinaculum mediale patellae
+2624,Retinaculum laterale patellae
+2627,Musculus pectineus
+2628,Adductor longus
+2629,Adductor brevis
+263,Regio hypogastrica
+2630,Adductor magnus
+2632,(Adductor minimus)
+2635,Musculus gracilis
+2636,Obturator externus
+2639,Caput longum musculi bicipitis femoris
+2640,Caput breve musculi bicipitis femoris
+2641,Musculus semitendinosus
+2642,Musculus semimembranosus
+2644,Musculus tibialis anterior
+2645,Extensor longus digitorum
+2649,Musculus fibularis tertius
+265,Regio vertebralis
+2650,Extensor longus hallucis
+2652,Musculus fibularis longus
+2653,Musculus fibularis brevis
+2658,Caput laterale musculi gastrocnemii
+2659,Caput mediale musculi gastrocnemii
+266,Regio scapularis
+2660,Musculus soleus
+2662,Tendo calcaneus
+2663,Musculus plantaris
+2665,Musculus popliteus
+2666,Musculus tibialis posterior
+2667,Musculus flexor digitorum longus
+2668,Flexor longus hallucis
+267,Trigonum auscultationis
+2670,Extensor brevis hallucis
+2671,Extensor brevis digitorum
+2672,Abductor hallucis
+2674,Caput mediale flexoris brevis hallucis
+2675,Caput laterale flexoris brevis hallucis
+2677,Caput obliquum adductoris hallucis
+2678,Caput transversum adductoris hallucis
+2679,Abductor digiti minimi pedis
+268,Regio infrascapularis
+2681,(Musculus opponens digiti minimi pedis)
+2682,Flexor digiti minimi pedis pedis
+2683,Flexor brevis digitorum
+2684,Musculus quadratus plantae
+2685,Musculi lumbricales pedis
+2686,Musculi interossei dorsales pedis
+2687,Musculi interossei plantares
+2689,Fascia lata
+269,Regio lumbalis
+2690,Tractus iliotibialis
+2691,Septum intermusculare laterale femoris
+2692,Septum intermusculare mediale femoris
+2695,Arcus iliopectineus
+2707,Fascia poplitea
+2708,Fascia cruris
+2709,Septum intermusculare anterius cruris
+2710,Septum intermusculare posterius cruris
+2711,Septum intermusculare transversum cruris
+2712,Retinaculum extensorium superius tali
+2713,Retinaculum extensorium inferius tali
+2714,Retinaculum flexorium tali
+2715,Retinaculum fibulare superius
+2716,Retinaculum fibulare inferius
+2718,Aponeurosis plantaris
+272,Regio sacralis
+2721,Ligamentum metatarseum transversum superficiale
+2723,Bursa subcutanea trochanterica
+2724,Bursa trochanterica musculi glutei maximi
+2726,Bursa trochanterica musculi glutei minimi
+2727,Bursa musculi piriformis
+2728,Bursa ischiadica obturatoris interni
+2729,Bursa subtendinea obturatoris interni
+2730,Bursae intermusculares gluteae
+2731,Bursa ischiadica musculi glutei maximi
+2732,(Bursa iliopectinea)
+2733,Bursa subtendinea iliaca
+2734,Bursa superior musculi bicipitis femoris
+2735,Bursa subcutanea prepatellaris
+2737,(Bursa subtendinea prepatellaris)
+2738,Bursa suprapatellaris
+2739,Bursa subcutanea infrapatellaris
+2740,Bursa infrapatellaris profunda
+2741,Bursa subcutanea tuberositatis tibiae
+2742,Bursa subtendinea musculi sartorii
+2743,Bursa anserina
+2744,Bursa subtendinea inferior musculi bicipitis femoris
+2746,Bursa subtendinea lateralis musculi gastrocnemii
+2747,Bursa subtendinea medialis musculi gastrocnemii
+2748,Bursa musculi semimembranosi
+2749,Bursa subcutanea malleoli lateralis
+2750,Bursa subcutanea malleoli
+2751,Bursa subtendinea musculi tibialis anterioris
+2752,Bursa subcutanea calcanea
+2753,Bursa subtendinea calcanea
+2757,Vagina tendinis extensoris longi hallucis
+2758,Vagina tendinum extensoris longi digitorum
+2760,Vagina tendinis flexoris digitorum longus
+2761,Vagina tendinis musculi tibialis posterioris
+2762,Vagina tendinis flexoris longi hallucis
+2764,Vagina communis tendinum musculorum fibularium
+2765,Vagina plantaris tendinis musculi fibularis longi
+277,Regio analis
+2781,Uvula palatina
+279,Regio urogenitalis
+2790,Gingiva
+2800,Glandula parotidea
+2805,Ductus parotideus
+2806,(Glandula parotidea accessoria)
+2807,Glandula sublingualis
+2810,Glandula submandibularis
+2811,Ductus submandibularis
+2820,Lingua
+283,Regio deltoidea
+285,Regio anterior brachii
+2853,Tonsilla palatina
+2855,Pharynx
+286,Sulcus bicipitalis lateralis
+287,Sulcus bicipitalis medialis
+288,Regio posterior brachii
+2887,Oesophagus
+290,Regio anterior cubiti
+2901,Gaster
+291,Fossa cubitalis
+2914,Tunica mucosa gastris
+292,Regio posterior cubiti
+294,Regio anterior antebrachii
+2944,Duodenum
+295,Regio posterior antebrachii
+2958,Jejunum
+296,Margo lateralis antebrachii
+297,Margo medialis antebrachii
+2976,Appendix vermiformis
+2982,Colon ascendens
+2984,Colon transversum
+2986,Colon descendens
+2987,Colon sigmoideum
+299,Regio anterior carpi
+2994,Taenia mesocolica
+2995,Taenia omentalis
+2996,Taenia libera
+300,Regio posterior carpi
+301,Foveola radialis
+3023,Hepar
+304,Dorsum manus
+305,Palma
+3068,Segmentum posterius laterale sinistrum hepatis (II)
+3069,Segmentum anterius laterale sinistrum hepatis (III)
+3071,Segmentum mediale sinistrum hepatis (IV)
+3073,Segmentum posterius hepatis (I)
+3076,Segmentum anterius mediale dextrum hepatis (V)
+3077,Segmentum posterius mediale dextrum hepatis (VIII)
+3079,Segmentum anterius laterale dextrum hepatis (VI)
+3080,Segmentum posterius laterale dextrum hepatis (VII)
+3081,Vesica biliaris
+309,Facies palmares digitorum manus
+310,Facies dorsales digitorum manus
+3103,Ductus biliaris
+3114,Pancreas
+3129,Ductus pancreaticus
+313,Regio glutea
+3131,Ductus pancreaticus accessorius
+315,Sulcus gluteus
+316,Regio coxalis
+318,Regio anterior femoris
+319,Trigonum femorale
+3190,Epiglottis
+320,Regio posterior femoris
+3213,Trachea
+322,Regio anterior genus
+323,Regio posterior genus
+3237,Bronchus principalis dexter
+3238,Bronchus lobaris superior dexter
+3239,Bronchus segmentalis apicalis pulmonis dextri (BI)
+324,Fossa poplitea
+3240,Bronchus segmentalis posterior pulmonis dextri (BII)
+3241,Bronchus segmentalis anterior pulmonis dextri (BIII)
+3242,Bronchus intermedius
+3243,Bronchus lobaris medius
+3244,Bronchus segmentalis lateralis pulmonis dextri (BIV)
+3245,Bronchus segmentalis medialis pulmonis dextri (BV)
+3246,Bronchus lobaris inferior dexter
+3247,Bronchus segmentalis superior pulmonis dextri (BVI)
+3248,Bronchus segmentalis basalis med. pulmonis dextri (BVII)
+3249,Bronchus segmentalis basalis ant. pulmonis dextri (BVIII)
+3250,Bronchus segmentalis basalis lat. pulmonis dextri (BIX)
+3251,Bronchus segmentalis basalis posterior pulmonis dextri (BX)
+3252,Bronchus principalis sinister
+3253,Bronchus lobaris superior sinister
+3254,Bronchus segmentalis apicopost. pulmonis sinistri (BI+BII)
+3255,Bronchus segmentalis anterior pulmonis sinistri (BIII)
+3256,Bronchus segm. lingularis sup. pulmonis sinistri (BIV)
+3257,Bronchus segmentalis lingularis inf. pulmonis sinistri (BV)
+3258,Bronchus lobaris inferior sinister
+3259,Bronchus segmentalis superior pulmonis sinistri(bvi)
+326,Regio anterior cruris
+3260,Bronchus segmentalis basalis med. pulmonis sinistri (BVII)
+3261,(Bronchus segmentalis basalis anteromed. pulmonis sinistri)
+3262,Bronchus segmentalis basalis ant. pulmonis sinistri (BVIII)
+3263,Bronchus segmentalis basalis lat. pulmonis sinistri (BIX)
+3264,Bronchus segmentalis basalis posterior pulmonis sinistri (BX)
+327,Regio posterior cruris
+3284,Lobus superior pulmonis dextri
+3289,Lobus medius pulmonis dextri
+3293,Lobus inferior pulmonis dextri
+330,Regio anterior tali
+3300,Lobus superior pulmonis sinistri
+3308,Lobus inferior pulmonis sinistri
+332,Regio retromalleolaris lateralis regio
+3322,Pleura
+333,Regio retromalleolaris medialis regio
+335,Regio calcanea
+3358,Ren
+336,Dorsum pedis
+337,Planta
+3384,Pelvis renalis
+339,Pars lateralis arcus longitudinalis pedis
+3394,Ureter
+34,Proximalis
+340,Pars medialis arcus longitudinalis pedis
+3401,Vesica urinaria
+341,Arcus transversus proximalis
+342,Arcus transversus distalis pedis
+3425,Urethra
+343,Margo lateralis pedis
+344,Margo medialis pedis
+345,Regio metatarsea
+346,Eminentia hallucis
+348,Facies plantares digitorum
+349,Facies dorsales digitorum
+35,Distalis
+3576,Testis
+3603,Epididymis
+3621,Ductus deferens
+3631,Glandula seminalis
+3636,Ductus ejaculatorius
+3637,Prostata
+3668,Glans penis
+3678,Corpus cavernosum penis
+3681,Corpus spongiosum penis
+3744,Mesocolon
+3749,Mesoappendix
+3750,Omentum minus
+3757,Omentum maius
+38,Radialis
+3855,Adenohypophysis
+3859,Neurohypophysis
+3862,Glandula pinealis
+3863,Glandula thyreoidea
+3874,Glandula suprarenalis
+39,Ulnaris
+3985,Cuspis inferior valvae atrioventricularis dextrae
+3986,Cuspis septalis valvae atrioventricularis dextrae
+3990,Cuspis posterior valvae atrioventricularis sinistrae
+3995,Valvula coronaria dextra aortae
+3996,Valvula coronaria sinistra aortae
+3997,Valvula noncoronaria valvae aortae
+40,Fibularis
+4010,Valvula semilunaris dextra valvae trunci pulmonalis
+4011,Valvula semilunaris sinistra valvae trunci pulmonalis
+4012,Valvula semilunaris anterior valvae trunci pulmonalis
+4022,Atrium dextrum
+4038,Ventriculus dexter
+4044,Musculus papillaris anterior ventriculi dextri
+4045,Musculus papillaris inferior ventriculi dextri
+4046,Musculus papillaris septalis ventriculi dextri
+4054,Atrium sinistrum
+4062,Ventriculus sinister
+4068,Musculus papillaris inferior ventriculi sinistri
+4075,Truncus pulmonalis
+4076,Bifurcatio trunci pulmonalis
+4077,Arteria pulmonalis dextra
+4078,Arteria lobaris superior pulmonis dextri
+4079,Arteria segmentalis apicalis pulmonis dextri
+4080,Arteria segmentalis anterior pulmonis dextri
+4081,Arteria segmentalis posterior pulmonis dextri
+4082,Arteria lobaris media pulmonis dextri
+4083,Arteria segmentalis medialis pulmonis dextri
+4084,Arteria segmentalis lateralis pulmonis dextri
+4085,Arteria lobaris inferior pulmonis dextri
+4086,Arteria segmentalis superior pulmonis dextri
+4087,Arteria segmentalis basalis anterior pulmonis dextri
+4088,Arteria segmentalis basalis lateralis pulmonis dextri
+4089,Arteria segmentalis basalis medialis pulmonis dextri
+4090,Arteria segmentalis basalis posterior pulmonis dextri
+4091,Arteria pulmonalis sinistra
+4095,Arteria segmentalis apicalis pulmonis sinistri
+4096,Arteria segmentalis anterior pulmonis sinistri
+4097,Arteria segmentalis posterior pulmonis sinistri
+4099,Arteria lingularis inferior pulmonis sinistri
+41,Tibialis
+4100,Arteria lingularis superior pulmonis sinistri
+4102,Arteria segmentalis superior pulmonis sinistri
+4103,Arteria segmentalis basalis anterior pulmonis sinistri
+4104,Arteria segmentalis basalis lateralis pulmonis sinistri
+4105,Arteria segmentalis basalis medialis pulmonis sinistri
+4106,Arteria segmentalis basalis posterior pulmonis sinistri
+4108,Vena pulmonalis dextra superior
+4109,Vena apicalis pulmonis dextri
+4110,Vena anterior pulmonis dextri
+4111,Vena posterior pulmonis dextri
+4113,Vena lateralis pulmonis dextri
+4114,Vena medialis pulmonalis dextri
+4115,Vena pulmonalis dextra inferior
+4116,Vena superior pulmonis dextri
+4117,Vena basalis superior pulmonis dextri
+4118,Vena basalis inferior pulmonis dextri
+4119,Vena pulmonalis sinistra superior
+4120,Vena apicoposterior pulmonis sinistri
+4121,Vena anterior pulmonis sinistri
+4122,Vena lingularis pulmonis sinistri
+4123,Vena lingularis superior pulmonis sinistri
+4124,Vena lingularis inferior pulmonis sinistri
+4125,Vena pulmonalis sinistra inferior
+4126,Vena superior pulmonis sinistri
+4127,Vena basalis superior pulmonis sinistri
+4128,Vena basalis inferior pulmonis sinistri
+4131,Arteria coronaria dextra
+4141,(Ramus inferolateralis dexter arteriae coronariae dextrae)
+4142,Arteria coronaria sinistra
+4143,Arteria interventricularis ant. arteriae coronariae sinistrae
+4147,Rami sept. art. Intervent. ant. sept. arteriae coron. sinis.
+4148,Arteria circumflexa cordis
+4158,Sinus coronarius
+4159,Vena magna cordis
+4162,Vena inferior ventriculi sinistri
+4165,Vena media cordis interventricularis inferior
+4176,Aorta ascendens
+4177,Arcus aortae
+4179,Truncus brachiocephalicus
+4181,Carotis communis dextra
+4182,Arteria subclavia dextra
+4183,Carotis communis sinistra
+4184,Arteria subclavia sinistra
+4186,Aorta thoracica
+4191,Arteriae intercostales posteriores
+42,Palmaris
+4201,Arteriae phrenicae superiores
+4202,Arteria subcostalis
+4205,Aorta abdominalis
+4206,Arteria phrenica inferior
+4208,Arteriae lumbales
+4211,Truncus coeiiacus
+4212,Arteria gastrica sinistra
+4214,Arteria hepatica communis
+4215,Arteria gastroduodenalis
+4227,Arteria hepatica propria
+4239,Arteria splenica
+4252,Arteria mesenteries superior
+4253,Arteria pancreaticoduodenalis
+4254,Arteria pancreaticoduodenalis inferior anterior
+4258,Arteria ileocolica
+4261,Arteria appendicularis
+4262,Ramus ilealis arteriae ileocolicae
+4263,Ramus colicus arteriae ileocolicae
+4264,Arteria colica dextra
+4265,Arteria colica media
+4266,Arteria marginalis coli
+4271,Arteria suprarenalis inferior
+4272,Ramus anterior arteriae renalis
+4277,Ramus posterior arteriae renalis
+4291,Arteria mesenterica inferior
+4292,Arteria colica sinistra
+4293,Ramus ascendens arteriae
+4294,Ramus descendens arteriae colicae sinistrae
+4295,Arteriae sigmoideae
+4296,Arteria anorectalis superior
+4298,Arteria sacralis mediana
+43,Plantaris
+4301,Arteria iliaca communis
+4302,Arteria iliaca interna
+4303,Divisio posterior arteriae iliacae internaecus
+4304,Arteria iliolumbalis
+4305,Ramus lumbalis arteriae iliolumbalis
+4306,Ramus spinalis arteriae iliolumbalis
+4307,Ramus iliacus arteriae iliolumbalis
+4310,Arteria glutea superior
+4315,Divisio anterior arteriae iliacae internae
+4323,Arteria obturatoria
+4341,Arteria pudendalis interna
+4350,Arteria profunda penis
+4354,Arteria dorsalis penis
+4355,Arteria glutea inferior
+4357,Arteria iliaca externa
+4358,Arteria epigastrica inferior
+4369,Carotis externa
+4378,Arteria pharyngea ascendens
+4388,Arteria facialis
+4391,Arteria submentalis
+4393,Arteria labialis inferior
+4394,Arteria labialis superior
+4397,Arteria angularis
+4398,Arteria occipitalis
+4413,Arteria temporalis superficialis
+4416,Arteria transversa faciei
+4420,Ramus fontale arteriae temporalis superficialis
+4422,Arteria maxillaris
+4426,Arteria alveolaris inferior
+4427,Ramus mylohyoideus arteriae alveolaris inferioris
+4430,Ramus mentalis arteriae alveolaris inferioris
+4431,Arteria meningea media
+4432,Ramus accessorius arteriae meningeae mediae
+4440,Arteria temporalis profunda anterior
+4441,Arteria temporalis profunda posterior
+4443,Arteria buccalis
+4444,Arteria alveolaris superior posterior
+4447,Arteria infraorbitalis
+4454,Arteria canalis pterygoidei
+4456,Arteria palatina descendens
+4457,Arteria palatina major
+4462,Rami septales posteriores arteriae sphenopalatinae
+4463,Carotis interna
+4469,Arteria ophthalmica
+4470,Arteria centralis retinae
+4476,Arteria lacrimalis
+4479,Arteriae ciliares posteriores breves
+4481,Arteriae ciliares posteriores longae
+4486,Arteria supraorbitalis
+4487,Arteria ethmoidea anterior
+4489,Rami septales anteriores arteriae ethmoideae anterioris
+4492,Arteria ethmoidea posterior
+4494,Rami septales arteriae ethmoideae posterioris
+4499,Arteria supratrochlearis
+4502,Arteria cerebri anterior
+4504,Rami orbitofrontales arteriae cerebri anterior
+4505,Arteria callosomarginalis
+4506,Rami frontales arteriae callosomarginal
+4507,Arteria pericallosa
+4509*1,Arteria cerebri media (Pars M1)
+4509*3,Arteria cerebri media (Pars M3)
+4512,Rami insulares arteriae mediae cerebri (M2)
+4513,Rami temporales arteriae mediae cerebri
+4515,Rami pariétales arteriae mediae cerebri
+4517,Arteria communicans anterior
+4521,Arteria communicans posterior
+4525,Arteria spinalis anterior
+4530,Ramus arteriosus postcentralis
+4538,Arteria vertebralis
+4542,Arteria cerebelli inferior posterior
+4548,Arteria basilaris
+4550,Arteria cerebelli inferior anterior
+4560,Rami mediales pontis arteriae basilaris
+4561,Rami laterales pontis arteriae basilaris
+4563,Arteria cerebelli superior
+4565,Arteria cerebri posterior
+4571,Arteria paritooccipitale
+4572,Arteria occipitalis lateralis
+4574,Arteria occipitalis medialis
+4576,Arteria thoracica interna
+4587,Arteria musculoohrenica
+4588,Arteria epigastrica superior
+4590,Truncus thyreocervicalis
+4591,Arteria thyreoidea inferior arteria thyroidea inferior
+4599,Arteria suprascapularis
+4601,Arteria transversa colli arteria transversa cervicis
+4602,(Ramus superficial arteriae transversae colli)
+4605,(Ramus profundus arteriae transversae colli)
+4607,Truncus costocervicalis
+4608,Arteria cervicalis profunda
+4609,Arteria intercostalis suprema
+4610,Arteria intercostalis posterior prima
+4613,Arteria intercostalis posterior secunda
+4616,Arteria axillaris
+4619,Arteria thoracoacromialis
+4624,Rami pectorales arteriae thoracoacromialis
+4625,Arteria thoracica lateralis
+4627,Arteria subscapularis
+4628,Arteria thoracodorsalis
+4629,Arteria circumflexa scapulae
+4630,Arteria circumflexa anterior humeri
+4631,Arteria circumflexa posterior humeri
+4632,Arteria brachialis
+4634,Arteria profunda brachii
+4637,Arteria collateralis media
+4638,Arteria collateralis radialis
+4639,Arteria collateralis ulnaris superior
+4640,Arteria collateralis ulnaris inferior
+4641,Arteria radialis
+4644,Ramus carpeus palmaris arteriae
+4647,Rete dorsale carpi
+4648,Arteriae metacarpeae dorsales
+4649,Arteriae digitales dorsales manus
+4652,Arcus palmaris profundus
+4653,Arteriae metacarpeae palmares
+4655,Arteria ulnaris
+4656,(Arteria recurrens ulnaris)
+4661,Arteria interossea communis
+4665,Arteria interossea posterior
+4666,Arteria interossea recurrens
+4668,Ramus carpeus dorsalis arteriae ulnaris
+4671,Arcus palmaris superficialis
+4672,Arteriae digitales palmares communes
+4673,Arteriae digitales palmares propriae
+4674,Arteria femoralis
+4675,Arteria epigastrica superficialis
+4677,Arteria pudendalis externa superficialis
+4678,Arteria pudendalis externa profunda
+4685,Arteria profunda femoris
+4686,Arteria circumflexa medialis femoris
+4692,Arteria circumflexa lateralis femoris
+4695,Ramus descendens arteriae circumflexae lateralis femoris
+4696,Arteriae perforantes femoris
+4699,Arteria poplitea
+4700,Arteria superior lateralis genus
+4701,Arteria superior medialis genus
+4704,Arteria inferior lateralis genus
+4705,Arteria inferior medialis genus
+4707,Rete patellare
+4708,Arteria tibialis anterior
+4714,Arteria dorsalis pedis
+4715,Arteria tarsea lateralis
+4717,Arteria arcuata
+4718,Arteriae metatarseae dorsales
+4719,Arteriae digitales dorsales pedis
+4720,Arteria plantaris profunda
+4721,Arteria tibialis posterior
+4726,Rami calcanei arteriae tibialis posterioris
+4727,Arteria fibularis
+4731,Rami calcanei arteriae fibularis
+4734,Arteria plantaris medialis
+4736,Ramus superficialis arteriae plantaris medialis
+4737,Arteria plantaris lateralis
+4738,Arcus plantaris
+4739,Arteriae metatarseae plantares
+4740,Rami perforantes arteriarum metatarsearum plantarium
+4741,Arteriae digitales plantares communes
+4742,Arteriae digitales plantares propriae
+4745,Vena cava superior
+4747,Vena azyga
+4749,Vena intercostalis superior dextra
+4755,Vena phrenica superior dextra
+4756,Vena subcostalis dextra
+4757,Vena lumbalis ascendens dextra
+4758,Vena hemiazyga accessoria
+4764,Vena hemiazyga
+4770,Vena subcostalis sinistra
+4771,Vena lumbalis ascendens sinistra
+4780,Vena vertebralis
+4781,Vena occipitalis
+4786,Venae thoracicae internae
+4787,Venae epigastricae superiores
+4789,Venae musculophrenicae
+4792,Vena brachiocephalica dextra
+4794,Vena brachiocephalica sinistra
+4798,Vena intercostalis superior sinistra
+48,Plana coronalia
+4800,Vena jugularis interna
+4807,Vena lingualis
+4812,Vena thyreoidea superior
+4816,Vena facialis communis
+4817,Vena facialis
+4818,Vena angularis
+4824,Vena labialis superior
+4825,Venae labiales inferiores
+4829,Vena submentalis
+4830,Divisio anterior venae mandibularis
+4831,Vena retromandibularis
+4832,Venae temporales superficiales
+4835,Venae maxillares
+4847,Sinus sigmoideus
+4849,Sinus transversus
+4850,Sinus petrosus superior
+4853,Sinus rectus
+4854,Sinus sagittalis inferior
+4855,Sinus occipitalis
+4856,Sinus sagittalis superior
+4858,Sinus petrosus inferior
+4860,Sinus cavernosus
+4863,Sinus intercavernosus anterior
+4864,Sinus intercavernosus posterior
+4866,Plexus venosus basilaris
+4887,Vena ophthalmica superior
+4900,Vena ophthalmica inferior
+4956,Vena iugularis externa
+4957,Divisio posterior venae retromandibularis
+4958,Vena auricularis posterior
+4959,Vena iugularis anterior
+4961,Vena suprascapularis
+4963,Vena axillaris
+4964,Vena cephalica
+4967,Rete venosum dorsale manus
+4970,Venae digitales dorsales manus
+4971,Vena thoracica lateralis
+4972,Vena subscapularis
+4973,Vena circumflexa scapulae
+4974,Vena thoracodorsalis
+4975,Vena circumflexa posterior humeri
+4976,Vena circumflexa anterior humeri
+4979,Vena basilica
+4980,Vena mediana cubiti
+4981,Vena mediana antebrachii
+4982,Venae brachiales
+4985,Venae ulnares
+4986,Arcus venosus palmaris superficialis
+4987,Venae digitales palmares
+4988,Venae radiales
+4989,Arcus venosus palmaris profundus
+4991*1,Vena cava inferior (part thoracica)
+4991*2,Vena cava inferior (pars abdominis)
+4993,Venae lumbales
+4994,Venae hepaticae
+50,Planum medianum
+5000,Vena renalis dextra
+5002,Venae intrarenales renis dextri
+5006,Vena renalis sinistra
+5008,Venae intrarenales renis sinistri
+5015,Vena testicularis sinistra
+5018,Vena testicularis dextra
+5021,Vena iliaca communis
+5023,Vena iliolumbalis
+5024,Vena iliaca interna
+5025,Venae gluteae superiores
+5026,Venae gluteae inferiores
+5028,Venae sacrales latérales
+5032,Vena pudendalis interna
+504,Os parietale
+5044,Vena dorsalis profunda penis
+5050,Vena iliaca externa
+5051,Vena epigastrica inferior
+5055,Vena femoralis
+5056,Venae circumflexae mediales
+5057,Venae circumflexae latérales
+5058,Vena saphena magna
+5059,Venae pudendales extemae
+5063,Venae dorsales superficiales penis
+5067,Vena epigastrica superficialis
+5070,Vena profunda femoris
+5071,Venae perforantes
+5072,Vena poplitea
+5074,Venae geniculares
+5075,Venae tibiales anteriores
+5077,Venae tibiales posteriores
+5078,Venae fibulares
+5079,Venae plantares mediales
+5081,Venae plantares latérales
+5082,Arcus venosus plantaris
+5083,Venae metatarseae plantares
+5084,Venae digitales plantares
+5085,Vena saphena parva
+5088,Arcus venosus dorsalis pedis
+5089,Venae metatarseae dorsales
+5090,Venae digitales dorsales pedis
+5091,Venae intercapitulares pedis
+5092,Vena portae hepatis
+51,Planum paramedianum
+5113,Vena mesenterica superior
+5116,Vena gastroomentalis dextra
+5121,Vena colica dextra
+5122,Vena colica media
+5123,Vena splenica
+5126,Vena gastroomentalis sinistra
+5127,Vena mesenterica inferior
+5129,Venae sigmoideae
+5159,Lien
+5199,Nodi occipitales
+52,Plana transversa
+520,Os frontale
+5200,Nodi mastoidei
+5201,Nodi parotidei superficiales
+5203,Nodi preauriculares
+5204,Nodi infraauriculares
+5205,Nodi parotidei intraglandulares
+5207,Nodus bucinatorius
+5208,Nodus nasolabialis
+5210,Nodus mandibularis
+5213,Nodi submentales
+5214,Nodi submandibulares
+5216,Nodi cervicales anteriores superficiales
+5220,Nodi thyreoidei
+5221,Nodi pretracheales
+5222,Nodi paratrachéales colli
+5224,Nodi cervicales latérales superficiales
+5226,Nodus jugulodigastricus
+5227,Nodus jugularis superior lateralis
+5229,Nodi cervicales latérales profundi inferiores
+5232,Nodi jugulares inferiores anteriores
+5233,Nodi supraclaviculares
+5234,Nodi retropharyngei
+5241,Nodi axillares anteriores nodi pectorales
+5242,Nodi interpectorales
+5243,Nodi infraclaviculares nodi deltopectorales
+5244,Nodi brachiales
+5245,Nodi cubitales
+5246,Nodi supratrochleares
+5271,Nodi aortici latérales
+5272,Nodi preaortici
+5273,Nodi retroaortici
+5274,Nodi lumbales intermedii
+5276,Nodi cavales latérales
+5277,Nodi precavales
+5278,Nodi retrocavales
+5279,Nodi phrenici inferiores
+5280,Nodi epigastrici inferiores
+5282,Nodi coeliaci
+5283,Nodi gastrici dextri caudales
+5286,Nodi gastroomentales dextri
+5289,(Nodus suprapyloricus)
+5290,(Nodi subpylorici)
+5291,(Nodi retropylorici)
+5293,Nodi pancreatici superiores
+5294,Nodi pancreatici inferiores
+5295,Nodi splenici
+5297,Nodi pancreaticoduodenales superiores
+5300,Nodus cysticus
+5303,Nodi juxtaintestinales
+5304,Nodi mesenterici superiores centrales
+5305,Nodi ileocolici
+5306,Nodi precaecales
+5307,Nodi retrocaecales
+5308,Nodi appendiculares
+5309,Nodi mesenterici superiores paracolici
+5310,Nodi colici dextri
+5311,Nodi colici medii
+5314,Nodi colici sinistri
+5315,Nodi sigmoidei
+5320,Nodi iliaci communes mediales
+5321,Nodi iliaci communes intermedii
+5322,Nodi iliaci communes latérales
+5323,Nodi subaortici
+5324,Nodi sacrales mediani
+5326,Nodi iliaci externi mediales
+5327,Nodi iliaci externi intermedii
+5333,Nodi obturatorii
+5336,Nodi glutei superiores
+5337,Nodi glutei inferiores
+5338,Nodi sacrales latérales
+5341,Nodi prevesicales
+5342,Nodi postvesicales
+5343,Nodi vesicales latérales
+5346,Nodi pararectales
+5354,(Nodus inguinalis profundus proximalis)
+5355,(Nodus inguinalis profundus intermedius)
+5358,Nodi poplitei superficiales
+5359,Nodi poplitei profundi
+5360,(Nodus tibialis anterior)
+5361,(Nodus tibialis posterior)
+5362,(Nodus fibularis)
+5374,Falx cerebri
+5375,Tentorium cerebelli
+5382,Dura spinalis
+5409,Plexus chorioideus
+5420,Polus temporalis
+5421,Polus occipitalis
+5435,Sulcus centralis
+5437,Sulcus parietooccipitalis
+5441,Sulcus subparietalis
+5442,Sulcus collateralis
+5444,Sulcus circularis insulae
+5450,Pars triangularis gyri frontalis inferioris
+5452,Pars opercularis gyri frontalis inferioris
+5453,Sulcus frontalis inferior
+5454,Gyrus frontalis medius
+5455,Sulcus frontalis superior
+5456,Gyrus frontalis superior
+5458,Gyrus precentralis
+5460,Sulcus paracentralis
+5463,Sulcus olfactorius
+5464,Gyri orbitales
+5469,Gyrus postcentralis
+5470,Sulcus postcentralis
+5472,Gyrus angularis
+5473,Gyrus supramarginalis
+5475,Sulcus intraparietalis
+5476,Lobulus parietalis superior
+5479,Precuneus
+5481,Gyri occipitales superiores
+5484,Sulcus occipitalis transversus
+5485,Cuneus
+5486,Sulcus calcarinus
+5487,Gyrus lingualis
+549,Sinus ossis frontalis
+5491,Gyri temporales transversi
+5493,Planum temporale
+5494,Sulcus temporalis superior
+5495,Gyrus temporalis medius
+5496,Sulcus temporalis inferior
+5497,Gyrus temporalis inferior
+5500,Gyrus occipitotemporalis lateralis
+5518,Hippocampus
+552,Os occipitale
+5548,Nuclei septales
+5549,Corpus amygdaloideum
+5561,Nucleus caudatus
+5566,Putamen
+5567,Nucleus lentiformis
+5569,Globus pallidus
+5573,Substantia alba telencephali
+5592,Stria terminalis
+5604,Corpus callosum
+5613,Commissura anterior
+5616,Commissura hippocampi
+5633,Fornix
+5639,Ventriculus lateralis
+5647,Septum pellucidum
+5662,Habenula
+5666,Corpus geniculatum laterale
+5667,Corpus geniculatum mediale
+5668,Chiasma opticum
+5669,Tractus opticus
+5674,Corpus mammillare
+5678,Thalamus
+5714,Hypothalamus
+5747,Stria medullaris thalami
+5749,Commissura posterior
+5769,Ventriculus tertius
+5805,Ala lobuli centralis
+5808,Lobulus quadrangularis anterior
+5811,Lobulus quadrangularis posterior
+5813,Lobulus semilunaris superior
+5814,Lobulus semilunaris inferior
+5815,Lobulus gracilis
+5816,Lobulus biventer
+5817,Tonsilla cerebelli
+5818,Flocculus
+5820,Lingula cerebelli
+5821,Lobulus centralis vermis
+5824,Culmen
+5827,Declive
+5828,Folium vermis
+5829,Tuber vermis
+5830,Pyramis vermis
+5831,Uvula vermis
+5832,Nodulus vermis
+584,Os sphenoideum
+5844,Pedunculus flocculi
+5846,Pedunculus cerebellaris superior
+5874,Mesencephalon
+5875,Fossa interpeduncularis
+5879,Basis pedunculi
+5890,Nucleus nervi trochlearis
+5892,Nucleus nervi oculomotorius
+5893,Nucleus accessorius nervi oculomotorii
+5898,Nucleus ruber
+5910,Aquaeductus mesencephali
+5912,Colliculus superior
+5916,Colliculus inferior
+5921,Pons
+5933,Nuclei vestibulares
+5939,Nucleus nervi facialis
+5941,Nucleus nervi abducentis
+5942,Nucleus salivatorius superior
+5966,Ventriculus quartus
+5983,Medulla oblongata
+5985,Pyramis medullae oblongatae
+5988,Oliva
+600,Sinus ossis sphenoidei
+6006,Nucleus cochlearis anterior
+6007,Nucleus cochlearis posterior
+6008,Nucleus tractus solitarii
+6010,Nucleus nervi hypoglossi
+6011,Nucleus ambiguus
+6013,Nucleus posterior nervi vagi
+6014,Nucleus salivatorius inferior
+6082,Nucleus nervi accessorii
+61,Linea sternalis
+6127,Canalis centralis
+6145,Radix anterior nervi spinalis
+6146,Radix posterior nervi spinalis
+6163,Cauda equina
+6181,Nervus olfactorius (I)
+6183,Nervus opticus (II)
+6187,Nervus oculomotorius (III)
+6191,Nervus trochlearis (IV)
+6192,Nervus trigeminus (V)
+6193,Radix sensoria nervi trigemini
+6195,Radix motoria nervi trigemini
+6196,Nervus ophthalmicus
+62,Linea parasternalis
+6216,Nervus maxillaris
+6217,Ramus meningeus nervi maxillaris
+6249,Divisio anterior nervi mandibularis
+6258,Nervus buccalis
+6260,Divisio posterior nervi mandibularis
+6267,Nervus lingualis
+6274,Nervus alveolaris inferior
+6275,Nervus mylohyoideus
+6279,Nervus mentalis
+6283,Nervus abducens (VI)
+6284,Nervus facialis (VII)
+6292,Chorda tympani
+63,Linea medioclavicularis
+6307,Nervus vestibulocochlearis (VIII)
+6308,Nervus vestibularis
+6318,Nervus cochlearis
+6320,Nervus glossopharyngeus (IX)
+6332,Nervus vagus (X)
+6352,Nervus accessorius (XI)
+6357,Nervus hypoglossus (XII)
+6397,Radices plexus brachialis
+6398,Truncus superior plexus brachialis
+6399,Divisio anterior trunci superioris plexus brachialis
+64,Linea mamillaris
+6400,Divisio posterior trunci superioris plexus brachialis
+6401,Truncus medius plexus brachialis
+6402,Divisio anterior trunci medii plexus brachialis
+6403,Divisio posterior trunci medii plexus brachialis
+6404,Truncus inferior plexus brachialis
+6405,Divisio anterior trunci inferioris plexus brachialis
+6406,Divisio posterior trunci inferioris plexus brachialis
+6409,Nervus dorsalis scapulae
+641,Os temporale
+6410,Nervus thoracicus longus
+6411,Nervus suprascapularis
+6412,Nervus subclavius
+6416,Fasciculus posterior plexus brachialis
+6419,Nervus pectoralis lateralis
+6421,Nervus musculocutaneus
+6423,Nervus cutaneus lateralis antebrachii
+6428,Nervus subscapularis superior
+6429,Nervus subscapularis inferior
+6430,Nervus thoracodorsalis
+6431,Nervus radialis
+6433,Nervus cutaneus lateralis inferior brachii
+6434,Nervus cutaneus posterior antebrachii
+6435,Rami musculares nervi radialis
+6436,Ramus profundus nervi radialis
+6437,Nervus interosseus posterior antebrachii
+6438,Ramus superficialis nervi radialis
+6439,Rami digitales dorsales nervi radialis
+6440,Nervus axillaris
+6441,Rami musculares nervi axillaris
+6442,Nervus cutaneus lateralis posterioris femoris
+6444,Nervus pectoralis medialis
+6445,Nervus cutaneus medialis brachii
+6446,Nervus cutaneus medialis antebrachii
+6447,Ramus anterior nervi cutanei medialis antebrachii
+6448,Ramus posterior nervi cutanei medialis antebrachii
+6449,Nervus ulnaris
+6450,Rami musculares nervi ulnaris
+6451,Ramus dorsalis nervi ulnaris
+6452,Rami digitales dorsales nervi ulnaris
+6453,Ramus palmaris nervi ulnaris
+6454,Ramus superficialis nervi ulnaris
+6455,Rami digitales palmares communes nervi ulnaris
+6456,Rami digitales palmares proprii nervi ulnaris
+6457,Ramus profundus nervi ulnaris
+6459,Nervus medianus
+6460,Nervus interosseus anterior antebrachii
+6461,Rami musculares nervi mediani
+6462,Ramus palmaris nervi mediani
+6463,(Ramus communicans ulnaris nervi mediani)
+6465,Rami digitales palmares communes nervi mediani
+6466,Rami digitales palmares proprii nervi mediani
+6471,Nervi intercostales
+6496,Nervus iliohypogastricus
+6499,Nervus ilioinguinalis
+6521,Nervus cutaneus lateralis femoris
+6522,Nervus femoralis
+6524,Rami cutanei anteriores nervi femoralis
+6525,Nervus saphenus
+6526,Ramus infrapatellaris nervi sapheni
+6527,Rami cutanei mediales cruris nervi sapheni
+6529,Nervus genitofemoralis
+6530,Ramus genitalis nervi genitofemoralis
+6531,Ramus femoralis nervi genitofemoralis
+6532,Nervus obturatorius
+6533,Ramus anterior nervi obturatorii
+6536,Ramus posterior nervi obturatorii
+6543,Nervus gluteus superior
+6545,Nervus musculi piriformis
+6547,Radix posterior nervi cutanei posterioris femoris
+6551,Nervus musculi quadrati femoris
+6554,Nervus pudendalis
+6564,Radix anterior nervi cutanei femoris
+6566,Nervus cutaneus posterior femoris
+6569,Nervus ischiadicus
+6571,Nervus fibularis communis
+6573,Ramus communicans suralis nervi fibularis communis
+6574,Nervus fibularis superficialis
+6576,Nervus cutaneus medialis dorsalis pedis
+6577,Nervus cutaneus intermedius dorsalis pedis
+6578,Rami digitales dorsales nervi fibularis superficialis
+6579,Nervus fibularis profundus
+6580,Rami musculares nervi fibularis profundi
+6581,Rami digitales dorsales nervi fibularis profundi
+6582,Nervus tibialis
+6585,Nervus cutaneus medialis surae
+6586,Nervus suralis
+6590,Nervus plantaris medialis
+6591,Rami digitales plantares communes nervi plantaris medialis
+6592,Rami digitales plantares proprii nervi plantaris medialis
+6593,Nervus plantaris lateralis
+6595,Rami digitales plantares communes nervi plantaris lateralis
+6596,Rami digitales plantares proprii nervi plantaris lateralis
+6602,Truncus sympathicus
+6606,Ganglia trunci sympathici
+6617,Nervi sympathici
+6744,Cornea
+6750,Sclera
+6753,Iris
+6776,Retina
+6790,Segmentum anterius bulbi oculi
+6792,Camera anterior bulbi oculi
+6796,Fibrae zonulares
+6798,Lens
+6806,Segmentum posterius bulbi oculi
+6809,Corpus vitreum
+6818,Ligamentum suspensorium bulbi
+6827,Tarsus superior
+6829,Tarsus inferior
+6846,Glandula lacrimalis
+6855,Canaliculus lacrimalis
+6856,Ampulla canaliculi lacrimalis
+6857,Saccus lacrimalis
+6859,Ductus nasolacrimalis
+6870,Membrana tympanica
+6926,Tuba auditiva
+6942,Vestibulum
+6964,Cochlea
+7055,Capilli
+7056,Pili supercilii
+7057,Cilia
+7062,Pubes
+7066,Lamina unguis
+7071,Perionyx
+7071*1,Perionyx (pedites)
+7138,Capsula articularis articulatio glenohumeralis
+7139,Capsulae articulareae articulationes glenohumerae
+7140,Capsulae articulareae art. interphalangeae proximalis
+7141,Capsulae articulareae articulationes interphalangeae distalis
+7142,Capsula articularis coxae
+7143,Capsula articularis articuli interphalangealis hallucis
+7144,Capsulae articulares distali art. interphalangelorum pedis
+7145,Capsulae articulares art. interphalangelorum prox. pedis
+7146,Ligamentum meniscotibiale anterior (Meniscus lateral)
+7147,Ligamentum meniscotibiale anterior (Meniscus medial)
+7148,Ligamentum meniscotibiale posterior (Meniscus lateral)
+7149,Ligamentum meniscotibiale posterior (Meniscus medial)
+7150,Capsula articularis articularis tibiofibularis superior
+7151,Capsula articularis articuli temporomandibularis
+7152,Capsula articularis articularis acromioclavicularis
+7153,Capsula articularis articuli sternoclavicularis
+7154,Discus intervertebralis C2-C3
+7155,Discus intervertebralis C3-C4
+7156,Discus intervertebralis C4-C5
+7157,Discus intervertebralis C5-C6
+7158,Discus intervertebralis C6-C7
+7159,Discus intervertebralis C7-T1
+7160,Discus intervertebralis L1-L2
+7161,Discus intervertebralis L2-L3
+7162,Discus intervertebralis L3-L4
+7163,Discus intervertebralis L4-L5
+7164,Discus intervertebralis L5-S1
+7165,Discus intervertebralis T1-T2
+7166,Discus intervertebralis T2-T3
+7167,Discus intervertebralis T3-T4
+7168,Discus intervertebralis T4-T5
+7169,Discus intervertebralis T5-T6
+7170,Discus intervertebralis T6-T7
+7171,Discus intervertebralis T7-T8
+7172,Discus intervertebralis T8-T9
+7173,Discus intervertebralis T9-T10
+7174,Discus intervertebralis T10-T11
+7175,Discus intervertebralis T11-T12
+7176,Discus intervertebralis T12-L1
+7177,Symphysis Sacrococcygea
+7178,Nucleus pulposus C2-C3
+7179,Nucleus pulposus C3-C4
+7180,Nucleus pulposus C4-C5
+7181,Nucleus pulposus C5-C6
+7182,Nucleus pulposus C6-C7
+7183,Nucleus pulposus C7-T1
+7184,Nucleus pulposus L1-L2
+7185,Nucleus pulposus L2-L3
+7186,Nucleus pulposus L3-L4
+7187,Nucleus pulposus L4-L5
+7188,Nucleus pulposus L5-S1
+7189,Nucleus pulposus T1-T2
+7190,Nucleus pulposus T2-T3
+7191,Nucleus pulposus T3-T4
+7192,Nucleus pulposus T4-T5
+7193,Nucleus pulposus T5-T6
+7194,Nucleus pulposus T6-T7
+7195,Nucleus pulposus T7-T8
+7196,Nucleus pulposus T8-T9
+7197,Nucleus pulposus T9-T10
+7198,Nucleus pulposus T10-T11
+7199,Nucleus pulposus T11-T12
+7200,Nucleus pulposus T12-L1
+7201,Tendon extensoris digitorum longi
+7202,Arteria renum sinistra
+7203,Arteria renum dextra
+7204,Arteriae intrarenales renis sinistri
+7205,Arteriae intrarenales renis dextri
+7206,Arteria testicularis sinistra
+7207,Arteria testicularis dextra
+7208,Lamina unguis (pedites)
+7209,Interscapulare regionis
+721,Os ethmoideum
+7211,Vena subclavia sinistra
+7212,Vena subclavia dextra
+7223,Lobus thymi dextri
+7224,Lobus thymi sinistri
+740,Concha nasalis inferior
+744,Os lacrimale
+748,Os nasale
+751,Vomer
+756,Maxilla
+77,Abductio
+78,Adductio
+79,Rotatio lateralis
+798,Os palatinum
+80,Rotatio medialis
+81,Circumductio
+818,Os zygomaticum
+835,Mandibula
+84,Pronatio
+85,Supinatio
+876,Os hyoideum
+88,Plantiflexio
+881,Malleus
+888,Incus
+89,Dorsiflexio
+895,Stapes
+906*11,Dens incisivus medialis superioris
+906*12,Dens incisivus lateralis superioris
+906*31,Dens incisivus medialis inferioris
+906*32,Dens incisivus lateralis inferioris
+907*13,Dens caninus superioris
+907*33,Dens caninus inferioris
+909*14,Dens premolaris primus superioris
+909*15,Dens premolaris secundus superioris
+909*34,Dens premolaris primus inferioris
+909*35,Dens premolaris secundus inferioris
+910*16,Dens molaris primus suprioris
+910*17,Dens molaris secundus superioris
+910*36,Dens molaris primus inferioris
+910*37,Dens molaris secundus inferioris
+92,Eversio
+93,Inversio
+940,Cartilago alaris major
+946,Cartilago septi nasi
+947,Processus lateralis cartilaginis septi nasi
+967,Cartilago thyreoidea
+978,Cartilago cricoidea
+983,Cartilago arytenoidea
+997,Cartilago corniculata

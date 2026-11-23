@@ -21,8 +21,29 @@ import json
 import os
 import sys
 
+from anatomy3d.knowledge.quiz import Quiz
+from anatomy3d.knowledge.zh import Knowledge
 from anatomy3d.viewer.bridge import resolve_tdworld_src
 from anatomy3d.viewer.lazy import LazyAtlas, sanitize_node
+
+
+def _patch_clip_shader(E):
+    """运行时给 3dworld 的 PBR 片元着色器加一个裁剪平面（不改上游仓源码）。
+
+    PBR_VERT 已输出 vWorldPos；在片元 main 开头按平面方程 discard 即可。
+    平面禁用时用 w=1e6 哨兵值，永远不满足 dot > w。
+    """
+    shaders = E["shaders"]
+    vert, frag = shaders.SOURCES["pbr"]
+    if "uClipPlane" not in frag:
+        frag = frag.replace(
+            "void main() {",
+            "uniform vec4 uClipPlane;\n"
+            "void main() {\n"
+            "    if (uClipPlane.w < 999.0 && dot(vWorldPos, uClipPlane.xyz) > uClipPlane.w) discard;",
+            1,
+        )
+        shaders.SOURCES["pbr"] = (vert, frag)
 
 KIND_COLORS = {
     "bone": (0.86, 0.82, 0.68),
@@ -53,10 +74,12 @@ def _load_engine():
     from world3d.engine.picking import Picker
     from world3d.engine.renderer import Renderer
     from world3d.engine.scene import Node, Scene
+    from world3d.engine import shaders as shaders_mod
     return dict(EngineApp=EngineApp, engine_parse_args=engine_parse_args,
                 OrbitCamera=OrbitCamera, LightEnvironment=LightEnvironment,
                 GLTF=GLTF, Material=Material,
-                Mesh=Mesh, Picker=Picker, Renderer=Renderer, Node=Node, Scene=Scene)
+                Mesh=Mesh, Picker=Picker, Renderer=Renderer, Node=Node, Scene=Scene,
+                shaders=shaders_mod)
 
 
 def parse_viewer_args(argv=None):
@@ -66,6 +89,9 @@ def parse_viewer_args(argv=None):
     own.add_argument("--system", default="reference", help="系统键（assets/<key>.glb）")
     own.add_argument("--max-nodes", type=int, default=32, help="首批构建节点上限（P12 闸门）")
     own.add_argument("--names", default="", help="逗号分隔的节点名（精确/sanitize 双形态）")
+    own.add_argument("--clip", action="store_true", help="启动时启用剖面裁剪")
+    own.add_argument("--clip-offset", type=float, default=0.0, help="剖面平面偏移")
+    own.add_argument("--quiz", action="store_true", help="启动时进入测验模式")
     ns, rest = own.parse_known_args(argv)
     E = _load_engine()
     ns.engine_args = E["engine_parse_args"](rest)
@@ -76,8 +102,9 @@ def parse_viewer_args(argv=None):
 def make_app_class(E):
     class AnatomyApp(E["EngineApp"]):
         TITLE = "anatomy3d - open anatomy viewer"
-        HELP = ("drag=orbit  wheel=zoom  click=pick  I=isolate  A=show all  "
-                "L=load more  H=hide picked  ESC=quit")
+        HELP = ("drag=orbit  wheel=zoom  click=pick/answer  I=isolate  A=show all  "
+                "L=load more  H=hide  C=clip  [ ]=rotate clip  - =move clip  "
+                "Q=quiz  ESC=quit")
         SHOW_HUD = True
         SHOTS = ((2.0, "docs/viewer_smoke.png"),)
 
@@ -93,11 +120,28 @@ def make_app_class(E):
             manifest_path = os.path.join(repo, "assets", f"{system}.manifest.json")
             if not os.path.exists(glb):
                 raise SystemExit(f"GLB not found: {glb}")
+            _patch_clip_shader(E)        # 必须在 renderer.program('pbr') 首次调用之前
             self.doc = E["GLTF"].load(glb)
             self.manifest = {}
-            if os.path.exists(manifest_path):
+            # 优先全图谱三语富化清单（M3），退回系统清单
+            enriched_path = os.path.join(repo, "assets", "anatomy.zh.manifest.json")
+            candidates = [enriched_path, manifest_path]
+            for path in candidates:
+                if os.path.exists(path):
+                    with open(path, encoding="utf-8") as f:
+                        loaded = json.load(f)
+                    if any(sys["name"] == system for sys in loaded.get("systems", [])):
+                        self.manifest = loaded
+                        break
+            if not self.manifest and os.path.exists(manifest_path):
                 with open(manifest_path, encoding="utf-8") as f:
                     self.manifest = json.load(f)
+            self.knowledge = Knowledge()
+            self.quiz = None
+            self.clip_enabled = bool(self.ns.clip)
+            self.clip_yaw = 0.0
+            self.clip_offset = float(self.ns.clip_offset)
+            self.last_quiz_message = ""
             self.lazy = LazyAtlas(self.doc.json, self.manifest, self.ns.max_nodes)
             self.scene = E["Scene"](name=f"anatomy:{system}")
             self.environment = E["LightEnvironment"](sky_intensity=0.55,
@@ -115,6 +159,16 @@ def make_app_class(E):
             self.selected = None              # Node
             self._nodes: dict[str, object] = {}
             self._build(self.ns.names)
+            if self.ns.quiz:
+                self.quiz = Quiz(self.manifest, seed=7)
+                self.quiz.next()
+
+        def _clip_vec4(self):
+            import math
+            if not self.clip_enabled:
+                return (0.0, 0.0, 0.0, 1e6)
+            r = math.radians(self.clip_yaw)
+            return (math.cos(r), 0.0, math.sin(r), self.clip_offset)
 
         def _build(self, names=None):
             """只构建选中节点（P12 核心），返回新增数量。"""
@@ -181,12 +235,22 @@ def make_app_class(E):
             pass    # 解剖观察需要静态视角：不自动环绕（OrbitCamera.advance 默认 8°/s）
 
         def render(self):
+            from pyglet.math import Vec4
+            program = self.renderer.program("pbr")
+            if "uClipPlane" in program.uniforms:
+                program["uClipPlane"] = Vec4(*self._clip_vec4())
             self.renderer.render(self.camera, self.scene, window=self.window)
 
         def status_text(self):
             sel = f" | picked={self.selected.name}" if self.selected else ""
+            clip = " | CLIP on" if self.clip_enabled else ""
+            if self.quiz is not None and self.quiz.current:
+                quiz = f" | Q: {self.quiz.current['prompt']} [{self.quiz.status()}]"
+            else:
+                quiz = ""
+            msg = f" | {self.last_quiz_message}" if self.last_quiz_message else ""
             return (f"{self.ns.system}: built {self.lazy.built_count()}/"
-                    f"{len(self.lazy.mesh_nodes)}{sel}")
+                    f"{len(self.lazy.mesh_nodes)}{sel}{clip}{quiz}{msg}")
 
         def on_mouse_drag(self, x, y, dx, dy, buttons, modifiers):
             self.camera.orbit(dx, dy)
@@ -211,9 +275,15 @@ def make_app_class(E):
             struct = self.lazy.structure_for_node(idx) if idx is not None else None
             if struct:
                 names = struct.get("names", {})
-                label = names.get("zh") or names.get("en") or name
+                label = " / ".join(x for x in (names.get("zh"), names.get("en"),
+                                               names.get("la")) if x)
                 if self.hud:
-                    self.hud.set_status(f"{label} [{struct.get('ta2_id') or struct.get('id')}]")
+                    self.hud.set_status(label + (f" — {struct['definition']['zh']}"
+                                                 if struct.get("definition", {}).get("zh") else ""))
+                if self.quiz is not None and self.quiz.current:
+                    result = self.quiz.answer(struct["id"])
+                    self.last_quiz_message = result["message"] + f" [{result['score']}]"
+                    self.quiz.next()
 
         def _index_for_name(self, name):
             for i, n in self.lazy.mesh_nodes:
@@ -238,6 +308,21 @@ def make_app_class(E):
             elif symbol == key.H and self.selected is not None:
                 self.selected.visible = not self.selected.visible
                 self.scene.invalidate()
+            elif symbol == key.C:
+                self.clip_enabled = not self.clip_enabled
+            elif symbol == key.BRACKETLEFT:
+                self.clip_yaw -= 15.0
+            elif symbol == key.BRACKETRIGHT:
+                self.clip_yaw += 15.0
+            elif symbol == key.MINUS:
+                self.clip_offset -= 0.05
+            elif symbol == key.EQUAL:
+                self.clip_offset += 0.05
+            elif symbol == key.Q:
+                if self.quiz is None:
+                    self.quiz = Quiz(self.manifest, seed=7)
+                self.quiz.next()
+                self.last_quiz_message = ""
     return AnatomyApp
 
 

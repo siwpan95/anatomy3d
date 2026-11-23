@@ -15,6 +15,8 @@ anatomy3d —— 数据署名与许可边界
 | BodyParts3D / Anatomography（DBCLS） | 间接引入（Z-Anatomy 模型源自 BodyParts3D，CC BY-SA 2.1 JP） | CC BY-SA 2.1 Japan | "BodyParts3D, Copyright© The Database Center for Life Science licensed by CC Attribution-Share Alike 2.1 Japan" |
 | TA2 / FIPAT | `vendor-ref/TA2.csv` 即 TA2 术语数据 | 免费使用 | Terminologia Anatomica 2, FIPAT |
 | Anatria-3D 先例参考（`vendor-ref/inspect.json` 等） | 已引入（结构参考与对照） | 见其 NOTICE（代码 Apache-2.0 / 数据 CC BY-SA 4.0） | Nurkan1/Anatria-3D |
+| 中英医学名词表（`vendor-ref/zh_en_anatomy.xlsx`） | 已引入（M3 中文名映射来源，4 万行） | 整理自国家医学名词规范，见来源站标注 | health.net.cn；中文名以《人体解剖学名词》为准 |
+| 高频基础词与释义（`data/zh_extra.csv` / `definitions.csv`） | 本项目自撰（标准名词 + 自撰一句话释义） | 随本仓 MIT 授权 | anatomy3d |
 
 **Share-alike 约束**：基于上述数据的衍生模型数据必须继续以相同 CC BY-SA 许可分发，
 并保留本署名文件。代码许可（MIT）不重新授权数据；分发含数据的衍生包时，

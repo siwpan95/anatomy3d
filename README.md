@@ -27,7 +27,10 @@ python -m unittest discover -s tests   # 单元测试
 # 或并排目录自动注入，不 vendor 不 fork）
 python -m anatomy3d.viewer.app --system reference --smoke 3
 python -m anatomy3d.viewer.app --system cardiovascular --max-nodes 12 --shot
-# 交互：拖拽=旋转 滚轮=缩放 点击=选中 I=隔离 A=全显 L=增量加载 H=隐藏 ESC=退出
+# 交互：拖拽=旋转 滚轮=缩放 点击=选中/答题 I=隔离 A=全显 L=增量加载 H=隐藏
+#       C=剖面开关 [ ]=旋转剖面 - =移动剖面 Q=出题  ESC=退出
+# M3 重新生成三语清单：
+python -m anatomy3d.knowledge.zh && python tools/pipeline/build_zh_index.py
 ```
 
 ## 依赖
@@ -52,8 +55,8 @@ python -m unittest discover -s tests
 | M0 | 框架底座：契约 v1 + 目录骨架 + selfcheck | ✅ 本仓首发 |
 | M1 | 资产管线：Blender 无头导出 GLB + manifest（规避已知坑点，见 tools/pipeline/README.md） | ✅ 9 系统全部导出（约 702MB GLB，不入库）+ 全图谱 manifest 5954 结构、契约 PASS；M2 性能红线已实测（P12） |
 | M2 | 查看器：加载 / 拾取 / 显隐 / OIT / 标注 / 结构树 | ◐ 骨架已通：pyglet 查看器 + 按节点懒加载（心血管 8/1092 节点 4.8s 启动）+ 轨道相机/自动取景/点选/显隐/隔离/增量加载；bench 20 draw calls、截图可见颅骨与血管树；OIT/中文标注待 M3/M4 |
-| M3 | 知识层：定义 + 三语索引 + 中文术语映射 | ⬜ |
-| M4 | 剖面裁剪 + quiz 学习模式 | ⬜ |
+| M3 | 知识层：定义 + 三语索引 + 中文术语映射 | ✅ 5954 结构富化（中文 2547 / 拉丁 5954 / 释义 39），契约 PASS；中文源为 4 万行医学名词表 + 25 条自撰基础词与释义 |
+| M4 | 剖面裁剪 + quiz 学习模式 | ✅ 运行时 PBR shader 裁剪平面（C/[ ]/-/= 交互，截图证明半切）+ quiz 点选判分（Q 键，中文+拉丁题干）；pyglet 2 uniform 写入坑见 P19 |
 
 ## 文档
 

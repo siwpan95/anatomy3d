@@ -2,6 +2,22 @@
 
 本仓遵循「用户可见变更逐条记录」；格式参照 Keep a Changelog 精神（简化版）。
 
+## [0.5.0] - 2026-11-24
+
+### Added
+- M3 三语知识层：
+  - `knowledge/zh.py` + `data/zh_terms.csv`（733 条）/ `ta2_latin.csv`（1733 条）/
+    `definitions.csv`（25 条自撰释义）/ `zh_extra.csv`（25 条高频基础词）
+  - `assets/anatomy.zh.manifest.json`：5954 结构富化（中文 2547 / 拉丁 5954 / 释义 39），契约 PASS
+  - `tools/pipeline/build_zh_index.py`：大词表→紧凑运行时 CSV 的一次性构建器
+- M4 剖面与测验：
+  - 查看器运行时给 3dworld PBR 着色器打 `uClipPlane` 补丁（C 开关、[ ] 旋转、- = 平移）
+  - `knowledge/quiz.py`：中文+拉丁题干、同 kind 干扰项、点击模型判分与释义反馈（Q 键）
+- 单测 19/19；selfcheck 增加知识/quiz 检查
+
+### Fixed
+- P19-P21（uniform 写入时机 / 大词表漏高频词 / quiz 自补中文）
+
 ## [0.4.0] - 2026-11-24
 
 ### Added
