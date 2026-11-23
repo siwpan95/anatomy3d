@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anatomy3d"
+version = "0.1.0"
+description = "开放数据人体解剖 3D 教育查看器（教学用途，非临床）"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+authors = [{ name = "siwpan" }]
+
+# 依赖声明单一事实来源（沿用组合仓 ADR-004 的既定纪律）：
+#   框架底座阶段（M0）只依赖 Python 标准库 —— selfcheck / cli / 契约校验 / 单测全部无头可跑。
+#   后续里程碑的依赖在对应里程碑合入时才声明，声明即锁版：
+#   M2 查看器将引入 pyglet==2.1.16（对齐既有 3dworld 引擎锁版口径）；
+#   M1 资产管线依赖 Blender 4.x 可执行文件（外部工具，非 pip 依赖，不在此声明）。
+dependencies = []
+
+[project.optional-dependencies]
+dev = []
+
+[tool.setuptools]
+packages = ["anatomy3d", "anatomy3d.contracts", "anatomy3d.pipeline", "anatomy3d.viewer", "anatomy3d.knowledge"]

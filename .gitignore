@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# 本地产物与数据大件（模型资产后续单独管理，不入库原始网格）
+*.glb
+*.gltf
+*.obj
+*.blend
+*.blend1
+assets/raw/
+
+# 凭据与令牌（敏感信息红线）
+*.token
+*.key
+.env

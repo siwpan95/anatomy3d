@@ -1,0 +1,25 @@
+anatomy3d —— 数据署名与许可边界
+=====================================
+
+## 代码
+
+本仓全部代码按 LICENSE（MIT）授权。
+
+## 解剖模型数据（双轨授权）
+
+解剖模型数据**不在 MIT 范围内**，沿上游开放数据许可。数据真正入库前，
+本文件先登记计划引入的数据源与许可，确保「先声明、后引入」：
+
+| 数据源 | 计划内容 | 许可 | 署名要求 |
+|---|---|---|---|
+| Z-Anatomy（z-anatomy.com） | 结构组织、肌肉起止点、结构定义 | CC BY-SA 4.0 | "Z-Anatomy - The libre 3D atlas of anatomy - CC-BY-SA 4.0" |
+| BodyParts3D / Anatomography（DBCLS） | 解剖网格 | CC BY-SA 2.1 Japan | "BodyParts3D, Copyright© The Database Center for Life Science licensed by CC Attribution-Share Alike 2.1 Japan" |
+| TA2 / FIPAT | 解剖术语（拉丁/英文） | 免费使用 | Terminologia Anatomica 2, FIPAT |
+
+**Share-alike 约束**：基于上述数据的衍生模型数据必须继续以相同 CC BY-SA 许可分发，
+并保留本署名文件。代码许可（MIT）不重新授权数据；分发含数据的衍生包时，
+须将数据部分整体标注 CC BY-SA 并附本文件。
+
+## 用途边界
+
+本程序仅用于解剖学教学与学习，**不构成医疗建议，不得用于临床用途**。
