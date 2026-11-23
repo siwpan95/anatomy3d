@@ -1,0 +1,101 @@
+{
+ "collection": "Heart",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/raw/heart_test.glb",
+ "converted": 17,
+ "total_polygons": 77214,
+ "objects": [
+  {
+   "name": "Right atrium",
+   "src_type": "MESH",
+   "polys": 11341
+  },
+  {
+   "name": "Right ventricle",
+   "src_type": "MESH",
+   "polys": 11161
+  },
+  {
+   "name": "Left atrium",
+   "src_type": "MESH",
+   "polys": 2610
+  },
+  {
+   "name": "Left ventricle",
+   "src_type": "MESH",
+   "polys": 11126
+  },
+  {
+   "name": "Inferior papillary muscle of right ventricle",
+   "src_type": "MESH",
+   "polys": 1090
+  },
+  {
+   "name": "Anterior papillary muscle of right ventricle",
+   "src_type": "MESH",
+   "polys": 1544
+  },
+  {
+   "name": "Septal papillary muscle of right ventricle",
+   "src_type": "MESH",
+   "polys": 844
+  },
+  {
+   "name": "Inferior papillary muscle of left ventricle",
+   "src_type": "MESH",
+   "polys": 1560
+  },
+  {
+   "name": "Inferior leaflet of right atrioventricular valve",
+   "src_type": "MESH",
+   "polys": 9852
+  },
+  {
+   "name": "Septal leaflet of right atrioventricular valve",
+   "src_type": "MESH",
+   "polys": 9040
+  },
+  {
+   "name": "Posterior leaflet of left atrioventricular valve",
+   "src_type": "MESH",
+   "polys": 7640
+  },
+  {
+   "name": "Left coronary leaflet",
+   "src_type": "MESH",
+   "polys": 914
+  },
+  {
+   "name": "Non-coronary leaflet",
+   "src_type": "MESH",
+   "polys": 316
+  },
+  {
+   "name": "Right coronary leaflet",
+   "src_type": "MESH",
+   "polys": 918
+  },
+  {
+   "name": "Anterior semilunar leaflet of pulmonary valve",
+   "src_type": "MESH",
+   "polys": 2531
+  },
+  {
+   "name": "Left semilunar leaflet of pulmonary valve",
+   "src_type": "MESH",
+   "polys": 1992
+  },
+  {
+   "name": "Right semilunar leaflet of pulmonary valve",
+   "src_type": "MESH",
+   "polys": 2735
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Heart.g",
+   "type": "FONT"
+  }
+ ]
+}

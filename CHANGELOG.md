@@ -2,6 +2,23 @@
 
 本仓遵循「用户可见变更逐条记录」；格式参照 Keep a Changelog 精神（简化版）。
 
+## [0.2.0] - 2026-11-23
+
+### Added
+- M1 资产管线首期落地（心血管系统）：
+  - `tools/pipeline/blender_export.py` 实装：inspect 模式（collection 树 dump）+
+    导出模式（staging 烘焙 / 曲线转网格 / FONT 排除 / 材质剥离 / 移除原场景防全文件导出）
+  - `tools/pipeline/build_manifest.py`：导出报告 → structure-manifest v1（TA2 join、
+    后缀清洗、变体去重、剔除项留档）
+  - 心血管系统产物：`assets/cardiovascular.glb`（1092 对象 / 356 万三角形，不入库）
+    + `assets/cardiovascular.manifest.json`（402 结构、契约校验 PASS）
+  - `vendor-ref/`：TA2.csv（Z-Anatomy，CC BY-SA 4.0）、Anatria-3D 先例参考
+    （inspect.json / audit 报告），本仓实测 inspect_zanatomy.json 与导出报告
+
+### Fixed
+- P8-P11 问题流水（见 docs/问题记录.md）：全文件导出失控、FONT 排除、
+  TA2.csv 格式解析、网络获取路径沉淀
+
 ## [0.1.0] - 2026-11-23
 
 ### Added

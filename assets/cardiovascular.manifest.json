@@ -1,0 +1,5240 @@
+{
+ "manifest_version": 1,
+ "source": "z-anatomy",
+ "systems": [
+  {
+   "name": "cardiovascular",
+   "label": {
+    "en": "cardiovascular"
+   },
+   "structures": [
+    {
+     "id": "TA2:4076",
+     "ta2_id": "4076",
+     "names": {
+      "en": "Bifurcation of pulmonary trunk"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Bifurcation of pulmonary trunk"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4075",
+     "ta2_id": "4075",
+     "names": {
+      "en": "Pulmonary trunk"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Pulmonary trunk"
+     },
+     "polys": 115
+    },
+    {
+     "id": "TA2:4099",
+     "ta2_id": "4099",
+     "names": {
+      "en": "Inferior lingular artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior lingular artery of left lung"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4095",
+     "ta2_id": "4095",
+     "names": {
+      "en": "Apical segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Apical segmental artery of left lung"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4097",
+     "ta2_id": "4097",
+     "names": {
+      "en": "Posterior segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior segmental artery of left lung"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:4096",
+     "ta2_id": "4096",
+     "names": {
+      "en": "Anterior segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior segmental artery of left lung"
+     },
+     "polys": 3456
+    },
+    {
+     "id": "TA2:4104",
+     "ta2_id": "4104",
+     "names": {
+      "en": "Lateral basal segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral basal segmental artery of left lung"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:4106",
+     "ta2_id": "4106",
+     "names": {
+      "en": "Posterior basal segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior basal segmental artery of left lung"
+     },
+     "polys": 3024
+    },
+    {
+     "id": "TA2:4105",
+     "ta2_id": "4105",
+     "names": {
+      "en": "Medial basal segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial basal segmental artery of left lung"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4103",
+     "ta2_id": "4103",
+     "names": {
+      "en": "Anterior basal segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior basal segmental artery of left lung"
+     },
+     "polys": 2736
+    },
+    {
+     "id": "TA2:4091",
+     "ta2_id": "4091",
+     "names": {
+      "en": "Left pulmonary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left pulmonary artery"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4077",
+     "ta2_id": "4077",
+     "names": {
+      "en": "Right pulmonary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right pulmonary artery"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4079",
+     "ta2_id": "4079",
+     "names": {
+      "en": "Apical segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Apical segmental artery of right lung"
+     },
+     "polys": 4608
+    },
+    {
+     "id": "TA2:4080",
+     "ta2_id": "4080",
+     "names": {
+      "en": "Anterior segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior segmental artery of right lung"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:4090",
+     "ta2_id": "4090",
+     "names": {
+      "en": "Posterior basal segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior basal segmental artery of right lung"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4087",
+     "ta2_id": "4087",
+     "names": {
+      "en": "Anterior basal segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior basal segmental artery of right lung"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4089",
+     "ta2_id": "4089",
+     "names": {
+      "en": "Medial basal segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial basal segmental artery of right lung"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4083",
+     "ta2_id": "4083",
+     "names": {
+      "en": "Medial segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial segmental artery of right lung"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4084",
+     "ta2_id": "4084",
+     "names": {
+      "en": "Lateral segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral segmental artery of right lung"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4086",
+     "ta2_id": "4086",
+     "names": {
+      "en": "Superior segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior segmental artery of right lung"
+     },
+     "polys": 4032
+    },
+    {
+     "id": "TA2:4078",
+     "ta2_id": "4078",
+     "names": {
+      "en": "Superior lobar artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior lobar artery of right lung"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4081",
+     "ta2_id": "4081",
+     "names": {
+      "en": "Posterior segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior segmental artery of right lung"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4082",
+     "ta2_id": "4082",
+     "names": {
+      "en": "Middle lobar artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle lobar artery of right lung"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4085",
+     "ta2_id": "4085",
+     "names": {
+      "en": "Inferior lobar artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior lobar artery of right lung"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4088",
+     "ta2_id": "4088",
+     "names": {
+      "en": "Lateral basal segmental artery of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral basal segmental artery of right lung"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4100",
+     "ta2_id": "4100",
+     "names": {
+      "en": "Superior lingular artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior lingular artery of left lung"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4102",
+     "ta2_id": "4102",
+     "names": {
+      "en": "Superior segmental artery of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior segmental artery of left lung"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4108",
+     "ta2_id": "4108",
+     "names": {
+      "en": "Right superior pulmonary vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right superior pulmonary vein"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4114",
+     "ta2_id": "4114",
+     "names": {
+      "en": "Medial vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial vein of right lung"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4116",
+     "ta2_id": "4116",
+     "names": {
+      "en": "Superior vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior vein of right lung"
+     },
+     "polys": 3600
+    },
+    {
+     "id": "TA2:4121",
+     "ta2_id": "4121",
+     "names": {
+      "en": "Anterior vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior vein of left lung"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4120",
+     "ta2_id": "4120",
+     "names": {
+      "en": "Apicoposterior vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Apicoposterior vein of left lung"
+     },
+     "polys": 7056
+    },
+    {
+     "id": "TA2:4124",
+     "ta2_id": "4124",
+     "names": {
+      "en": "Inferior lingular vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior lingular vein of left lung"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4123",
+     "ta2_id": "4123",
+     "names": {
+      "en": "Superior lingular vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior lingular vein of left lung"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4127",
+     "ta2_id": "4127",
+     "names": {
+      "en": "Superior basal vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior basal vein of left lung"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:4126",
+     "ta2_id": "4126",
+     "names": {
+      "en": "Superior vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior vein of left lung"
+     },
+     "polys": 4320
+    },
+    {
+     "id": "TA2:4128",
+     "ta2_id": "4128",
+     "names": {
+      "en": "Inferior basal vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior basal vein of left lung"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4115",
+     "ta2_id": "4115",
+     "names": {
+      "en": "Right inferior pulmonary vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right inferior pulmonary vein"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4125",
+     "ta2_id": "4125",
+     "names": {
+      "en": "Left inferior pulmonary vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left inferior pulmonary vein"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4119",
+     "ta2_id": "4119",
+     "names": {
+      "en": "Left superior pulmonary vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left superior pulmonary vein"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4122",
+     "ta2_id": "4122",
+     "names": {
+      "en": "Lingular vein of left lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lingular vein of left lung"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4111",
+     "ta2_id": "4111",
+     "names": {
+      "en": "Posterior vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior vein of right lung"
+     },
+     "polys": 3600
+    },
+    {
+     "id": "TA2:4118",
+     "ta2_id": "4118",
+     "names": {
+      "en": "Inferior basal vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior basal vein of right lung"
+     },
+     "polys": 4464
+    },
+    {
+     "id": "TA2:4117",
+     "ta2_id": "4117",
+     "names": {
+      "en": "Superior basal vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior basal vein of right lung"
+     },
+     "polys": 3456
+    },
+    {
+     "id": "TA2:4109",
+     "ta2_id": "4109",
+     "names": {
+      "en": "Apical vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Apical vein of right lung"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:4110",
+     "ta2_id": "4110",
+     "names": {
+      "en": "Anterior vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior vein of right lung"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4113",
+     "ta2_id": "4113",
+     "names": {
+      "en": "Lateral vein of right lung"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral vein of right lung"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:4131",
+     "ta2_id": "4131",
+     "names": {
+      "en": "Right coronary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right coronary artery"
+     },
+     "polys": 13536
+    },
+    {
+     "id": "TA2:4148",
+     "ta2_id": "4148",
+     "names": {
+      "en": "Circumflex artery of heart"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Circumflex artery of heart"
+     },
+     "polys": 8208
+    },
+    {
+     "id": "TA2:4143",
+     "ta2_id": "4143",
+     "names": {
+      "en": "Anterior interventricular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior interventricular artery"
+     },
+     "polys": 5760
+    },
+    {
+     "id": "TA2:4142",
+     "ta2_id": "4142",
+     "names": {
+      "en": "Left coronary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left coronary artery"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4141",
+     "ta2_id": "4141",
+     "names": {
+      "en": "Right inferolateral branch of right coronary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right inferolateral branch of right coronary artery"
+     },
+     "polys": 9216
+    },
+    {
+     "id": "TA2:4147",
+     "ta2_id": "4147",
+     "names": {
+      "en": "Septal branches of anterior interventricular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Septal branches of anterior interventricular artery"
+     },
+     "polys": 3456
+    },
+    {
+     "id": "TA2:4159",
+     "ta2_id": "4159",
+     "names": {
+      "en": "Great cardiac vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Great cardiac vein"
+     },
+     "polys": 7344
+    },
+    {
+     "id": "TA2:4165",
+     "ta2_id": "4165",
+     "names": {
+      "en": "Middle cardiac vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle cardiac vein"
+     },
+     "polys": 15984
+    },
+    {
+     "id": "TA2:4158",
+     "ta2_id": "4158",
+     "names": {
+      "en": "Coronary sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Coronary sinus"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4162",
+     "ta2_id": "4162",
+     "names": {
+      "en": "Inferior vein of left ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior vein of left ventricle"
+     },
+     "polys": 5904
+    },
+    {
+     "id": "TA2:4179",
+     "ta2_id": "4179",
+     "names": {
+      "en": "Brachiocephalic trunk"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Brachiocephalic trunk"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4181",
+     "ta2_id": "4181",
+     "names": {
+      "en": "Right common carotid artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right common carotid artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4182",
+     "ta2_id": "4182",
+     "names": {
+      "en": "Right subclavian artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right subclavian artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4177",
+     "ta2_id": "4177",
+     "names": {
+      "en": "Aortic arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Aortic arch"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4183",
+     "ta2_id": "4183",
+     "names": {
+      "en": "Left common carotid artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left common carotid artery"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4184",
+     "ta2_id": "4184",
+     "names": {
+      "en": "Left subclavian artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left subclavian artery"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4191",
+     "ta2_id": "4191",
+     "names": {
+      "en": "Posterior intercostal arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior intercostal arteries.r"
+     },
+     "polys": 24912
+    },
+    {
+     "id": "TA2:4202",
+     "ta2_id": "4202",
+     "names": {
+      "en": "Subcostal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Subcostal artery.l"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4201",
+     "ta2_id": "4201",
+     "names": {
+      "en": "Superior phrenic arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior phrenic arteries"
+     },
+     "polys": 7056
+    },
+    {
+     "id": "TA2:4186",
+     "ta2_id": "4186",
+     "names": {
+      "en": "Thoracic aorta"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Thoracic aorta"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4271",
+     "ta2_id": "4271",
+     "names": {
+      "en": "Inferior suprarenal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior suprarenal artery.l"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4206",
+     "ta2_id": "4206",
+     "names": {
+      "en": "Inferior phrenic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior phrenic artery"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4208",
+     "ta2_id": "4208",
+     "names": {
+      "en": "Lumbar arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lumbar arteries.r"
+     },
+     "polys": 5904
+    },
+    {
+     "id": "TA2:4239",
+     "ta2_id": "4239",
+     "names": {
+      "en": "Splenic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Splenic artery"
+     },
+     "polys": 4320
+    },
+    {
+     "id": "TA2:4254",
+     "ta2_id": "4254",
+     "names": {
+      "en": "Anterior inferior pancreaticoduodenal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior inferior pancreaticoduodenal artery"
+     },
+     "polys": 4464
+    },
+    {
+     "id": "TA2:4263",
+     "ta2_id": "4263",
+     "names": {
+      "en": "Colic branch of ileocolic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Colic branch of ileocolic artery"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4258",
+     "ta2_id": "4258",
+     "names": {
+      "en": "Ileocolic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ileocolic artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4262",
+     "ta2_id": "4262",
+     "names": {
+      "en": "Ileal branch of ileocolic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ileal branch of ileocolic artery"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4261",
+     "ta2_id": "4261",
+     "names": {
+      "en": "Appendicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Appendicular artery"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4252",
+     "ta2_id": "4252",
+     "names": {
+      "en": "Superior mesenteric artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior mesenteric artery"
+     },
+     "polys": 6192
+    },
+    {
+     "id": "TA2:4266",
+     "ta2_id": "4266",
+     "names": {
+      "en": "Marginal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Marginal artery"
+     },
+     "polys": 4752
+    },
+    {
+     "id": "TA2:4264",
+     "ta2_id": "4264",
+     "names": {
+      "en": "Right colic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right colic artery"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4227",
+     "ta2_id": "4227",
+     "names": {
+      "en": "Proper hepatic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Proper hepatic artery"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4211",
+     "ta2_id": "4211",
+     "names": {
+      "en": "Coeliac trunk"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Coeliac trunk"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4212",
+     "ta2_id": "4212",
+     "names": {
+      "en": "Left gastric artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left gastric artery"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4214",
+     "ta2_id": "4214",
+     "names": {
+      "en": "Common hepatic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common hepatic artery"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4215",
+     "ta2_id": "4215",
+     "names": {
+      "en": "Gastroduodenal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Gastroduodenal artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4272",
+     "ta2_id": "4272",
+     "names": {
+      "en": "Anterior branch of renal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior branch of renal artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4277",
+     "ta2_id": "4277",
+     "names": {
+      "en": "Posterior branch of renal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior branch of renal artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:7204",
+     "ta2_id": "7204",
+     "names": {
+      "en": "Intrarenal arteries of left kidney"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Intrarenal arteries of left kidney"
+     },
+     "polys": 8208
+    },
+    {
+     "id": "TA2:7205",
+     "ta2_id": "7205",
+     "names": {
+      "en": "Intrarenal arteries of right kidney"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Intrarenal arteries of right kidney"
+     },
+     "polys": 10224
+    },
+    {
+     "id": "TA2:7203",
+     "ta2_id": "7203",
+     "names": {
+      "en": "Right renal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right renal artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:7202",
+     "ta2_id": "7202",
+     "names": {
+      "en": "Left renal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left renal artery"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:7207",
+     "ta2_id": "7207",
+     "names": {
+      "en": "Right testicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right testicular artery.r"
+     },
+     "polys": 5040
+    },
+    {
+     "id": "TA2:4294",
+     "ta2_id": "4294",
+     "names": {
+      "en": "Descending branch of left colic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Descending branch of left colic artery"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4292",
+     "ta2_id": "4292",
+     "names": {
+      "en": "Left colic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left colic artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4293",
+     "ta2_id": "4293",
+     "names": {
+      "en": "Ascending branch of left colic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ascending branch of left colic artery"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4291",
+     "ta2_id": "4291",
+     "names": {
+      "en": "Inferior mesenteric artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior mesenteric artery"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4295",
+     "ta2_id": "4295",
+     "names": {
+      "en": "Sigmoid arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Sigmoid arteries"
+     },
+     "polys": 4464
+    },
+    {
+     "id": "TA2:4205",
+     "ta2_id": "4205",
+     "names": {
+      "en": "Abdominal aorta"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Abdominal aorta"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4298",
+     "ta2_id": "4298",
+     "names": {
+      "en": "Median sacral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Median sacral artery"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4307",
+     "ta2_id": "4307",
+     "names": {
+      "en": "Iliacus branch of iliolumbar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Iliacus branch of iliolumbar artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4310",
+     "ta2_id": "4310",
+     "names": {
+      "en": "Superior gluteal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior gluteal artery.r"
+     },
+     "polys": 8640
+    },
+    {
+     "id": "TA2:4303",
+     "ta2_id": "4303",
+     "names": {
+      "en": "Posterior division of internal iliac artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior division of internal iliac artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4350",
+     "ta2_id": "4350",
+     "names": {
+      "en": "Deep artery of penis"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep artery of penis.l"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4354",
+     "ta2_id": "4354",
+     "names": {
+      "en": "Dorsal artery of penis"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal artery of penis.r"
+     },
+     "polys": 5760
+    },
+    {
+     "id": "TA2:4355",
+     "ta2_id": "4355",
+     "names": {
+      "en": "Inferior gluteal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior gluteal artery.r"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4315",
+     "ta2_id": "4315",
+     "names": {
+      "en": "Anterior division of internal iliac artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior division of internal iliac artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4302",
+     "ta2_id": "4302",
+     "names": {
+      "en": "Internal iliac artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal iliac artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4358",
+     "ta2_id": "4358",
+     "names": {
+      "en": "Inferior epigastric artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior epigastric artery.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4357",
+     "ta2_id": "4357",
+     "names": {
+      "en": "External iliac artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "External iliac artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4301",
+     "ta2_id": "4301",
+     "names": {
+      "en": "Common iliac artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common iliac artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4176",
+     "ta2_id": "4176",
+     "names": {
+      "en": "Ascending aorta"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ascending aorta"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4378",
+     "ta2_id": "4378",
+     "names": {
+      "en": "Ascending pharyngeal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ascending pharyngeal artery.r"
+     },
+     "polys": 3024
+    },
+    {
+     "id": "TA2:4394",
+     "ta2_id": "4394",
+     "names": {
+      "en": "Superior labial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior labial artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4388",
+     "ta2_id": "4388",
+     "names": {
+      "en": "Facial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Facial artery.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4397",
+     "ta2_id": "4397",
+     "names": {
+      "en": "Angular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Angular artery.r"
+     },
+     "polys": 5904
+    },
+    {
+     "id": "TA2:4393",
+     "ta2_id": "4393",
+     "names": {
+      "en": "Inferior labial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior labial artery.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4391",
+     "ta2_id": "4391",
+     "names": {
+      "en": "Submental artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Submental artery.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4398",
+     "ta2_id": "4398",
+     "names": {
+      "en": "Occipital artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Occipital artery.r"
+     },
+     "polys": 6768
+    },
+    {
+     "id": "TA2:4413",
+     "ta2_id": "4413",
+     "names": {
+      "en": "Superficial temporal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial temporal artery.r"
+     },
+     "polys": 13104
+    },
+    {
+     "id": "TA2:4420",
+     "ta2_id": "4420",
+     "names": {
+      "en": "Frontal branch of superficial temporal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Frontal branch of superficial temporal artery.r"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:4416",
+     "ta2_id": "4416",
+     "names": {
+      "en": "Transverse facial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Transverse facial artery.l"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4430",
+     "ta2_id": "4430",
+     "names": {
+      "en": "Mental branch of inferior alveolar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Mental branch of inferior alveolar artery.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4426",
+     "ta2_id": "4426",
+     "names": {
+      "en": "Inferior alveolar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior alveolar artery.r"
+     },
+     "polys": 2592
+    },
+    {
+     "id": "TA2:4427",
+     "ta2_id": "4427",
+     "names": {
+      "en": "Mylohyoid branch of inferior alveolar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Mylohyoid branch of inferior alveolar artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4431",
+     "ta2_id": "4431",
+     "names": {
+      "en": "Middle meningeal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle meningeal artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4432",
+     "ta2_id": "4432",
+     "names": {
+      "en": "Accessory branch of middle meningeal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Accessory branch of middle meningeal artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4441",
+     "ta2_id": "4441",
+     "names": {
+      "en": "Posterior deep temporal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior deep temporal artery.r"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4444",
+     "ta2_id": "4444",
+     "names": {
+      "en": "Posterior superior alveolar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior superior alveolar artery.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4454",
+     "ta2_id": "4454",
+     "names": {
+      "en": "Artery of pterygoid canal"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Artery of pterygoid canal.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4422",
+     "ta2_id": "4422",
+     "names": {
+      "en": "Maxillary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Maxillary artery.r"
+     },
+     "polys": 4752
+    },
+    {
+     "id": "TA2:4440",
+     "ta2_id": "4440",
+     "names": {
+      "en": "Anterior deep temporal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior deep temporal artery.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4369",
+     "ta2_id": "4369",
+     "names": {
+      "en": "External carotid artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "External carotid artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4470",
+     "ta2_id": "4470",
+     "names": {
+      "en": "Central retinal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Central retinal artery.r"
+     },
+     "polys": 103680
+    },
+    {
+     "id": "TA2:4479",
+     "ta2_id": "4479",
+     "names": {
+      "en": "Short posterior ciliary arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Short posterior ciliary arteries.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4481",
+     "ta2_id": "4481",
+     "names": {
+      "en": "Long posterior ciliary arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Long posterior ciliary arteries.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4487",
+     "ta2_id": "4487",
+     "names": {
+      "en": "Anterior ethmoidal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior ethmoidal artery.r"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4489",
+     "ta2_id": "4489",
+     "names": {
+      "en": "Anterior septal branches of anterior ethmoidal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior septal branches of anterior ethmoidal artery.l"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4494",
+     "ta2_id": "4494",
+     "names": {
+      "en": "Septal branches of posterior ethmoidal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Septal branches of posterior ethmoidal artery.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4492",
+     "ta2_id": "4492",
+     "names": {
+      "en": "Posterior ethmoidal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior ethmoidal artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4469",
+     "ta2_id": "4469",
+     "names": {
+      "en": "Ophthalmic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ophthalmic artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4476",
+     "ta2_id": "4476",
+     "names": {
+      "en": "Lacrimal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lacrimal artery.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4486",
+     "ta2_id": "4486",
+     "names": {
+      "en": "Supra-orbital artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Supra-orbital artery.r"
+     },
+     "polys": 4176
+    },
+    {
+     "id": "TA2:4499",
+     "ta2_id": "4499",
+     "names": {
+      "en": "Supratrochlear artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Supratrochlear artery.r"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:4505",
+     "ta2_id": "4505",
+     "names": {
+      "en": "Callosomarginal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Callosomarginal artery.r"
+     },
+     "polys": 7488
+    },
+    {
+     "id": "TA2:4506",
+     "ta2_id": "4506",
+     "names": {
+      "en": "Frontal branches of callosomarginal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Frontal branches of callosomarginal artery.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4507",
+     "ta2_id": "4507",
+     "names": {
+      "en": "Pericallosal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Pericallosal artery.r"
+     },
+     "polys": 16128
+    },
+    {
+     "id": "TA2:4504",
+     "ta2_id": "4504",
+     "names": {
+      "en": "Orbitofrontal branches of anterior cerebral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Orbitofrontal branches of anterior cerebral artery.r"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:4512",
+     "ta2_id": "4512",
+     "names": {
+      "en": "Insular branches of middle cerebral artery (M2)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Insular branches of middle cerebral artery (M2).r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4513",
+     "ta2_id": "4513",
+     "names": {
+      "en": "Temporal branches of middle cerebral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Temporal branches of middle cerebral artery.r"
+     },
+     "polys": 2592
+    },
+    {
+     "id": "TA2:4530",
+     "ta2_id": "4530",
+     "names": {
+      "en": "Postcentral arterial branch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Postcentral arterial branch.r"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4515",
+     "ta2_id": "4515",
+     "names": {
+      "en": "Parietal branches of middle cerebral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Parietal branches of middle cerebral artery.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4509*3",
+     "ta2_id": "4509*3",
+     "names": {
+      "en": "Middle cerebral artery (M3-segment)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle cerebral artery (M3-segment).r"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4509*1",
+     "ta2_id": "4509*1",
+     "names": {
+      "en": "Middle cerebral artery (M1-segment)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle cerebral artery (M1-segment).r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4463",
+     "ta2_id": "4463",
+     "names": {
+      "en": "Internal carotid artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal carotid artery.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4517",
+     "ta2_id": "4517",
+     "names": {
+      "en": "Anterior communicating artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior communicating artery"
+     },
+     "polys": 90
+    },
+    {
+     "id": "TA2:4521",
+     "ta2_id": "4521",
+     "names": {
+      "en": "Posterior communicating artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior communicating artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4525",
+     "ta2_id": "4525",
+     "names": {
+      "en": "Anterior spinal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior spinal artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4550",
+     "ta2_id": "4550",
+     "names": {
+      "en": "Anterior inferior cerebellar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior inferior cerebellar artery.r"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:4561",
+     "ta2_id": "4561",
+     "names": {
+      "en": "Lateral pontine branches of basilar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral pontine branches of basilar artery.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4560",
+     "ta2_id": "4560",
+     "names": {
+      "en": "Medial pontine branches of basilar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial pontine branches of basilar artery.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4572",
+     "ta2_id": "4572",
+     "names": {
+      "en": "Lateral occipital artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral occipital artery.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4574",
+     "ta2_id": "4574",
+     "names": {
+      "en": "Medial occipital artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial occipital artery.r"
+     },
+     "polys": 2592
+    },
+    {
+     "id": "TA2:4565",
+     "ta2_id": "4565",
+     "names": {
+      "en": "Posterior cerebral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior cerebral artery.r"
+     },
+     "polys": 16848
+    },
+    {
+     "id": "TA2:4571",
+     "ta2_id": "4571",
+     "names": {
+      "en": "Parieto-occipital artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Parieto-occipital artery.r"
+     },
+     "polys": 4176
+    },
+    {
+     "id": "TA2:4548",
+     "ta2_id": "4548",
+     "names": {
+      "en": "Basilar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Basilar artery"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4563",
+     "ta2_id": "4563",
+     "names": {
+      "en": "Superior cerebellar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior cerebellar artery.r"
+     },
+     "polys": 5472
+    },
+    {
+     "id": "TA2:4538",
+     "ta2_id": "4538",
+     "names": {
+      "en": "Vertebral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Vertebral artery.r"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4542",
+     "ta2_id": "4542",
+     "names": {
+      "en": "Posterior inferior cerebellar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior inferior cerebellar artery.r"
+     },
+     "polys": 18864
+    },
+    {
+     "id": "TA2:4576",
+     "ta2_id": "4576",
+     "names": {
+      "en": "Internal thoracic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal thoracic artery.l"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4587",
+     "ta2_id": "4587",
+     "names": {
+      "en": "Musculophrenic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Musculophrenic artery.l"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4588",
+     "ta2_id": "4588",
+     "names": {
+      "en": "Superior epigastric artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior epigastric artery.l"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4591",
+     "ta2_id": "4591",
+     "names": {
+      "en": "Inferior thyroid artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior thyroid artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4599",
+     "ta2_id": "4599",
+     "names": {
+      "en": "Suprascapular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Suprascapular artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4605",
+     "ta2_id": "4605",
+     "names": {
+      "en": "(Deep branch of transverse cervical artery)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "(Deep branch of transverse cervical artery).r"
+     },
+     "polys": 4320
+    },
+    {
+     "id": "TA2:4601",
+     "ta2_id": "4601",
+     "names": {
+      "en": "Transverse cervical artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Transverse cervical artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4602",
+     "ta2_id": "4602",
+     "names": {
+      "en": "(Superficial branch of transverse cervical artery)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "(Superficial branch of transverse cervical artery).l"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4590",
+     "ta2_id": "4590",
+     "names": {
+      "en": "Thyrocervical trunk"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Thyrocervical trunk.r"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4610",
+     "ta2_id": "4610",
+     "names": {
+      "en": "First posterior intercostal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "First posterior intercostal artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4613",
+     "ta2_id": "4613",
+     "names": {
+      "en": "Second posterior intercostal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Second posterior intercostal artery.l"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4607",
+     "ta2_id": "4607",
+     "names": {
+      "en": "Costocervical trunk"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Costocervical trunk.l"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4608",
+     "ta2_id": "4608",
+     "names": {
+      "en": "Deep cervical artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep cervical artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4619",
+     "ta2_id": "4619",
+     "names": {
+      "en": "Thoraco-acromial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Thoraco-acromial artery.l"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4624",
+     "ta2_id": "4624",
+     "names": {
+      "en": "Pectoral branches of thoraco-acromial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Pectoral branches of thoraco-acromial artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4625",
+     "ta2_id": "4625",
+     "names": {
+      "en": "Lateral thoracic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral thoracic artery.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4628",
+     "ta2_id": "4628",
+     "names": {
+      "en": "Thoracodorsal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Thoracodorsal artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4634",
+     "ta2_id": "4634",
+     "names": {
+      "en": "Deep brachial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep brachial artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4638",
+     "ta2_id": "4638",
+     "names": {
+      "en": "Radial collateral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Radial collateral artery.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4637",
+     "ta2_id": "4637",
+     "names": {
+      "en": "Middle collateral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle collateral artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4648",
+     "ta2_id": "4648",
+     "names": {
+      "en": "Dorsal metacarpal arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal metacarpal arteries.r"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:4649",
+     "ta2_id": "4649",
+     "names": {
+      "en": "Dorsal digital arteries of hand"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal digital arteries of hand.r"
+     },
+     "polys": 7488
+    },
+    {
+     "id": "TA2:4647",
+     "ta2_id": "4647",
+     "names": {
+      "en": "Dorsal carpal anastomosis"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal carpal anastomosis.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4653",
+     "ta2_id": "4653",
+     "names": {
+      "en": "Palmar metacarpal arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Palmar metacarpal arteries.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4652",
+     "ta2_id": "4652",
+     "names": {
+      "en": "Deep palmar arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep palmar arch.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4641",
+     "ta2_id": "4641",
+     "names": {
+      "en": "Radial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Radial artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4644",
+     "ta2_id": "4644",
+     "names": {
+      "en": "Palmar carpal branch of radial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Palmar carpal branch of radial artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4656",
+     "ta2_id": "4656",
+     "names": {
+      "en": "(Ulnar recurrent artery)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "(Ulnar recurrent artery).r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4666",
+     "ta2_id": "4666",
+     "names": {
+      "en": "Recurrent interosseous artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Recurrent interosseous artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4665",
+     "ta2_id": "4665",
+     "names": {
+      "en": "Posterior interosseous artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior interosseous artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4672",
+     "ta2_id": "4672",
+     "names": {
+      "en": "Common palmar digital arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common palmar digital arteries.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4673",
+     "ta2_id": "4673",
+     "names": {
+      "en": "Proper palmar digital arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Proper palmar digital arteries.r"
+     },
+     "polys": 15552
+    },
+    {
+     "id": "TA2:4655",
+     "ta2_id": "4655",
+     "names": {
+      "en": "Ulnar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ulnar artery.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4671",
+     "ta2_id": "4671",
+     "names": {
+      "en": "Superficial palmar arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial palmar arch.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4668",
+     "ta2_id": "4668",
+     "names": {
+      "en": "Dorsal carpal branch of ulnar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal carpal branch of ulnar artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4632",
+     "ta2_id": "4632",
+     "names": {
+      "en": "Brachial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Brachial artery.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4639",
+     "ta2_id": "4639",
+     "names": {
+      "en": "Superior ulnar collateral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior ulnar collateral artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4640",
+     "ta2_id": "4640",
+     "names": {
+      "en": "Inferior ulnar collateral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior ulnar collateral artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4616",
+     "ta2_id": "4616",
+     "names": {
+      "en": "Axillary artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Axillary artery.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4630",
+     "ta2_id": "4630",
+     "names": {
+      "en": "Anterior circumflex humeral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior circumflex humeral artery.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4631",
+     "ta2_id": "4631",
+     "names": {
+      "en": "Posterior circumflex humeral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior circumflex humeral artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4686",
+     "ta2_id": "4686",
+     "names": {
+      "en": "Medial circumflex femoral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial circumflex femoral artery.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4692",
+     "ta2_id": "4692",
+     "names": {
+      "en": "Lateral circumflex femoral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral circumflex femoral artery.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4695",
+     "ta2_id": "4695",
+     "names": {
+      "en": "Descending branch of lateral circumflex femoral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Descending branch of lateral circumflex femoral artery"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4696",
+     "ta2_id": "4696",
+     "names": {
+      "en": "Perforating femoral arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Perforating femoral arteries.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4685",
+     "ta2_id": "4685",
+     "names": {
+      "en": "Deep femoral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep femoral artery.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4719",
+     "ta2_id": "4719",
+     "names": {
+      "en": "Dorsal digital arteries of foot"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal digital arteries of foot.r"
+     },
+     "polys": 9504
+    },
+    {
+     "id": "TA2:4717",
+     "ta2_id": "4717",
+     "names": {
+      "en": "Arcuate artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Arcuate artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4714",
+     "ta2_id": "4714",
+     "names": {
+      "en": "Dorsalis pedis artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsalis pedis artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4720",
+     "ta2_id": "4720",
+     "names": {
+      "en": "Deep plantar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep plantar artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4715",
+     "ta2_id": "4715",
+     "names": {
+      "en": "Lateral tarsal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral tarsal artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4708",
+     "ta2_id": "4708",
+     "names": {
+      "en": "Anterior tibial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior tibial artery.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4731",
+     "ta2_id": "4731",
+     "names": {
+      "en": "Calcaneal branches of fibular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Calcaneal branches of fibular artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4727",
+     "ta2_id": "4727",
+     "names": {
+      "en": "Fibular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Fibular artery.r"
+     },
+     "polys": 3168
+    },
+    {
+     "id": "TA2:4736",
+     "ta2_id": "4736",
+     "names": {
+      "en": "Superficial branch of medial plantar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial branch of medial plantar artery.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4734",
+     "ta2_id": "4734",
+     "names": {
+      "en": "Medial plantar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial plantar artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4741",
+     "ta2_id": "4741",
+     "names": {
+      "en": "Common plantar digital arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common plantar digital arteries.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4742",
+     "ta2_id": "4742",
+     "names": {
+      "en": "Proper plantar digital arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Proper plantar digital arteries.r"
+     },
+     "polys": 8640
+    },
+    {
+     "id": "TA2:4739",
+     "ta2_id": "4739",
+     "names": {
+      "en": "Plantar metatarsal arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Plantar metatarsal arteries.r"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:4740",
+     "ta2_id": "4740",
+     "names": {
+      "en": "Perforating branches of plantar metatarsal arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Perforating branches of plantar metatarsal arteries.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4738",
+     "ta2_id": "4738",
+     "names": {
+      "en": "Plantar arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Plantar arch.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4737",
+     "ta2_id": "4737",
+     "names": {
+      "en": "Lateral plantar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral plantar artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4721",
+     "ta2_id": "4721",
+     "names": {
+      "en": "Posterior tibial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior tibial artery.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4726",
+     "ta2_id": "4726",
+     "names": {
+      "en": "Calcaneal branches of posterior tibial artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Calcaneal branches of posterior tibial artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4699",
+     "ta2_id": "4699",
+     "names": {
+      "en": "Popliteal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Popliteal artery.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4701",
+     "ta2_id": "4701",
+     "names": {
+      "en": "Superior medial genicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior medial genicular artery.r"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4705",
+     "ta2_id": "4705",
+     "names": {
+      "en": "Inferior medial genicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior medial genicular artery.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4704",
+     "ta2_id": "4704",
+     "names": {
+      "en": "Inferior lateral genicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior lateral genicular artery.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4700",
+     "ta2_id": "4700",
+     "names": {
+      "en": "Superior lateral genicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior lateral genicular artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4707",
+     "ta2_id": "4707",
+     "names": {
+      "en": "Patellar anastomosis"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Patellar anastomosis.r"
+     },
+     "polys": 4752
+    },
+    {
+     "id": "TA2:4674",
+     "ta2_id": "4674",
+     "names": {
+      "en": "Femoral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Femoral artery.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4675",
+     "ta2_id": "4675",
+     "names": {
+      "en": "Superficial epigastric artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial epigastric artery.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4718",
+     "ta2_id": "4718",
+     "names": {
+      "en": "Dorsal metatarsal arteries"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal metatarsal arteries.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4341",
+     "ta2_id": "4341",
+     "names": {
+      "en": "Internal pudendal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal pudendal artery.r"
+     },
+     "polys": 4032
+    },
+    {
+     "id": "TA2:4661",
+     "ta2_id": "4661",
+     "names": {
+      "en": "Common interosseous artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common interosseous artery.l"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:7206",
+     "ta2_id": "7206",
+     "names": {
+      "en": "Left testicular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left testicular artery"
+     },
+     "polys": 4464
+    },
+    {
+     "id": "TA2:4609",
+     "ta2_id": "4609",
+     "names": {
+      "en": "Supreme intercostal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Supreme intercostal artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4627",
+     "ta2_id": "4627",
+     "names": {
+      "en": "Subscapular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Subscapular artery.r"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4629",
+     "ta2_id": "4629",
+     "names": {
+      "en": "Circumflex scapular artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Circumflex scapular artery.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4304",
+     "ta2_id": "4304",
+     "names": {
+      "en": "Iliolumbar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Iliolumbar artery.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4306",
+     "ta2_id": "4306",
+     "names": {
+      "en": "Spinal branch of iliolumbar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Spinal branch of iliolumbar artery.r"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4305",
+     "ta2_id": "4305",
+     "names": {
+      "en": "Lumbar branch of iliolumbar artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lumbar branch of iliolumbar artery.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4253",
+     "ta2_id": "4253",
+     "names": {
+      "en": "Inferior pancreaticoduodenal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior pancreaticoduodenal artery"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4502",
+     "ta2_id": "4502",
+     "names": {
+      "en": "Anterior cerebral artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior cerebral artery.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4443",
+     "ta2_id": "4443",
+     "names": {
+      "en": "Buccal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Buccal artery.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4456",
+     "ta2_id": "4456",
+     "names": {
+      "en": "Descending palatine artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Descending palatine artery.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4462",
+     "ta2_id": "4462",
+     "names": {
+      "en": "Posterior septal branches of sphenopalatine artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior septal branches of sphenopalatine artery.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:4447",
+     "ta2_id": "4447",
+     "names": {
+      "en": "Infra-orbital artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Infra-orbital artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4457",
+     "ta2_id": "4457",
+     "names": {
+      "en": "Greater palatine artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Greater palatine artery.l"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4677",
+     "ta2_id": "4677",
+     "names": {
+      "en": "Superficial external pudendal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial external pudendal artery.r"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4678",
+     "ta2_id": "4678",
+     "names": {
+      "en": "Deep external pudendal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep external pudendal artery.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4265",
+     "ta2_id": "4265",
+     "names": {
+      "en": "Middle colic artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle colic artery"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4296",
+     "ta2_id": "4296",
+     "names": {
+      "en": "Superior anorectal artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior anorectal artery"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4323",
+     "ta2_id": "4323",
+     "names": {
+      "en": "Obturator artery"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Obturator artery.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4758",
+     "ta2_id": "4758",
+     "names": {
+      "en": "Accessory hemi-azygos vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Accessory hemi-azygos vein"
+     },
+     "polys": 2736
+    },
+    {
+     "id": "TA2:4771",
+     "ta2_id": "4771",
+     "names": {
+      "en": "Left ascending lumbar vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left ascending lumbar vein"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4764",
+     "ta2_id": "4764",
+     "names": {
+      "en": "Hemi-azygos vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Hemi-azygos vein"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4770",
+     "ta2_id": "4770",
+     "names": {
+      "en": "Left subcostal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left subcostal vein"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4747",
+     "ta2_id": "4747",
+     "names": {
+      "en": "Azygos vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Azygos vein"
+     },
+     "polys": 2736
+    },
+    {
+     "id": "TA2:4757",
+     "ta2_id": "4757",
+     "names": {
+      "en": "Right ascending lumbar vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right ascending lumbar vein"
+     },
+     "polys": 4176
+    },
+    {
+     "id": "TA2:4755",
+     "ta2_id": "4755",
+     "names": {
+      "en": "Right superior phrenic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right superior phrenic vein"
+     },
+     "polys": 5328
+    },
+    {
+     "id": "TA2:4756",
+     "ta2_id": "4756",
+     "names": {
+      "en": "Right subcostal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right subcostal vein"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4780",
+     "ta2_id": "4780",
+     "names": {
+      "en": "Vertebral vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Vertebral vein.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4786",
+     "ta2_id": "4786",
+     "names": {
+      "en": "Internal thoracic veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal thoracic veins.l"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4789",
+     "ta2_id": "4789",
+     "names": {
+      "en": "Musculophrenic veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Musculophrenic veins.l"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4787",
+     "ta2_id": "4787",
+     "names": {
+      "en": "Superior epigastric veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior epigastric veins.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4792",
+     "ta2_id": "4792",
+     "names": {
+      "en": "Right brachiocephalic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right brachiocephalic vein"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4798",
+     "ta2_id": "4798",
+     "names": {
+      "en": "Left superior intercostal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left superior intercostal vein"
+     },
+     "polys": 25488
+    },
+    {
+     "id": "TA2:4749",
+     "ta2_id": "4749",
+     "names": {
+      "en": "Right superior intercostal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right superior intercostal vein"
+     },
+     "polys": 31392
+    },
+    {
+     "id": "TA2:4794",
+     "ta2_id": "4794",
+     "names": {
+      "en": "Left brachiocephalic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left brachiocephalic vein"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4745",
+     "ta2_id": "4745",
+     "names": {
+      "en": "Superior vena cava"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior vena cava"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:4957",
+     "ta2_id": "4957",
+     "names": {
+      "en": "Posterior division of retromandibular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior division of retromandibular vein.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4818",
+     "ta2_id": "4818",
+     "names": {
+      "en": "Angular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Angular vein.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4829",
+     "ta2_id": "4829",
+     "names": {
+      "en": "Submental vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Submental vein.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4825",
+     "ta2_id": "4825",
+     "names": {
+      "en": "Inferior labial veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior labial veins.r"
+     },
+     "polys": 3024
+    },
+    {
+     "id": "TA2:4824",
+     "ta2_id": "4824",
+     "names": {
+      "en": "Superior labial vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior labial vein.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4817",
+     "ta2_id": "4817",
+     "names": {
+      "en": "Facial vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Facial vein.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4900",
+     "ta2_id": "4900",
+     "names": {
+      "en": "Inferior ophthalmic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior ophthalmic vein.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4812",
+     "ta2_id": "4812",
+     "names": {
+      "en": "Superior thyroid vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior thyroid vein.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4781",
+     "ta2_id": "4781",
+     "names": {
+      "en": "Occipital vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Occipital vein.r"
+     },
+     "polys": 2592
+    },
+    {
+     "id": "TA2:4832",
+     "ta2_id": "4832",
+     "names": {
+      "en": "Superficial temporal veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial temporal veins.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4958",
+     "ta2_id": "4958",
+     "names": {
+      "en": "Posterior auricular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior auricular vein.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4835",
+     "ta2_id": "4835",
+     "names": {
+      "en": "Maxillary veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Maxillary veins.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:4807",
+     "ta2_id": "4807",
+     "names": {
+      "en": "Lingual vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lingual vein.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4816",
+     "ta2_id": "4816",
+     "names": {
+      "en": "Common facial vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common facial vein.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4800",
+     "ta2_id": "4800",
+     "names": {
+      "en": "Internal jugular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal jugular vein.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4853",
+     "ta2_id": "4853",
+     "names": {
+      "en": "Straight sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Straight sinus"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4854",
+     "ta2_id": "4854",
+     "names": {
+      "en": "Inferior sagittal sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior sagittal sinus"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4856",
+     "ta2_id": "4856",
+     "names": {
+      "en": "Superior sagittal sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior sagittal sinus"
+     },
+     "polys": 3168
+    },
+    {
+     "id": "TA2:4855",
+     "ta2_id": "4855",
+     "names": {
+      "en": "Occipital sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Occipital sinus"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4850",
+     "ta2_id": "4850",
+     "names": {
+      "en": "Superior petrosal sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior petrosal sinus.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4849",
+     "ta2_id": "4849",
+     "names": {
+      "en": "Transverse sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Transverse sinus.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4847",
+     "ta2_id": "4847",
+     "names": {
+      "en": "Sigmoid sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Sigmoid sinus.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4959",
+     "ta2_id": "4959",
+     "names": {
+      "en": "Anterior jugular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior jugular vein.l"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4961",
+     "ta2_id": "4961",
+     "names": {
+      "en": "Suprascapular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Suprascapular vein.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4956",
+     "ta2_id": "4956",
+     "names": {
+      "en": "External jugular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "External jugular vein.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4830",
+     "ta2_id": "4830",
+     "names": {
+      "en": "Anterior division of retromandibular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior division of retromandibular vein.l"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4970",
+     "ta2_id": "4970",
+     "names": {
+      "en": "Dorsal digital veins of hand"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal digital veins of hand.r"
+     },
+     "polys": 9216
+    },
+    {
+     "id": "TA2:4967",
+     "ta2_id": "4967",
+     "names": {
+      "en": "Dorsal venous network of hand"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal venous network of hand.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4964",
+     "ta2_id": "4964",
+     "names": {
+      "en": "Cephalic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Cephalic vein.r"
+     },
+     "polys": 3456
+    },
+    {
+     "id": "TA2:4974",
+     "ta2_id": "4974",
+     "names": {
+      "en": "Thoracodorsal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Thoracodorsal vein.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4973",
+     "ta2_id": "4973",
+     "names": {
+      "en": "Circumflex scapular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Circumflex scapular vein.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4980",
+     "ta2_id": "4980",
+     "names": {
+      "en": "Median cubital vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Median cubital vein.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4981",
+     "ta2_id": "4981",
+     "names": {
+      "en": "Median antebrachial vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Median antebrachial vein.r"
+     },
+     "polys": 2592
+    },
+    {
+     "id": "TA2:4979",
+     "ta2_id": "4979",
+     "names": {
+      "en": "Basilic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Basilic vein.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4986",
+     "ta2_id": "4986",
+     "names": {
+      "en": "Superficial venous palmar arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial venous palmar arch.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:4987",
+     "ta2_id": "4987",
+     "names": {
+      "en": "Palmar digital veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Palmar digital veins.r"
+     },
+     "polys": 14256
+    },
+    {
+     "id": "TA2:4985",
+     "ta2_id": "4985",
+     "names": {
+      "en": "Ulnar veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Ulnar veins.r"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:4989",
+     "ta2_id": "4989",
+     "names": {
+      "en": "Deep venous palmar arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep venous palmar arch.r"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:4988",
+     "ta2_id": "4988",
+     "names": {
+      "en": "Radial veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Radial veins.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4982",
+     "ta2_id": "4982",
+     "names": {
+      "en": "Brachial veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Brachial veins.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:4976",
+     "ta2_id": "4976",
+     "names": {
+      "en": "Anterior circumflex humeral vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior circumflex humeral vein.r"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:4975",
+     "ta2_id": "4975",
+     "names": {
+      "en": "Posterior circumflex humeral vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior circumflex humeral vein.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:4971",
+     "ta2_id": "4971",
+     "names": {
+      "en": "Lateral thoracic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral thoracic vein.r"
+     },
+     "polys": 5040
+    },
+    {
+     "id": "TA2:4963",
+     "ta2_id": "4963",
+     "names": {
+      "en": "Axillary vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Axillary vein.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:7211",
+     "ta2_id": "7211",
+     "names": {
+      "en": "Left subclavian vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left subclavian vein"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:7212",
+     "ta2_id": "7212",
+     "names": {
+      "en": "Right subclavian vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right subclavian vein"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4994",
+     "ta2_id": "4994",
+     "names": {
+      "en": "Hepatic veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Hepatic veins"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5002",
+     "ta2_id": "5002",
+     "names": {
+      "en": "Intrarenal veins of right kidney"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Intrarenal veins of right kidney"
+     },
+     "polys": 14256
+    },
+    {
+     "id": "TA2:5000",
+     "ta2_id": "5000",
+     "names": {
+      "en": "Right renal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right renal vein"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:5008",
+     "ta2_id": "5008",
+     "names": {
+      "en": "Intrarenal veins of left kidney"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Intrarenal veins of left kidney"
+     },
+     "polys": 11376
+    },
+    {
+     "id": "TA2:5006",
+     "ta2_id": "5006",
+     "names": {
+      "en": "Left renal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left renal vein"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:5018",
+     "ta2_id": "5018",
+     "names": {
+      "en": "Right testicular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right testicular vein"
+     },
+     "polys": 4896
+    },
+    {
+     "id": "TA2:5028",
+     "ta2_id": "5028",
+     "names": {
+      "en": "Lateral sacral veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral sacral veins.r"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:5032",
+     "ta2_id": "5032",
+     "names": {
+      "en": "Internal pudendal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal pudendal vein.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:5044",
+     "ta2_id": "5044",
+     "names": {
+      "en": "Deep dorsal vein of penis"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep dorsal vein of penis"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:5026",
+     "ta2_id": "5026",
+     "names": {
+      "en": "Inferior gluteal veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior gluteal veins.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:5024",
+     "ta2_id": "5024",
+     "names": {
+      "en": "Internal iliac vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Internal iliac vein.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5025",
+     "ta2_id": "5025",
+     "names": {
+      "en": "Superior gluteal veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior gluteal veins.r"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:5051",
+     "ta2_id": "5051",
+     "names": {
+      "en": "Inferior epigastric vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior epigastric vein.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:5050",
+     "ta2_id": "5050",
+     "names": {
+      "en": "External iliac vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "External iliac vein.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5021",
+     "ta2_id": "5021",
+     "names": {
+      "en": "Common iliac vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Common iliac vein.l"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5023",
+     "ta2_id": "5023",
+     "names": {
+      "en": "Iliolumbar vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Iliolumbar vein.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:4991*1",
+     "ta2_id": "4991*1",
+     "names": {
+      "en": "Inferior vena cava (thoracic part)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior vena cava (thoracic part)"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:4991*2",
+     "ta2_id": "4991*2",
+     "names": {
+      "en": "Inferior vena cava (abdominal part)"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior vena cava (abdominal part)"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4993",
+     "ta2_id": "4993",
+     "names": {
+      "en": "Lumbar veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lumbar veins.r"
+     },
+     "polys": 7344
+    },
+    {
+     "id": "TA2:5063",
+     "ta2_id": "5063",
+     "names": {
+      "en": "Superficial dorsal veins of penis"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial dorsal veins of penis"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:5058",
+     "ta2_id": "5058",
+     "names": {
+      "en": "Great saphenous vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Great saphenous vein.r"
+     },
+     "polys": 4176
+    },
+    {
+     "id": "TA2:5067",
+     "ta2_id": "5067",
+     "names": {
+      "en": "Superficial epigastric vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superficial epigastric vein.r"
+     },
+     "polys": 3600
+    },
+    {
+     "id": "TA2:5070",
+     "ta2_id": "5070",
+     "names": {
+      "en": "Deep femoral vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Deep femoral vein.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:5071",
+     "ta2_id": "5071",
+     "names": {
+      "en": "Perforating veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Perforating veins.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:5075",
+     "ta2_id": "5075",
+     "names": {
+      "en": "Anterior tibial veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior tibial veins.r"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:5084",
+     "ta2_id": "5084",
+     "names": {
+      "en": "Plantar digital veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Plantar digital veins.r"
+     },
+     "polys": 12672
+    },
+    {
+     "id": "TA2:5083",
+     "ta2_id": "5083",
+     "names": {
+      "en": "Plantar metatarsal veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Plantar metatarsal veins.r"
+     },
+     "polys": 4320
+    },
+    {
+     "id": "TA2:5082",
+     "ta2_id": "5082",
+     "names": {
+      "en": "Plantar venous arch"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Plantar venous arch.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:5081",
+     "ta2_id": "5081",
+     "names": {
+      "en": "Lateral plantar veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral plantar veins.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:5077",
+     "ta2_id": "5077",
+     "names": {
+      "en": "Posterior tibial veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior tibial veins.r"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:5078",
+     "ta2_id": "5078",
+     "names": {
+      "en": "Fibular veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Fibular veins.r"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:5079",
+     "ta2_id": "5079",
+     "names": {
+      "en": "Medial plantar veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial plantar veins.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:5088",
+     "ta2_id": "5088",
+     "names": {
+      "en": "Dorsal venous arch of foot"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal venous arch of foot.r"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:5091",
+     "ta2_id": "5091",
+     "names": {
+      "en": "Intercapitular veins of foot"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Intercapitular veins of foot.r"
+     },
+     "polys": 3888
+    },
+    {
+     "id": "TA2:5085",
+     "ta2_id": "5085",
+     "names": {
+      "en": "Small saphenous vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Small saphenous vein.r"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:5072",
+     "ta2_id": "5072",
+     "names": {
+      "en": "Popliteal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Popliteal vein.r"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:5074",
+     "ta2_id": "5074",
+     "names": {
+      "en": "Genicular veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Genicular veins.r"
+     },
+     "polys": 5040
+    },
+    {
+     "id": "TA2:5055",
+     "ta2_id": "5055",
+     "names": {
+      "en": "Femoral vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Femoral vein.r"
+     },
+     "polys": 2016
+    },
+    {
+     "id": "TA2:5057",
+     "ta2_id": "5057",
+     "names": {
+      "en": "Lateral circumflex femoral veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Lateral circumflex femoral veins.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:5056",
+     "ta2_id": "5056",
+     "names": {
+      "en": "Medial circumflex femoral veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Medial circumflex femoral veins.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:5113",
+     "ta2_id": "5113",
+     "names": {
+      "en": "Superior mesenteric vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior mesenteric vein"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:5122",
+     "ta2_id": "5122",
+     "names": {
+      "en": "Middle colic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Middle colic vein"
+     },
+     "polys": 2736
+    },
+    {
+     "id": "TA2:5121",
+     "ta2_id": "5121",
+     "names": {
+      "en": "Right colic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right colic vein"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:5116",
+     "ta2_id": "5116",
+     "names": {
+      "en": "Right gastro-omental vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right gastro-omental vein"
+     },
+     "polys": 3312
+    },
+    {
+     "id": "TA2:5126",
+     "ta2_id": "5126",
+     "names": {
+      "en": "Left gastro-omental vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left gastro-omental vein"
+     },
+     "polys": 1296
+    },
+    {
+     "id": "TA2:5129",
+     "ta2_id": "5129",
+     "names": {
+      "en": "Sigmoid veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Sigmoid veins"
+     },
+     "polys": 4464
+    },
+    {
+     "id": "TA2:5123",
+     "ta2_id": "5123",
+     "names": {
+      "en": "Splenic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Splenic vein"
+     },
+     "polys": 4752
+    },
+    {
+     "id": "TA2:5127",
+     "ta2_id": "5127",
+     "names": {
+      "en": "Inferior mesenteric vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior mesenteric vein"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:5089",
+     "ta2_id": "5089",
+     "names": {
+      "en": "Dorsal metatarsal veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal metatarsal veins.r"
+     },
+     "polys": 2592
+    },
+    {
+     "id": "TA2:5015",
+     "ta2_id": "5015",
+     "names": {
+      "en": "Left testicular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left testicular vein"
+     },
+     "polys": 4896
+    },
+    {
+     "id": "TA2:5092",
+     "ta2_id": "5092",
+     "names": {
+      "en": "Hepatic portal vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Hepatic portal vein"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5059",
+     "ta2_id": "5059",
+     "names": {
+      "en": "External pudendal veins"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "External pudendal veins.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:4972",
+     "ta2_id": "4972",
+     "names": {
+      "en": "Subscapular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Subscapular vein.l"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4831",
+     "ta2_id": "4831",
+     "names": {
+      "en": "Retromandibular vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Retromandibular vein.l"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4858",
+     "ta2_id": "4858",
+     "names": {
+      "en": "Inferior petrosal sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior petrosal sinus.r"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:4864",
+     "ta2_id": "4864",
+     "names": {
+      "en": "Posterior intercavernous sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior intercavernous sinus"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:4863",
+     "ta2_id": "4863",
+     "names": {
+      "en": "Anterior intercavernous sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior intercavernous sinus"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:4887",
+     "ta2_id": "4887",
+     "names": {
+      "en": "Superior ophthalmic vein"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Superior ophthalmic vein.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:4866",
+     "ta2_id": "4866",
+     "names": {
+      "en": "Basilar venous plexus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Basilar venous plexus"
+     },
+     "polys": 28096
+    },
+    {
+     "id": "TA2:4860",
+     "ta2_id": "4860",
+     "names": {
+      "en": "Cavernous sinus"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Cavernous sinus.r"
+     },
+     "polys": 4864
+    },
+    {
+     "id": "TA2:5090",
+     "ta2_id": "5090",
+     "names": {
+      "en": "Dorsal digital veins of foot"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Dorsal digital veins of foot.l"
+     },
+     "polys": 8352
+    },
+    {
+     "id": "TA2:4022",
+     "ta2_id": "4022",
+     "names": {
+      "en": "Right atrium"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right atrium"
+     },
+     "polys": 11341
+    },
+    {
+     "id": "TA2:4038",
+     "ta2_id": "4038",
+     "names": {
+      "en": "Right ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right ventricle"
+     },
+     "polys": 11161
+    },
+    {
+     "id": "TA2:4054",
+     "ta2_id": "4054",
+     "names": {
+      "en": "Left atrium"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left atrium"
+     },
+     "polys": 2610
+    },
+    {
+     "id": "TA2:4062",
+     "ta2_id": "4062",
+     "names": {
+      "en": "Left ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left ventricle"
+     },
+     "polys": 11126
+    },
+    {
+     "id": "TA2:4045",
+     "ta2_id": "4045",
+     "names": {
+      "en": "Inferior papillary muscle of right ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior papillary muscle of right ventricle"
+     },
+     "polys": 1090
+    },
+    {
+     "id": "TA2:4044",
+     "ta2_id": "4044",
+     "names": {
+      "en": "Anterior papillary muscle of right ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior papillary muscle of right ventricle"
+     },
+     "polys": 1544
+    },
+    {
+     "id": "TA2:4046",
+     "ta2_id": "4046",
+     "names": {
+      "en": "Septal papillary muscle of right ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Septal papillary muscle of right ventricle"
+     },
+     "polys": 844
+    },
+    {
+     "id": "TA2:4068",
+     "ta2_id": "4068",
+     "names": {
+      "en": "Inferior papillary muscle of left ventricle"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior papillary muscle of left ventricle"
+     },
+     "polys": 1560
+    },
+    {
+     "id": "TA2:3985",
+     "ta2_id": "3985",
+     "names": {
+      "en": "Inferior leaflet of right atrioventricular valve"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Inferior leaflet of right atrioventricular valve"
+     },
+     "polys": 9852
+    },
+    {
+     "id": "TA2:3986",
+     "ta2_id": "3986",
+     "names": {
+      "en": "Septal leaflet of right atrioventricular valve"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Septal leaflet of right atrioventricular valve"
+     },
+     "polys": 9040
+    },
+    {
+     "id": "TA2:3990",
+     "ta2_id": "3990",
+     "names": {
+      "en": "Posterior leaflet of left atrioventricular valve"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Posterior leaflet of left atrioventricular valve"
+     },
+     "polys": 7640
+    },
+    {
+     "id": "TA2:3996",
+     "ta2_id": "3996",
+     "names": {
+      "en": "Left coronary leaflet"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left coronary leaflet"
+     },
+     "polys": 914
+    },
+    {
+     "id": "TA2:3997",
+     "ta2_id": "3997",
+     "names": {
+      "en": "Non-coronary leaflet"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Non-coronary leaflet"
+     },
+     "polys": 316
+    },
+    {
+     "id": "TA2:3995",
+     "ta2_id": "3995",
+     "names": {
+      "en": "Right coronary leaflet"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right coronary leaflet"
+     },
+     "polys": 918
+    },
+    {
+     "id": "TA2:4012",
+     "ta2_id": "4012",
+     "names": {
+      "en": "Anterior semilunar leaflet of pulmonary valve"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Anterior semilunar leaflet of pulmonary valve"
+     },
+     "polys": 2531
+    },
+    {
+     "id": "TA2:4011",
+     "ta2_id": "4011",
+     "names": {
+      "en": "Left semilunar leaflet of pulmonary valve"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Left semilunar leaflet of pulmonary valve"
+     },
+     "polys": 1992
+    },
+    {
+     "id": "TA2:4010",
+     "ta2_id": "4010",
+     "names": {
+      "en": "Right semilunar leaflet of pulmonary valve"
+     },
+     "kind": "vessel",
+     "mesh": {
+      "glb": "cardiovascular.glb",
+      "node": "Right semilunar leaflet of pulmonary valve"
+     },
+     "polys": 2735
+    }
+   ]
+  }
+ ]
+}

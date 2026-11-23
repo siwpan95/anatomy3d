@@ -1,0 +1,5572 @@
+{
+ "collection": "Cardiovascular system",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/cardiovascular.glb",
+ "converted": 1092,
+ "total_polygons": 3557707,
+ "objects": [
+  {
+   "name": "Bifurcation of pulmonary trunk",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Pulmonary trunk",
+   "src_type": "MESH",
+   "polys": 115
+  },
+  {
+   "name": "Inferior lingular artery of left lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Apical segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Lateral basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Medial basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Anterior basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2736
+  },
+  {
+   "name": "Left pulmonary artery",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Right pulmonary artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Apical segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Anterior segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Anterior basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Medial basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Medial segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Lateral segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 4032
+  },
+  {
+   "name": "Superior lobar artery of right lung",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Posterior segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Middle lobar artery of right lung",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Inferior lobar artery of right lung",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Lateral basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Superior lingular artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Superior segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Right pulmonary artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Apical segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Anterior segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Anterior basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Medial basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Medial segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Lateral segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 4032
+  },
+  {
+   "name": "Superior lobar artery of right lung",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Posterior segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Middle lobar artery of right lung",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Inferior lobar artery of right lung",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Lateral basal segmental artery of right lung",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Inferior lingular artery of left lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Apical segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Lateral basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Medial basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Anterior basal segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2736
+  },
+  {
+   "name": "Left pulmonary artery",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior lingular artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Superior segmental artery of left lung",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Right superior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Medial vein of right lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Superior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Anterior vein of left lung",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Apicoposterior vein of left lung",
+   "src_type": "CURVE",
+   "polys": 7056
+  },
+  {
+   "name": "Inferior lingular vein of left lung",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Superior lingular vein of left lung",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior basal vein of left lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Superior vein of left lung",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Inferior basal vein of left lung",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Right inferior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Left inferior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Left superior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Lingular vein of left lung",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Posterior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Inferior basal vein of right lung",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Superior basal vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Apical vein of right lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Anterior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral vein of right lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Right superior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Medial vein of right lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Posterior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Apical vein of right lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Anterior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral vein of right lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Superior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Right inferior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Inferior basal vein of right lung",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Superior basal vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Right superior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Medial vein of right lung",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Posterior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Apical vein of right lung",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Anterior vein of right lung",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral vein of right lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior vein of left lung",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Apicoposterior vein of left lung",
+   "src_type": "CURVE",
+   "polys": 7056
+  },
+  {
+   "name": "Inferior lingular vein of left lung",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Superior lingular vein of left lung",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Left superior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Lingular vein of left lung",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Superior basal vein of left lung",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Superior vein of left lung",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Inferior basal vein of left lung",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Left inferior pulmonary vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Right coronary artery",
+   "src_type": "CURVE",
+   "polys": 13536
+  },
+  {
+   "name": "Circumflex artery of heart",
+   "src_type": "CURVE",
+   "polys": 8208
+  },
+  {
+   "name": "Anterior interventricular artery",
+   "src_type": "CURVE",
+   "polys": 5760
+  },
+  {
+   "name": "Left coronary artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Right inferolateral branch of right coronary artery",
+   "src_type": "CURVE",
+   "polys": 9216
+  },
+  {
+   "name": "Septal branches of anterior interventricular artery",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Great cardiac vein",
+   "src_type": "CURVE",
+   "polys": 7344
+  },
+  {
+   "name": "????????",
+   "src_type": "CURVE",
+   "polys": 10368
+  },
+  {
+   "name": "Middle cardiac vein",
+   "src_type": "CURVE",
+   "polys": 15984
+  },
+  {
+   "name": "Inferior vein of left ventricle (//Posterior '')",
+   "src_type": "CURVE",
+   "polys": 11088
+  },
+  {
+   "name": "Coronary sinus",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Inferior vein of left ventricle",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Right coronary artery",
+   "src_type": "CURVE",
+   "polys": 13536
+  },
+  {
+   "name": "Circumflex artery of heart",
+   "src_type": "CURVE",
+   "polys": 8208
+  },
+  {
+   "name": "Anterior interventricular artery",
+   "src_type": "CURVE",
+   "polys": 5760
+  },
+  {
+   "name": "Left coronary artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Right inferolateral branch of right coronary artery",
+   "src_type": "CURVE",
+   "polys": 9216
+  },
+  {
+   "name": "Septal branches of anterior interventricular artery",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Brachiocephalic trunk",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Right common carotid artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Right subclavian artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Aortic arch",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Left common carotid artery",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Left subclavian artery",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior intercostal arteries.l",
+   "src_type": "CURVE",
+   "polys": 21744
+  },
+  {
+   "name": "Posterior intercostal arteries.r",
+   "src_type": "CURVE",
+   "polys": 24912
+  },
+  {
+   "name": "Subcostal artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Subcostal artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Superior phrenic arteries",
+   "src_type": "CURVE",
+   "polys": 7056
+  },
+  {
+   "name": "Thoracic aorta",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Inferior suprarenal artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Inferior suprarenal artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Inferior phrenic artery",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Lumbar arteries.l",
+   "src_type": "CURVE",
+   "polys": 5328
+  },
+  {
+   "name": "Lumbar arteries.r",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Splenic artery",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Anterior inferior pancreaticoduodenal artery",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Colic branch of ileocolic artery",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Ileocolic artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Ileal branch of ileocolic artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Appendicular artery",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Superior mesenteric artery",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Marginal artery",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Right colic artery",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Proper hepatic artery",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Coeliac trunk",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Left gastric artery",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Common hepatic artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Gastroduodenal artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior branch of renal artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Anterior branch of renal artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Posterior branch of renal artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Posterior branch of renal artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Intrarenal arteries of left kidney",
+   "src_type": "CURVE",
+   "polys": 8208
+  },
+  {
+   "name": "Intrarenal arteries of right kidney",
+   "src_type": "CURVE",
+   "polys": 10224
+  },
+  {
+   "name": "Right renal artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Left renal artery",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Right testicular artery.r",
+   "src_type": "CURVE",
+   "polys": 5040
+  },
+  {
+   "name": "Descending branch of left colic artery",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Left colic artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Ascending branch of left colic artery",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Inferior mesenteric artery",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Sigmoid arteries",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Abdominal aorta",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Median sacral artery",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Iliacus branch of iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Iliacus branch of iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Superior gluteal artery.r",
+   "src_type": "CURVE",
+   "polys": 8640
+  },
+  {
+   "name": "Superior gluteal artery.l",
+   "src_type": "CURVE",
+   "polys": 8640
+  },
+  {
+   "name": "Posterior division of internal iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior division of internal iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Deep artery of penis.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Dorsal artery of penis.r",
+   "src_type": "CURVE",
+   "polys": 5760
+  },
+  {
+   "name": "Dorsal artery of penis.l",
+   "src_type": "CURVE",
+   "polys": 5760
+  },
+  {
+   "name": "Inferior gluteal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Inferior gluteal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior division of internal iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Anterior division of internal iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Internal iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Internal iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Inferior epigastric artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Inferior epigastric artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "External iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "External iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Common iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Common iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Ascending aorta",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Ascending pharyngeal artery.r",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Ascending pharyngeal artery.l",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Superior labial artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Superior labial artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Facial artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Angular artery.r",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Inferior labial artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Submental artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Facial artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Angular artery.l",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Inferior labial artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Submental artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 6768
+  },
+  {
+   "name": "Occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 6768
+  },
+  {
+   "name": "Superficial temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 13104
+  },
+  {
+   "name": "Frontal branch of superficial temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Superficial temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 13104
+  },
+  {
+   "name": "Transverse facial artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Frontal branch of superficial temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Mental branch of inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Mylohyoid branch of inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Mental branch of inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Mylohyoid branch of inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Middle meningeal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Accessory branch of middle meningeal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Middle meningeal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Accessory branch of middle meningeal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Posterior deep temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior deep temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior superior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Posterior superior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Artery of pterygoid canal.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Artery of pterygoid canal.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Posterior lateral nasal branches of sphenopalatine artery..r",
+   "src_type": "CURVE",
+   "polys": 7776
+  },
+  {
+   "name": "Posterior lateral nasal branches of sphenopalatine artery..l",
+   "src_type": "CURVE",
+   "polys": 7776
+  },
+  {
+   "name": "Maxillary artery.r",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Anterior deep temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "?x.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Maxillary artery.l",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Anterior deep temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "?x.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "External carotid artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "External carotid artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Central retinal artery.r",
+   "src_type": "CURVE",
+   "polys": 103680
+  },
+  {
+   "name": "Central retinal artery.l",
+   "src_type": "CURVE",
+   "polys": 103680
+  },
+  {
+   "name": "Short posterior ciliary arteries.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Short posterior ciliary arteries.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Long posterior ciliary arteries.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Long posterior ciliary arteries.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Anterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior septal branches of anterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Anterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior septal branches of anterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Septal branches of posterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Posterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Septal branches of posterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Posterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Ophthalmic artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lacrimal artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Supra-orbital artery.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Supratrochlear artery.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Ophthalmic artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lacrimal artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Supra-orbital artery.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Supratrochlear artery.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Callosomarginal artery.r",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Frontal branches of callosomarginal artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Callosomarginal artery.l",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Frontal branches of callosomarginal artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Pericallosal artery.r",
+   "src_type": "CURVE",
+   "polys": 16128
+  },
+  {
+   "name": "Pericallosal artery.l",
+   "src_type": "CURVE",
+   "polys": 16128
+  },
+  {
+   "name": "Orbitofrontal branches of anterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Orbitofrontal branches of anterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Proximal lateral striate branches.r",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Distal lateral striate branches.r",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Proximal lateral striate branches.l",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Distal lateral striate branches.l",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Insular branches of middle cerebral artery (M2).r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Insular branches of middle cerebral artery (M2-segment).l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior temporal branch.r",
+   "src_type": "CURVE",
+   "polys": 5184
+  },
+  {
+   "name": "Temporal branches of middle cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior temporal branch.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Branch to angular gyrus.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Temporo-occipital branch.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Anterior temporal branch.l",
+   "src_type": "CURVE",
+   "polys": 5184
+  },
+  {
+   "name": "Temporal branches of middle cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior temporal branch.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Branch to angular gyrus.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Temporo-occipital branch.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Prefrontal artery.r",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Lateral frontobasal artery.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior parietal artery.r",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Artery of central sulcus.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Artery of precentral sulcus.r",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Postcentral arterial branch.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Parietal branches of middle cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Prefrontal artery.l",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Lateral frontobasal artery.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior parietal artery.l",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Artery of central sulcus.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Artery of precentral sulcus.l",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Postcentral arterial branch.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Parietal branches of middle cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Middle cerebral artery (M3-segment).r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Middle cerebral artery (M1-segment).r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Middle cerebral artery (M3 segment).l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Middle cerebral artery (M1-segment).l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Internal carotid artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Internal carotid artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Anterior communicating artery",
+   "src_type": "MESH",
+   "polys": 90
+  },
+  {
+   "name": "Posterior communicating artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Posterior communicating artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior spinal artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior spinal artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior inferior cerebellar artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior inferior cerebellar artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Lateral pontine branches of basilar artery.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Medial pontine branches of basilar artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral pontine branches of basilar artery.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Medial pontine branches of basilar artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Lateral occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Medial occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Medial occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 16848
+  },
+  {
+   "name": "Parieto-occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Posterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 16848
+  },
+  {
+   "name": "Parieto-occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Basilar artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Superior cerebellar artery.r",
+   "src_type": "CURVE",
+   "polys": 5472
+  },
+  {
+   "name": "Superior cerebellar artery.l",
+   "src_type": "CURVE",
+   "polys": 5472
+  },
+  {
+   "name": "Vertebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Posterior inferior cerebellar artery.r",
+   "src_type": "CURVE",
+   "polys": 18864
+  },
+  {
+   "name": "Vertebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Posterior inferior cerebellar artery.l",
+   "src_type": "CURVE",
+   "polys": 18864
+  },
+  {
+   "name": "Internal thoracic artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Musculophrenic artery.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior epigastric artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Internal thoracic artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Superior epigastric artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Musculophrenic artery.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Inferior thyroid artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Inferior thyroid artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Suprascapular artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Suprascapular artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "(Deep branch of transverse cervical artery).r",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Transverse cervical artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "(Deep branch of transverse cervical artery).l",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Transverse cervical artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "(Superficial branch of transverse cervical artery).l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Thyrocervical trunk.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Thyrocervical trunk.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "First posterior intercostal artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "First posterior intercostal artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Second posterior intercostal artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Second posterior intercostal artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Costocervical trunk.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Costocervical trunk.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Deep cervical artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Deep cervical artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Thoraco-acromial artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Pectoral branches of thoraco-acromial artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Pectoral branches of thoraco-acromial artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Thoraco-acromial artery.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Lateral thoracic artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Lateral thoracic artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Thoracodorsal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Deep brachial artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Radial collateral artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Middle collateral artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Deep brachial artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Radial collateral artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Middle collateral artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Dorsal metacarpal arteries.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Dorsal digital arteries of hand.r",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Dorsal metacarpal arteries.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Dorsal digital arteries of hand.l",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Dorsal carpal anastomosis.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Dorsal carpal anastomosis.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Palmar metacarpal arteries.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Palmar metacarpal arteries.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Deep palmar arch.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Deep palmar arch.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Radial artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Palmar carpal branch of radial artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Radial artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Palmar carpal branch of radial artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "(Ulnar recurrent artery).r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "(Ulnar recurrent artery).l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Recurrent interosseous artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Posterior interosseous artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Recurrent interosseous artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Posterior interosseous artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Common palmar digital arteries.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Proper palmar digital arteries.r",
+   "src_type": "CURVE",
+   "polys": 15552
+  },
+  {
+   "name": "Common palmar digital arteries.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Proper palmar digital arteries.l",
+   "src_type": "CURVE",
+   "polys": 15552
+  },
+  {
+   "name": "Ulnar artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superficial palmar arch.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Dorsal carpal branch of ulnar artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Ulnar artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superficial palmar arch.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Dorsal carpal branch of ulnar artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Brachial artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Superior ulnar collateral artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Inferior ulnar collateral artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Brachial artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Superior ulnar collateral artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Inferior ulnar collateral artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Axillary artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Anterior circumflex humeral artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Posterior circumflex humeral artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Axillary artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Anterior circumflex humeral artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Posterior circumflex humeral artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Medial circumflex femoral artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Medial circumflex femoral artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Lateral circumflex femoral artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Descending branch of lateral circumflex femoral artery",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral circumflex femoral artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Descending branch of lateral circumflex femoral artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Perforating femoral arteries.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Deep femoral artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Deep femoral artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Dorsal digital arteries of foot.r",
+   "src_type": "CURVE",
+   "polys": 9504
+  },
+  {
+   "name": "Dorsal digital arteries of foot.l",
+   "src_type": "CURVE",
+   "polys": 9504
+  },
+  {
+   "name": "Arcuate artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Arcuate artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Dorsalis pedis artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Deep plantar artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Lateral tarsal artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Dorsalis pedis artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Deep plantar artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Lateral tarsal artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Anterior tibial artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Anterior tibial artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Calcaneal branches of fibular artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Calcaneal branches of fibular artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Fibular artery.r",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Fibular artery.l",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Superficial branch of medial plantar artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Medial plantar artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Superficial branch of medial plantar artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Medial plantar artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Common plantar digital arteries.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Proper plantar digital arteries.r",
+   "src_type": "CURVE",
+   "polys": 8640
+  },
+  {
+   "name": "Common plantar digital arteries.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Proper plantar digital arteries.l",
+   "src_type": "CURVE",
+   "polys": 8640
+  },
+  {
+   "name": "Plantar metatarsal arteries.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Perforating branches of plantar metatarsal arteries.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Plantar metatarsal arteries.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Perforating branches of plantar metatarsal arteries.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Plantar arch.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Plantar arch.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral plantar artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Lateral plantar artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Posterior tibial artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Calcaneal branches of posterior tibial artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Posterior tibial artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Calcaneal branches of posterior tibial artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Popliteal artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior medial genicular artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Inferior medial genicular artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Inferior lateral genicular artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Middle genicular artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Superior lateral genicular artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Patellar anastomosis.r",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Popliteal artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior medial genicular artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Inferior medial genicular artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Inferior lateral genicular artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Middle genicular artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Superior lateral genicular artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Patellar anastomosis.l",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Femoral artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Superficial epigastric artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Femoral artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Superficial epigastric artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Perforating femoral arteries.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Dorsal metatarsal arteries.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Internal pudendal artery.r",
+   "src_type": "CURVE",
+   "polys": 4032
+  },
+  {
+   "name": "Internal pudendal artery.l",
+   "src_type": "CURVE",
+   "polys": 4032
+  },
+  {
+   "name": "Dorsal metatarsal arteries.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Deep artery of penis.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Common interosseous artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Common interosseous artery.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Left testicular artery",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Supreme intercostal artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Supreme intercostal artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Subscapular artery.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Subscapular artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Thoracodorsal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Circumflex scapular artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Circumflex scapular artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Spinal branch of iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Lumbar branch of iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Spinal branch of iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Lumbar branch of iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Inferior pancreaticoduodenal artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Anterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Buccal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Buccal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Descending palatine artery.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Posterior septal branches of sphenopalatine artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Infra-orbital artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Infra-orbital artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior septal branches of sphenopalatine artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Greater palatine artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Greater palatine artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superficial external pudendal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Deep external pudendal artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Superficial external pudendal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Deep external pudendal artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Middle colic artery",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Superior anorectal artery",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Obturator artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Obturator artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Transverse facial artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Descending palatine artery.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "(Superficial branch of transverse cervical artery).r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Ascending pharyngeal artery.r",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Ascending pharyngeal artery.l",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Superior labial artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Superior labial artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Facial artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Angular artery.r",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Inferior labial artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Submental artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Facial artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Angular artery.l",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Inferior labial artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Submental artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 6768
+  },
+  {
+   "name": "Occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 6768
+  },
+  {
+   "name": "Superficial temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 13104
+  },
+  {
+   "name": "Frontal branch of superficial temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Superficial temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 13104
+  },
+  {
+   "name": "Transverse facial artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Frontal branch of superficial temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Mental branch of inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Mylohyoid branch of inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Mental branch of inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Mylohyoid branch of inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Middle meningeal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Accessory branch of middle meningeal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Middle meningeal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Accessory branch of middle meningeal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Posterior deep temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior deep temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior superior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Posterior superior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Artery of pterygoid canal.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Artery of pterygoid canal.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Posterior lateral nasal branches of sphenopalatine artery..r",
+   "src_type": "CURVE",
+   "polys": 7776
+  },
+  {
+   "name": "Posterior lateral nasal branches of sphenopalatine artery..l",
+   "src_type": "CURVE",
+   "polys": 7776
+  },
+  {
+   "name": "Maxillary artery.r",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Anterior deep temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "?x.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Maxillary artery.l",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Anterior deep temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "?x.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Central retinal artery.r",
+   "src_type": "CURVE",
+   "polys": 103680
+  },
+  {
+   "name": "Central retinal artery.l",
+   "src_type": "CURVE",
+   "polys": 103680
+  },
+  {
+   "name": "Short posterior ciliary arteries.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Short posterior ciliary arteries.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Long posterior ciliary arteries.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Long posterior ciliary arteries.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Anterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior septal branches of anterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Anterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior septal branches of anterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Septal branches of posterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Posterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Septal branches of posterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Posterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Ophthalmic artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lacrimal artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Supra-orbital artery.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Supratrochlear artery.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Ophthalmic artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lacrimal artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Supra-orbital artery.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Supratrochlear artery.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Callosomarginal artery.r",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Frontal branches of callosomarginal artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Callosomarginal artery.l",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Frontal branches of callosomarginal artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Pericallosal artery.r",
+   "src_type": "CURVE",
+   "polys": 16128
+  },
+  {
+   "name": "Pericallosal artery.l",
+   "src_type": "CURVE",
+   "polys": 16128
+  },
+  {
+   "name": "Orbitofrontal branches of anterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Orbitofrontal branches of anterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Proximal lateral striate branches.r",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Distal lateral striate branches.r",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Proximal lateral striate branches.l",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Distal lateral striate branches.l",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Insular branches of middle cerebral artery (M2).r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Insular branches of middle cerebral artery (M2-segment).l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior temporal branch.r",
+   "src_type": "CURVE",
+   "polys": 5184
+  },
+  {
+   "name": "Temporal branches of middle cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior temporal branch.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Branch to angular gyrus.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Temporo-occipital branch.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Anterior temporal branch.l",
+   "src_type": "CURVE",
+   "polys": 5184
+  },
+  {
+   "name": "Temporal branches of middle cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior temporal branch.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Branch to angular gyrus.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Temporo-occipital branch.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Prefrontal artery.r",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Lateral frontobasal artery.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior parietal artery.r",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Artery of central sulcus.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Artery of precentral sulcus.r",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Postcentral arterial branch.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Parietal branches of middle cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Prefrontal artery.l",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Lateral frontobasal artery.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior parietal artery.l",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Artery of central sulcus.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Artery of precentral sulcus.l",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Postcentral arterial branch.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Parietal branches of middle cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Middle cerebral artery (M3-segment).r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Middle cerebral artery (M1-segment).r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Middle cerebral artery (M3 segment).l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Middle cerebral artery (M1-segment).l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Internal carotid artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Internal carotid artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Anterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Buccal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Buccal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Descending palatine artery.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Posterior septal branches of sphenopalatine artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Infra-orbital artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Infra-orbital artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior septal branches of sphenopalatine artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Greater palatine artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Greater palatine artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "External carotid artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "External carotid artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Brachiocephalic trunk",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Aortic arch",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Left common carotid artery",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior intercostal arteries.l",
+   "src_type": "CURVE",
+   "polys": 21744
+  },
+  {
+   "name": "Subcostal artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Subcostal artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Thoracic aorta",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Inferior suprarenal artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Inferior suprarenal artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Inferior phrenic artery",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Lumbar arteries.l",
+   "src_type": "CURVE",
+   "polys": 5328
+  },
+  {
+   "name": "Splenic artery",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Anterior inferior pancreaticoduodenal artery",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Colic branch of ileocolic artery",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Ileocolic artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Ileal branch of ileocolic artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Appendicular artery",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Superior mesenteric artery",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Marginal artery",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Right colic artery",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Proper hepatic artery",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Coeliac trunk",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Left gastric artery",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Common hepatic artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Gastroduodenal artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior branch of renal artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Anterior branch of renal artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Posterior branch of renal artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Posterior branch of renal artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Intrarenal arteries of left kidney",
+   "src_type": "CURVE",
+   "polys": 8208
+  },
+  {
+   "name": "Intrarenal arteries of right kidney",
+   "src_type": "CURVE",
+   "polys": 10224
+  },
+  {
+   "name": "Right renal artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Left renal artery",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Descending branch of left colic artery",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Left colic artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Ascending branch of left colic artery",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Inferior mesenteric artery",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Sigmoid arteries",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Abdominal aorta",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Median sacral artery",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Superior gluteal artery.l",
+   "src_type": "CURVE",
+   "polys": 8640
+  },
+  {
+   "name": "Posterior division of internal iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior division of internal iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Dorsal artery of penis.l",
+   "src_type": "CURVE",
+   "polys": 5760
+  },
+  {
+   "name": "Inferior gluteal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior division of internal iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Internal iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Internal iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Inferior epigastric artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Inferior epigastric artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "External iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Ascending aorta",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Internal pudendal artery.l",
+   "src_type": "CURVE",
+   "polys": 4032
+  },
+  {
+   "name": "Inferior pancreaticoduodenal artery",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Right common carotid artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Posterior intercostal arteries.r",
+   "src_type": "CURVE",
+   "polys": 24912
+  },
+  {
+   "name": "Superior phrenic arteries",
+   "src_type": "CURVE",
+   "polys": 7056
+  },
+  {
+   "name": "Lumbar arteries.r",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Right testicular artery.r",
+   "src_type": "CURVE",
+   "polys": 5040
+  },
+  {
+   "name": "Iliacus branch of iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Superior gluteal artery.r",
+   "src_type": "CURVE",
+   "polys": 8640
+  },
+  {
+   "name": "Dorsal artery of penis.r",
+   "src_type": "CURVE",
+   "polys": 5760
+  },
+  {
+   "name": "Inferior gluteal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "External iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Common iliac artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Internal pudendal artery.r",
+   "src_type": "CURVE",
+   "polys": 4032
+  },
+  {
+   "name": "Iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Spinal branch of iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Lumbar branch of iliolumbar artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Deep artery of penis.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Anterior division of internal iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Common iliac artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Deep artery of penis.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Left testicular artery",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Iliacus branch of iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Spinal branch of iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Lumbar branch of iliolumbar artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Middle colic artery",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Superior anorectal artery",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Obturator artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Obturator artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Transverse facial artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Descending palatine artery.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Ascending pharyngeal artery.r",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Ascending pharyngeal artery.l",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Superior labial artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Superior labial artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Facial artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Angular artery.r",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Inferior labial artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Submental artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Facial artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Angular artery.l",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Inferior labial artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Submental artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 6768
+  },
+  {
+   "name": "Occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 6768
+  },
+  {
+   "name": "Superficial temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 13104
+  },
+  {
+   "name": "Frontal branch of superficial temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Superficial temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 13104
+  },
+  {
+   "name": "Transverse facial artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Frontal branch of superficial temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Mental branch of inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Mylohyoid branch of inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Mental branch of inferior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Mylohyoid branch of inferior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Middle meningeal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Accessory branch of middle meningeal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Middle meningeal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Accessory branch of middle meningeal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Posterior deep temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior deep temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior superior alveolar artery.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Posterior superior alveolar artery.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Artery of pterygoid canal.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Artery of pterygoid canal.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Posterior lateral nasal branches of sphenopalatine artery..r",
+   "src_type": "CURVE",
+   "polys": 7776
+  },
+  {
+   "name": "Posterior lateral nasal branches of sphenopalatine artery..l",
+   "src_type": "CURVE",
+   "polys": 7776
+  },
+  {
+   "name": "Maxillary artery.r",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Anterior deep temporal artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "?x.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Maxillary artery.l",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Anterior deep temporal artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "?x.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Central retinal artery.r",
+   "src_type": "CURVE",
+   "polys": 103680
+  },
+  {
+   "name": "Central retinal artery.l",
+   "src_type": "CURVE",
+   "polys": 103680
+  },
+  {
+   "name": "Short posterior ciliary arteries.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Short posterior ciliary arteries.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Long posterior ciliary arteries.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Long posterior ciliary arteries.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Anterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior septal branches of anterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Anterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Anterior septal branches of anterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Septal branches of posterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Posterior ethmoidal artery.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Septal branches of posterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Posterior ethmoidal artery.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Ophthalmic artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lacrimal artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Supra-orbital artery.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Supratrochlear artery.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Ophthalmic artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lacrimal artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Supra-orbital artery.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Supratrochlear artery.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Callosomarginal artery.r",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Frontal branches of callosomarginal artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Callosomarginal artery.l",
+   "src_type": "CURVE",
+   "polys": 7488
+  },
+  {
+   "name": "Frontal branches of callosomarginal artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Pericallosal artery.r",
+   "src_type": "CURVE",
+   "polys": 16128
+  },
+  {
+   "name": "Pericallosal artery.l",
+   "src_type": "CURVE",
+   "polys": 16128
+  },
+  {
+   "name": "Orbitofrontal branches of anterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Orbitofrontal branches of anterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Proximal lateral striate branches.r",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Distal lateral striate branches.r",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Proximal lateral striate branches.l",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Distal lateral striate branches.l",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Insular branches of middle cerebral artery (M2).r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Insular branches of middle cerebral artery (M2-segment).l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior temporal branch.r",
+   "src_type": "CURVE",
+   "polys": 5184
+  },
+  {
+   "name": "Temporal branches of middle cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior temporal branch.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Branch to angular gyrus.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Temporo-occipital branch.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Anterior temporal branch.l",
+   "src_type": "CURVE",
+   "polys": 5184
+  },
+  {
+   "name": "Temporal branches of middle cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior temporal branch.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Branch to angular gyrus.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Temporo-occipital branch.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Prefrontal artery.r",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Lateral frontobasal artery.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior parietal artery.r",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Artery of central sulcus.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Artery of precentral sulcus.r",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Postcentral arterial branch.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Parietal branches of middle cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Prefrontal artery.l",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Lateral frontobasal artery.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Posterior parietal artery.l",
+   "src_type": "CURVE",
+   "polys": 4608
+  },
+  {
+   "name": "Artery of central sulcus.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Artery of precentral sulcus.l",
+   "src_type": "CURVE",
+   "polys": 6192
+  },
+  {
+   "name": "Postcentral arterial branch.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Parietal branches of middle cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Middle cerebral artery (M3-segment).r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Middle cerebral artery (M1-segment).r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Middle cerebral artery (M3 segment).l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Middle cerebral artery (M1-segment).l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Internal carotid artery.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Internal carotid artery.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Anterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Buccal artery.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Buccal artery.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Descending palatine artery.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Posterior septal branches of sphenopalatine artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Infra-orbital artery.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Infra-orbital artery.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior septal branches of sphenopalatine artery.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Greater palatine artery.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Greater palatine artery.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "External carotid artery.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "External carotid artery.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Left common carotid artery",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Right common carotid artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Transverse facial artery.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Descending palatine artery.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Anterior inferior cerebellar artery.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Lateral pontine branches of basilar artery.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Medial pontine branches of basilar artery.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Lateral occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Lateral occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Medial occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Medial occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Posterior cerebral artery.r",
+   "src_type": "CURVE",
+   "polys": 16848
+  },
+  {
+   "name": "Parieto-occipital artery.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Basilar artery",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Superior cerebellar artery.r",
+   "src_type": "CURVE",
+   "polys": 5472
+  },
+  {
+   "name": "Posterior inferior cerebellar artery.r",
+   "src_type": "CURVE",
+   "polys": 18864
+  },
+  {
+   "name": "Posterior inferior cerebellar artery.l",
+   "src_type": "CURVE",
+   "polys": 18864
+  },
+  {
+   "name": "Vertebral artery.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Vertebral artery.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Anterior inferior cerebellar artery.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Lateral pontine branches of basilar artery.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Medial pontine branches of basilar artery.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Posterior cerebral artery.l",
+   "src_type": "CURVE",
+   "polys": 16848
+  },
+  {
+   "name": "Parieto-occipital artery.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Superior cerebellar artery.l",
+   "src_type": "CURVE",
+   "polys": 5472
+  },
+  {
+   "name": "Great cardiac vein",
+   "src_type": "CURVE",
+   "polys": 7344
+  },
+  {
+   "name": "????????",
+   "src_type": "CURVE",
+   "polys": 10368
+  },
+  {
+   "name": "Middle cardiac vein",
+   "src_type": "CURVE",
+   "polys": 15984
+  },
+  {
+   "name": "Inferior vein of left ventricle (//Posterior '')",
+   "src_type": "CURVE",
+   "polys": 11088
+  },
+  {
+   "name": "Coronary sinus",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Inferior vein of left ventricle",
+   "src_type": "CURVE",
+   "polys": 5904
+  },
+  {
+   "name": "Accessory hemi-azygos vein",
+   "src_type": "CURVE",
+   "polys": 2736
+  },
+  {
+   "name": "Left ascending lumbar vein",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Hemi-azygos vein",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Left subcostal vein",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Azygos vein",
+   "src_type": "CURVE",
+   "polys": 2736
+  },
+  {
+   "name": "Right ascending lumbar vein",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Right superior phrenic vein",
+   "src_type": "CURVE",
+   "polys": 5328
+  },
+  {
+   "name": "Right subcostal vein",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Vertebral vein.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Vertebral vein.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Internal thoracic veins.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Musculophrenic veins.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Internal thoracic veins.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior epigastric veins.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Musculophrenic veins.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Superior epigastric veins.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Right brachiocephalic vein",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Left superior intercostal vein",
+   "src_type": "CURVE",
+   "polys": 25488
+  },
+  {
+   "name": "Right superior intercostal vein",
+   "src_type": "CURVE",
+   "polys": 31392
+  },
+  {
+   "name": "Left brachiocephalic vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Superior vena cava",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Posterior division of retromandibular vein.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Angular vein.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Submental vein.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Inferior labial veins.r",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Superior labial vein.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Facial vein.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Inferior ophthalmic vein.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Superior thyroid vein.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Occipital vein.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Superficial temporal veins.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Posterior auricular vein.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Maxillary veins.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Lingual vein.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior division of retromandibular vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Angular vein.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Submental vein.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Inferior labial veins.l",
+   "src_type": "CURVE",
+   "polys": 3024
+  },
+  {
+   "name": "Superior labial vein.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Facial vein.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Inferior ophthalmic vein.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Superior thyroid vein.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Occipital vein.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Superficial temporal veins.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Posterior auricular vein.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Maxillary veins.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Lingual vein.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Common facial vein.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Common facial vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Internal jugular vein.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Internal jugular vein.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Straight sinus",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Inferior sagittal sinus",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior sagittal sinus",
+   "src_type": "CURVE",
+   "polys": 3168
+  },
+  {
+   "name": "Occipital sinus",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Superior petrosal sinus.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Transverse sinus.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior petrosal sinus.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Transverse sinus.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Sigmoid sinus.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Sigmoid sinus.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Anterior jugular vein.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior jugular vein.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Suprascapular vein.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "External jugular vein.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Suprascapular vein.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "External jugular vein.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Anterior division of retromandibular vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Dorsal digital veins of hand.r",
+   "src_type": "CURVE",
+   "polys": 9216
+  },
+  {
+   "name": "Dorsal digital veins of hand.l",
+   "src_type": "CURVE",
+   "polys": 9216
+  },
+  {
+   "name": "Dorsal venous network of hand.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Dorsal venous network of hand.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Cephalic vein.r",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Cephalic vein.l",
+   "src_type": "CURVE",
+   "polys": 3456
+  },
+  {
+   "name": "Thoracodorsal vein.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Circumflex scapular vein.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Thoracodorsal vein.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Circumflex scapular vein.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Median cubital vein.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Median antebrachial vein.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Median cubital vein.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Median antebrachial vein.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Basilic vein.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Basilic vein.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Superficial venous palmar arch.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Palmar digital veins.r",
+   "src_type": "CURVE",
+   "polys": 14256
+  },
+  {
+   "name": "Superficial venous palmar arch.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Palmar digital veins.l",
+   "src_type": "CURVE",
+   "polys": 14256
+  },
+  {
+   "name": "Ulnar veins.r",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Ulnar veins.l",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Deep venous palmar arch.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Deep venous palmar arch.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Radial veins.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Radial veins.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Brachial veins.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Brachial veins.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Anterior circumflex humeral vein.r",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior circumflex humeral vein.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Lateral thoracic vein.r",
+   "src_type": "CURVE",
+   "polys": 5040
+  },
+  {
+   "name": "Axillary vein.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Anterior circumflex humeral vein.l",
+   "src_type": "CURVE",
+   "polys": 1872
+  },
+  {
+   "name": "Posterior circumflex humeral vein.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Lateral thoracic vein.l",
+   "src_type": "CURVE",
+   "polys": 5040
+  },
+  {
+   "name": "Axillary vein.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Left subclavian vein",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Right subclavian vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Hepatic veins",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Intrarenal veins of right kidney",
+   "src_type": "CURVE",
+   "polys": 14256
+  },
+  {
+   "name": "Right renal vein",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Intrarenal veins of left kidney",
+   "src_type": "CURVE",
+   "polys": 11376
+  },
+  {
+   "name": "Left renal vein",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Right testicular vein",
+   "src_type": "CURVE",
+   "polys": 4896
+  },
+  {
+   "name": "Lateral sacral veins.r",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Lateral sacral veins.l",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Internal pudendal vein.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Internal pudendal vein.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Deep dorsal vein of penis",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Inferior gluteal veins.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Internal iliac vein.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Superior gluteal veins.r",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Inferior gluteal veins.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Internal iliac vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Superior gluteal veins.l",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Inferior epigastric vein.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Inferior epigastric vein.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "External iliac vein.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "External iliac vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Common iliac vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Common iliac vein.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Iliolumbar vein.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Iliolumbar vein.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Inferior vena cava (thoracic part)",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Inferior vena cava (abdominal part)",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Lumbar veins.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Lumbar veins.r",
+   "src_type": "CURVE",
+   "polys": 7344
+  },
+  {
+   "name": "Superficial dorsal veins of penis",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Great saphenous vein.r",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Superficial epigastric vein.r",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Great saphenous vein.l",
+   "src_type": "CURVE",
+   "polys": 4176
+  },
+  {
+   "name": "Superficial epigastric vein.l",
+   "src_type": "CURVE",
+   "polys": 3600
+  },
+  {
+   "name": "Deep femoral vein.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Perforating veins.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Deep femoral vein.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Anterior tibial veins.r",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior tibial veins.l",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Plantar digital veins.r",
+   "src_type": "CURVE",
+   "polys": 12672
+  },
+  {
+   "name": "Plantar metatarsal veins.r",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Plantar digital veins.l",
+   "src_type": "CURVE",
+   "polys": 12672
+  },
+  {
+   "name": "Plantar metatarsal veins.l",
+   "src_type": "CURVE",
+   "polys": 4320
+  },
+  {
+   "name": "Plantar venous arch.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Plantar venous arch.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lateral plantar veins.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Lateral plantar veins.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior tibial veins.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Fibular veins.r",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Medial plantar veins.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Posterior tibial veins.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Fibular veins.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Medial plantar veins.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Dorsal venous arch of foot.r",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Intercapitular veins of foot.r",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Dorsal venous arch of foot.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Intercapitular veins of foot.l",
+   "src_type": "CURVE",
+   "polys": 3888
+  },
+  {
+   "name": "Small saphenous vein.r",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Small saphenous vein.l",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Popliteal vein.r",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Genicular veins.r",
+   "src_type": "CURVE",
+   "polys": 5040
+  },
+  {
+   "name": "Popliteal vein.l",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Genicular veins.l",
+   "src_type": "CURVE",
+   "polys": 5040
+  },
+  {
+   "name": "Femoral vein.r",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Lateral circumflex femoral veins.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Medial circumflex femoral veins.r",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Femoral vein.l",
+   "src_type": "CURVE",
+   "polys": 2016
+  },
+  {
+   "name": "Lateral circumflex femoral veins.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Medial circumflex femoral veins.l",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior mesenteric vein",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Middle colic vein",
+   "src_type": "CURVE",
+   "polys": 2736
+  },
+  {
+   "name": "Right colic vein",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Right gastro-omental vein",
+   "src_type": "CURVE",
+   "polys": 3312
+  },
+  {
+   "name": "Left gastro-omental vein",
+   "src_type": "CURVE",
+   "polys": 1296
+  },
+  {
+   "name": "Sigmoid veins",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Splenic vein",
+   "src_type": "CURVE",
+   "polys": 4752
+  },
+  {
+   "name": "Inferior mesenteric vein",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Perforating veins.l",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Dorsal metatarsal veins.r",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Dorsal metatarsal veins.l",
+   "src_type": "CURVE",
+   "polys": 2592
+  },
+  {
+   "name": "Left testicular vein",
+   "src_type": "CURVE",
+   "polys": 4896
+  },
+  {
+   "name": "Hepatic portal vein",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "External pudendal veins.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "External pudendal veins.l",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Subscapular vein.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Subscapular vein.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Retromandibular vein.l",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Anterior division of retromandibular vein.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Retromandibular vein.r",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Inferior petrosal sinus.r",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Inferior petrosal sinus.l",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Posterior intercavernous sinus",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Anterior intercavernous sinus",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Superior ophthalmic vein.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Basilar venous plexus",
+   "src_type": "MESH",
+   "polys": 28096
+  },
+  {
+   "name": "Cavernous sinus.r",
+   "src_type": "MESH",
+   "polys": 4864
+  },
+  {
+   "name": "Cavernous sinus.l",
+   "src_type": "MESH",
+   "polys": 4864
+  },
+  {
+   "name": "Dorsal digital veins of foot.l",
+   "src_type": "CURVE",
+   "polys": 8352
+  },
+  {
+   "name": "Dorsal digital veins of foot.r",
+   "src_type": "CURVE",
+   "polys": 8352
+  },
+  {
+   "name": "Superior ophthalmic vein.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Right atrium",
+   "src_type": "MESH",
+   "polys": 11341
+  },
+  {
+   "name": "Right ventricle",
+   "src_type": "MESH",
+   "polys": 11161
+  },
+  {
+   "name": "Left atrium",
+   "src_type": "MESH",
+   "polys": 2610
+  },
+  {
+   "name": "Left ventricle",
+   "src_type": "MESH",
+   "polys": 11126
+  },
+  {
+   "name": "Inferior papillary muscle of right ventricle",
+   "src_type": "MESH",
+   "polys": 1090
+  },
+  {
+   "name": "Anterior papillary muscle of right ventricle",
+   "src_type": "MESH",
+   "polys": 1544
+  },
+  {
+   "name": "Septal papillary muscle of right ventricle",
+   "src_type": "MESH",
+   "polys": 844
+  },
+  {
+   "name": "Inferior papillary muscle of left ventricle",
+   "src_type": "MESH",
+   "polys": 1560
+  },
+  {
+   "name": "Inferior leaflet of right atrioventricular valve",
+   "src_type": "MESH",
+   "polys": 9852
+  },
+  {
+   "name": "Septal leaflet of right atrioventricular valve",
+   "src_type": "MESH",
+   "polys": 9040
+  },
+  {
+   "name": "Posterior leaflet of left atrioventricular valve",
+   "src_type": "MESH",
+   "polys": 7640
+  },
+  {
+   "name": "Left coronary leaflet",
+   "src_type": "MESH",
+   "polys": 914
+  },
+  {
+   "name": "Non-coronary leaflet",
+   "src_type": "MESH",
+   "polys": 316
+  },
+  {
+   "name": "Right coronary leaflet",
+   "src_type": "MESH",
+   "polys": 918
+  },
+  {
+   "name": "Anterior semilunar leaflet of pulmonary valve",
+   "src_type": "MESH",
+   "polys": 2531
+  },
+  {
+   "name": "Left semilunar leaflet of pulmonary valve",
+   "src_type": "MESH",
+   "polys": 1992
+  },
+  {
+   "name": "Right semilunar leaflet of pulmonary valve",
+   "src_type": "MESH",
+   "polys": 2735
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Pulmonary arteries.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior lobar artery of left lung.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior lobar artery of left lung.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior lobar artery of left lung.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior lobar artery of left lung.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pulmonary veins.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Arteries of heart.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cardiac veins.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Systemic arteries.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Arteries of spinal cord.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cerebral arterial circle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Aortic bifurcation.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Aorta.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Aortic bifurcation.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Aorta.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Systemic veins.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Confluence of sinuses.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Dural venous sinuses.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cranial veins.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Orbital veins.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Union of brachiocephalic veins.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Hepatic portal vein.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Branches of hepatic portal vein.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tributaries of hepatic portal vein.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Heart.g",
+   "type": "FONT"
+  }
+ ]
+}

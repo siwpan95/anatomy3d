@@ -44,7 +44,7 @@ python -m unittest discover -s tests
 | 阶段 | 内容 | 状态 |
 |---|---|---|
 | M0 | 框架底座：契约 v1 + 目录骨架 + selfcheck | ✅ 本仓首发 |
-| M1 | 资产管线：Blender 无头导出 GLB + manifest（规避已知坑点，见 tools/pipeline/README.md） | ⬜ |
+| M1 | 资产管线：Blender 无头导出 GLB + manifest（规避已知坑点，见 tools/pipeline/README.md） | ◐ 首期心血管系统已通（1092 对象 / 356 万三角形 / 138MB GLB + 402 结构 manifest、契约 PASS）；其余系统滚动导出 |
 | M2 | 查看器：加载 / 拾取 / 显隐 / OIT / 标注 / 结构树 | ⬜ |
 | M3 | 知识层：定义 + 三语索引 + 中文术语映射 | ⬜ |
 | M4 | 剖面裁剪 + quiz 学习模式 | ⬜ |
