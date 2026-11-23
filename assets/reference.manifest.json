@@ -1,0 +1,495 @@
+{
+ "manifest_version": 1,
+ "source": "z-anatomy",
+ "systems": [
+  {
+   "name": "reference",
+   "label": {
+    "en": "reference"
+   },
+   "structures": [
+    {
+     "id": "TA2:35:reference:distal",
+     "ta2_id": "35",
+     "names": {
+      "en": "Distal"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Distal"
+     },
+     "polys": 42
+    },
+    {
+     "id": "TA2:15:reference:dorsal",
+     "ta2_id": "15",
+     "names": {
+      "en": "Dorsal"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Dorsal"
+     },
+     "polys": 63
+    },
+    {
+     "id": "TA2:40:reference:fibular",
+     "ta2_id": "40",
+     "names": {
+      "en": "Fibular"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Fibular"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:43:reference:plantar",
+     "ta2_id": "43",
+     "names": {
+      "en": "Plantar"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Plantar"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:34:reference:proximal",
+     "ta2_id": "34",
+     "names": {
+      "en": "Proximal"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Proximal"
+     },
+     "polys": 42
+    },
+    {
+     "id": "TA2:38:reference:radial",
+     "ta2_id": "38",
+     "names": {
+      "en": "Radial"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Radial"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:41:reference:tibial",
+     "ta2_id": "41",
+     "names": {
+      "en": "Tibial"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Tibial"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:39:reference:ulnar",
+     "ta2_id": "39",
+     "names": {
+      "en": "Ulnar"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Ulnar"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:14:reference:ventral",
+     "ta2_id": "14",
+     "names": {
+      "en": "Ventral"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Ventral"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:16:reference:frontal",
+     "ta2_id": "16",
+     "names": {
+      "en": "Frontal"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Frontal"
+     },
+     "polys": 15
+    },
+    {
+     "id": "TA2:17:reference:occipital",
+     "ta2_id": "17",
+     "names": {
+      "en": "Occipital"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Occipital"
+     },
+     "polys": 15
+    },
+    {
+     "id": "TA2:20:reference:cranial",
+     "ta2_id": "20",
+     "names": {
+      "en": "Cranial"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Cranial"
+     },
+     "polys": 15
+    },
+    {
+     "id": "TA2:21:reference:caudal",
+     "ta2_id": "21",
+     "names": {
+      "en": "Caudal"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Caudal"
+     },
+     "polys": 15
+    },
+    {
+     "id": "TA2:42:reference:palmar",
+     "ta2_id": "42",
+     "names": {
+      "en": "Palmar"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Palmar"
+     },
+     "polys": 21
+    },
+    {
+     "id": "TA2:51:reference:paramedian_plane",
+     "ta2_id": "51",
+     "names": {
+      "en": "Paramedian plane"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Paramedian plane"
+     },
+     "polys": 1
+    },
+    {
+     "id": "TA2:48:reference:coronal_planes",
+     "ta2_id": "48",
+     "names": {
+      "en": "Coronal planes"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Coronal planes"
+     },
+     "polys": 2
+    },
+    {
+     "id": "TA2:50:reference:median_plane",
+     "ta2_id": "50",
+     "names": {
+      "en": "Median plane"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Median plane"
+     },
+     "polys": 1
+    },
+    {
+     "id": "TA2:52:reference:transverse_planes",
+     "ta2_id": "52",
+     "names": {
+      "en": "Transverse planes"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Transverse planes"
+     },
+     "polys": 5
+    },
+    {
+     "id": "TA2:64:reference:mamillary_line_r",
+     "ta2_id": "64",
+     "names": {
+      "en": "Mamillary line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Mamillary line.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:63:reference:midclavicular_line_r",
+     "ta2_id": "63",
+     "names": {
+      "en": "Midclavicular line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Midclavicular line.r"
+     },
+     "polys": 464
+    },
+    {
+     "id": "TA2:62:reference:parasternal_line_r",
+     "ta2_id": "62",
+     "names": {
+      "en": "Parasternal line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Parasternal line.r"
+     },
+     "polys": 248
+    },
+    {
+     "id": "TA2:61:reference:sternal_line_r",
+     "ta2_id": "61",
+     "names": {
+      "en": "Sternal line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Sternal line.r"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:64:reference:mamillary_line_l",
+     "ta2_id": "64",
+     "names": {
+      "en": "Mamillary line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Mamillary line.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:63:reference:midclavicular_line_l",
+     "ta2_id": "63",
+     "names": {
+      "en": "Midclavicular line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Midclavicular line.l"
+     },
+     "polys": 464
+    },
+    {
+     "id": "TA2:62:reference:parasternal_line_l",
+     "ta2_id": "62",
+     "names": {
+      "en": "Parasternal line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Parasternal line.l"
+     },
+     "polys": 248
+    },
+    {
+     "id": "TA2:61:reference:sternal_line_l",
+     "ta2_id": "61",
+     "names": {
+      "en": "Sternal line"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Sternal line.l"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:77:reference:abduction",
+     "ta2_id": "77",
+     "names": {
+      "en": "Abduction"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Abduction"
+     },
+     "polys": 46
+    },
+    {
+     "id": "TA2:78:reference:adduction",
+     "ta2_id": "78",
+     "names": {
+      "en": "Adduction"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Adduction"
+     },
+     "polys": 552
+    },
+    {
+     "id": "TA2:81:reference:circumduction",
+     "ta2_id": "81",
+     "names": {
+      "en": "Circumduction"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Circumduction"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:79:reference:lateral_rotation",
+     "ta2_id": "79",
+     "names": {
+      "en": "Lateral rotation"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Lateral rotation"
+     },
+     "polys": 23
+    },
+    {
+     "id": "TA2:80:reference:medial_rotation",
+     "ta2_id": "80",
+     "names": {
+      "en": "Medial rotation"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Medial rotation"
+     },
+     "polys": 23
+    },
+    {
+     "id": "TA2:85:reference:supination",
+     "ta2_id": "85",
+     "names": {
+      "en": "Supination"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Supination"
+     },
+     "polys": 23
+    },
+    {
+     "id": "TA2:84:reference:pronation",
+     "ta2_id": "84",
+     "names": {
+      "en": "Pronation"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Pronation"
+     },
+     "polys": 23
+    },
+    {
+     "id": "TA2:93:reference:inversion",
+     "ta2_id": "93",
+     "names": {
+      "en": "Inversion"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Inversion"
+     },
+     "polys": 23
+    },
+    {
+     "id": "TA2:92:reference:eversion",
+     "ta2_id": "92",
+     "names": {
+      "en": "Eversion"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Eversion"
+     },
+     "polys": 23
+    },
+    {
+     "id": "TA2:88:reference:plantar_flexion",
+     "ta2_id": "88",
+     "names": {
+      "en": "Plantar flexion"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Plantar flexion"
+     },
+     "polys": 13
+    },
+    {
+     "id": "TA2:89:reference:dorsiflexion",
+     "ta2_id": "89",
+     "names": {
+      "en": "Dorsiflexion"
+     },
+     "kind": "other",
+     "mesh": {
+      "glb": "reference.glb",
+      "node": "Dorsiflexion"
+     },
+     "polys": 15
+    }
+   ]
+  }
+ ]
+}

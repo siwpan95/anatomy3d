@@ -1,0 +1,13 @@
+{
+ "manifest_version": 1,
+ "source": "z-anatomy",
+ "systems": [
+  {
+   "name": "muscular-insertions",
+   "label": {
+    "en": "muscular-insertions"
+   },
+   "structures": []
+  }
+ ]
+}

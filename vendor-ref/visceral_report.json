@@ -1,0 +1,1457 @@
+{
+ "collection": "Visceral systems",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/visceral.glb",
+ "converted": 262,
+ "total_polygons": 621978,
+ "objects": [
+  {
+   "name": "Uvula of palate",
+   "src_type": "MESH",
+   "polys": 1502
+  },
+  {
+   "name": "Gingiva",
+   "src_type": "MESH",
+   "polys": 12298
+  },
+  {
+   "name": "Parotid gland.r",
+   "src_type": "MESH",
+   "polys": 852
+  },
+  {
+   "name": "(Accessory parotid gland).r",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Parotid gland.l",
+   "src_type": "MESH",
+   "polys": 852
+  },
+  {
+   "name": "(Accessory parotid gland).l",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Parotid duct.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Parotid duct.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Sublingual gland.l",
+   "src_type": "MESH",
+   "polys": 324
+  },
+  {
+   "name": "Sublingual gland.r",
+   "src_type": "MESH",
+   "polys": 324
+  },
+  {
+   "name": "Submandibular gland.l",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Submandibular gland.r",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Submandibular duct.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Submandibular duct.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Tongue",
+   "src_type": "MESH",
+   "polys": 602
+  },
+  {
+   "name": "Pharynx.j",
+   "src_type": "MESH",
+   "polys": 1
+  },
+  {
+   "name": "Oesophagus",
+   "src_type": "CURVE",
+   "polys": 8160
+  },
+  {
+   "name": "Stomach",
+   "src_type": "MESH",
+   "polys": 4734
+  },
+  {
+   "name": "Duodenum",
+   "src_type": "MESH",
+   "polys": 1737
+  },
+  {
+   "name": "Jejunum",
+   "src_type": "CURVE",
+   "polys": 13824
+  },
+  {
+   "name": "Vermiform appendix",
+   "src_type": "MESH",
+   "polys": 442
+  },
+  {
+   "name": "Free taenia",
+   "src_type": "MESH",
+   "polys": 3356
+  },
+  {
+   "name": "Mesocolic taenia",
+   "src_type": "MESH",
+   "polys": 3396
+  },
+  {
+   "name": "Omental taenia",
+   "src_type": "MESH",
+   "polys": 3116
+  },
+  {
+   "name": "Sigmoid colon",
+   "src_type": "MESH",
+   "polys": 3377
+  },
+  {
+   "name": "Ascending colon",
+   "src_type": "MESH",
+   "polys": 8756
+  },
+  {
+   "name": "Descending colon",
+   "src_type": "MESH",
+   "polys": 12372
+  },
+  {
+   "name": "Transverse colon",
+   "src_type": "MESH",
+   "polys": 8308
+  },
+  {
+   "name": "Left posterior lateral segment of liver (II)",
+   "src_type": "MESH",
+   "polys": 1658
+  },
+  {
+   "name": "Left anterior lateral segment of liver (III)",
+   "src_type": "MESH",
+   "polys": 1722
+  },
+  {
+   "name": "Left medial segment of liver (IV)",
+   "src_type": "MESH",
+   "polys": 2386
+  },
+  {
+   "name": "Anterior medial segment of liver (V)",
+   "src_type": "MESH",
+   "polys": 1769
+  },
+  {
+   "name": "Anterior lateral segment of liver (VI)",
+   "src_type": "MESH",
+   "polys": 1676
+  },
+  {
+   "name": "Posterior lateral segment of liver (VII)",
+   "src_type": "MESH",
+   "polys": 1194
+  },
+  {
+   "name": "Posterior segment of liver (I)",
+   "src_type": "MESH",
+   "polys": 1304
+  },
+  {
+   "name": "Posterior medial segment of liver (VIII)",
+   "src_type": "MESH",
+   "polys": 1780
+  },
+  {
+   "name": "Liver",
+   "src_type": "MESH",
+   "polys": 6135
+  },
+  {
+   "name": "Gallbladder",
+   "src_type": "MESH",
+   "polys": 368
+  },
+  {
+   "name": "Bile duct",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Pancreatic duct",
+   "src_type": "CURVE",
+   "polys": 27912
+  },
+  {
+   "name": "Accessory pancreatic duct",
+   "src_type": "CURVE",
+   "polys": 5688
+  },
+  {
+   "name": "Pancreas",
+   "src_type": "MESH",
+   "polys": 5056
+  },
+  {
+   "name": "Mucosa of stomach",
+   "src_type": "MESH",
+   "polys": 4874
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.r",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Thyroid cartilage",
+   "src_type": "MESH",
+   "polys": 4482
+  },
+  {
+   "name": "External anal sphincter.r",
+   "src_type": "MESH",
+   "polys": 202
+  },
+  {
+   "name": "External anal sphincter.l",
+   "src_type": "MESH",
+   "polys": 202
+  },
+  {
+   "name": "Epiglottis",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.l",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Gingiva",
+   "src_type": "MESH",
+   "polys": 12298
+  },
+  {
+   "name": "Parotid gland.r",
+   "src_type": "MESH",
+   "polys": 852
+  },
+  {
+   "name": "(Accessory parotid gland).r",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Parotid gland.l",
+   "src_type": "MESH",
+   "polys": 852
+  },
+  {
+   "name": "(Accessory parotid gland).l",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Parotid duct.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Parotid duct.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Sublingual gland.l",
+   "src_type": "MESH",
+   "polys": 324
+  },
+  {
+   "name": "Sublingual gland.r",
+   "src_type": "MESH",
+   "polys": 324
+  },
+  {
+   "name": "Submandibular gland.l",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Submandibular gland.r",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Submandibular duct.l",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Submandibular duct.r",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Tongue",
+   "src_type": "MESH",
+   "polys": 602
+  },
+  {
+   "name": "Oesophagus",
+   "src_type": "CURVE",
+   "polys": 8160
+  },
+  {
+   "name": "Stomach",
+   "src_type": "MESH",
+   "polys": 4734
+  },
+  {
+   "name": "Duodenum",
+   "src_type": "MESH",
+   "polys": 1737
+  },
+  {
+   "name": "Jejunum",
+   "src_type": "CURVE",
+   "polys": 13824
+  },
+  {
+   "name": "Free taenia",
+   "src_type": "MESH",
+   "polys": 3356
+  },
+  {
+   "name": "Mesocolic taenia",
+   "src_type": "MESH",
+   "polys": 3396
+  },
+  {
+   "name": "Omental taenia",
+   "src_type": "MESH",
+   "polys": 3116
+  },
+  {
+   "name": "Sigmoid colon",
+   "src_type": "MESH",
+   "polys": 3377
+  },
+  {
+   "name": "Ascending colon",
+   "src_type": "MESH",
+   "polys": 8756
+  },
+  {
+   "name": "Descending colon",
+   "src_type": "MESH",
+   "polys": 12372
+  },
+  {
+   "name": "Transverse colon",
+   "src_type": "MESH",
+   "polys": 8308
+  },
+  {
+   "name": "Left posterior lateral segment of liver (II)",
+   "src_type": "MESH",
+   "polys": 1658
+  },
+  {
+   "name": "Left anterior lateral segment of liver (III)",
+   "src_type": "MESH",
+   "polys": 1722
+  },
+  {
+   "name": "Left medial segment of liver (IV)",
+   "src_type": "MESH",
+   "polys": 2386
+  },
+  {
+   "name": "Anterior medial segment of liver (V)",
+   "src_type": "MESH",
+   "polys": 1769
+  },
+  {
+   "name": "Anterior lateral segment of liver (VI)",
+   "src_type": "MESH",
+   "polys": 1676
+  },
+  {
+   "name": "Posterior lateral segment of liver (VII)",
+   "src_type": "MESH",
+   "polys": 1194
+  },
+  {
+   "name": "Posterior segment of liver (I)",
+   "src_type": "MESH",
+   "polys": 1304
+  },
+  {
+   "name": "Posterior medial segment of liver (VIII)",
+   "src_type": "MESH",
+   "polys": 1780
+  },
+  {
+   "name": "Trachea",
+   "src_type": "MESH",
+   "polys": 4516
+  },
+  {
+   "name": "Superior segmental bronchus of right lung (BVI)",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Lateral segmental bronchus of right lung (BIV)",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Right inferior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior basal segmental bronchus of right lung (BX)",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Medial basal segmental bronchus of right lung (BVII)",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lateral basal segmental bronchus of right lung (BIX)",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior basal segmental bronchus of right lung (BVIII)",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Left superior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Apicoposterior segmental bronchus of left lung (BI+BII)",
+   "src_type": "CURVE",
+   "polys": 3744
+  },
+  {
+   "name": "Anterior segmental bronchus of left lung (BIII)",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior lingular segmental bronchus of left lung (BIV)",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Inferior lingular segmental bronchus of left lung (BV)",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior segmental bronchus of left lung (BVI)",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Medial basal segmental bronchus of left lung (BVII)",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Anterior basal segmental bronchus of left lung (BVIII)",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Left inferior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Lateral basal segmental bronchus of left lung (BIX)",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Left main bronchus",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Anterior segmental bronchus of right lung (BIII)",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Apical segmental bronchus of right lung (BI)",
+   "src_type": "CURVE",
+   "polys": 3312
+  },
+  {
+   "name": "Posterior segmental bronchus of right lung (BII)",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Right superior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Right main bronchus",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Superior lobe of right lung",
+   "src_type": "MESH",
+   "polys": 3874
+  },
+  {
+   "name": "Middle lobe of right lung",
+   "src_type": "MESH",
+   "polys": 3698
+  },
+  {
+   "name": "Inferior lobe of right lung",
+   "src_type": "MESH",
+   "polys": 4226
+  },
+  {
+   "name": "Superior lobe of left lung",
+   "src_type": "MESH",
+   "polys": 4645
+  },
+  {
+   "name": "Inferior lobe of left lung",
+   "src_type": "MESH",
+   "polys": 4629
+  },
+  {
+   "name": "Middle lobar bronchus.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Intermediate bronchus.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Medial segmental bronchus of right lung (BV)",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Posterior basal segmental bronchus of left lung (BX)",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "(Anteromedial basal segmental bronchus of left lung)",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Pleura",
+   "src_type": "MESH",
+   "polys": 56144
+  },
+  {
+   "name": "Trachea",
+   "src_type": "MESH",
+   "polys": 4516
+  },
+  {
+   "name": "Superior segmental bronchus of right lung (BVI)",
+   "src_type": "CURVE",
+   "polys": 4464
+  },
+  {
+   "name": "Lateral segmental bronchus of right lung (BIV)",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Right inferior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Posterior basal segmental bronchus of right lung (BX)",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Medial basal segmental bronchus of right lung (BVII)",
+   "src_type": "CURVE",
+   "polys": 864
+  },
+  {
+   "name": "Lateral basal segmental bronchus of right lung (BIX)",
+   "src_type": "CURVE",
+   "polys": 2304
+  },
+  {
+   "name": "Anterior basal segmental bronchus of right lung (BVIII)",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Left superior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "Apicoposterior segmental bronchus of left lung (BI+BII)",
+   "src_type": "CURVE",
+   "polys": 3744
+  },
+  {
+   "name": "Anterior segmental bronchus of left lung (BIII)",
+   "src_type": "CURVE",
+   "polys": 1728
+  },
+  {
+   "name": "Superior lingular segmental bronchus of left lung (BIV)",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Inferior lingular segmental bronchus of left lung (BV)",
+   "src_type": "CURVE",
+   "polys": 1008
+  },
+  {
+   "name": "Superior segmental bronchus of left lung (BVI)",
+   "src_type": "CURVE",
+   "polys": 2160
+  },
+  {
+   "name": "Medial basal segmental bronchus of left lung (BVII)",
+   "src_type": "CURVE",
+   "polys": 2880
+  },
+  {
+   "name": "Anterior basal segmental bronchus of left lung (BVIII)",
+   "src_type": "CURVE",
+   "polys": 720
+  },
+  {
+   "name": "Left inferior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Lateral basal segmental bronchus of left lung (BIX)",
+   "src_type": "CURVE",
+   "polys": 1152
+  },
+  {
+   "name": "Left main bronchus",
+   "src_type": "CURVE",
+   "polys": 288
+  },
+  {
+   "name": "Anterior segmental bronchus of right lung (BIII)",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Apical segmental bronchus of right lung (BI)",
+   "src_type": "CURVE",
+   "polys": 3312
+  },
+  {
+   "name": "Posterior segmental bronchus of right lung (BII)",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Right superior lobar bronchus",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Right main bronchus",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Middle lobar bronchus.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Intermediate bronchus.r",
+   "src_type": "CURVE",
+   "polys": 144
+  },
+  {
+   "name": "Medial segmental bronchus of right lung (BV)",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Posterior basal segmental bronchus of left lung (BX)",
+   "src_type": "CURVE",
+   "polys": 576
+  },
+  {
+   "name": "(Anteromedial basal segmental bronchus of left lung)",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Superior lobe of right lung",
+   "src_type": "MESH",
+   "polys": 3874
+  },
+  {
+   "name": "Middle lobe of right lung",
+   "src_type": "MESH",
+   "polys": 3698
+  },
+  {
+   "name": "Inferior lobe of right lung",
+   "src_type": "MESH",
+   "polys": 4226
+  },
+  {
+   "name": "Superior lobe of left lung",
+   "src_type": "MESH",
+   "polys": 4645
+  },
+  {
+   "name": "Inferior lobe of left lung",
+   "src_type": "MESH",
+   "polys": 4629
+  },
+  {
+   "name": "Kidney.l",
+   "src_type": "MESH",
+   "polys": 2982
+  },
+  {
+   "name": "Kidney.r",
+   "src_type": "MESH",
+   "polys": 2319
+  },
+  {
+   "name": "Urinary bladder",
+   "src_type": "MESH",
+   "polys": 1518
+  },
+  {
+   "name": "Urethra",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Renal pelvis.l",
+   "src_type": "MESH",
+   "polys": 1450
+  },
+  {
+   "name": "Renal pelvis.r",
+   "src_type": "MESH",
+   "polys": 1262
+  },
+  {
+   "name": "Ureter.l",
+   "src_type": "CURVE",
+   "polys": 1440
+  },
+  {
+   "name": "Ureter.r",
+   "src_type": "CURVE",
+   "polys": 1584
+  },
+  {
+   "name": "Testis.r",
+   "src_type": "MESH",
+   "polys": 678
+  },
+  {
+   "name": "Testis.l",
+   "src_type": "MESH",
+   "polys": 678
+  },
+  {
+   "name": "Epididymis.r",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Epididymis.l",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Ductus deferens.l",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Ductus deferens.r",
+   "src_type": "CURVE",
+   "polys": 2448
+  },
+  {
+   "name": "Seminal gland.r",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Seminal gland.l",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Prostate",
+   "src_type": "MESH",
+   "polys": 468
+  },
+  {
+   "name": "Ejaculatory duct.l",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Ejaculatory duct.r",
+   "src_type": "CURVE",
+   "polys": 432
+  },
+  {
+   "name": "Glans penis",
+   "src_type": "MESH",
+   "polys": 1391
+  },
+  {
+   "name": "Corpus cavernosum of penis",
+   "src_type": "MESH",
+   "polys": 1288
+  },
+  {
+   "name": "Corpus spongiosum of penis",
+   "src_type": "MESH",
+   "polys": 560
+  },
+  {
+   "name": "Mesocolon",
+   "src_type": "MESH",
+   "polys": 7884
+  },
+  {
+   "name": "Greater omentum",
+   "src_type": "MESH",
+   "polys": 38984
+  },
+  {
+   "name": "Lesser omentum",
+   "src_type": "MESH",
+   "polys": 2380
+  },
+  {
+   "name": "Occipital nodes.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Bucinator node.l",
+   "src_type": "MESH",
+   "polys": 288
+  },
+  {
+   "name": "Submental nodes.l",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Infra-auricular nodes.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Occipital nodes.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Bucinator node.r",
+   "src_type": "MESH",
+   "polys": 288
+  },
+  {
+   "name": "Submental nodes.r",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Infra-auricular nodes.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Supraclavicular nodes.r",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Supraclavicular nodes.l",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Superficial anterior cervical nodes",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Retrocaval nodes",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Inferior epigastric nodes.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Superior pancreatic nodes",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Precaecal nodes",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Medial common iliac nodes",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Medial external iliac nodes.r",
+   "src_type": "MESH",
+   "polys": 768
+  },
+  {
+   "name": "Medial external iliac nodes.l",
+   "src_type": "MESH",
+   "polys": 768
+  },
+  {
+   "name": "Inferior epigastric nodes.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Brachial nodes.r",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Anterior axillary nodes.r",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Brachial nodes.l",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Supratrochlear nodes.l",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Anterior axillary nodes.l",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Supratrochlear nodes.r",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Superficial popliteal nodes.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Superficial popliteal nodes.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "(Anterior tibial node).l",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "(Anterior tibial node).r",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "(Proximal deep inguinal node).l",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "(Proximal deep inguinal node).r",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Cystic node",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Retropharyngeal nodes.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Mastoid nodes.l",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Palatine tonsil.l",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Retropharyngeal nodes.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Mastoid nodes.r",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Palatine tonsil.r",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Submandibular nodes.r",
+   "src_type": "MESH",
+   "polys": 288
+  },
+  {
+   "name": "Retro-aortic nodes",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Left lobe of thymus",
+   "src_type": "MESH",
+   "polys": 9188
+  },
+  {
+   "name": "Right lobe of thymus",
+   "src_type": "MESH",
+   "polys": 6452
+  },
+  {
+   "name": "Spleen",
+   "src_type": "MESH",
+   "polys": 1330
+  },
+  {
+   "name": "Retrocaecal nodes",
+   "src_type": "MESH",
+   "polys": 288
+  },
+  {
+   "name": "Postvesical nodes",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Infraclavicular nodes.l",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Infraclavicular nodes.r",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Deep popliteal nodes.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Deep popliteal nodes.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "(Posterior tibial node).l",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "(Posterior tibial node).r",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "(Intermediate deep inguinal node).l",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "(Intermediate deep inguinal node).r",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Submandibular nodes.l",
+   "src_type": "MESH",
+   "polys": 288
+  },
+  {
+   "name": "Adenohypophysis",
+   "src_type": "MESH",
+   "polys": 678
+  },
+  {
+   "name": "Neurohypophysis",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Thyroid gland",
+   "src_type": "MESH",
+   "polys": 1300
+  },
+  {
+   "name": "Suprarenal gland.l",
+   "src_type": "MESH",
+   "polys": 3996
+  },
+  {
+   "name": "Suprarenal gland.r",
+   "src_type": "MESH",
+   "polys": 2294
+  },
+  {
+   "name": "Pineal gland",
+   "src_type": "MESH",
+   "polys": 592
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Salivary glands.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Major salivary glands.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Palate.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mouth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fauces.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Small intestine.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Taeniae coli.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Colon.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Large intestine.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Digestive canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Extrahepatic bile ducts.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Digestive system.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Oesophagus-profile",
+   "type": "CURVE",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Left lung.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Right lung.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bronchi.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tracheobronchial tree.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lungs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Respiratory system.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Urinary system.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Genital systems.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Male internal genitalia.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Penis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Male external genitalia.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Male genital system.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Endocrine glands.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Hypophysis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  }
+ ]
+}

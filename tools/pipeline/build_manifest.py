@@ -104,7 +104,10 @@ def build(report_path: str, ta2_path: str, system: str, out_path: str) -> None:
             excluded.append({"name": name, "reason": "no-ta2-match", "polys": ob.get("polys")})
             continue
         matched, tid = hit
-        sid = f"TA2:{tid}"
+        # id 必须全域唯一：同一 TA2 概念会在多个系统/节点里出现（股骨同时在骨骼与区域系统）。
+        # 用「TA2 id + system + node slug」复合键，既能追溯概念又不误删跨系统条目。
+        node_slug = re.sub(r"[^A-Za-z0-9]+", "_", name).strip("_").lower()
+        sid = f"TA2:{tid}:{system}:{node_slug}"
         entry = {
             "id": sid,
             "ta2_id": tid,

@@ -1,0 +1,8547 @@
+{
+ "collection": "Muscular system",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/muscular.glb",
+ "converted": 1572,
+ "total_polygons": 5430350,
+ "objects": [
+  {
+   "name": "Frontalis muscle.r",
+   "src_type": "MESH",
+   "polys": 5874
+  },
+  {
+   "name": "Frontalis muscle.l",
+   "src_type": "MESH",
+   "polys": 5874
+  },
+  {
+   "name": "Temporoparietalis muscle.r",
+   "src_type": "MESH",
+   "polys": 11972
+  },
+  {
+   "name": "Temporoparietalis muscle.l",
+   "src_type": "MESH",
+   "polys": 11972
+  },
+  {
+   "name": "Nasalis muscle.r",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Nasalis muscle.l",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Orbicularis oris muscle.r",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Orbicularis oris muscle.l",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Zygomaticus major muscle.r",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Depressor anguli oris.r",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Procerus muscle.r",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.r",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.r",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Zygomaticus major muscle.l",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Depressor anguli oris.l",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Procerus muscle.l",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.l",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.l",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Superficial investing cervical fascia.r",
+   "src_type": "MESH",
+   "polys": 1715
+  },
+  {
+   "name": "Platysma.r",
+   "src_type": "MESH",
+   "polys": 6548
+  },
+  {
+   "name": "Platysma.l",
+   "src_type": "MESH",
+   "polys": 6548
+  },
+  {
+   "name": "Superficial investing cervical fascia.l",
+   "src_type": "MESH",
+   "polys": 1715
+  },
+  {
+   "name": "Pectoral fascia.r",
+   "src_type": "MESH",
+   "polys": 1376
+  },
+  {
+   "name": "Pectoral fascia.l",
+   "src_type": "MESH",
+   "polys": 1376
+  },
+  {
+   "name": "Investing abdominal fascia.r",
+   "src_type": "MESH",
+   "polys": 5618
+  },
+  {
+   "name": "Investing abdominal fascia.l",
+   "src_type": "MESH",
+   "polys": 5618
+  },
+  {
+   "name": "Fascia lata.r",
+   "src_type": "MESH",
+   "polys": 6530
+  },
+  {
+   "name": "Popliteal fascia.r",
+   "src_type": "MESH",
+   "polys": 246
+  },
+  {
+   "name": "Crural fascia.r",
+   "src_type": "MESH",
+   "polys": 5523
+  },
+  {
+   "name": "Deltoid fascia.r",
+   "src_type": "MESH",
+   "polys": 1821
+  },
+  {
+   "name": "Brachial fascia.r",
+   "src_type": "MESH",
+   "polys": 1532
+  },
+  {
+   "name": "Antebrachial fascia.r",
+   "src_type": "MESH",
+   "polys": 2253
+  },
+  {
+   "name": "Deltoid fascia.l",
+   "src_type": "MESH",
+   "polys": 1821
+  },
+  {
+   "name": "Brachial fascia.l",
+   "src_type": "MESH",
+   "polys": 1532
+  },
+  {
+   "name": "Antebrachial fascia.l",
+   "src_type": "MESH",
+   "polys": 2253
+  },
+  {
+   "name": "Fascia lata.l",
+   "src_type": "MESH",
+   "polys": 6530
+  },
+  {
+   "name": "Popliteal fascia.l",
+   "src_type": "MESH",
+   "polys": 246
+  },
+  {
+   "name": "Crural fascia.l",
+   "src_type": "MESH",
+   "polys": 5523
+  },
+  {
+   "name": "Superficial layer of temporal fascia.r",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Masseteric fascia.r",
+   "src_type": "MESH",
+   "polys": 205
+  },
+  {
+   "name": "Superficial layer of temporal fascia.l",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Masseteric fascia.l",
+   "src_type": "MESH",
+   "polys": 205
+  },
+  {
+   "name": "Occipitalis muscle.r",
+   "src_type": "MESH",
+   "polys": 2602
+  },
+  {
+   "name": "Epicranial aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 20118
+  },
+  {
+   "name": "Occipitalis muscle.l",
+   "src_type": "MESH",
+   "polys": 2602
+  },
+  {
+   "name": "Epicranial aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 20118
+  },
+  {
+   "name": "Temporalis muscle.r",
+   "src_type": "MESH",
+   "polys": 10260
+  },
+  {
+   "name": "Temporalis muscle.l",
+   "src_type": "MESH",
+   "polys": 10260
+  },
+  {
+   "name": "Ascending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Ascending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Descending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Descending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Latissimus dorsi muscle.r",
+   "src_type": "MESH",
+   "polys": 21580
+  },
+  {
+   "name": "Latissimus dorsi muscle.l",
+   "src_type": "MESH",
+   "polys": 21580
+  },
+  {
+   "name": "Clavicular head of pectoralis major muscle.r",
+   "src_type": "MESH",
+   "polys": 850
+  },
+  {
+   "name": "Sternocostal head of pectoralis major muscle.r",
+   "src_type": "MESH",
+   "polys": 3217
+  },
+  {
+   "name": "Clavicular head of pectoralis major muscle.l",
+   "src_type": "MESH",
+   "polys": 850
+  },
+  {
+   "name": "Sternocostal head of pectoralis major muscle.l",
+   "src_type": "MESH",
+   "polys": 3217
+  },
+  {
+   "name": "External abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "External abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "Gluteus maximus muscle.r",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Rectus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.r",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.r",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Sartorius muscle.r",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Long head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Semitendinosus muscle.r",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Tibialis anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis longus muscle.r",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Lateral head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Medial head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.r",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Iliotibial tract.r",
+   "src_type": "MESH",
+   "polys": 48612
+  },
+  {
+   "name": "Acromial part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Long head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Lateral head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Extensor digitorum.r",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Brachioradialis muscle.r",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.r",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Acromial part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Long head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Lateral head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Extensor digitorum.l",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Brachioradialis muscle.l",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.l",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Rectus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.l",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.l",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Sartorius muscle.l",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Long head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Semitendinosus muscle.l",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Tibialis anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis longus muscle.l",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Medial head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.l",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Iliotibial tract.l",
+   "src_type": "MESH",
+   "polys": 48612
+  },
+  {
+   "name": "Gluteus maximus muscle.l",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Lateral head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Superficial transverse metatarsal ligament.r",
+   "src_type": "MESH",
+   "polys": 55
+  },
+  {
+   "name": "Plantar aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 211
+  },
+  {
+   "name": "Superficial transverse metatarsal ligament.l",
+   "src_type": "MESH",
+   "polys": 55
+  },
+  {
+   "name": "Plantar aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 211
+  },
+  {
+   "name": "Lateral rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1600
+  },
+  {
+   "name": "Lateral rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1600
+  },
+  {
+   "name": "Superior oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 1750
+  },
+  {
+   "name": "Superior oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 1750
+  },
+  {
+   "name": "Common tendinous ring.r",
+   "src_type": "MESH",
+   "polys": 362
+  },
+  {
+   "name": "Inferior oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 1148
+  },
+  {
+   "name": "Inferior rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1736
+  },
+  {
+   "name": "Inferior tarsus.r",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Levator palpebrae superioris.r",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Medial rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1252
+  },
+  {
+   "name": "Superior rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1284
+  },
+  {
+   "name": "Superior tarsus.r",
+   "src_type": "MESH",
+   "polys": 178
+  },
+  {
+   "name": "Trochlea of superior oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Common tendinous ring.l",
+   "src_type": "MESH",
+   "polys": 362
+  },
+  {
+   "name": "Inferior oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 1148
+  },
+  {
+   "name": "Inferior rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1736
+  },
+  {
+   "name": "Inferior tarsus.l",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Levator palpebrae superioris.l",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Medial rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1252
+  },
+  {
+   "name": "Superior rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1284
+  },
+  {
+   "name": "Superior tarsus.l",
+   "src_type": "MESH",
+   "polys": 178
+  },
+  {
+   "name": "Trochlea of superior oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Frontalis muscle.r",
+   "src_type": "MESH",
+   "polys": 5874
+  },
+  {
+   "name": "Occipitalis muscle.r",
+   "src_type": "MESH",
+   "polys": 2602
+  },
+  {
+   "name": "Epicranial aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 20118
+  },
+  {
+   "name": "Frontalis muscle.l",
+   "src_type": "MESH",
+   "polys": 5874
+  },
+  {
+   "name": "Occipitalis muscle.l",
+   "src_type": "MESH",
+   "polys": 2602
+  },
+  {
+   "name": "Epicranial aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 20118
+  },
+  {
+   "name": "Temporoparietalis muscle.r",
+   "src_type": "MESH",
+   "polys": 11972
+  },
+  {
+   "name": "Temporoparietalis muscle.l",
+   "src_type": "MESH",
+   "polys": 11972
+  },
+  {
+   "name": "Nasalis muscle.r",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Nasalis muscle.l",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Palpebral part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Palpebral part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Orbicularis oris muscle.r",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Orbicularis oris muscle.l",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Zygomaticus major muscle.r",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Corrugator supercilii.r",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Depressor anguli oris.r",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Depressor labii inferioris.r",
+   "src_type": "MESH",
+   "polys": 832
+  },
+  {
+   "name": "Levator anguli oris.r",
+   "src_type": "MESH",
+   "polys": 330
+  },
+  {
+   "name": "Procerus muscle.r",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.r",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.r",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Depressor septi nasi.r",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Mentalis muscle.r",
+   "src_type": "MESH",
+   "polys": 166
+  },
+  {
+   "name": "Levator nasolabialis.r",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Bucinator.r",
+   "src_type": "MESH",
+   "polys": 884
+  },
+  {
+   "name": "Zygomaticus major muscle.l",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Corrugator supercilii.l",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Depressor anguli oris.l",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Depressor labii inferioris.l",
+   "src_type": "MESH",
+   "polys": 832
+  },
+  {
+   "name": "Levator anguli oris.l",
+   "src_type": "MESH",
+   "polys": 330
+  },
+  {
+   "name": "Procerus muscle.l",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.l",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.l",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Depressor septi nasi.l",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Mentalis muscle.l",
+   "src_type": "MESH",
+   "polys": 166
+  },
+  {
+   "name": "Levator nasolabialis.l",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Bucinator.l",
+   "src_type": "MESH",
+   "polys": 884
+  },
+  {
+   "name": "Superficial part of masseter.r",
+   "src_type": "MESH",
+   "polys": 1402
+  },
+  {
+   "name": "Deep part of masseter.r",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Superficial part of masseter.l",
+   "src_type": "MESH",
+   "polys": 1402
+  },
+  {
+   "name": "Deep part of masseter.l",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Medial pterygoid muscle.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Medial pterygoid muscle.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Inferior head of lateral pterygoid muscle.r",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Superior head of lateral pterygoid muscle.r",
+   "src_type": "MESH",
+   "polys": 226
+  },
+  {
+   "name": "Inferior head of lateral pterygoid muscle.l",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Superior head of lateral pterygoid muscle.l",
+   "src_type": "MESH",
+   "polys": 226
+  },
+  {
+   "name": "Temporalis muscle.r",
+   "src_type": "MESH",
+   "polys": 10260
+  },
+  {
+   "name": "Temporalis muscle.l",
+   "src_type": "MESH",
+   "polys": 10260
+  },
+  {
+   "name": "Hyoglossus muscle.r",
+   "src_type": "MESH",
+   "polys": 1424
+  },
+  {
+   "name": "Hyoglossus muscle.l",
+   "src_type": "MESH",
+   "polys": 1424
+  },
+  {
+   "name": "Genioglossus muscle.r",
+   "src_type": "MESH",
+   "polys": 3746
+  },
+  {
+   "name": "Genioglossus muscle.l",
+   "src_type": "MESH",
+   "polys": 3746
+  },
+  {
+   "name": "Palatopharyngeus muscle.r",
+   "src_type": "MESH",
+   "polys": 15282
+  },
+  {
+   "name": "Palatopharyngeus muscle.l",
+   "src_type": "MESH",
+   "polys": 15282
+  },
+  {
+   "name": "Sternocleidomastoid muscle.r",
+   "src_type": "MESH",
+   "polys": 4952
+  },
+  {
+   "name": "Sternocleidomastoid muscle.l",
+   "src_type": "MESH",
+   "polys": 4952
+  },
+  {
+   "name": "Intermediate tendon of digastric muscle.r",
+   "src_type": "MESH",
+   "polys": 228
+  },
+  {
+   "name": "Anterior belly of digastric muscle.r",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Posterior belly of digastric muscle.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Intermediate tendon of digastric muscle.l",
+   "src_type": "MESH",
+   "polys": 228
+  },
+  {
+   "name": "Anterior belly of digastric muscle.l",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Posterior belly of digastric muscle.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Mylohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1122
+  },
+  {
+   "name": "Stylohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 694
+  },
+  {
+   "name": "Geniohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 530
+  },
+  {
+   "name": "Mylohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1122
+  },
+  {
+   "name": "Stylohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 694
+  },
+  {
+   "name": "Geniohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 530
+  },
+  {
+   "name": "Omohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2706
+  },
+  {
+   "name": "Omohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2706
+  },
+  {
+   "name": "Sternohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1394
+  },
+  {
+   "name": "Sternothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 1088
+  },
+  {
+   "name": "Thyrohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 692
+  },
+  {
+   "name": "Sternohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1394
+  },
+  {
+   "name": "Sternothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 1088
+  },
+  {
+   "name": "Thyrohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 692
+  },
+  {
+   "name": "Superior pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 5334
+  },
+  {
+   "name": "Superior pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 5334
+  },
+  {
+   "name": "Middle pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 2948
+  },
+  {
+   "name": "Middle pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 2948
+  },
+  {
+   "name": "Inferior pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 3696
+  },
+  {
+   "name": "Inferior pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 3696
+  },
+  {
+   "name": "Stylopharyngeus muscle.r",
+   "src_type": "MESH",
+   "polys": 9478
+  },
+  {
+   "name": "Stylopharyngeus muscle.l",
+   "src_type": "MESH",
+   "polys": 9478
+  },
+  {
+   "name": "Oblique part of cricothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 2060
+  },
+  {
+   "name": "Straight part of cricothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Oblique part of cricothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 2060
+  },
+  {
+   "name": "Straight part of cricothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "External part of thyro-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "External part of thyro-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Ary-epiglottic part of oblique arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1022
+  },
+  {
+   "name": "Thyro-epiglottic part of thyro-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 3110
+  },
+  {
+   "name": "Ary-epiglottic part of oblique arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1022
+  },
+  {
+   "name": "Thyro-epiglottic part of thyro-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 3110
+  },
+  {
+   "name": "Transverse arytenoid muscle",
+   "src_type": "MESH",
+   "polys": 1822
+  },
+  {
+   "name": "Lateral crico-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1624
+  },
+  {
+   "name": "Lateral crico-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1624
+  },
+  {
+   "name": "Posterior crico-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1812
+  },
+  {
+   "name": "Posterior crico-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1812
+  },
+  {
+   "name": "Platysma.r",
+   "src_type": "MESH",
+   "polys": 6548
+  },
+  {
+   "name": "Scalenus medius muscle.r",
+   "src_type": "MESH",
+   "polys": 2078
+  },
+  {
+   "name": "Scalenus posterior muscle.r",
+   "src_type": "MESH",
+   "polys": 1326
+  },
+  {
+   "name": "Scalenus anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Longus capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 1980
+  },
+  {
+   "name": "Longus colli muscle.r",
+   "src_type": "MESH",
+   "polys": 6294
+  },
+  {
+   "name": "Rectus anterior capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 396
+  },
+  {
+   "name": "Rectus lateralis capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Platysma.l",
+   "src_type": "MESH",
+   "polys": 6548
+  },
+  {
+   "name": "Scalenus medius muscle.l",
+   "src_type": "MESH",
+   "polys": 2078
+  },
+  {
+   "name": "Scalenus posterior muscle.l",
+   "src_type": "MESH",
+   "polys": 1326
+  },
+  {
+   "name": "Scalenus anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Longus capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 1980
+  },
+  {
+   "name": "Longus colli muscle.l",
+   "src_type": "MESH",
+   "polys": 6294
+  },
+  {
+   "name": "Rectus anterior capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 396
+  },
+  {
+   "name": "Rectus lateralis capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Obliquus inferior capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Obliquus superior capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 654
+  },
+  {
+   "name": "Rectus posterior major capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 788
+  },
+  {
+   "name": "Rectus posterior minor capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Obliquus inferior capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Obliquus superior capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 654
+  },
+  {
+   "name": "Rectus posterior major capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 788
+  },
+  {
+   "name": "Rectus posterior minor capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Iliocostalis lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 10038
+  },
+  {
+   "name": "Iliocostalis thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 5772
+  },
+  {
+   "name": "Iliocostalis colli muscle.r",
+   "src_type": "MESH",
+   "polys": 2050
+  },
+  {
+   "name": "Iliocostalis lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 10038
+  },
+  {
+   "name": "Iliocostalis thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 5772
+  },
+  {
+   "name": "Iliocostalis colli muscle",
+   "src_type": "MESH",
+   "polys": 2050
+  },
+  {
+   "name": "Longissimus thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 9652
+  },
+  {
+   "name": "Longissimus thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 9652
+  },
+  {
+   "name": "Longissimus capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 1574
+  },
+  {
+   "name": "Longissimus colli muscle.r",
+   "src_type": "MESH",
+   "polys": 1826
+  },
+  {
+   "name": "Longissimus capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 1574
+  },
+  {
+   "name": "Longissimus colli muscle.l",
+   "src_type": "MESH",
+   "polys": 1826
+  },
+  {
+   "name": "Spinalis capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 2560
+  },
+  {
+   "name": "Spinalis colli muscle.r",
+   "src_type": "MESH",
+   "polys": 596
+  },
+  {
+   "name": "Spinalis thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 5532
+  },
+  {
+   "name": "Spinalis capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 2560
+  },
+  {
+   "name": "Spinalis colli muscle.l",
+   "src_type": "MESH",
+   "polys": 596
+  },
+  {
+   "name": "Spinalis thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 5532
+  },
+  {
+   "name": "Splenius capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 5262
+  },
+  {
+   "name": "Splenius colli muscle.r",
+   "src_type": "MESH",
+   "polys": 4314
+  },
+  {
+   "name": "Splenius capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 5262
+  },
+  {
+   "name": "Splenius colli muscle.l",
+   "src_type": "MESH",
+   "polys": 4314
+  },
+  {
+   "name": "Multifidus colli muscle.r",
+   "src_type": "MESH",
+   "polys": 1390
+  },
+  {
+   "name": "Multifidus thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 3902
+  },
+  {
+   "name": "Multifidus lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 2820
+  },
+  {
+   "name": "Multifidus colli muscle.l",
+   "src_type": "MESH",
+   "polys": 1390
+  },
+  {
+   "name": "Multifidus thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 3902
+  },
+  {
+   "name": "Multifidus lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 2820
+  },
+  {
+   "name": "Semispinalis thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 4972
+  },
+  {
+   "name": "Semispinalis colli muscle.r",
+   "src_type": "MESH",
+   "polys": 2584
+  },
+  {
+   "name": "Semispinalis thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 4972
+  },
+  {
+   "name": "Semispinalis colli muscle.l",
+   "src_type": "MESH",
+   "polys": 2584
+  },
+  {
+   "name": "Rotatores.l",
+   "src_type": "MESH",
+   "polys": 6518
+  },
+  {
+   "name": "Rotatores.r",
+   "src_type": "MESH",
+   "polys": 6518
+  },
+  {
+   "name": "Interspinales colli muscles.r",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Interspinales thoracis muscles.r",
+   "src_type": "MESH",
+   "polys": 198
+  },
+  {
+   "name": "Interspinales lumborum muscles.r",
+   "src_type": "MESH",
+   "polys": 562
+  },
+  {
+   "name": "Interspinales colli muscles.l",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Interspinales thoracis muscles.l",
+   "src_type": "MESH",
+   "polys": 198
+  },
+  {
+   "name": "Interspinales lumborum muscles.l",
+   "src_type": "MESH",
+   "polys": 562
+  },
+  {
+   "name": "Ascending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Descending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Ascending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Descending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Dorsal parts of lateral intertransversarii lumborum muscles.r",
+   "src_type": "MESH",
+   "polys": 720
+  },
+  {
+   "name": "Ventral parts of lateral intertransversarii lumborum muscles.r",
+   "src_type": "MESH",
+   "polys": 996
+  },
+  {
+   "name": "Dorsal parts of lateral intertransversarii lumborum muscles.l",
+   "src_type": "MESH",
+   "polys": 720
+  },
+  {
+   "name": "Ventral parts of lateral intertransversarii lumborum muscles.l",
+   "src_type": "MESH",
+   "polys": 996
+  },
+  {
+   "name": "Levator scapulae.r",
+   "src_type": "MESH",
+   "polys": 3082
+  },
+  {
+   "name": "Rhomboid major muscle.r",
+   "src_type": "MESH",
+   "polys": 4800
+  },
+  {
+   "name": "Rhomboid minor muscle.r",
+   "src_type": "MESH",
+   "polys": 1494
+  },
+  {
+   "name": "Latissimus dorsi muscle.r",
+   "src_type": "MESH",
+   "polys": 21580
+  },
+  {
+   "name": "Serratus posterior inferior muscle.r",
+   "src_type": "MESH",
+   "polys": 8958
+  },
+  {
+   "name": "Serratus posterior superior muscle.r",
+   "src_type": "MESH",
+   "polys": 5518
+  },
+  {
+   "name": "Levator scapulae.l",
+   "src_type": "MESH",
+   "polys": 3082
+  },
+  {
+   "name": "Rhomboid major muscle.l",
+   "src_type": "MESH",
+   "polys": 4800
+  },
+  {
+   "name": "Rhomboid minor muscle.l",
+   "src_type": "MESH",
+   "polys": 1494
+  },
+  {
+   "name": "Latissimus dorsi muscle.l",
+   "src_type": "MESH",
+   "polys": 21580
+  },
+  {
+   "name": "Serratus posterior inferior muscle.l",
+   "src_type": "MESH",
+   "polys": 8958
+  },
+  {
+   "name": "Serratus posterior superior muscle.l",
+   "src_type": "MESH",
+   "polys": 5518
+  },
+  {
+   "name": "Clavicular head of pectoralis major muscle.r",
+   "src_type": "MESH",
+   "polys": 850
+  },
+  {
+   "name": "Sternocostal head of pectoralis major muscle.r",
+   "src_type": "MESH",
+   "polys": 3217
+  },
+  {
+   "name": "(Abdominal part of pectoralis major muscle).r",
+   "src_type": "MESH",
+   "polys": 1508
+  },
+  {
+   "name": "Clavicular head of pectoralis major muscle.l",
+   "src_type": "MESH",
+   "polys": 850
+  },
+  {
+   "name": "Sternocostal head of pectoralis major muscle.l",
+   "src_type": "MESH",
+   "polys": 3217
+  },
+  {
+   "name": "(Abdominal part of pectoralis major muscle).l",
+   "src_type": "MESH",
+   "polys": 1508
+  },
+  {
+   "name": "Levatores longi costarum.r",
+   "src_type": "MESH",
+   "polys": 5930
+  },
+  {
+   "name": "Levatores breves costarum.r",
+   "src_type": "MESH",
+   "polys": 2690
+  },
+  {
+   "name": "Levatores longi costarum.l",
+   "src_type": "MESH",
+   "polys": 5930
+  },
+  {
+   "name": "Levatores breves costarum.l",
+   "src_type": "MESH",
+   "polys": 2690
+  },
+  {
+   "name": "Pectoralis minor muscle.r",
+   "src_type": "MESH",
+   "polys": 4142
+  },
+  {
+   "name": "External intercostal muscles.r",
+   "src_type": "MESH",
+   "polys": 41357
+  },
+  {
+   "name": "Internal intercostal muscles.r",
+   "src_type": "MESH",
+   "polys": 40184
+  },
+  {
+   "name": "Serratus anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 25240
+  },
+  {
+   "name": "Innermost intercostal muscles.r",
+   "src_type": "MESH",
+   "polys": 38254
+  },
+  {
+   "name": "Subclavius muscle.r",
+   "src_type": "MESH",
+   "polys": 794
+  },
+  {
+   "name": "Transversus thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 1670
+  },
+  {
+   "name": "Pectoralis minor muscle.l",
+   "src_type": "MESH",
+   "polys": 4142
+  },
+  {
+   "name": "External intercostal muscles.l",
+   "src_type": "MESH",
+   "polys": 41357
+  },
+  {
+   "name": "Internal intercostal muscles.l",
+   "src_type": "MESH",
+   "polys": 40184
+  },
+  {
+   "name": "Serratus anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 25240
+  },
+  {
+   "name": "Innermost intercostal muscles.l",
+   "src_type": "MESH",
+   "polys": 38254
+  },
+  {
+   "name": "Subclavius muscle.l",
+   "src_type": "MESH",
+   "polys": 794
+  },
+  {
+   "name": "Transversus thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 1670
+  },
+  {
+   "name": "Diaphragm",
+   "src_type": "MESH",
+   "polys": 19434
+  },
+  {
+   "name": "Rectus abdominis muscle.r",
+   "src_type": "MESH",
+   "polys": 20604
+  },
+  {
+   "name": "Rectus abdominis muscle.l",
+   "src_type": "MESH",
+   "polys": 20604
+  },
+  {
+   "name": "Inguinal ligament.l",
+   "src_type": "MESH",
+   "polys": 1056
+  },
+  {
+   "name": "Inguinal ligament.r",
+   "src_type": "MESH",
+   "polys": 1056
+  },
+  {
+   "name": "External abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "External abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "Internal abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 28869
+  },
+  {
+   "name": "Internal abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 28869
+  },
+  {
+   "name": "Transversus abdominis muscle.r",
+   "src_type": "MESH",
+   "polys": 34328
+  },
+  {
+   "name": "Transversus abdominis muscle.l",
+   "src_type": "MESH",
+   "polys": 34328
+  },
+  {
+   "name": "Linea alba",
+   "src_type": "MESH",
+   "polys": 338
+  },
+  {
+   "name": "Pyramidalis muscle.r",
+   "src_type": "MESH",
+   "polys": 1112
+  },
+  {
+   "name": "Quadratus lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 2832
+  },
+  {
+   "name": "Pyramidalis muscle.l",
+   "src_type": "MESH",
+   "polys": 1112
+  },
+  {
+   "name": "Quadratus lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 2832
+  },
+  {
+   "name": "Coccygeus muscle.r",
+   "src_type": "MESH",
+   "polys": 1034
+  },
+  {
+   "name": "Iliococcygeus muscle.r",
+   "src_type": "MESH",
+   "polys": 1962
+  },
+  {
+   "name": "Pubo-analis muscle.r",
+   "src_type": "MESH",
+   "polys": 1440
+  },
+  {
+   "name": "Pubococcygeus muscle.r",
+   "src_type": "MESH",
+   "polys": 2512
+  },
+  {
+   "name": "Coccygeus muscle.l",
+   "src_type": "MESH",
+   "polys": 1034
+  },
+  {
+   "name": "Iliococcygeus muscle.l",
+   "src_type": "MESH",
+   "polys": 1962
+  },
+  {
+   "name": "Pubo-analis muscle.l",
+   "src_type": "MESH",
+   "polys": 1440
+  },
+  {
+   "name": "Pubococcygeus muscle.l",
+   "src_type": "MESH",
+   "polys": 2512
+  },
+  {
+   "name": "Acromial part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Acromial part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Subscapularis muscle.r",
+   "src_type": "MESH",
+   "polys": 2954
+  },
+  {
+   "name": "Supraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 1430
+  },
+  {
+   "name": "Teres minor muscle.r",
+   "src_type": "MESH",
+   "polys": 1522
+  },
+  {
+   "name": "Infraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 3166
+  },
+  {
+   "name": "Subscapularis muscle.l",
+   "src_type": "MESH",
+   "polys": 2954
+  },
+  {
+   "name": "Supraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 1430
+  },
+  {
+   "name": "Teres minor muscle.l",
+   "src_type": "MESH",
+   "polys": 1522
+  },
+  {
+   "name": "Infraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 3166
+  },
+  {
+   "name": "Teres major muscle.r",
+   "src_type": "MESH",
+   "polys": 1154
+  },
+  {
+   "name": "Teres major muscle.l",
+   "src_type": "MESH",
+   "polys": 1154
+  },
+  {
+   "name": "Long head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Long head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Brachialis muscle.r",
+   "src_type": "MESH",
+   "polys": 3478
+  },
+  {
+   "name": "Coracobrachialis muscle.r",
+   "src_type": "MESH",
+   "polys": 1160
+  },
+  {
+   "name": "Brachialis muscle.l",
+   "src_type": "MESH",
+   "polys": 3478
+  },
+  {
+   "name": "Coracobrachialis muscle.l",
+   "src_type": "MESH",
+   "polys": 1160
+  },
+  {
+   "name": "Medial head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2686
+  },
+  {
+   "name": "Lateral head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Medial head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2686
+  },
+  {
+   "name": "Lateral head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Superficial head of pronator teres.r",
+   "src_type": "MESH",
+   "polys": 2546
+  },
+  {
+   "name": "Deep head of pronator teres.r",
+   "src_type": "MESH",
+   "polys": 1114
+  },
+  {
+   "name": "Superficial head of pronator teres.l",
+   "src_type": "MESH",
+   "polys": 2546
+  },
+  {
+   "name": "Deep head of pronator teres.l",
+   "src_type": "MESH",
+   "polys": 1114
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Humero-ulnar head of flexor digitorum superficialis.r",
+   "src_type": "MESH",
+   "polys": 12798
+  },
+  {
+   "name": "Humero-ulnar head of flexor digitorum superficialis.l",
+   "src_type": "MESH",
+   "polys": 12798
+  },
+  {
+   "name": "Flexor carpi radialis.r",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Palmaris longus muscle.r",
+   "src_type": "MESH",
+   "polys": 4374
+  },
+  {
+   "name": "Flexor carpi radialis.l",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Palmaris longus muscle.l",
+   "src_type": "MESH",
+   "polys": 4374
+  },
+  {
+   "name": "Radial head of flexor digitorum superficialis.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Flexor digitorum profundus.r",
+   "src_type": "MESH",
+   "polys": 7110
+  },
+  {
+   "name": "Flexor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Pronator quadratus.r",
+   "src_type": "MESH",
+   "polys": 1020
+  },
+  {
+   "name": "Radial head of flexor digitorum superficialis.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Flexor digitorum profundus.l",
+   "src_type": "MESH",
+   "polys": 7110
+  },
+  {
+   "name": "Flexor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Pronator quadratus.l",
+   "src_type": "MESH",
+   "polys": 1020
+  },
+  {
+   "name": "Extensor digitorum.r",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Extensor digitorum.l",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Ulnar head of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 582
+  },
+  {
+   "name": "Humeral head of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Ulnar head of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 582
+  },
+  {
+   "name": "Humeral head of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Brachioradialis muscle.r",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.r",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Extensor carpi radialis brevis.r",
+   "src_type": "MESH",
+   "polys": 3142
+  },
+  {
+   "name": "Anconeus muscle.r",
+   "src_type": "MESH",
+   "polys": 1442
+  },
+  {
+   "name": "Extensor digiti minimi.r",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Brachioradialis muscle.l",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.l",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Extensor carpi radialis brevis.l",
+   "src_type": "MESH",
+   "polys": 3142
+  },
+  {
+   "name": "Anconeus muscle.l",
+   "src_type": "MESH",
+   "polys": 1442
+  },
+  {
+   "name": "Extensor digiti minimi.l",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Supinator.r",
+   "src_type": "MESH",
+   "polys": 2754
+  },
+  {
+   "name": "Supinator.l",
+   "src_type": "MESH",
+   "polys": 2754
+  },
+  {
+   "name": "Abductor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 2462
+  },
+  {
+   "name": "Extensor indicis.r",
+   "src_type": "MESH",
+   "polys": 1142
+  },
+  {
+   "name": "Extensor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 1173
+  },
+  {
+   "name": "Extensor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1602
+  },
+  {
+   "name": "Abductor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 2462
+  },
+  {
+   "name": "Extensor indicis.l",
+   "src_type": "MESH",
+   "polys": 1142
+  },
+  {
+   "name": "Extensor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 1173
+  },
+  {
+   "name": "Extensor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1602
+  },
+  {
+   "name": "Superficial head of flexor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Deep head of flexor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Superficial head of flexor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Deep head of flexor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Oblique head of adductor pollicis.r",
+   "src_type": "MESH",
+   "polys": 450
+  },
+  {
+   "name": "Transverse head of adductor pollicis.r",
+   "src_type": "MESH",
+   "polys": 1014
+  },
+  {
+   "name": "Oblique head of adductor pollicis.l",
+   "src_type": "MESH",
+   "polys": 450
+  },
+  {
+   "name": "Transverse head of adductor pollicis.l",
+   "src_type": "MESH",
+   "polys": 1014
+  },
+  {
+   "name": "Abductor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 624
+  },
+  {
+   "name": "Opponens pollicis muscle.r",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Abductor digiti minimi of hand.r",
+   "src_type": "MESH",
+   "polys": 672
+  },
+  {
+   "name": "Flexor digiti minimi of hand.r",
+   "src_type": "MESH",
+   "polys": 308
+  },
+  {
+   "name": "Opponens digiti minimi muscle of hand.r",
+   "src_type": "MESH",
+   "polys": 420
+  },
+  {
+   "name": "Lumbrical muscles of hand.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Dorsal interossei muscles of hand.r",
+   "src_type": "MESH",
+   "polys": 1364
+  },
+  {
+   "name": "Palmar interossei muscles.r",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Abductor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 624
+  },
+  {
+   "name": "Opponens pollicis muscle.l",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Abductor digiti minimi of hand.l",
+   "src_type": "MESH",
+   "polys": 672
+  },
+  {
+   "name": "Flexor digiti minimi of hand.l",
+   "src_type": "MESH",
+   "polys": 308
+  },
+  {
+   "name": "Opponens digiti minimi muscle of hand.l",
+   "src_type": "MESH",
+   "polys": 420
+  },
+  {
+   "name": "Lumbrical muscles of hand.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Dorsal interossei muscles of hand.l",
+   "src_type": "MESH",
+   "polys": 1364
+  },
+  {
+   "name": "Palmar interossei muscles.l",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Extensor retinaculum of wrist.r",
+   "src_type": "MESH",
+   "polys": 194
+  },
+  {
+   "name": "Flexor retinaculum of wrist.r",
+   "src_type": "MESH",
+   "polys": 273
+  },
+  {
+   "name": "Superficial transverse metacarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 98
+  },
+  {
+   "name": "Extensor retinaculum of wrist.l",
+   "src_type": "MESH",
+   "polys": 194
+  },
+  {
+   "name": "Flexor retinaculum of wrist.l",
+   "src_type": "MESH",
+   "polys": 273
+  },
+  {
+   "name": "Superficial transverse metacarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 98
+  },
+  {
+   "name": "Iliacus muscle.r",
+   "src_type": "MESH",
+   "polys": 4354
+  },
+  {
+   "name": "Psoas major.r",
+   "src_type": "MESH",
+   "polys": 5474
+  },
+  {
+   "name": "Iliacus muscle.l",
+   "src_type": "MESH",
+   "polys": 4354
+  },
+  {
+   "name": "Psoas major.l",
+   "src_type": "MESH",
+   "polys": 5474
+  },
+  {
+   "name": "Gluteus medius muscle.r",
+   "src_type": "MESH",
+   "polys": 5176
+  },
+  {
+   "name": "Gluteus maximus muscle.r",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Gluteus minimus muscle.r",
+   "src_type": "MESH",
+   "polys": 6250
+  },
+  {
+   "name": "Tensor fasciae latae.r",
+   "src_type": "MESH",
+   "polys": 1862
+  },
+  {
+   "name": "Gluteus medius muscle.l",
+   "src_type": "MESH",
+   "polys": 5176
+  },
+  {
+   "name": "Gluteus maximus muscle.l",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Gluteus minimus muscle.l",
+   "src_type": "MESH",
+   "polys": 6250
+  },
+  {
+   "name": "Tensor fasciae latae.l",
+   "src_type": "MESH",
+   "polys": 1862
+  },
+  {
+   "name": "Piriformis muscle.r",
+   "src_type": "MESH",
+   "polys": 1500
+  },
+  {
+   "name": "Quadratus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 1646
+  },
+  {
+   "name": "Inferior gemellus muscle.r",
+   "src_type": "MESH",
+   "polys": 976
+  },
+  {
+   "name": "Obturator internus.r",
+   "src_type": "MESH",
+   "polys": 3760
+  },
+  {
+   "name": "Superior gemellus muscle.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Piriformis muscle.l",
+   "src_type": "MESH",
+   "polys": 1500
+  },
+  {
+   "name": "Quadratus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 1646
+  },
+  {
+   "name": "Inferior gemellus muscle.l",
+   "src_type": "MESH",
+   "polys": 976
+  },
+  {
+   "name": "Obturator internus.l",
+   "src_type": "MESH",
+   "polys": 3760
+  },
+  {
+   "name": "Superior gemellus muscle.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Lateral patellar retinaculum.r",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Medial patellar retinaculum.r",
+   "src_type": "MESH",
+   "polys": 92
+  },
+  {
+   "name": "Lateral patellar retinaculum.l",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Rectus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.r",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.r",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Vastus intermedius muscle.r",
+   "src_type": "MESH",
+   "polys": 6164
+  },
+  {
+   "name": "Rectus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.l",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.l",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Vastus intermedius muscle.l",
+   "src_type": "MESH",
+   "polys": 6164
+  },
+  {
+   "name": "Sartorius muscle.r",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Sartorius muscle.l",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Adductor magnus.r",
+   "src_type": "MESH",
+   "polys": 8192
+  },
+  {
+   "name": "Adductor longus.r",
+   "src_type": "MESH",
+   "polys": 3714
+  },
+  {
+   "name": "Pectineus muscle.r",
+   "src_type": "MESH",
+   "polys": 1952
+  },
+  {
+   "name": "Adductor brevis.r",
+   "src_type": "MESH",
+   "polys": 2132
+  },
+  {
+   "name": "(Adductor minimus).r",
+   "src_type": "MESH",
+   "polys": 948
+  },
+  {
+   "name": "Gracilis muscle.r",
+   "src_type": "MESH",
+   "polys": 4812
+  },
+  {
+   "name": "Obturator externus.r",
+   "src_type": "MESH",
+   "polys": 1156
+  },
+  {
+   "name": "Adductor magnus.l",
+   "src_type": "MESH",
+   "polys": 8192
+  },
+  {
+   "name": "Adductor longus.l",
+   "src_type": "MESH",
+   "polys": 3714
+  },
+  {
+   "name": "Pectineus muscle.l",
+   "src_type": "MESH",
+   "polys": 1952
+  },
+  {
+   "name": "Adductor brevis.l",
+   "src_type": "MESH",
+   "polys": 2132
+  },
+  {
+   "name": "(Adductor minimus).l",
+   "src_type": "MESH",
+   "polys": 948
+  },
+  {
+   "name": "Gracilis muscle.l",
+   "src_type": "MESH",
+   "polys": 4812
+  },
+  {
+   "name": "Obturator externus.l",
+   "src_type": "MESH",
+   "polys": 1156
+  },
+  {
+   "name": "Long head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Short head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 2476
+  },
+  {
+   "name": "Long head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Short head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 2476
+  },
+  {
+   "name": "Semimembranosus muscle.r",
+   "src_type": "MESH",
+   "polys": 7442
+  },
+  {
+   "name": "Semitendinosus muscle.r",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Semimembranosus muscle.l",
+   "src_type": "MESH",
+   "polys": 7442
+  },
+  {
+   "name": "Semitendinosus muscle.l",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 3176
+  },
+  {
+   "name": "Tendon of extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 5184
+  },
+  {
+   "name": "Extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 3176
+  },
+  {
+   "name": "Tendon of extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 5184
+  },
+  {
+   "name": "Tibialis anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis tertius muscle.r",
+   "src_type": "MESH",
+   "polys": 586
+  },
+  {
+   "name": "Extensor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 2362
+  },
+  {
+   "name": "Tibialis anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis tertius muscle.l",
+   "src_type": "MESH",
+   "polys": 586
+  },
+  {
+   "name": "Extensor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 2362
+  },
+  {
+   "name": "Fibularis longus muscle.r",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Fibularis brevis muscle.r",
+   "src_type": "MESH",
+   "polys": 3446
+  },
+  {
+   "name": "Fibularis longus muscle.l",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Fibularis brevis muscle.l",
+   "src_type": "MESH",
+   "polys": 3446
+  },
+  {
+   "name": "Lateral head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Medial head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.r",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Lateral head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Medial head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.l",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Soleus muscle.r",
+   "src_type": "MESH",
+   "polys": 6774
+  },
+  {
+   "name": "Soleus muscle.l",
+   "src_type": "MESH",
+   "polys": 6774
+  },
+  {
+   "name": "Plantaris muscle.r",
+   "src_type": "MESH",
+   "polys": 4698
+  },
+  {
+   "name": "Plantaris muscle.l",
+   "src_type": "MESH",
+   "polys": 4698
+  },
+  {
+   "name": "Flexor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 6836
+  },
+  {
+   "name": "Popliteus muscle.r",
+   "src_type": "MESH",
+   "polys": 1132
+  },
+  {
+   "name": "Tibialis posterior muscle.r",
+   "src_type": "MESH",
+   "polys": 5526
+  },
+  {
+   "name": "Flexor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 5878
+  },
+  {
+   "name": "Flexor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 6836
+  },
+  {
+   "name": "Popliteus muscle.l",
+   "src_type": "MESH",
+   "polys": 1132
+  },
+  {
+   "name": "Tibialis posterior muscle.l",
+   "src_type": "MESH",
+   "polys": 5526
+  },
+  {
+   "name": "Flexor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 5878
+  },
+  {
+   "name": "Medial head of flexor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 514
+  },
+  {
+   "name": "Lateral head of flexor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 966
+  },
+  {
+   "name": "Medial head of flexor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 514
+  },
+  {
+   "name": "Lateral head of flexor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 966
+  },
+  {
+   "name": "Oblique head of adductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 904
+  },
+  {
+   "name": "Transverse head of adductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 366
+  },
+  {
+   "name": "Oblique head of adductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 904
+  },
+  {
+   "name": "Transverse head of adductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 366
+  },
+  {
+   "name": "Abductor digiti minimi of foot.r",
+   "src_type": "MESH",
+   "polys": 1280
+  },
+  {
+   "name": "Abductor digiti minimi of foot.l",
+   "src_type": "MESH",
+   "polys": 1280
+  },
+  {
+   "name": "Abductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 1688
+  },
+  {
+   "name": "Extensor digitorum brevis.r",
+   "src_type": "MESH",
+   "polys": 3184
+  },
+  {
+   "name": "Extensor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 1118
+  },
+  {
+   "name": "Dorsal interossei muscles of foot.r",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Flexor digitorum brevis.r",
+   "src_type": "MESH",
+   "polys": 3224
+  },
+  {
+   "name": "Flexor digiti minimi of foot.r",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Lumbrical muscles of foot.r",
+   "src_type": "MESH",
+   "polys": 418
+  },
+  {
+   "name": "(Opponens digiti minimi muscle of foot).r",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Plantar interossei muscles.r",
+   "src_type": "MESH",
+   "polys": 1242
+  },
+  {
+   "name": "Quadratus plantae muscle.r",
+   "src_type": "MESH",
+   "polys": 1176
+  },
+  {
+   "name": "Abductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 1688
+  },
+  {
+   "name": "Extensor digitorum brevis.l",
+   "src_type": "MESH",
+   "polys": 3184
+  },
+  {
+   "name": "Extensor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 1118
+  },
+  {
+   "name": "Dorsal interossei muscles of foot.l",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Flexor digitorum brevis.l",
+   "src_type": "MESH",
+   "polys": 3224
+  },
+  {
+   "name": "Flexor digiti minimi of foot.l",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Lumbrical muscles of foot.l",
+   "src_type": "MESH",
+   "polys": 418
+  },
+  {
+   "name": "(Opponens digiti minimi muscle of foot).l",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Plantar interossei muscles.l",
+   "src_type": "MESH",
+   "polys": 1242
+  },
+  {
+   "name": "Quadratus plantae muscle.l",
+   "src_type": "MESH",
+   "polys": 1176
+  },
+  {
+   "name": "Iliotibial tract.r",
+   "src_type": "MESH",
+   "polys": 48612
+  },
+  {
+   "name": "Iliotibial tract.l",
+   "src_type": "MESH",
+   "polys": 48612
+  },
+  {
+   "name": "Superior extensor retinaculum of ankle.r",
+   "src_type": "MESH",
+   "polys": 133
+  },
+  {
+   "name": "Inferior extensor retinaculum of ankle.r",
+   "src_type": "MESH",
+   "polys": 169
+  },
+  {
+   "name": "Superior fibular retinaculum.r",
+   "src_type": "MESH",
+   "polys": 348
+  },
+  {
+   "name": "Inferior fibular retinaculum.r",
+   "src_type": "MESH",
+   "polys": 35
+  },
+  {
+   "name": "Superficial transverse metatarsal ligament.r",
+   "src_type": "MESH",
+   "polys": 55
+  },
+  {
+   "name": "Plantar aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 211
+  },
+  {
+   "name": "Flexor retinaculum of ankle.r",
+   "src_type": "MESH",
+   "polys": 358
+  },
+  {
+   "name": "Superior extensor retinaculum of ankle.l",
+   "src_type": "MESH",
+   "polys": 133
+  },
+  {
+   "name": "Inferior extensor retinaculum of ankle.l",
+   "src_type": "MESH",
+   "polys": 169
+  },
+  {
+   "name": "Superior fibular retinaculum.l",
+   "src_type": "MESH",
+   "polys": 348
+  },
+  {
+   "name": "Inferior fibular retinaculum.l",
+   "src_type": "MESH",
+   "polys": 35
+  },
+  {
+   "name": "Superficial transverse metatarsal ligament.l",
+   "src_type": "MESH",
+   "polys": 55
+  },
+  {
+   "name": "Plantar aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 211
+  },
+  {
+   "name": "Flexor retinaculum of ankle.l",
+   "src_type": "MESH",
+   "polys": 358
+  },
+  {
+   "name": "External anal sphincter.r",
+   "src_type": "MESH",
+   "polys": 202
+  },
+  {
+   "name": "External anal sphincter.l",
+   "src_type": "MESH",
+   "polys": 202
+  },
+  {
+   "name": "Tendinous arch of levator ani.r",
+   "src_type": "MESH",
+   "polys": 750
+  },
+  {
+   "name": "Tendinous arch of levator ani.l",
+   "src_type": "MESH",
+   "polys": 750
+  },
+  {
+   "name": "Medial patellar retinaculum.l",
+   "src_type": "MESH",
+   "polys": 92
+  },
+  {
+   "name": "Superficial layer of temporal fascia.r",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Masseteric fascia.r",
+   "src_type": "MESH",
+   "polys": 205
+  },
+  {
+   "name": "Superficial layer of temporal fascia.l",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Masseteric fascia.l",
+   "src_type": "MESH",
+   "polys": 205
+  },
+  {
+   "name": "Superficial investing cervical fascia.r",
+   "src_type": "MESH",
+   "polys": 1715
+  },
+  {
+   "name": "Superficial investing cervical fascia.l",
+   "src_type": "MESH",
+   "polys": 1715
+  },
+  {
+   "name": "Posterior layer of thoracolumbar fascia.r",
+   "src_type": "MESH",
+   "polys": 158
+  },
+  {
+   "name": "Middle layer of thoracolumbar fascia.r",
+   "src_type": "MESH",
+   "polys": 82
+  },
+  {
+   "name": "Anterior layer of thoracolumbar fascia.r",
+   "src_type": "MESH",
+   "polys": 90
+  },
+  {
+   "name": "Posterior layer of thoracolumbar fascia.l",
+   "src_type": "MESH",
+   "polys": 158
+  },
+  {
+   "name": "Middle layer of thoracolumbar fascia.l",
+   "src_type": "MESH",
+   "polys": 82
+  },
+  {
+   "name": "Anterior layer of thoracolumbar fascia.l",
+   "src_type": "MESH",
+   "polys": 90
+  },
+  {
+   "name": "Pectoral fascia.r",
+   "src_type": "MESH",
+   "polys": 1376
+  },
+  {
+   "name": "Pectoral fascia.l",
+   "src_type": "MESH",
+   "polys": 1376
+  },
+  {
+   "name": "Investing abdominal fascia.r",
+   "src_type": "MESH",
+   "polys": 5618
+  },
+  {
+   "name": "Investing abdominal fascia.l",
+   "src_type": "MESH",
+   "polys": 5618
+  },
+  {
+   "name": "Piriformis fascia.r",
+   "src_type": "MESH",
+   "polys": 469
+  },
+  {
+   "name": "Piriformis fascia.l",
+   "src_type": "MESH",
+   "polys": 469
+  },
+  {
+   "name": "Medial intermuscular septum of arm.r",
+   "src_type": "MESH",
+   "polys": 156
+  },
+  {
+   "name": "Lateral intermuscular septum of arm.r",
+   "src_type": "MESH",
+   "polys": 80
+  },
+  {
+   "name": "Deltoid fascia.r",
+   "src_type": "MESH",
+   "polys": 1821
+  },
+  {
+   "name": "Brachial fascia.r",
+   "src_type": "MESH",
+   "polys": 1532
+  },
+  {
+   "name": "Antebrachial fascia.r",
+   "src_type": "MESH",
+   "polys": 2253
+  },
+  {
+   "name": "Dorsal fascia of hand.r",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Palmar aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 663
+  },
+  {
+   "name": "Medial intermuscular septum of arm.l",
+   "src_type": "MESH",
+   "polys": 156
+  },
+  {
+   "name": "Lateral intermuscular septum of arm.l",
+   "src_type": "MESH",
+   "polys": 80
+  },
+  {
+   "name": "Deltoid fascia.l",
+   "src_type": "MESH",
+   "polys": 1821
+  },
+  {
+   "name": "Brachial fascia.l",
+   "src_type": "MESH",
+   "polys": 1532
+  },
+  {
+   "name": "Antebrachial fascia.l",
+   "src_type": "MESH",
+   "polys": 2253
+  },
+  {
+   "name": "Dorsal fascia of hand.l",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Palmar aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 663
+  },
+  {
+   "name": "Fascia lata.r",
+   "src_type": "MESH",
+   "polys": 6530
+  },
+  {
+   "name": "Fascia lata.l",
+   "src_type": "MESH",
+   "polys": 6530
+  },
+  {
+   "name": "Medial femoral intermuscular septum.r",
+   "src_type": "MESH",
+   "polys": 3861
+  },
+  {
+   "name": "Lateral femoral intermuscular septum.r",
+   "src_type": "MESH",
+   "polys": 294
+  },
+  {
+   "name": "Popliteal fascia.r",
+   "src_type": "MESH",
+   "polys": 246
+  },
+  {
+   "name": "Crural fascia.r",
+   "src_type": "MESH",
+   "polys": 5523
+  },
+  {
+   "name": "Anterior intermuscular septum of leg.r",
+   "src_type": "MESH",
+   "polys": 208
+  },
+  {
+   "name": "Posterior intermuscular septum of leg.r",
+   "src_type": "MESH",
+   "polys": 265
+  },
+  {
+   "name": "Transverse intermuscular septum of leg.r",
+   "src_type": "MESH",
+   "polys": 492
+  },
+  {
+   "name": "Iliopectineal arch.r",
+   "src_type": "MESH",
+   "polys": 140
+  },
+  {
+   "name": "Medial femoral intermuscular septum.l",
+   "src_type": "MESH",
+   "polys": 3861
+  },
+  {
+   "name": "Lateral femoral intermuscular septum.l",
+   "src_type": "MESH",
+   "polys": 294
+  },
+  {
+   "name": "Popliteal fascia.l",
+   "src_type": "MESH",
+   "polys": 246
+  },
+  {
+   "name": "Crural fascia.l",
+   "src_type": "MESH",
+   "polys": 5523
+  },
+  {
+   "name": "Anterior intermuscular septum of leg.l",
+   "src_type": "MESH",
+   "polys": 208
+  },
+  {
+   "name": "Posterior intermuscular septum of leg.l",
+   "src_type": "MESH",
+   "polys": 265
+  },
+  {
+   "name": "Transverse intermuscular septum of leg.l",
+   "src_type": "MESH",
+   "polys": 492
+  },
+  {
+   "name": "Iliopectineal arch.l",
+   "src_type": "MESH",
+   "polys": 13
+  },
+  {
+   "name": "Clavipectoral fascia.r",
+   "src_type": "MESH",
+   "polys": 656
+  },
+  {
+   "name": "Clavipectoral fascia.l",
+   "src_type": "MESH",
+   "polys": 656
+  },
+  {
+   "name": "Iliopsoas fascia.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Iliopsoas fascia.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Transversalis fascia",
+   "src_type": "MESH",
+   "polys": 2175
+  },
+  {
+   "name": "Diaphragmatic fascia",
+   "src_type": "MESH",
+   "polys": 2391
+  },
+  {
+   "name": "Tendon sheath of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Tendon sheath of extensor digiti minimi manus.r",
+   "src_type": "MESH",
+   "polys": 296
+  },
+  {
+   "name": "Tendon sheath of extensor digiti minimi manus.l",
+   "src_type": "MESH",
+   "polys": 296
+  },
+  {
+   "name": "Tendon sheath of extensor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Tendon sheath of extensor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Tendon sheath - abd. pollicis longus - ext. pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 342
+  },
+  {
+   "name": "Tendon sheath of extensors carpi radialis.r",
+   "src_type": "MESH",
+   "polys": 1152
+  },
+  {
+   "name": "Tendon sheath - abd. pollicis longus - ext. pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 342
+  },
+  {
+   "name": "Tendon sheath of extensors carpi radialis.l",
+   "src_type": "MESH",
+   "polys": 1152
+  },
+  {
+   "name": "Intertubercular tendon sheath.r",
+   "src_type": "MESH",
+   "polys": 416
+  },
+  {
+   "name": "Intertubercular tendon sheath.l",
+   "src_type": "MESH",
+   "polys": 416
+  },
+  {
+   "name": "Tendon sheath of flexor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1568
+  },
+  {
+   "name": "Tendon sheath of flexor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1568
+  },
+  {
+   "name": "Tendon sheath of flexor carpi radialis.r",
+   "src_type": "MESH",
+   "polys": 544
+  },
+  {
+   "name": "Tendon sheath of flexor carpi radialis.l",
+   "src_type": "MESH",
+   "polys": 544
+  },
+  {
+   "name": "Common flexor tendon sheath.r",
+   "src_type": "MESH",
+   "polys": 6984
+  },
+  {
+   "name": "Common flexor tendon sheath.l",
+   "src_type": "MESH",
+   "polys": 441
+  },
+  {
+   "name": "Synovial sheaths of digits of hand.r",
+   "src_type": "MESH",
+   "polys": 3488
+  },
+  {
+   "name": "Synovial sheaths of digits of hand.l",
+   "src_type": "MESH",
+   "polys": 3488
+  },
+  {
+   "name": "Tendon sheath of extensor digitorum and extensor indicis.r",
+   "src_type": "MESH",
+   "polys": 1184
+  },
+  {
+   "name": "Tendon sheath of extensor digitorum and extensor indicis.l",
+   "src_type": "MESH",
+   "polys": 1184
+  },
+  {
+   "name": "Tendon sheath of tibialis anterior.r",
+   "src_type": "MESH",
+   "polys": 120
+  },
+  {
+   "name": "Tendon sheath of extensor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 296
+  },
+  {
+   "name": "Tendon sheath of extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 1032
+  },
+  {
+   "name": "Tendon sheath of tibialis anterior.l",
+   "src_type": "MESH",
+   "polys": 120
+  },
+  {
+   "name": "Tendon sheath of extensor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 296
+  },
+  {
+   "name": "Tendon sheath of extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 1032
+  },
+  {
+   "name": "Tendon sheath of flexor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 128
+  },
+  {
+   "name": "Tendon sheath of tibialis posterior muscle.r",
+   "src_type": "MESH",
+   "polys": 150
+  },
+  {
+   "name": "Tendon sheath of flexor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 864
+  },
+  {
+   "name": "Tendon sheath of flexor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 128
+  },
+  {
+   "name": "Tendon sheath of tibialis posterior muscle.l",
+   "src_type": "MESH",
+   "polys": 150
+  },
+  {
+   "name": "Tendon sheath of flexor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 864
+  },
+  {
+   "name": "Common tendon sheath of fibularis muscles.r",
+   "src_type": "MESH",
+   "polys": 768
+  },
+  {
+   "name": "Common tendon sheath of fibularis muscles.l",
+   "src_type": "MESH",
+   "polys": 768
+  },
+  {
+   "name": "Plantar tendon sheath of fibularis longus muscle.r",
+   "src_type": "MESH",
+   "polys": 320
+  },
+  {
+   "name": "Plantar tendon sheath of fibularis longus muscle.l",
+   "src_type": "MESH",
+   "polys": 320
+  },
+  {
+   "name": "Tendon sheath of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 480
+  },
+  {
+   "name": "Lateral rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1600
+  },
+  {
+   "name": "Lateral rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1600
+  },
+  {
+   "name": "Superior oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 1750
+  },
+  {
+   "name": "Superior oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 1750
+  },
+  {
+   "name": "Common tendinous ring.r",
+   "src_type": "MESH",
+   "polys": 362
+  },
+  {
+   "name": "Inferior oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 1148
+  },
+  {
+   "name": "Inferior rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1736
+  },
+  {
+   "name": "Inferior tarsus.r",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Levator palpebrae superioris.r",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Medial rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1252
+  },
+  {
+   "name": "Superior rectus muscle.r",
+   "src_type": "MESH",
+   "polys": 1284
+  },
+  {
+   "name": "Superior tarsus.r",
+   "src_type": "MESH",
+   "polys": 178
+  },
+  {
+   "name": "Trochlea of superior oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Common tendinous ring.l",
+   "src_type": "MESH",
+   "polys": 362
+  },
+  {
+   "name": "Inferior oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 1148
+  },
+  {
+   "name": "Inferior rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1736
+  },
+  {
+   "name": "Inferior tarsus.l",
+   "src_type": "MESH",
+   "polys": 106
+  },
+  {
+   "name": "Levator palpebrae superioris.l",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Medial rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1252
+  },
+  {
+   "name": "Superior rectus muscle.l",
+   "src_type": "MESH",
+   "polys": 1284
+  },
+  {
+   "name": "Superior tarsus.l",
+   "src_type": "MESH",
+   "polys": 178
+  },
+  {
+   "name": "Trochlea of superior oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Frontalis muscle.r",
+   "src_type": "MESH",
+   "polys": 5874
+  },
+  {
+   "name": "Occipitalis muscle.r",
+   "src_type": "MESH",
+   "polys": 2602
+  },
+  {
+   "name": "Epicranial aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 20118
+  },
+  {
+   "name": "Frontalis muscle.l",
+   "src_type": "MESH",
+   "polys": 5874
+  },
+  {
+   "name": "Occipitalis muscle.l",
+   "src_type": "MESH",
+   "polys": 2602
+  },
+  {
+   "name": "Epicranial aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 20118
+  },
+  {
+   "name": "Temporoparietalis muscle.r",
+   "src_type": "MESH",
+   "polys": 11972
+  },
+  {
+   "name": "Temporoparietalis muscle.l",
+   "src_type": "MESH",
+   "polys": 11972
+  },
+  {
+   "name": "Nasalis muscle.r",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Nasalis muscle.l",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Palpebral part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Palpebral part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Orbicularis oris muscle.r",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Orbicularis oris muscle.l",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Zygomaticus major muscle.r",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Corrugator supercilii.r",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Depressor anguli oris.r",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Depressor labii inferioris.r",
+   "src_type": "MESH",
+   "polys": 832
+  },
+  {
+   "name": "Levator anguli oris.r",
+   "src_type": "MESH",
+   "polys": 330
+  },
+  {
+   "name": "Procerus muscle.r",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.r",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.r",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Depressor septi nasi.r",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Mentalis muscle.r",
+   "src_type": "MESH",
+   "polys": 166
+  },
+  {
+   "name": "Levator nasolabialis.r",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Bucinator.r",
+   "src_type": "MESH",
+   "polys": 884
+  },
+  {
+   "name": "Zygomaticus major muscle.l",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Corrugator supercilii.l",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Depressor anguli oris.l",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Depressor labii inferioris.l",
+   "src_type": "MESH",
+   "polys": 832
+  },
+  {
+   "name": "Levator anguli oris.l",
+   "src_type": "MESH",
+   "polys": 330
+  },
+  {
+   "name": "Procerus muscle.l",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.l",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.l",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Depressor septi nasi.l",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Mentalis muscle.l",
+   "src_type": "MESH",
+   "polys": 166
+  },
+  {
+   "name": "Levator nasolabialis.l",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Bucinator.l",
+   "src_type": "MESH",
+   "polys": 884
+  },
+  {
+   "name": "Superficial part of masseter.r",
+   "src_type": "MESH",
+   "polys": 1402
+  },
+  {
+   "name": "Deep part of masseter.r",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Superficial part of masseter.l",
+   "src_type": "MESH",
+   "polys": 1402
+  },
+  {
+   "name": "Deep part of masseter.l",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Medial pterygoid muscle.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Medial pterygoid muscle.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Inferior head of lateral pterygoid muscle.r",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Superior head of lateral pterygoid muscle.r",
+   "src_type": "MESH",
+   "polys": 226
+  },
+  {
+   "name": "Inferior head of lateral pterygoid muscle.l",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Superior head of lateral pterygoid muscle.l",
+   "src_type": "MESH",
+   "polys": 226
+  },
+  {
+   "name": "Temporalis muscle.r",
+   "src_type": "MESH",
+   "polys": 10260
+  },
+  {
+   "name": "Temporalis muscle.l",
+   "src_type": "MESH",
+   "polys": 10260
+  },
+  {
+   "name": "Hyoglossus muscle.r",
+   "src_type": "MESH",
+   "polys": 1424
+  },
+  {
+   "name": "Hyoglossus muscle.l",
+   "src_type": "MESH",
+   "polys": 1424
+  },
+  {
+   "name": "Genioglossus muscle.r",
+   "src_type": "MESH",
+   "polys": 3746
+  },
+  {
+   "name": "Genioglossus muscle.l",
+   "src_type": "MESH",
+   "polys": 3746
+  },
+  {
+   "name": "Nasalis muscle.r",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Nasalis muscle.l",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Palpebral part of orbicularis oculi.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Orbital part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 2390
+  },
+  {
+   "name": "Palpebral part of orbicularis oculi.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Orbicularis oris muscle.r",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Orbicularis oris muscle.l",
+   "src_type": "MESH",
+   "polys": 1880
+  },
+  {
+   "name": "Zygomaticus major muscle.r",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Corrugator supercilii.r",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Depressor anguli oris.r",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Depressor labii inferioris.r",
+   "src_type": "MESH",
+   "polys": 832
+  },
+  {
+   "name": "Levator anguli oris.r",
+   "src_type": "MESH",
+   "polys": 330
+  },
+  {
+   "name": "Procerus muscle.r",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.r",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.r",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Depressor septi nasi.r",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Mentalis muscle.r",
+   "src_type": "MESH",
+   "polys": 166
+  },
+  {
+   "name": "Levator nasolabialis.r",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Bucinator.r",
+   "src_type": "MESH",
+   "polys": 884
+  },
+  {
+   "name": "Zygomaticus major muscle.l",
+   "src_type": "MESH",
+   "polys": 798
+  },
+  {
+   "name": "Corrugator supercilii.l",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Depressor anguli oris.l",
+   "src_type": "MESH",
+   "polys": 594
+  },
+  {
+   "name": "Depressor labii inferioris.l",
+   "src_type": "MESH",
+   "polys": 832
+  },
+  {
+   "name": "Levator anguli oris.l",
+   "src_type": "MESH",
+   "polys": 330
+  },
+  {
+   "name": "Procerus muscle.l",
+   "src_type": "MESH",
+   "polys": 546
+  },
+  {
+   "name": "Risorius muscle.l",
+   "src_type": "MESH",
+   "polys": 592
+  },
+  {
+   "name": "Zygomaticus minor muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Levator labii superioris.l",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Depressor septi nasi.l",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Mentalis muscle.l",
+   "src_type": "MESH",
+   "polys": 166
+  },
+  {
+   "name": "Levator nasolabialis.l",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Bucinator.l",
+   "src_type": "MESH",
+   "polys": 884
+  },
+  {
+   "name": "Palatopharyngeus muscle.r",
+   "src_type": "MESH",
+   "polys": 15282
+  },
+  {
+   "name": "Palatopharyngeus muscle.l",
+   "src_type": "MESH",
+   "polys": 15282
+  },
+  {
+   "name": "Superior pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 5334
+  },
+  {
+   "name": "Superior pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 5334
+  },
+  {
+   "name": "Middle pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 2948
+  },
+  {
+   "name": "Middle pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 2948
+  },
+  {
+   "name": "Inferior pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 3696
+  },
+  {
+   "name": "Inferior pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 3696
+  },
+  {
+   "name": "Stylopharyngeus muscle.r",
+   "src_type": "MESH",
+   "polys": 9478
+  },
+  {
+   "name": "Sternocleidomastoid muscle.r",
+   "src_type": "MESH",
+   "polys": 4952
+  },
+  {
+   "name": "Intermediate tendon of digastric muscle.r",
+   "src_type": "MESH",
+   "polys": 228
+  },
+  {
+   "name": "Anterior belly of digastric muscle.r",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Posterior belly of digastric muscle.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Intermediate tendon of digastric muscle.l",
+   "src_type": "MESH",
+   "polys": 228
+  },
+  {
+   "name": "Anterior belly of digastric muscle.l",
+   "src_type": "MESH",
+   "polys": 392
+  },
+  {
+   "name": "Posterior belly of digastric muscle.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Mylohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1122
+  },
+  {
+   "name": "Stylohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 694
+  },
+  {
+   "name": "Geniohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 530
+  },
+  {
+   "name": "Mylohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1122
+  },
+  {
+   "name": "Stylohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 694
+  },
+  {
+   "name": "Geniohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 530
+  },
+  {
+   "name": "Omohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2706
+  },
+  {
+   "name": "Omohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2706
+  },
+  {
+   "name": "Sternohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1394
+  },
+  {
+   "name": "Sternothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 1088
+  },
+  {
+   "name": "Thyrohyoid muscle.r",
+   "src_type": "MESH",
+   "polys": 692
+  },
+  {
+   "name": "Sternohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1394
+  },
+  {
+   "name": "Sternothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 1088
+  },
+  {
+   "name": "Thyrohyoid muscle.l",
+   "src_type": "MESH",
+   "polys": 692
+  },
+  {
+   "name": "Oblique part of cricothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 2060
+  },
+  {
+   "name": "Straight part of cricothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "External part of thyro-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "External part of thyro-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Ary-epiglottic part of oblique arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1022
+  },
+  {
+   "name": "Thyro-epiglottic part of thyro-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 3110
+  },
+  {
+   "name": "Transverse arytenoid muscle",
+   "src_type": "MESH",
+   "polys": 1822
+  },
+  {
+   "name": "Lateral crico-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1624
+  },
+  {
+   "name": "Posterior crico-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1812
+  },
+  {
+   "name": "Platysma.r",
+   "src_type": "MESH",
+   "polys": 6548
+  },
+  {
+   "name": "Scalenus medius muscle.r",
+   "src_type": "MESH",
+   "polys": 2078
+  },
+  {
+   "name": "Scalenus posterior muscle.r",
+   "src_type": "MESH",
+   "polys": 1326
+  },
+  {
+   "name": "Scalenus anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Longus capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 1980
+  },
+  {
+   "name": "Longus colli muscle.r",
+   "src_type": "MESH",
+   "polys": 6294
+  },
+  {
+   "name": "Rectus anterior capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 396
+  },
+  {
+   "name": "Rectus lateralis capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Rectus anterior capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 396
+  },
+  {
+   "name": "Rectus lateralis capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Stylopharyngeus muscle.l",
+   "src_type": "MESH",
+   "polys": 9478
+  },
+  {
+   "name": "Ary-epiglottic part of oblique arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1022
+  },
+  {
+   "name": "Thyro-epiglottic part of thyro-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 3110
+  },
+  {
+   "name": "Platysma.l",
+   "src_type": "MESH",
+   "polys": 6548
+  },
+  {
+   "name": "Longus capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 1980
+  },
+  {
+   "name": "Straight part of cricothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lateral crico-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1624
+  },
+  {
+   "name": "Posterior crico-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1812
+  },
+  {
+   "name": "Scalenus medius muscle.l",
+   "src_type": "MESH",
+   "polys": 2078
+  },
+  {
+   "name": "Longus colli muscle.l",
+   "src_type": "MESH",
+   "polys": 6294
+  },
+  {
+   "name": "Sternocleidomastoid muscle.l",
+   "src_type": "MESH",
+   "polys": 4952
+  },
+  {
+   "name": "Scalenus posterior muscle.l",
+   "src_type": "MESH",
+   "polys": 1326
+  },
+  {
+   "name": "Scalenus anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Oblique part of cricothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 2060
+  },
+  {
+   "name": "Palatopharyngeus muscle.r",
+   "src_type": "MESH",
+   "polys": 15282
+  },
+  {
+   "name": "Palatopharyngeus muscle.l",
+   "src_type": "MESH",
+   "polys": 15282
+  },
+  {
+   "name": "Superior pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 5334
+  },
+  {
+   "name": "Superior pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 5334
+  },
+  {
+   "name": "Middle pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 2948
+  },
+  {
+   "name": "Middle pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 2948
+  },
+  {
+   "name": "Inferior pharyngeal constrictor.r",
+   "src_type": "MESH",
+   "polys": 3696
+  },
+  {
+   "name": "Inferior pharyngeal constrictor.l",
+   "src_type": "MESH",
+   "polys": 3696
+  },
+  {
+   "name": "Stylopharyngeus muscle.r",
+   "src_type": "MESH",
+   "polys": 9478
+  },
+  {
+   "name": "Stylopharyngeus muscle.l",
+   "src_type": "MESH",
+   "polys": 9478
+  },
+  {
+   "name": "Oblique part of cricothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 2060
+  },
+  {
+   "name": "Straight part of cricothyroid muscle.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "External part of thyro-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "External part of thyro-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Ary-epiglottic part of oblique arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1022
+  },
+  {
+   "name": "Thyro-epiglottic part of thyro-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 3110
+  },
+  {
+   "name": "Transverse arytenoid muscle",
+   "src_type": "MESH",
+   "polys": 1822
+  },
+  {
+   "name": "Lateral crico-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1624
+  },
+  {
+   "name": "Posterior crico-arytenoid muscle.r",
+   "src_type": "MESH",
+   "polys": 1812
+  },
+  {
+   "name": "Ary-epiglottic part of oblique arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1022
+  },
+  {
+   "name": "Thyro-epiglottic part of thyro-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 3110
+  },
+  {
+   "name": "Straight part of cricothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lateral crico-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1624
+  },
+  {
+   "name": "Posterior crico-arytenoid muscle.l",
+   "src_type": "MESH",
+   "polys": 1812
+  },
+  {
+   "name": "Oblique part of cricothyroid muscle.l",
+   "src_type": "MESH",
+   "polys": 2060
+  },
+  {
+   "name": "Obliquus inferior capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Obliquus superior capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 654
+  },
+  {
+   "name": "Rectus posterior major capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 788
+  },
+  {
+   "name": "Rectus posterior minor capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Obliquus inferior capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 540
+  },
+  {
+   "name": "Obliquus superior capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 654
+  },
+  {
+   "name": "Rectus posterior major capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 788
+  },
+  {
+   "name": "Rectus posterior minor capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Iliocostalis colli muscle",
+   "src_type": "MESH",
+   "polys": 2050
+  },
+  {
+   "name": "Longissimus capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 1574
+  },
+  {
+   "name": "Spinalis capitis muscle.r",
+   "src_type": "MESH",
+   "polys": 2560
+  },
+  {
+   "name": "Spinalis colli muscle.r",
+   "src_type": "MESH",
+   "polys": 596
+  },
+  {
+   "name": "Iliocostalis colli muscle.r",
+   "src_type": "MESH",
+   "polys": 2050
+  },
+  {
+   "name": "Longissimus colli muscle.r",
+   "src_type": "MESH",
+   "polys": 1826
+  },
+  {
+   "name": "Longissimus colli muscle.l",
+   "src_type": "MESH",
+   "polys": 1826
+  },
+  {
+   "name": "Spinalis capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 2560
+  },
+  {
+   "name": "Longissimus capitis muscle.l",
+   "src_type": "MESH",
+   "polys": 1574
+  },
+  {
+   "name": "Spinalis colli muscle.l",
+   "src_type": "MESH",
+   "polys": 596
+  },
+  {
+   "name": "Iliocostalis lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 10038
+  },
+  {
+   "name": "Iliocostalis thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 5772
+  },
+  {
+   "name": "Iliocostalis lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 10038
+  },
+  {
+   "name": "Iliocostalis thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 5772
+  },
+  {
+   "name": "Longissimus thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 9652
+  },
+  {
+   "name": "Longissimus thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 9652
+  },
+  {
+   "name": "Spinalis thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 5532
+  },
+  {
+   "name": "Spinalis thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 5532
+  },
+  {
+   "name": "Multifidus colli muscle.r",
+   "src_type": "MESH",
+   "polys": 1390
+  },
+  {
+   "name": "Semispinalis colli muscle.l",
+   "src_type": "MESH",
+   "polys": 2584
+  },
+  {
+   "name": "Semispinalis colli muscle.r",
+   "src_type": "MESH",
+   "polys": 2584
+  },
+  {
+   "name": "Multifidus colli muscle.l",
+   "src_type": "MESH",
+   "polys": 1390
+  },
+  {
+   "name": "Multifidus thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 3902
+  },
+  {
+   "name": "Multifidus lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 2820
+  },
+  {
+   "name": "Multifidus thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 3902
+  },
+  {
+   "name": "Multifidus lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 2820
+  },
+  {
+   "name": "Semispinalis thoracis muscle.r",
+   "src_type": "MESH",
+   "polys": 4972
+  },
+  {
+   "name": "Semispinalis thoracis muscle.l",
+   "src_type": "MESH",
+   "polys": 4972
+  },
+  {
+   "name": "Rotatores.l",
+   "src_type": "MESH",
+   "polys": 6518
+  },
+  {
+   "name": "Rotatores.r",
+   "src_type": "MESH",
+   "polys": 6518
+  },
+  {
+   "name": "Rotatores.l",
+   "src_type": "MESH",
+   "polys": 6518
+  },
+  {
+   "name": "Rotatores.r",
+   "src_type": "MESH",
+   "polys": 6518
+  },
+  {
+   "name": "Levator scapulae.r",
+   "src_type": "MESH",
+   "polys": 3082
+  },
+  {
+   "name": "Ascending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Ascending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Levator scapulae.l",
+   "src_type": "MESH",
+   "polys": 3082
+  },
+  {
+   "name": "Descending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Descending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Dorsal parts of lateral intertransversarii lumborum muscles.r",
+   "src_type": "MESH",
+   "polys": 720
+  },
+  {
+   "name": "Ventral parts of lateral intertransversarii lumborum muscles.r",
+   "src_type": "MESH",
+   "polys": 996
+  },
+  {
+   "name": "Dorsal parts of lateral intertransversarii lumborum muscles.l",
+   "src_type": "MESH",
+   "polys": 720
+  },
+  {
+   "name": "Ventral parts of lateral intertransversarii lumborum muscles.l",
+   "src_type": "MESH",
+   "polys": 996
+  },
+  {
+   "name": "Rhomboid major muscle.r",
+   "src_type": "MESH",
+   "polys": 4800
+  },
+  {
+   "name": "Rhomboid minor muscle.r",
+   "src_type": "MESH",
+   "polys": 1494
+  },
+  {
+   "name": "Latissimus dorsi muscle.r",
+   "src_type": "MESH",
+   "polys": 21580
+  },
+  {
+   "name": "Serratus posterior inferior muscle.r",
+   "src_type": "MESH",
+   "polys": 8958
+  },
+  {
+   "name": "Serratus posterior superior muscle.r",
+   "src_type": "MESH",
+   "polys": 5518
+  },
+  {
+   "name": "Rhomboid major muscle.l",
+   "src_type": "MESH",
+   "polys": 4800
+  },
+  {
+   "name": "Rhomboid minor muscle.l",
+   "src_type": "MESH",
+   "polys": 1494
+  },
+  {
+   "name": "Latissimus dorsi muscle.l",
+   "src_type": "MESH",
+   "polys": 21580
+  },
+  {
+   "name": "Serratus posterior inferior muscle.l",
+   "src_type": "MESH",
+   "polys": 8958
+  },
+  {
+   "name": "Serratus posterior superior muscle.l",
+   "src_type": "MESH",
+   "polys": 5518
+  },
+  {
+   "name": "Ascending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Ascending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 4596
+  },
+  {
+   "name": "Descending part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "Descending part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 6760
+  },
+  {
+   "name": "Transverse part of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 2992
+  },
+  {
+   "name": "(Abdominal part of pectoralis major muscle).l",
+   "src_type": "MESH",
+   "polys": 1508
+  },
+  {
+   "name": "(Abdominal part of pectoralis major muscle).r",
+   "src_type": "MESH",
+   "polys": 1508
+  },
+  {
+   "name": "Clavicular head of pectoralis major muscle.l",
+   "src_type": "MESH",
+   "polys": 850
+  },
+  {
+   "name": "Clavicular head of pectoralis major muscle.r",
+   "src_type": "MESH",
+   "polys": 850
+  },
+  {
+   "name": "Sternocostal head of pectoralis major muscle.l",
+   "src_type": "MESH",
+   "polys": 3217
+  },
+  {
+   "name": "Sternocostal head of pectoralis major muscle.r",
+   "src_type": "MESH",
+   "polys": 3217
+  },
+  {
+   "name": "Rectus abdominis muscle.r",
+   "src_type": "MESH",
+   "polys": 20604
+  },
+  {
+   "name": "Rectus abdominis muscle.l",
+   "src_type": "MESH",
+   "polys": 20604
+  },
+  {
+   "name": "Inguinal ligament.l",
+   "src_type": "MESH",
+   "polys": 1056
+  },
+  {
+   "name": "Inguinal ligament.r",
+   "src_type": "MESH",
+   "polys": 1056
+  },
+  {
+   "name": "External abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "External abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "Internal abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 28869
+  },
+  {
+   "name": "Internal abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 28869
+  },
+  {
+   "name": "Transversus abdominis muscle.r",
+   "src_type": "MESH",
+   "polys": 34328
+  },
+  {
+   "name": "Transversus abdominis muscle.l",
+   "src_type": "MESH",
+   "polys": 34328
+  },
+  {
+   "name": "Linea alba",
+   "src_type": "MESH",
+   "polys": 338
+  },
+  {
+   "name": "Pyramidalis muscle.r",
+   "src_type": "MESH",
+   "polys": 1112
+  },
+  {
+   "name": "Quadratus lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 2832
+  },
+  {
+   "name": "Pyramidalis muscle.l",
+   "src_type": "MESH",
+   "polys": 1112
+  },
+  {
+   "name": "Quadratus lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 2832
+  },
+  {
+   "name": "Investing abdominal fascia.r",
+   "src_type": "MESH",
+   "polys": 5618
+  },
+  {
+   "name": "Investing abdominal fascia.l",
+   "src_type": "MESH",
+   "polys": 5618
+  },
+  {
+   "name": "Iliopsoas fascia.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Diaphragmatic fascia",
+   "src_type": "MESH",
+   "polys": 2391
+  },
+  {
+   "name": "Iliopsoas fascia.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Transversalis fascia",
+   "src_type": "MESH",
+   "polys": 2175
+  },
+  {
+   "name": "Rectus abdominis muscle.r",
+   "src_type": "MESH",
+   "polys": 20604
+  },
+  {
+   "name": "Rectus abdominis muscle.l",
+   "src_type": "MESH",
+   "polys": 20604
+  },
+  {
+   "name": "Inguinal ligament.l",
+   "src_type": "MESH",
+   "polys": 1056
+  },
+  {
+   "name": "Inguinal ligament.r",
+   "src_type": "MESH",
+   "polys": 1056
+  },
+  {
+   "name": "External abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "External abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 29622
+  },
+  {
+   "name": "Internal abdominal oblique muscle.r",
+   "src_type": "MESH",
+   "polys": 28869
+  },
+  {
+   "name": "Internal abdominal oblique muscle.l",
+   "src_type": "MESH",
+   "polys": 28869
+  },
+  {
+   "name": "Transversus abdominis muscle.r",
+   "src_type": "MESH",
+   "polys": 34328
+  },
+  {
+   "name": "Transversus abdominis muscle.l",
+   "src_type": "MESH",
+   "polys": 34328
+  },
+  {
+   "name": "Linea alba",
+   "src_type": "MESH",
+   "polys": 338
+  },
+  {
+   "name": "Pyramidalis muscle.r",
+   "src_type": "MESH",
+   "polys": 1112
+  },
+  {
+   "name": "Quadratus lumborum muscle.r",
+   "src_type": "MESH",
+   "polys": 2832
+  },
+  {
+   "name": "Pyramidalis muscle.l",
+   "src_type": "MESH",
+   "polys": 1112
+  },
+  {
+   "name": "Quadratus lumborum muscle.l",
+   "src_type": "MESH",
+   "polys": 2832
+  },
+  {
+   "name": "Acromial part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Subscapularis muscle.r",
+   "src_type": "MESH",
+   "polys": 2954
+  },
+  {
+   "name": "Supraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 1430
+  },
+  {
+   "name": "Teres minor muscle.r",
+   "src_type": "MESH",
+   "polys": 1522
+  },
+  {
+   "name": "Infraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 3166
+  },
+  {
+   "name": "Teres major muscle.r",
+   "src_type": "MESH",
+   "polys": 1154
+  },
+  {
+   "name": "Long head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Brachialis muscle.r",
+   "src_type": "MESH",
+   "polys": 3478
+  },
+  {
+   "name": "Coracobrachialis muscle.r",
+   "src_type": "MESH",
+   "polys": 1160
+  },
+  {
+   "name": "Medial head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2686
+  },
+  {
+   "name": "Lateral head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Superficial head of pronator teres.r",
+   "src_type": "MESH",
+   "polys": 2546
+  },
+  {
+   "name": "Deep head of pronator teres.r",
+   "src_type": "MESH",
+   "polys": 1114
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Humero-ulnar head of flexor digitorum superficialis.r",
+   "src_type": "MESH",
+   "polys": 12798
+  },
+  {
+   "name": "Flexor carpi radialis.r",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Palmaris longus muscle.r",
+   "src_type": "MESH",
+   "polys": 4374
+  },
+  {
+   "name": "Radial head of flexor digitorum superficialis.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Flexor digitorum profundus.r",
+   "src_type": "MESH",
+   "polys": 7110
+  },
+  {
+   "name": "Flexor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Pronator quadratus.r",
+   "src_type": "MESH",
+   "polys": 1020
+  },
+  {
+   "name": "Extensor digitorum.r",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Ulnar head of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 582
+  },
+  {
+   "name": "Humeral head of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Brachioradialis muscle.r",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.r",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Extensor carpi radialis brevis.r",
+   "src_type": "MESH",
+   "polys": 3142
+  },
+  {
+   "name": "Anconeus muscle.r",
+   "src_type": "MESH",
+   "polys": 1442
+  },
+  {
+   "name": "Extensor digiti minimi.r",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Supinator.r",
+   "src_type": "MESH",
+   "polys": 2754
+  },
+  {
+   "name": "Abductor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 2462
+  },
+  {
+   "name": "Extensor indicis.r",
+   "src_type": "MESH",
+   "polys": 1142
+  },
+  {
+   "name": "Extensor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 1173
+  },
+  {
+   "name": "Extensor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1602
+  },
+  {
+   "name": "Superficial head of flexor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Deep head of flexor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Oblique head of adductor pollicis.r",
+   "src_type": "MESH",
+   "polys": 450
+  },
+  {
+   "name": "Transverse head of adductor pollicis.r",
+   "src_type": "MESH",
+   "polys": 1014
+  },
+  {
+   "name": "Abductor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 624
+  },
+  {
+   "name": "Opponens pollicis muscle.r",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Abductor digiti minimi of hand.r",
+   "src_type": "MESH",
+   "polys": 672
+  },
+  {
+   "name": "Flexor digiti minimi of hand.r",
+   "src_type": "MESH",
+   "polys": 308
+  },
+  {
+   "name": "Opponens digiti minimi muscle of hand.r",
+   "src_type": "MESH",
+   "polys": 420
+  },
+  {
+   "name": "Lumbrical muscles of hand.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Dorsal interossei muscles of hand.r",
+   "src_type": "MESH",
+   "polys": 1364
+  },
+  {
+   "name": "Palmar interossei muscles.r",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Acromial part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Teres minor muscle.l",
+   "src_type": "MESH",
+   "polys": 1522
+  },
+  {
+   "name": "Infraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 3166
+  },
+  {
+   "name": "Long head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Brachialis muscle.l",
+   "src_type": "MESH",
+   "polys": 3478
+  },
+  {
+   "name": "Medial head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2686
+  },
+  {
+   "name": "Lateral head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Superficial head of pronator teres.l",
+   "src_type": "MESH",
+   "polys": 2546
+  },
+  {
+   "name": "Deep head of pronator teres.l",
+   "src_type": "MESH",
+   "polys": 1114
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Humero-ulnar head of flexor digitorum superficialis.l",
+   "src_type": "MESH",
+   "polys": 12798
+  },
+  {
+   "name": "Flexor carpi radialis.l",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Palmaris longus muscle.l",
+   "src_type": "MESH",
+   "polys": 4374
+  },
+  {
+   "name": "Radial head of flexor digitorum superficialis.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Flexor digitorum profundus.l",
+   "src_type": "MESH",
+   "polys": 7110
+  },
+  {
+   "name": "Flexor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Pronator quadratus.l",
+   "src_type": "MESH",
+   "polys": 1020
+  },
+  {
+   "name": "Extensor digitorum.l",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Ulnar head of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 582
+  },
+  {
+   "name": "Humeral head of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Brachioradialis muscle.l",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.l",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Extensor carpi radialis brevis.l",
+   "src_type": "MESH",
+   "polys": 3142
+  },
+  {
+   "name": "Anconeus muscle.l",
+   "src_type": "MESH",
+   "polys": 1442
+  },
+  {
+   "name": "Extensor digiti minimi.l",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Supinator.l",
+   "src_type": "MESH",
+   "polys": 2754
+  },
+  {
+   "name": "Abductor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 2462
+  },
+  {
+   "name": "Extensor indicis.l",
+   "src_type": "MESH",
+   "polys": 1142
+  },
+  {
+   "name": "Extensor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 1173
+  },
+  {
+   "name": "Extensor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1602
+  },
+  {
+   "name": "Superficial head of flexor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Deep head of flexor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Oblique head of adductor pollicis.l",
+   "src_type": "MESH",
+   "polys": 450
+  },
+  {
+   "name": "Transverse head of adductor pollicis.l",
+   "src_type": "MESH",
+   "polys": 1014
+  },
+  {
+   "name": "Abductor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 624
+  },
+  {
+   "name": "Opponens pollicis muscle.l",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Abductor digiti minimi of hand.l",
+   "src_type": "MESH",
+   "polys": 672
+  },
+  {
+   "name": "Flexor digiti minimi of hand.l",
+   "src_type": "MESH",
+   "polys": 308
+  },
+  {
+   "name": "Opponens digiti minimi muscle of hand.l",
+   "src_type": "MESH",
+   "polys": 420
+  },
+  {
+   "name": "Lumbrical muscles of hand.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Dorsal interossei muscles of hand.l",
+   "src_type": "MESH",
+   "polys": 1364
+  },
+  {
+   "name": "Palmar interossei muscles.l",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Subscapularis muscle.l",
+   "src_type": "MESH",
+   "polys": 2954
+  },
+  {
+   "name": "Supraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 1430
+  },
+  {
+   "name": "Coracobrachialis muscle.l",
+   "src_type": "MESH",
+   "polys": 1160
+  },
+  {
+   "name": "Acromial part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.r",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Acromial part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2964
+  },
+  {
+   "name": "Scapular spinal part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 4378
+  },
+  {
+   "name": "Clavicular part of deltoid muscle.l",
+   "src_type": "MESH",
+   "polys": 2902
+  },
+  {
+   "name": "Subscapularis muscle.r",
+   "src_type": "MESH",
+   "polys": 2954
+  },
+  {
+   "name": "Supraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 1430
+  },
+  {
+   "name": "Teres minor muscle.r",
+   "src_type": "MESH",
+   "polys": 1522
+  },
+  {
+   "name": "Infraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 3166
+  },
+  {
+   "name": "Teres minor muscle.l",
+   "src_type": "MESH",
+   "polys": 1522
+  },
+  {
+   "name": "Infraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 3166
+  },
+  {
+   "name": "Subscapularis muscle.l",
+   "src_type": "MESH",
+   "polys": 2954
+  },
+  {
+   "name": "Supraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 1430
+  },
+  {
+   "name": "Long head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Brachialis muscle.r",
+   "src_type": "MESH",
+   "polys": 3478
+  },
+  {
+   "name": "Coracobrachialis muscle.r",
+   "src_type": "MESH",
+   "polys": 1160
+  },
+  {
+   "name": "Long head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3218
+  },
+  {
+   "name": "Short head of biceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2696
+  },
+  {
+   "name": "Brachialis muscle.l",
+   "src_type": "MESH",
+   "polys": 3478
+  },
+  {
+   "name": "Coracobrachialis muscle.l",
+   "src_type": "MESH",
+   "polys": 1160
+  },
+  {
+   "name": "Medial head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 2686
+  },
+  {
+   "name": "Lateral head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.r",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Medial head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 2686
+  },
+  {
+   "name": "Lateral head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3628
+  },
+  {
+   "name": "Long head of triceps brachii.l",
+   "src_type": "MESH",
+   "polys": 3950
+  },
+  {
+   "name": "Superficial head of pronator teres.r",
+   "src_type": "MESH",
+   "polys": 2546
+  },
+  {
+   "name": "Deep head of pronator teres.r",
+   "src_type": "MESH",
+   "polys": 1114
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Humero-ulnar head of flexor digitorum superficialis.r",
+   "src_type": "MESH",
+   "polys": 12798
+  },
+  {
+   "name": "Flexor carpi radialis.r",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Palmaris longus muscle.r",
+   "src_type": "MESH",
+   "polys": 4374
+  },
+  {
+   "name": "Radial head of flexor digitorum superficialis.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Flexor digitorum profundus.r",
+   "src_type": "MESH",
+   "polys": 7110
+  },
+  {
+   "name": "Flexor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Pronator quadratus.r",
+   "src_type": "MESH",
+   "polys": 1020
+  },
+  {
+   "name": "Superficial head of pronator teres.l",
+   "src_type": "MESH",
+   "polys": 2546
+  },
+  {
+   "name": "Deep head of pronator teres.l",
+   "src_type": "MESH",
+   "polys": 1114
+  },
+  {
+   "name": "Humeral head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 3912
+  },
+  {
+   "name": "Ulnar head of flexor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 1466
+  },
+  {
+   "name": "Humero-ulnar head of flexor digitorum superficialis.l",
+   "src_type": "MESH",
+   "polys": 12798
+  },
+  {
+   "name": "Flexor carpi radialis.l",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Palmaris longus muscle.l",
+   "src_type": "MESH",
+   "polys": 4374
+  },
+  {
+   "name": "Radial head of flexor digitorum superficialis.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Flexor digitorum profundus.l",
+   "src_type": "MESH",
+   "polys": 7110
+  },
+  {
+   "name": "Flexor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1666
+  },
+  {
+   "name": "Pronator quadratus.l",
+   "src_type": "MESH",
+   "polys": 1020
+  },
+  {
+   "name": "Extensor digitorum.r",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Ulnar head of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 582
+  },
+  {
+   "name": "Humeral head of extensor carpi ulnaris.r",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Brachioradialis muscle.r",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.r",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Extensor carpi radialis brevis.r",
+   "src_type": "MESH",
+   "polys": 3142
+  },
+  {
+   "name": "Anconeus muscle.r",
+   "src_type": "MESH",
+   "polys": 1442
+  },
+  {
+   "name": "Extensor digiti minimi.r",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Supinator.r",
+   "src_type": "MESH",
+   "polys": 2754
+  },
+  {
+   "name": "Abductor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 2462
+  },
+  {
+   "name": "Extensor indicis.r",
+   "src_type": "MESH",
+   "polys": 1142
+  },
+  {
+   "name": "Extensor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 1173
+  },
+  {
+   "name": "Extensor pollicis longus.r",
+   "src_type": "MESH",
+   "polys": 1602
+  },
+  {
+   "name": "Extensor digitorum.l",
+   "src_type": "MESH",
+   "polys": 6410
+  },
+  {
+   "name": "Ulnar head of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 582
+  },
+  {
+   "name": "Humeral head of extensor carpi ulnaris.l",
+   "src_type": "MESH",
+   "polys": 830
+  },
+  {
+   "name": "Brachioradialis muscle.l",
+   "src_type": "MESH",
+   "polys": 7312
+  },
+  {
+   "name": "Extensor carpi radialis longus.l",
+   "src_type": "MESH",
+   "polys": 3706
+  },
+  {
+   "name": "Extensor carpi radialis brevis.l",
+   "src_type": "MESH",
+   "polys": 3142
+  },
+  {
+   "name": "Anconeus muscle.l",
+   "src_type": "MESH",
+   "polys": 1442
+  },
+  {
+   "name": "Extensor digiti minimi.l",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Supinator.l",
+   "src_type": "MESH",
+   "polys": 2754
+  },
+  {
+   "name": "Abductor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 2462
+  },
+  {
+   "name": "Extensor indicis.l",
+   "src_type": "MESH",
+   "polys": 1142
+  },
+  {
+   "name": "Extensor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 1173
+  },
+  {
+   "name": "Extensor pollicis longus.l",
+   "src_type": "MESH",
+   "polys": 1602
+  },
+  {
+   "name": "Superficial head of flexor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Deep head of flexor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Oblique head of adductor pollicis.r",
+   "src_type": "MESH",
+   "polys": 450
+  },
+  {
+   "name": "Transverse head of adductor pollicis.r",
+   "src_type": "MESH",
+   "polys": 1014
+  },
+  {
+   "name": "Abductor pollicis brevis.r",
+   "src_type": "MESH",
+   "polys": 624
+  },
+  {
+   "name": "Opponens pollicis muscle.r",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Abductor digiti minimi of hand.r",
+   "src_type": "MESH",
+   "polys": 672
+  },
+  {
+   "name": "Flexor digiti minimi of hand.r",
+   "src_type": "MESH",
+   "polys": 308
+  },
+  {
+   "name": "Opponens digiti minimi muscle of hand.r",
+   "src_type": "MESH",
+   "polys": 420
+  },
+  {
+   "name": "Lumbrical muscles of hand.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Dorsal interossei muscles of hand.r",
+   "src_type": "MESH",
+   "polys": 1364
+  },
+  {
+   "name": "Palmar interossei muscles.r",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Superficial head of flexor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 276
+  },
+  {
+   "name": "Deep head of flexor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 746
+  },
+  {
+   "name": "Oblique head of adductor pollicis.l",
+   "src_type": "MESH",
+   "polys": 450
+  },
+  {
+   "name": "Transverse head of adductor pollicis.l",
+   "src_type": "MESH",
+   "polys": 1014
+  },
+  {
+   "name": "Abductor pollicis brevis.l",
+   "src_type": "MESH",
+   "polys": 624
+  },
+  {
+   "name": "Opponens pollicis muscle.l",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Abductor digiti minimi of hand.l",
+   "src_type": "MESH",
+   "polys": 672
+  },
+  {
+   "name": "Flexor digiti minimi of hand.l",
+   "src_type": "MESH",
+   "polys": 308
+  },
+  {
+   "name": "Opponens digiti minimi muscle of hand.l",
+   "src_type": "MESH",
+   "polys": 420
+  },
+  {
+   "name": "Lumbrical muscles of hand.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Dorsal interossei muscles of hand.l",
+   "src_type": "MESH",
+   "polys": 1364
+  },
+  {
+   "name": "Palmar interossei muscles.l",
+   "src_type": "MESH",
+   "polys": 172
+  },
+  {
+   "name": "Extensor retinaculum of wrist.r",
+   "src_type": "MESH",
+   "polys": 194
+  },
+  {
+   "name": "Flexor retinaculum of wrist.r",
+   "src_type": "MESH",
+   "polys": 273
+  },
+  {
+   "name": "Superficial transverse metacarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 98
+  },
+  {
+   "name": "Extensor retinaculum of wrist.l",
+   "src_type": "MESH",
+   "polys": 194
+  },
+  {
+   "name": "Flexor retinaculum of wrist.l",
+   "src_type": "MESH",
+   "polys": 273
+  },
+  {
+   "name": "Superficial transverse metacarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 98
+  },
+  {
+   "name": "Iliacus muscle.r",
+   "src_type": "MESH",
+   "polys": 4354
+  },
+  {
+   "name": "Psoas major.r",
+   "src_type": "MESH",
+   "polys": 5474
+  },
+  {
+   "name": "Gluteus medius muscle.r",
+   "src_type": "MESH",
+   "polys": 5176
+  },
+  {
+   "name": "Gluteus maximus muscle.r",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Gluteus minimus muscle.r",
+   "src_type": "MESH",
+   "polys": 6250
+  },
+  {
+   "name": "Tensor fasciae latae.r",
+   "src_type": "MESH",
+   "polys": 1862
+  },
+  {
+   "name": "Piriformis muscle.r",
+   "src_type": "MESH",
+   "polys": 1500
+  },
+  {
+   "name": "Quadratus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 1646
+  },
+  {
+   "name": "Inferior gemellus muscle.r",
+   "src_type": "MESH",
+   "polys": 976
+  },
+  {
+   "name": "Obturator internus.r",
+   "src_type": "MESH",
+   "polys": 3760
+  },
+  {
+   "name": "Superior gemellus muscle.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Lateral patellar retinaculum.r",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Medial patellar retinaculum.r",
+   "src_type": "MESH",
+   "polys": 92
+  },
+  {
+   "name": "Rectus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.r",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.r",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Vastus intermedius muscle.r",
+   "src_type": "MESH",
+   "polys": 6164
+  },
+  {
+   "name": "Sartorius muscle.r",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Adductor magnus.r",
+   "src_type": "MESH",
+   "polys": 8192
+  },
+  {
+   "name": "Adductor longus.r",
+   "src_type": "MESH",
+   "polys": 3714
+  },
+  {
+   "name": "Pectineus muscle.r",
+   "src_type": "MESH",
+   "polys": 1952
+  },
+  {
+   "name": "Adductor brevis.r",
+   "src_type": "MESH",
+   "polys": 2132
+  },
+  {
+   "name": "(Adductor minimus).r",
+   "src_type": "MESH",
+   "polys": 948
+  },
+  {
+   "name": "Gracilis muscle.r",
+   "src_type": "MESH",
+   "polys": 4812
+  },
+  {
+   "name": "Obturator externus.r",
+   "src_type": "MESH",
+   "polys": 1156
+  },
+  {
+   "name": "Long head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Short head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 2476
+  },
+  {
+   "name": "Semimembranosus muscle.r",
+   "src_type": "MESH",
+   "polys": 7442
+  },
+  {
+   "name": "Semitendinosus muscle.r",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 3176
+  },
+  {
+   "name": "Tendon of extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 5184
+  },
+  {
+   "name": "Tibialis anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis tertius muscle.r",
+   "src_type": "MESH",
+   "polys": 586
+  },
+  {
+   "name": "Extensor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 2362
+  },
+  {
+   "name": "Fibularis longus muscle.r",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Fibularis brevis muscle.r",
+   "src_type": "MESH",
+   "polys": 3446
+  },
+  {
+   "name": "Lateral head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Medial head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.r",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Soleus muscle.r",
+   "src_type": "MESH",
+   "polys": 6774
+  },
+  {
+   "name": "Plantaris muscle.r",
+   "src_type": "MESH",
+   "polys": 4698
+  },
+  {
+   "name": "Flexor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 6836
+  },
+  {
+   "name": "Popliteus muscle.r",
+   "src_type": "MESH",
+   "polys": 1132
+  },
+  {
+   "name": "Tibialis posterior muscle.r",
+   "src_type": "MESH",
+   "polys": 5526
+  },
+  {
+   "name": "Flexor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 5878
+  },
+  {
+   "name": "Medial head of flexor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 514
+  },
+  {
+   "name": "Lateral head of flexor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 966
+  },
+  {
+   "name": "Oblique head of adductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 904
+  },
+  {
+   "name": "Transverse head of adductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 366
+  },
+  {
+   "name": "Abductor digiti minimi of foot.r",
+   "src_type": "MESH",
+   "polys": 1280
+  },
+  {
+   "name": "Abductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 1688
+  },
+  {
+   "name": "Extensor digitorum brevis.r",
+   "src_type": "MESH",
+   "polys": 3184
+  },
+  {
+   "name": "Extensor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 1118
+  },
+  {
+   "name": "Dorsal interossei muscles of foot.r",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Flexor digitorum brevis.r",
+   "src_type": "MESH",
+   "polys": 3224
+  },
+  {
+   "name": "Flexor digiti minimi of foot.r",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Lumbrical muscles of foot.r",
+   "src_type": "MESH",
+   "polys": 418
+  },
+  {
+   "name": "(Opponens digiti minimi muscle of foot).r",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Plantar interossei muscles.r",
+   "src_type": "MESH",
+   "polys": 1242
+  },
+  {
+   "name": "Quadratus plantae muscle.r",
+   "src_type": "MESH",
+   "polys": 1176
+  },
+  {
+   "name": "Iliotibial tract.r",
+   "src_type": "MESH",
+   "polys": 48612
+  },
+  {
+   "name": "Superior extensor retinaculum of ankle.r",
+   "src_type": "MESH",
+   "polys": 133
+  },
+  {
+   "name": "Inferior extensor retinaculum of ankle.r",
+   "src_type": "MESH",
+   "polys": 169
+  },
+  {
+   "name": "Superior fibular retinaculum.r",
+   "src_type": "MESH",
+   "polys": 348
+  },
+  {
+   "name": "Inferior fibular retinaculum.r",
+   "src_type": "MESH",
+   "polys": 35
+  },
+  {
+   "name": "Superficial transverse metatarsal ligament.r",
+   "src_type": "MESH",
+   "polys": 55
+  },
+  {
+   "name": "Plantar aponeurosis.r",
+   "src_type": "MESH",
+   "polys": 211
+  },
+  {
+   "name": "Flexor retinaculum of ankle.r",
+   "src_type": "MESH",
+   "polys": 358
+  },
+  {
+   "name": "Quadratus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 1646
+  },
+  {
+   "name": "Rectus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.l",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.l",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Vastus intermedius muscle.l",
+   "src_type": "MESH",
+   "polys": 6164
+  },
+  {
+   "name": "Sartorius muscle.l",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Adductor magnus.l",
+   "src_type": "MESH",
+   "polys": 8192
+  },
+  {
+   "name": "Adductor longus.l",
+   "src_type": "MESH",
+   "polys": 3714
+  },
+  {
+   "name": "Pectineus muscle.l",
+   "src_type": "MESH",
+   "polys": 1952
+  },
+  {
+   "name": "Adductor brevis.l",
+   "src_type": "MESH",
+   "polys": 2132
+  },
+  {
+   "name": "(Adductor minimus).l",
+   "src_type": "MESH",
+   "polys": 948
+  },
+  {
+   "name": "Long head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Semimembranosus muscle.l",
+   "src_type": "MESH",
+   "polys": 7442
+  },
+  {
+   "name": "Semitendinosus muscle.l",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 3176
+  },
+  {
+   "name": "Tendon of extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 5184
+  },
+  {
+   "name": "Tibialis anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis tertius muscle.l",
+   "src_type": "MESH",
+   "polys": 586
+  },
+  {
+   "name": "Extensor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 2362
+  },
+  {
+   "name": "Fibularis longus muscle.l",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Fibularis brevis muscle.l",
+   "src_type": "MESH",
+   "polys": 3446
+  },
+  {
+   "name": "Medial head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.l",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Soleus muscle.l",
+   "src_type": "MESH",
+   "polys": 6774
+  },
+  {
+   "name": "Plantaris muscle.l",
+   "src_type": "MESH",
+   "polys": 4698
+  },
+  {
+   "name": "Flexor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 6836
+  },
+  {
+   "name": "Popliteus muscle.l",
+   "src_type": "MESH",
+   "polys": 1132
+  },
+  {
+   "name": "Tibialis posterior muscle.l",
+   "src_type": "MESH",
+   "polys": 5526
+  },
+  {
+   "name": "Flexor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 5878
+  },
+  {
+   "name": "Medial head of flexor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 514
+  },
+  {
+   "name": "Lateral head of flexor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 966
+  },
+  {
+   "name": "Oblique head of adductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 904
+  },
+  {
+   "name": "Transverse head of adductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 366
+  },
+  {
+   "name": "Abductor digiti minimi of foot.l",
+   "src_type": "MESH",
+   "polys": 1280
+  },
+  {
+   "name": "Abductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 1688
+  },
+  {
+   "name": "Extensor digitorum brevis.l",
+   "src_type": "MESH",
+   "polys": 3184
+  },
+  {
+   "name": "Extensor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 1118
+  },
+  {
+   "name": "Dorsal interossei muscles of foot.l",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Flexor digitorum brevis.l",
+   "src_type": "MESH",
+   "polys": 3224
+  },
+  {
+   "name": "Flexor digiti minimi of foot.l",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Lumbrical muscles of foot.l",
+   "src_type": "MESH",
+   "polys": 418
+  },
+  {
+   "name": "(Opponens digiti minimi muscle of foot).l",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Plantar interossei muscles.l",
+   "src_type": "MESH",
+   "polys": 1242
+  },
+  {
+   "name": "Quadratus plantae muscle.l",
+   "src_type": "MESH",
+   "polys": 1176
+  },
+  {
+   "name": "Iliotibial tract.l",
+   "src_type": "MESH",
+   "polys": 48612
+  },
+  {
+   "name": "Superior extensor retinaculum of ankle.l",
+   "src_type": "MESH",
+   "polys": 133
+  },
+  {
+   "name": "Inferior extensor retinaculum of ankle.l",
+   "src_type": "MESH",
+   "polys": 169
+  },
+  {
+   "name": "Superior fibular retinaculum.l",
+   "src_type": "MESH",
+   "polys": 348
+  },
+  {
+   "name": "Inferior fibular retinaculum.l",
+   "src_type": "MESH",
+   "polys": 35
+  },
+  {
+   "name": "Superficial transverse metatarsal ligament.l",
+   "src_type": "MESH",
+   "polys": 55
+  },
+  {
+   "name": "Plantar aponeurosis.l",
+   "src_type": "MESH",
+   "polys": 211
+  },
+  {
+   "name": "Flexor retinaculum of ankle.l",
+   "src_type": "MESH",
+   "polys": 358
+  },
+  {
+   "name": "Iliacus muscle.l",
+   "src_type": "MESH",
+   "polys": 4354
+  },
+  {
+   "name": "Psoas major.l",
+   "src_type": "MESH",
+   "polys": 5474
+  },
+  {
+   "name": "Gluteus medius muscle.l",
+   "src_type": "MESH",
+   "polys": 5176
+  },
+  {
+   "name": "Gluteus maximus muscle.l",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Gluteus minimus muscle.l",
+   "src_type": "MESH",
+   "polys": 6250
+  },
+  {
+   "name": "Tensor fasciae latae.l",
+   "src_type": "MESH",
+   "polys": 1862
+  },
+  {
+   "name": "Gracilis muscle.l",
+   "src_type": "MESH",
+   "polys": 4812
+  },
+  {
+   "name": "Obturator externus.l",
+   "src_type": "MESH",
+   "polys": 1156
+  },
+  {
+   "name": "Short head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 2476
+  },
+  {
+   "name": "Lateral head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Piriformis muscle.l",
+   "src_type": "MESH",
+   "polys": 1500
+  },
+  {
+   "name": "Inferior gemellus muscle.l",
+   "src_type": "MESH",
+   "polys": 976
+  },
+  {
+   "name": "Obturator internus.l",
+   "src_type": "MESH",
+   "polys": 3760
+  },
+  {
+   "name": "Superior gemellus muscle.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Lateral patellar retinaculum.l",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Medial patellar retinaculum.l",
+   "src_type": "MESH",
+   "polys": 92
+  },
+  {
+   "name": "Gluteus medius muscle.r",
+   "src_type": "MESH",
+   "polys": 5176
+  },
+  {
+   "name": "Gluteus maximus muscle.r",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Gluteus minimus muscle.r",
+   "src_type": "MESH",
+   "polys": 6250
+  },
+  {
+   "name": "Tensor fasciae latae.r",
+   "src_type": "MESH",
+   "polys": 1862
+  },
+  {
+   "name": "Gluteus medius muscle.l",
+   "src_type": "MESH",
+   "polys": 5176
+  },
+  {
+   "name": "Gluteus maximus muscle.l",
+   "src_type": "MESH",
+   "polys": 3326
+  },
+  {
+   "name": "Gluteus minimus muscle.l",
+   "src_type": "MESH",
+   "polys": 6250
+  },
+  {
+   "name": "Tensor fasciae latae.l",
+   "src_type": "MESH",
+   "polys": 1862
+  },
+  {
+   "name": "Piriformis muscle.r",
+   "src_type": "MESH",
+   "polys": 1500
+  },
+  {
+   "name": "Quadratus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 1646
+  },
+  {
+   "name": "Inferior gemellus muscle.r",
+   "src_type": "MESH",
+   "polys": 976
+  },
+  {
+   "name": "Obturator internus.r",
+   "src_type": "MESH",
+   "polys": 3760
+  },
+  {
+   "name": "Superior gemellus muscle.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Quadratus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 1646
+  },
+  {
+   "name": "Obturator externus.l",
+   "src_type": "MESH",
+   "polys": 1156
+  },
+  {
+   "name": "Piriformis muscle.l",
+   "src_type": "MESH",
+   "polys": 1500
+  },
+  {
+   "name": "Inferior gemellus muscle.l",
+   "src_type": "MESH",
+   "polys": 976
+  },
+  {
+   "name": "Obturator internus.l",
+   "src_type": "MESH",
+   "polys": 3760
+  },
+  {
+   "name": "Superior gemellus muscle.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Lateral patellar retinaculum.r",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Medial patellar retinaculum.r",
+   "src_type": "MESH",
+   "polys": 92
+  },
+  {
+   "name": "Rectus femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.r",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.r",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Vastus intermedius muscle.r",
+   "src_type": "MESH",
+   "polys": 6164
+  },
+  {
+   "name": "Sartorius muscle.r",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Rectus femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 8276
+  },
+  {
+   "name": "Vastus lateralis muscle.l",
+   "src_type": "MESH",
+   "polys": 9356
+  },
+  {
+   "name": "Vastus medialis muscle.l",
+   "src_type": "MESH",
+   "polys": 6460
+  },
+  {
+   "name": "Vastus intermedius muscle.l",
+   "src_type": "MESH",
+   "polys": 6164
+  },
+  {
+   "name": "Sartorius muscle.l",
+   "src_type": "MESH",
+   "polys": 4966
+  },
+  {
+   "name": "Lateral patellar retinaculum.l",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Medial patellar retinaculum.l",
+   "src_type": "MESH",
+   "polys": 92
+  },
+  {
+   "name": "Adductor magnus.r",
+   "src_type": "MESH",
+   "polys": 8192
+  },
+  {
+   "name": "Adductor longus.r",
+   "src_type": "MESH",
+   "polys": 3714
+  },
+  {
+   "name": "Pectineus muscle.r",
+   "src_type": "MESH",
+   "polys": 1952
+  },
+  {
+   "name": "Adductor brevis.r",
+   "src_type": "MESH",
+   "polys": 2132
+  },
+  {
+   "name": "(Adductor minimus).r",
+   "src_type": "MESH",
+   "polys": 948
+  },
+  {
+   "name": "Gracilis muscle.r",
+   "src_type": "MESH",
+   "polys": 4812
+  },
+  {
+   "name": "Obturator externus.r",
+   "src_type": "MESH",
+   "polys": 1156
+  },
+  {
+   "name": "Adductor magnus.l",
+   "src_type": "MESH",
+   "polys": 8192
+  },
+  {
+   "name": "Adductor longus.l",
+   "src_type": "MESH",
+   "polys": 3714
+  },
+  {
+   "name": "Pectineus muscle.l",
+   "src_type": "MESH",
+   "polys": 1952
+  },
+  {
+   "name": "Adductor brevis.l",
+   "src_type": "MESH",
+   "polys": 2132
+  },
+  {
+   "name": "(Adductor minimus).l",
+   "src_type": "MESH",
+   "polys": 948
+  },
+  {
+   "name": "Long head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Short head of biceps femoris.r",
+   "src_type": "MESH",
+   "polys": 2476
+  },
+  {
+   "name": "Semimembranosus muscle.r",
+   "src_type": "MESH",
+   "polys": 7442
+  },
+  {
+   "name": "Semitendinosus muscle.r",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Long head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 7258
+  },
+  {
+   "name": "Semimembranosus muscle.l",
+   "src_type": "MESH",
+   "polys": 7442
+  },
+  {
+   "name": "Semitendinosus muscle.l",
+   "src_type": "MESH",
+   "polys": 4316
+  },
+  {
+   "name": "Gracilis muscle.l",
+   "src_type": "MESH",
+   "polys": 4812
+  },
+  {
+   "name": "Short head of biceps femoris.l",
+   "src_type": "MESH",
+   "polys": 2476
+  },
+  {
+   "name": "Extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 3176
+  },
+  {
+   "name": "Tendon of extensor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 5184
+  },
+  {
+   "name": "Tibialis anterior muscle.r",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis tertius muscle.r",
+   "src_type": "MESH",
+   "polys": 586
+  },
+  {
+   "name": "Extensor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 2362
+  },
+  {
+   "name": "Extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 3176
+  },
+  {
+   "name": "Tendon of extensor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 5184
+  },
+  {
+   "name": "Tibialis anterior muscle.l",
+   "src_type": "MESH",
+   "polys": 3526
+  },
+  {
+   "name": "Fibularis tertius muscle.l",
+   "src_type": "MESH",
+   "polys": 586
+  },
+  {
+   "name": "Extensor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 2362
+  },
+  {
+   "name": "Fibularis longus muscle.r",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Fibularis brevis muscle.r",
+   "src_type": "MESH",
+   "polys": 3446
+  },
+  {
+   "name": "Fibularis longus muscle.l",
+   "src_type": "MESH",
+   "polys": 5522
+  },
+  {
+   "name": "Fibularis brevis muscle.l",
+   "src_type": "MESH",
+   "polys": 3446
+  },
+  {
+   "name": "Lateral head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Medial head of gastrocnemius.r",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.r",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Soleus muscle.r",
+   "src_type": "MESH",
+   "polys": 6774
+  },
+  {
+   "name": "Plantaris muscle.r",
+   "src_type": "MESH",
+   "polys": 4698
+  },
+  {
+   "name": "Flexor digitorum longus.r",
+   "src_type": "MESH",
+   "polys": 6836
+  },
+  {
+   "name": "Popliteus muscle.r",
+   "src_type": "MESH",
+   "polys": 1132
+  },
+  {
+   "name": "Tibialis posterior muscle.r",
+   "src_type": "MESH",
+   "polys": 5526
+  },
+  {
+   "name": "Flexor hallucis longus.r",
+   "src_type": "MESH",
+   "polys": 5878
+  },
+  {
+   "name": "Medial head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 6462
+  },
+  {
+   "name": "Calcaneal tendon.l",
+   "src_type": "MESH",
+   "polys": 4334
+  },
+  {
+   "name": "Soleus muscle.l",
+   "src_type": "MESH",
+   "polys": 6774
+  },
+  {
+   "name": "Plantaris muscle.l",
+   "src_type": "MESH",
+   "polys": 4698
+  },
+  {
+   "name": "Flexor digitorum longus.l",
+   "src_type": "MESH",
+   "polys": 6836
+  },
+  {
+   "name": "Popliteus muscle.l",
+   "src_type": "MESH",
+   "polys": 1132
+  },
+  {
+   "name": "Tibialis posterior muscle.l",
+   "src_type": "MESH",
+   "polys": 5526
+  },
+  {
+   "name": "Flexor hallucis longus.l",
+   "src_type": "MESH",
+   "polys": 5878
+  },
+  {
+   "name": "Lateral head of gastrocnemius.l",
+   "src_type": "MESH",
+   "polys": 4908
+  },
+  {
+   "name": "Medial head of flexor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 514
+  },
+  {
+   "name": "Lateral head of flexor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 966
+  },
+  {
+   "name": "Oblique head of adductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 904
+  },
+  {
+   "name": "Transverse head of adductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 366
+  },
+  {
+   "name": "Abductor digiti minimi of foot.r",
+   "src_type": "MESH",
+   "polys": 1280
+  },
+  {
+   "name": "Abductor hallucis.r",
+   "src_type": "MESH",
+   "polys": 1688
+  },
+  {
+   "name": "Extensor digitorum brevis.r",
+   "src_type": "MESH",
+   "polys": 3184
+  },
+  {
+   "name": "Extensor hallucis brevis.r",
+   "src_type": "MESH",
+   "polys": 1118
+  },
+  {
+   "name": "Dorsal interossei muscles of foot.r",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Flexor digitorum brevis.r",
+   "src_type": "MESH",
+   "polys": 3224
+  },
+  {
+   "name": "Flexor digiti minimi of foot.r",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Lumbrical muscles of foot.r",
+   "src_type": "MESH",
+   "polys": 418
+  },
+  {
+   "name": "(Opponens digiti minimi muscle of foot).r",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Plantar interossei muscles.r",
+   "src_type": "MESH",
+   "polys": 1242
+  },
+  {
+   "name": "Quadratus plantae muscle.r",
+   "src_type": "MESH",
+   "polys": 1176
+  },
+  {
+   "name": "Medial head of flexor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 514
+  },
+  {
+   "name": "Lateral head of flexor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 966
+  },
+  {
+   "name": "Oblique head of adductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 904
+  },
+  {
+   "name": "Transverse head of adductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 366
+  },
+  {
+   "name": "Abductor digiti minimi of foot.l",
+   "src_type": "MESH",
+   "polys": 1280
+  },
+  {
+   "name": "Abductor hallucis.l",
+   "src_type": "MESH",
+   "polys": 1688
+  },
+  {
+   "name": "Extensor digitorum brevis.l",
+   "src_type": "MESH",
+   "polys": 3184
+  },
+  {
+   "name": "Extensor hallucis brevis.l",
+   "src_type": "MESH",
+   "polys": 1118
+  },
+  {
+   "name": "Dorsal interossei muscles of foot.l",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Flexor digitorum brevis.l",
+   "src_type": "MESH",
+   "polys": 3224
+  },
+  {
+   "name": "Flexor digiti minimi of foot.l",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Lumbrical muscles of foot.l",
+   "src_type": "MESH",
+   "polys": 418
+  },
+  {
+   "name": "(Opponens digiti minimi muscle of foot).l",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Plantar interossei muscles.l",
+   "src_type": "MESH",
+   "polys": 1242
+  },
+  {
+   "name": "Quadratus plantae muscle.l",
+   "src_type": "MESH",
+   "polys": 1176
+  },
+  {
+   "name": "Subtendinous bursa of trapezius muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of trapezius muscle.l",
+   "src_type": "MESH",
+   "polys": 2944
+  },
+  {
+   "name": "Subcutaneous acromial bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subcutaneous acromial bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subacromial bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subacromial bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subdeltoid bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subdeltoid bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Coracobrachial bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Coracobrachial bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of infraspinatus muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of infraspinatus muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of teres major muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of teres major muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of triceps brachii muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of triceps brachii muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Bicipitoradial bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Bicipitoradial bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subcutaneous trochanteric bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subcutaneous trochanteric bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Trochanteric bursa of gluteus medius muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Trochanteric bursa of gluteus maximus muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Trochanteric bursa of gluteus maximus muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Trochanteric bursa of gluteus medius muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Trochanteric bursa of gluteus minimus muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Trochanteric bursa of gluteus minimus muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Bursa of piriformis muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Bursa of piriformis muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Sciatic bursa of obturator internus.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Sciatic bursa of obturator internus.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of obturator internus.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of obturator internus.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Sciatic bursa of gluteus maximus muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Sciatic bursa of gluteus maximus muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Intermuscular gluteal bursae.r",
+   "src_type": "MESH",
+   "polys": 2480
+  },
+  {
+   "name": "Intermuscular gluteal bursae.l",
+   "src_type": "MESH",
+   "polys": 620
+  },
+  {
+   "name": "(Iliopectineal bursa).r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "(Iliopectineal bursa).l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous bursa of iliacus muscle.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Subtendinous bursa of iliacus muscle.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Superior bursa of biceps femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Superior bursa of biceps femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subtendinous prepatellar bursa.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subtendinous prepatellar bursa.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subcutaneous prepatellar bursa.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subcutaneous prepatellar bursa.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Deep infrapatellar bursa.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Deep infrapatellar bursa.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subfacial prepatellar bursa.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subfacial prepatellar bursa.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subcutaneous infrapatellar bursa.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subcutaneous infrapatellar bursa.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subcutaneous bursa of tuberosity of tibia.r",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Subcutaneous bursa of tuberosity of tibia.l",
+   "src_type": "MESH",
+   "polys": 736
+  },
+  {
+   "name": "Inferior subtendinous bursa of biceps femoris muscle.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subtendinous bursa of sartorius muscle.r",
+   "src_type": "MESH",
+   "polys": 648
+  },
+  {
+   "name": "Subtendinous bursa of sartorius muscle.l",
+   "src_type": "MESH",
+   "polys": 648
+  },
+  {
+   "name": "Anserine bursa.r",
+   "src_type": "MESH",
+   "polys": 608
+  },
+  {
+   "name": "Anserine bursa.l",
+   "src_type": "MESH",
+   "polys": 608
+  },
+  {
+   "name": "Inferior subtendinous bursa of biceps femoris muscle.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Medial subtendinous bursa of gastrocnemius muscle.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Lateral subtendinous bursa of gastrocnemius muscle.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Medial subtendinous bursa of gastrocnemius muscle.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Lateral subtendinous bursa of gastrocnemius muscle.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Semimembranosus bursa.r",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Semimembranosus bursa.l",
+   "src_type": "MESH",
+   "polys": 496
+  },
+  {
+   "name": "Subcutaneous bursa of lateral malleolus.r",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Subcutaneous bursa of medial malleolus.r",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Subcutaneous bursa of lateral malleolus.l",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Subcutaneous bursa of medial malleolus.l",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Subtendinous bursa of tibialis anterior.r",
+   "src_type": "MESH",
+   "polys": 352
+  },
+  {
+   "name": "Subcutaneous calcaneal bursa.r",
+   "src_type": "MESH",
+   "polys": 272
+  },
+  {
+   "name": "Subtendinous calcaneal bursa.r",
+   "src_type": "MESH",
+   "polys": 272
+  },
+  {
+   "name": "Subtendinous bursa of tibialis anterior.l",
+   "src_type": "MESH",
+   "polys": 352
+  },
+  {
+   "name": "Subcutaneous calcaneal bursa.l",
+   "src_type": "MESH",
+   "polys": 272
+  },
+  {
+   "name": "Subtendinous calcaneal bursa.l",
+   "src_type": "MESH",
+   "polys": 272
+  },
+  {
+   "name": "Suprapatellar bursa.r",
+   "src_type": "MESH",
+   "polys": 648
+  },
+  {
+   "name": "Suprapatellar bursa.l",
+   "src_type": "MESH",
+   "polys": 648
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Fasciae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "LIGHT-1",
+   "type": "LIGHT"
+  },
+  {
+   "name": "LIGHT-2",
+   "type": "LIGHT"
+  },
+  {
+   "name": "LIGHT-3",
+   "type": "LIGHT"
+  },
+  {
+   "name": "Extra-ocular muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Extra-ocular muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Epicranius muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Epicranius muscle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facial muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Facial muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Extrinsic auricular muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Extrinsic auricular muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superficial muscles of head.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial muscles of head.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Masticatory muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Masticatory muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscles of tongue.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of tongue.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscles of head.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of head.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fasciae of head.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Fasciae of head.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bursae of head.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bursae of head.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cranial part of muscular system.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cranial part of muscular system.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facial muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Facial muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pharyngeal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Digastric muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Suprahyoid muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Infrahyoid muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Laryngeal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of neck.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pharyngeal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Laryngeal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Suboccipital muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Iliocostalis muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Longissimus muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Spinalis muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Erector spinae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Multifidus muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Semispinalis muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Rotatores.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Transversospinal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Trapezius muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Hypaxial muscles of back.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Hypaxial muscles of back.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intertransversarii muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Trapezius muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of abdomen.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Fasciae of abdomen.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Abdominal part of muscular system.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Endo-abdominal fascia.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of abdomen.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deltoid muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deltoid muscle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Rotator cuff muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Rotator cuff muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Scapulohumeral muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Scapulohumeral mucles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Biceps brachii muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Biceps brachii muscle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior compartment of arm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of arm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Triceps brachii muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Triceps brachii muscle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior compartment of arm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of arm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superficial part of anterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial part of anterior compartment of forearm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Deep part of anterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep part of anterior compartment of forearm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of forearm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superficial part of posterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial part of posterior compartment of forearm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Deep part of posterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep part of posterior compartment of forearm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of forearm.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscles of hand.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of hand.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscles of upper limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of upper limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Rotator cuff muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Biceps brachii muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of arm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Triceps brachii muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of arm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial part of anterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep part of anterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial part of posterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep part of posterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of forearm.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of hand.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior compartment of thigh.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of thigh.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior compartment of thigh.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of thigh.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial compartment of thigh.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial compartment of thigh.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of leg.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral compartment of leg.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of leg.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superficial part of posterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial part of posterior compartment of leg.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Deep part of posterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep part of posterior compartment of leg.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscles of foot.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Flexor hallucis brevis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Flexor hallucis brevis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Adductor hallucis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Adductor hallucis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Iliopsoas muscle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Iliopsoas muscle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superficial gluteal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial gluteal muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Deep gluteal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep gluteal muscles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fasciae of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Fasciae of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bursae of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bursae of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tendon sheaths of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tendon sheaths of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscular system of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscular system of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior tarsal tendon sheaths.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior tarsal tendon sheaths.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tibial tarsal tendon sheaths.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tibial tarsal tendon sheaths.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fibular tarsal tendon sheaths.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Fibular tarsal tendon sheaths.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tendon sheaths of toes.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tendon sheaths of toes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superficial gluteal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep gluteal muscles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of thigh.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial compartment of thigh.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of thigh.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superficial part of posterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Deep part of posterior compartment of leg.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscles of foot.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Flexor hallucis brevis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Adductor hallucis.g",
+   "type": "FONT"
+  }
+ ]
+}

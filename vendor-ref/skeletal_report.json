@@ -1,0 +1,9078 @@
+{
+ "collection": "Skeletal system",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/skeletal.glb",
+ "converted": 846,
+ "total_polygons": 2053791,
+ "objects": [
+  {
+   "name": "Parietal bone.r",
+   "src_type": "MESH",
+   "polys": 6713
+  },
+  {
+   "name": "Parietal bone.l",
+   "src_type": "MESH",
+   "polys": 6886
+  },
+  {
+   "name": "Sinus of frontal bone",
+   "src_type": "MESH",
+   "polys": 752
+  },
+  {
+   "name": "Frontal bone",
+   "src_type": "MESH",
+   "polys": 7754
+  },
+  {
+   "name": "Occipital bone",
+   "src_type": "MESH",
+   "polys": 7493
+  },
+  {
+   "name": "Sinus of sphenoid bone",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Sphenoid bone",
+   "src_type": "MESH",
+   "polys": 7308
+  },
+  {
+   "name": "Temporal bone.r",
+   "src_type": "MESH",
+   "polys": 14094
+  },
+  {
+   "name": "Ethmoid bone",
+   "src_type": "MESH",
+   "polys": 6696
+  },
+  {
+   "name": "Inferior nasal concha bone.r",
+   "src_type": "MESH",
+   "polys": 476
+  },
+  {
+   "name": "Lacrimal bone.r",
+   "src_type": "MESH",
+   "polys": 588
+  },
+  {
+   "name": "Nasal bone.r",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Maxilla.r",
+   "src_type": "MESH",
+   "polys": 4798
+  },
+  {
+   "name": "Palatine bone.r",
+   "src_type": "MESH",
+   "polys": 1460
+  },
+  {
+   "name": "Zygomatic bone.r",
+   "src_type": "MESH",
+   "polys": 1328
+  },
+  {
+   "name": "Mandible",
+   "src_type": "MESH",
+   "polys": 18838
+  },
+  {
+   "name": "Hyoid bone",
+   "src_type": "MESH",
+   "polys": 1310
+  },
+  {
+   "name": "Malleus.r",
+   "src_type": "MESH",
+   "polys": 1998
+  },
+  {
+   "name": "Incus.r",
+   "src_type": "MESH",
+   "polys": 1277
+  },
+  {
+   "name": "Stapes.r",
+   "src_type": "MESH",
+   "polys": 2180
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.r",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Major alar cartilage.r",
+   "src_type": "MESH",
+   "polys": 344
+  },
+  {
+   "name": "Lateral process of nasal septal cartilage.r",
+   "src_type": "MESH",
+   "polys": 347
+  },
+  {
+   "name": "Nasal septal cartilage",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Thyroid cartilage",
+   "src_type": "MESH",
+   "polys": 4482
+  },
+  {
+   "name": "Cricoid cartilage",
+   "src_type": "MESH",
+   "polys": 1806
+  },
+  {
+   "name": "Arytenoid cartilage.r",
+   "src_type": "MESH",
+   "polys": 1890
+  },
+  {
+   "name": "Corniculate cartilage.r",
+   "src_type": "MESH",
+   "polys": 136
+  },
+  {
+   "name": "Atlas (C1)",
+   "src_type": "MESH",
+   "polys": 2146
+  },
+  {
+   "name": "Vertebra C6",
+   "src_type": "MESH",
+   "polys": 2224
+  },
+  {
+   "name": "Vertebra C3",
+   "src_type": "MESH",
+   "polys": 2374
+  },
+  {
+   "name": "Vertebra C5",
+   "src_type": "MESH",
+   "polys": 2256
+  },
+  {
+   "name": "Vertebra C7",
+   "src_type": "MESH",
+   "polys": 2090
+  },
+  {
+   "name": "Vertebra C4",
+   "src_type": "MESH",
+   "polys": 1938
+  },
+  {
+   "name": "Vertebra T2",
+   "src_type": "MESH",
+   "polys": 2092
+  },
+  {
+   "name": "Vertebra T3",
+   "src_type": "MESH",
+   "polys": 2342
+  },
+  {
+   "name": "Vertebra T4",
+   "src_type": "MESH",
+   "polys": 2214
+  },
+  {
+   "name": "Vertebra T5",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Vertebra T6",
+   "src_type": "MESH",
+   "polys": 1774
+  },
+  {
+   "name": "Vertebra T7",
+   "src_type": "MESH",
+   "polys": 2646
+  },
+  {
+   "name": "Vertebra T9",
+   "src_type": "MESH",
+   "polys": 2968
+  },
+  {
+   "name": "Vertebra T10",
+   "src_type": "MESH",
+   "polys": 2953
+  },
+  {
+   "name": "Vertebra T11",
+   "src_type": "MESH",
+   "polys": 1780
+  },
+  {
+   "name": "Vertebra T12",
+   "src_type": "MESH",
+   "polys": 2472
+  },
+  {
+   "name": "Vertebra T8",
+   "src_type": "MESH",
+   "polys": 1706
+  },
+  {
+   "name": "Vertebra T1",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Vertebra L1",
+   "src_type": "MESH",
+   "polys": 3056
+  },
+  {
+   "name": "Vertebra L2",
+   "src_type": "MESH",
+   "polys": 2572
+  },
+  {
+   "name": "Vertebra L4",
+   "src_type": "MESH",
+   "polys": 3692
+  },
+  {
+   "name": "Vertebra L5",
+   "src_type": "MESH",
+   "polys": 3920
+  },
+  {
+   "name": "Vertebra L3",
+   "src_type": "MESH",
+   "polys": 3060
+  },
+  {
+   "name": "Coccyx",
+   "src_type": "MESH",
+   "polys": 1066
+  },
+  {
+   "name": "Fifth rib.r",
+   "src_type": "MESH",
+   "polys": 9360
+  },
+  {
+   "name": "First rib.r",
+   "src_type": "MESH",
+   "polys": 3208
+  },
+  {
+   "name": "Fourth rib.r",
+   "src_type": "MESH",
+   "polys": 8640
+  },
+  {
+   "name": "Second rib.r",
+   "src_type": "MESH",
+   "polys": 5354
+  },
+  {
+   "name": "Seventh rib.r",
+   "src_type": "MESH",
+   "polys": 9741
+  },
+  {
+   "name": "Sixth rib.r",
+   "src_type": "MESH",
+   "polys": 10092
+  },
+  {
+   "name": "Third rib.r",
+   "src_type": "MESH",
+   "polys": 6957
+  },
+  {
+   "name": "Eleventh rib.r",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.r",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.r",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.r",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.r",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Manubrium of sternum",
+   "src_type": "MESH",
+   "polys": 2662
+  },
+  {
+   "name": "Xiphoid process",
+   "src_type": "MESH",
+   "polys": 913
+  },
+  {
+   "name": "Body of sternum",
+   "src_type": "MESH",
+   "polys": 4466
+  },
+  {
+   "name": "Costal cartilage of first rib.r",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.r",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.r",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.r",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.r",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.r",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.r",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.r",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.r",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Axis (C2)",
+   "src_type": "MESH",
+   "polys": 2244
+  },
+  {
+   "name": "Sacrum",
+   "src_type": "MESH",
+   "polys": 8522
+  },
+  {
+   "name": "Temporal bone.l",
+   "src_type": "MESH",
+   "polys": 14094
+  },
+  {
+   "name": "Inferior nasal concha bone.l",
+   "src_type": "MESH",
+   "polys": 476
+  },
+  {
+   "name": "Lacrimal bone.l",
+   "src_type": "MESH",
+   "polys": 588
+  },
+  {
+   "name": "Nasal bone.l",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Vomer",
+   "src_type": "MESH",
+   "polys": 946
+  },
+  {
+   "name": "Maxilla.l",
+   "src_type": "MESH",
+   "polys": 4798
+  },
+  {
+   "name": "Palatine bone.l",
+   "src_type": "MESH",
+   "polys": 1460
+  },
+  {
+   "name": "Zygomatic bone.l",
+   "src_type": "MESH",
+   "polys": 1328
+  },
+  {
+   "name": "Malleus.l",
+   "src_type": "MESH",
+   "polys": 1998
+  },
+  {
+   "name": "Incus.l",
+   "src_type": "MESH",
+   "polys": 1277
+  },
+  {
+   "name": "Stapes.l",
+   "src_type": "MESH",
+   "polys": 2180
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.l",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Major alar cartilage.l",
+   "src_type": "MESH",
+   "polys": 344
+  },
+  {
+   "name": "Lateral process of nasal septal cartilage.l",
+   "src_type": "MESH",
+   "polys": 347
+  },
+  {
+   "name": "Arytenoid cartilage.l",
+   "src_type": "MESH",
+   "polys": 1890
+  },
+  {
+   "name": "Corniculate cartilage.l",
+   "src_type": "MESH",
+   "polys": 136
+  },
+  {
+   "name": "Fifth rib.l",
+   "src_type": "MESH",
+   "polys": 9360
+  },
+  {
+   "name": "First rib.l",
+   "src_type": "MESH",
+   "polys": 3208
+  },
+  {
+   "name": "Fourth rib.l",
+   "src_type": "MESH",
+   "polys": 8640
+  },
+  {
+   "name": "Second rib.l",
+   "src_type": "MESH",
+   "polys": 5354
+  },
+  {
+   "name": "Seventh rib.l",
+   "src_type": "MESH",
+   "polys": 9741
+  },
+  {
+   "name": "Sixth rib.l",
+   "src_type": "MESH",
+   "polys": 10092
+  },
+  {
+   "name": "Third rib.l",
+   "src_type": "MESH",
+   "polys": 6957
+  },
+  {
+   "name": "Eleventh rib.l",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.l",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.l",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.l",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.l",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Costal cartilage of first rib.l",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.l",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.l",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.l",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.l",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.l",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.l",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.l",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.l",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Clavicle.r",
+   "src_type": "MESH",
+   "polys": 1548
+  },
+  {
+   "name": "Humerus.r",
+   "src_type": "MESH",
+   "polys": 4280
+  },
+  {
+   "name": "Patella.r",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Talus.r",
+   "src_type": "MESH",
+   "polys": 1325
+  },
+  {
+   "name": "Calcaneus.r",
+   "src_type": "MESH",
+   "polys": 1432
+  },
+  {
+   "name": "Navicular bone.r",
+   "src_type": "MESH",
+   "polys": 731
+  },
+  {
+   "name": "Intermediate cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Lateral cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 632
+  },
+  {
+   "name": "Medial cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 968
+  },
+  {
+   "name": "First metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 1087
+  },
+  {
+   "name": "Fifth metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 894
+  },
+  {
+   "name": "Second metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 690
+  },
+  {
+   "name": "Third metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 804
+  },
+  {
+   "name": "Fourth metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Distal phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of first finger of foot.r",
+   "src_type": "MESH",
+   "polys": 466
+  },
+  {
+   "name": "Distal phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Distal phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Distal phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 318
+  },
+  {
+   "name": "Middle phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Middle phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Middle phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Middle phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Proximal phalanx of first finger of foot.r",
+   "src_type": "MESH",
+   "polys": 517
+  },
+  {
+   "name": "Proximal phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Proximal phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 458
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 460
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 516
+  },
+  {
+   "name": "Cuboid bone.r",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Sesamoid bones of foot.r",
+   "src_type": "MESH",
+   "polys": 290
+  },
+  {
+   "name": "Distal phalanx of first finger of hand.r",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of second finger of hand.r",
+   "src_type": "MESH",
+   "polys": 250
+  },
+  {
+   "name": "Distal phalanx of third finger of hand.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Distal phalanx of fourth finger of hand.r",
+   "src_type": "MESH",
+   "polys": 134
+  },
+  {
+   "name": "Distal phalanx of fifth finger of hand.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Middle phalanx of second finger of hand.r",
+   "src_type": "MESH",
+   "polys": 314
+  },
+  {
+   "name": "Middle phalanx of third finger of hand.r",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Middle phalanx of fourth finger of hand.r",
+   "src_type": "MESH",
+   "polys": 446
+  },
+  {
+   "name": "Middle phalanx of fifth finger of hand.r",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Proximal phalanx of first finger of hand.r",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Proximal phalanx of second finger of hand.r",
+   "src_type": "MESH",
+   "polys": 414
+  },
+  {
+   "name": "Proximal phalanx of third finger of hand.r",
+   "src_type": "MESH",
+   "polys": 439
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of hand.r",
+   "src_type": "MESH",
+   "polys": 368
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of hand.r",
+   "src_type": "MESH",
+   "polys": 560
+  },
+  {
+   "name": "First metacarpal bone.r",
+   "src_type": "MESH",
+   "polys": 682
+  },
+  {
+   "name": "Second metacarpal bone.r",
+   "src_type": "MESH",
+   "polys": 764
+  },
+  {
+   "name": "Third metacarpal bone.r",
+   "src_type": "MESH",
+   "polys": 708
+  },
+  {
+   "name": "Fourth metacarpal bone.r",
+   "src_type": "MESH",
+   "polys": 642
+  },
+  {
+   "name": "Fifth metacarpal bone.r",
+   "src_type": "MESH",
+   "polys": 503
+  },
+  {
+   "name": "Capitate bone.r",
+   "src_type": "MESH",
+   "polys": 470
+  },
+  {
+   "name": "Hamate bone.r",
+   "src_type": "MESH",
+   "polys": 536
+  },
+  {
+   "name": "Lunate bone.r",
+   "src_type": "MESH",
+   "polys": 1044
+  },
+  {
+   "name": "Pisiform bone.r",
+   "src_type": "MESH",
+   "polys": 834
+  },
+  {
+   "name": "Scaphoid bone.r",
+   "src_type": "MESH",
+   "polys": 390
+  },
+  {
+   "name": "Trapezium bone.r",
+   "src_type": "MESH",
+   "polys": 500
+  },
+  {
+   "name": "Trapezoid bone.r",
+   "src_type": "MESH",
+   "polys": 364
+  },
+  {
+   "name": "Triquetrum bone.r",
+   "src_type": "MESH",
+   "polys": 176
+  },
+  {
+   "name": "Scapula.r",
+   "src_type": "MESH",
+   "polys": 25255
+  },
+  {
+   "name": "Radius.r",
+   "src_type": "MESH",
+   "polys": 719
+  },
+  {
+   "name": "Ulna.r",
+   "src_type": "MESH",
+   "polys": 875
+  },
+  {
+   "name": "Femur.r",
+   "src_type": "MESH",
+   "polys": 3786
+  },
+  {
+   "name": "Hip bone.r",
+   "src_type": "MESH",
+   "polys": 3608
+  },
+  {
+   "name": "Tibia.r",
+   "src_type": "MESH",
+   "polys": 1613
+  },
+  {
+   "name": "Fibula.r",
+   "src_type": "MESH",
+   "polys": 1264
+  },
+  {
+   "name": "Clavicle.l",
+   "src_type": "MESH",
+   "polys": 1548
+  },
+  {
+   "name": "Humerus.l",
+   "src_type": "MESH",
+   "polys": 4280
+  },
+  {
+   "name": "Patella.l",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Talus.l",
+   "src_type": "MESH",
+   "polys": 1325
+  },
+  {
+   "name": "Calcaneus.l",
+   "src_type": "MESH",
+   "polys": 1432
+  },
+  {
+   "name": "Navicular bone.l",
+   "src_type": "MESH",
+   "polys": 731
+  },
+  {
+   "name": "Cuboid bone.l",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Intermediate cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Lateral cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 632
+  },
+  {
+   "name": "Medial cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 968
+  },
+  {
+   "name": "First metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 1087
+  },
+  {
+   "name": "Fifth metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 894
+  },
+  {
+   "name": "Second metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 690
+  },
+  {
+   "name": "Third metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 804
+  },
+  {
+   "name": "Fourth metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Distal phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of first finger of foot.l",
+   "src_type": "MESH",
+   "polys": 466
+  },
+  {
+   "name": "Distal phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Distal phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Distal phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 318
+  },
+  {
+   "name": "Middle phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Middle phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Middle phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Middle phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Proximal phalanx of first finger of foot.l",
+   "src_type": "MESH",
+   "polys": 517
+  },
+  {
+   "name": "Proximal phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Proximal phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 458
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 460
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 516
+  },
+  {
+   "name": "Sesamoid bones of foot.l",
+   "src_type": "MESH",
+   "polys": 290
+  },
+  {
+   "name": "Distal phalanx of first finger of hand.l",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of second finger of hand.l",
+   "src_type": "MESH",
+   "polys": 250
+  },
+  {
+   "name": "Distal phalanx of third finger of hand.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Distal phalanx of fourth finger of hand.l",
+   "src_type": "MESH",
+   "polys": 134
+  },
+  {
+   "name": "Distal phalanx of fifth finger of hand.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Middle phalanx of second finger of hand.l",
+   "src_type": "MESH",
+   "polys": 314
+  },
+  {
+   "name": "Middle phalanx of third finger of hand.l",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Middle phalanx of fourth finger of hand.l",
+   "src_type": "MESH",
+   "polys": 446
+  },
+  {
+   "name": "Middle phalanx of fifth finger of hand.l",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Proximal phalanx of first finger of hand.l",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Proximal phalanx of second finger of hand.l",
+   "src_type": "MESH",
+   "polys": 414
+  },
+  {
+   "name": "Proximal phalanx of third finger of hand.l",
+   "src_type": "MESH",
+   "polys": 439
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of hand.l",
+   "src_type": "MESH",
+   "polys": 368
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of hand.l",
+   "src_type": "MESH",
+   "polys": 560
+  },
+  {
+   "name": "First metacarpal bone.l",
+   "src_type": "MESH",
+   "polys": 682
+  },
+  {
+   "name": "Second metacarpal bone.l",
+   "src_type": "MESH",
+   "polys": 764
+  },
+  {
+   "name": "Third metacarpal bone.l",
+   "src_type": "MESH",
+   "polys": 708
+  },
+  {
+   "name": "Fourth metacarpal bone.l",
+   "src_type": "MESH",
+   "polys": 642
+  },
+  {
+   "name": "Fifth metacarpal bone.l",
+   "src_type": "MESH",
+   "polys": 503
+  },
+  {
+   "name": "Capitate bone.l",
+   "src_type": "MESH",
+   "polys": 470
+  },
+  {
+   "name": "Hamate bone.l",
+   "src_type": "MESH",
+   "polys": 536
+  },
+  {
+   "name": "Lunate bone.l",
+   "src_type": "MESH",
+   "polys": 1044
+  },
+  {
+   "name": "Pisiform bone.l",
+   "src_type": "MESH",
+   "polys": 834
+  },
+  {
+   "name": "Scaphoid bone.l",
+   "src_type": "MESH",
+   "polys": 390
+  },
+  {
+   "name": "Trapezium bone.l",
+   "src_type": "MESH",
+   "polys": 500
+  },
+  {
+   "name": "Trapezoid bone.l",
+   "src_type": "MESH",
+   "polys": 364
+  },
+  {
+   "name": "Triquetrum bone.l",
+   "src_type": "MESH",
+   "polys": 176
+  },
+  {
+   "name": "Scapula.l",
+   "src_type": "MESH",
+   "polys": 25255
+  },
+  {
+   "name": "Radius.l",
+   "src_type": "MESH",
+   "polys": 719
+  },
+  {
+   "name": "Ulna.l",
+   "src_type": "MESH",
+   "polys": 875
+  },
+  {
+   "name": "Femur.l",
+   "src_type": "MESH",
+   "polys": 3786
+  },
+  {
+   "name": "Hip bone.l",
+   "src_type": "MESH",
+   "polys": 3608
+  },
+  {
+   "name": "Tibia.l",
+   "src_type": "MESH",
+   "polys": 1613
+  },
+  {
+   "name": "Fibula.l",
+   "src_type": "MESH",
+   "polys": 1264
+  },
+  {
+   "name": "Parietal bone.r",
+   "src_type": "MESH",
+   "polys": 6713
+  },
+  {
+   "name": "Parietal bone.l",
+   "src_type": "MESH",
+   "polys": 6886
+  },
+  {
+   "name": "Sinus of frontal bone",
+   "src_type": "MESH",
+   "polys": 752
+  },
+  {
+   "name": "Frontal bone",
+   "src_type": "MESH",
+   "polys": 7754
+  },
+  {
+   "name": "Occipital bone",
+   "src_type": "MESH",
+   "polys": 7493
+  },
+  {
+   "name": "Sinus of sphenoid bone",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Sphenoid bone",
+   "src_type": "MESH",
+   "polys": 7308
+  },
+  {
+   "name": "Temporal bone.r",
+   "src_type": "MESH",
+   "polys": 14094
+  },
+  {
+   "name": "Ethmoid bone",
+   "src_type": "MESH",
+   "polys": 6696
+  },
+  {
+   "name": "Inferior nasal concha bone.r",
+   "src_type": "MESH",
+   "polys": 476
+  },
+  {
+   "name": "Lacrimal bone.r",
+   "src_type": "MESH",
+   "polys": 588
+  },
+  {
+   "name": "Nasal bone.r",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Maxilla.r",
+   "src_type": "MESH",
+   "polys": 4798
+  },
+  {
+   "name": "Palatine bone.r",
+   "src_type": "MESH",
+   "polys": 1460
+  },
+  {
+   "name": "Zygomatic bone.r",
+   "src_type": "MESH",
+   "polys": 1328
+  },
+  {
+   "name": "Malleus.r",
+   "src_type": "MESH",
+   "polys": 1998
+  },
+  {
+   "name": "Incus.r",
+   "src_type": "MESH",
+   "polys": 1277
+  },
+  {
+   "name": "Stapes.r",
+   "src_type": "MESH",
+   "polys": 2180
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Major alar cartilage.r",
+   "src_type": "MESH",
+   "polys": 344
+  },
+  {
+   "name": "Lateral process of nasal septal cartilage.r",
+   "src_type": "MESH",
+   "polys": 347
+  },
+  {
+   "name": "Nasal septal cartilage",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Temporal bone.l",
+   "src_type": "MESH",
+   "polys": 14094
+  },
+  {
+   "name": "Inferior nasal concha bone.l",
+   "src_type": "MESH",
+   "polys": 476
+  },
+  {
+   "name": "Lacrimal bone.l",
+   "src_type": "MESH",
+   "polys": 588
+  },
+  {
+   "name": "Nasal bone.l",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Vomer",
+   "src_type": "MESH",
+   "polys": 946
+  },
+  {
+   "name": "Maxilla.l",
+   "src_type": "MESH",
+   "polys": 4798
+  },
+  {
+   "name": "Palatine bone.l",
+   "src_type": "MESH",
+   "polys": 1460
+  },
+  {
+   "name": "Zygomatic bone.l",
+   "src_type": "MESH",
+   "polys": 1328
+  },
+  {
+   "name": "Malleus.l",
+   "src_type": "MESH",
+   "polys": 1998
+  },
+  {
+   "name": "Incus.l",
+   "src_type": "MESH",
+   "polys": 1277
+  },
+  {
+   "name": "Stapes.l",
+   "src_type": "MESH",
+   "polys": 2180
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Major alar cartilage.l",
+   "src_type": "MESH",
+   "polys": 344
+  },
+  {
+   "name": "Lateral process of nasal septal cartilage.l",
+   "src_type": "MESH",
+   "polys": 347
+  },
+  {
+   "name": "Maxilla.r",
+   "src_type": "MESH",
+   "polys": 4798
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Maxilla.l",
+   "src_type": "MESH",
+   "polys": 4798
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Mandible",
+   "src_type": "MESH",
+   "polys": 18838
+  },
+  {
+   "name": "Hyoid bone",
+   "src_type": "MESH",
+   "polys": 1310
+  },
+  {
+   "name": "Mandible",
+   "src_type": "MESH",
+   "polys": 18838
+  },
+  {
+   "name": "Lower medial incisor.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Lower first premolar.r",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Lower medial incisor.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Lower first premolar.l",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Malleus.r",
+   "src_type": "MESH",
+   "polys": 1998
+  },
+  {
+   "name": "Incus.r",
+   "src_type": "MESH",
+   "polys": 1277
+  },
+  {
+   "name": "Stapes.r",
+   "src_type": "MESH",
+   "polys": 2180
+  },
+  {
+   "name": "Malleus.l",
+   "src_type": "MESH",
+   "polys": 1998
+  },
+  {
+   "name": "Incus.l",
+   "src_type": "MESH",
+   "polys": 1277
+  },
+  {
+   "name": "Stapes.l",
+   "src_type": "MESH",
+   "polys": 2180
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.r",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.l",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Lower medial incisor.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.r",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower first premolar.l",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Upper medial incisor.r",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.r",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Upper first premolar.r",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.r",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Upper medial incisor.l",
+   "src_type": "MESH",
+   "polys": 1368
+  },
+  {
+   "name": "Upper lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1412
+  },
+  {
+   "name": "Upper canine.l",
+   "src_type": "MESH",
+   "polys": 1434
+  },
+  {
+   "name": "Upper first premolar.l",
+   "src_type": "MESH",
+   "polys": 1651
+  },
+  {
+   "name": "Upper second premolar.l",
+   "src_type": "MESH",
+   "polys": 1511
+  },
+  {
+   "name": "Upper first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 2168
+  },
+  {
+   "name": "Upper second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1843
+  },
+  {
+   "name": "Lower medial incisor.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.r",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.r",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Lower first premolar.r",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.r",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.r",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.r",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Lower medial incisor.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Lower lateral incisor.l",
+   "src_type": "MESH",
+   "polys": 1033
+  },
+  {
+   "name": "Lower canine.l",
+   "src_type": "MESH",
+   "polys": 1276
+  },
+  {
+   "name": "Lower first premolar.l",
+   "src_type": "MESH",
+   "polys": 1207
+  },
+  {
+   "name": "Lower second premolar.l",
+   "src_type": "MESH",
+   "polys": 1180
+  },
+  {
+   "name": "Lower first molar tooth.l",
+   "src_type": "MESH",
+   "polys": 4475
+  },
+  {
+   "name": "Lower second molar tooth.l",
+   "src_type": "MESH",
+   "polys": 1655
+  },
+  {
+   "name": "Axis (C2)",
+   "src_type": "MESH",
+   "polys": 2244
+  },
+  {
+   "name": "Atlas (C1)",
+   "src_type": "MESH",
+   "polys": 2146
+  },
+  {
+   "name": "Vertebra C6",
+   "src_type": "MESH",
+   "polys": 2224
+  },
+  {
+   "name": "Vertebra C3",
+   "src_type": "MESH",
+   "polys": 2374
+  },
+  {
+   "name": "Vertebra C5",
+   "src_type": "MESH",
+   "polys": 2256
+  },
+  {
+   "name": "Vertebra C7",
+   "src_type": "MESH",
+   "polys": 2090
+  },
+  {
+   "name": "Vertebra C4",
+   "src_type": "MESH",
+   "polys": 1938
+  },
+  {
+   "name": "Vertebra L1",
+   "src_type": "MESH",
+   "polys": 3056
+  },
+  {
+   "name": "Vertebra L2",
+   "src_type": "MESH",
+   "polys": 2572
+  },
+  {
+   "name": "Vertebra L4",
+   "src_type": "MESH",
+   "polys": 3692
+  },
+  {
+   "name": "Vertebra L5",
+   "src_type": "MESH",
+   "polys": 3920
+  },
+  {
+   "name": "Vertebra L3",
+   "src_type": "MESH",
+   "polys": 3060
+  },
+  {
+   "name": "Coccyx",
+   "src_type": "MESH",
+   "polys": 1066
+  },
+  {
+   "name": "Vertebra T2",
+   "src_type": "MESH",
+   "polys": 2092
+  },
+  {
+   "name": "Vertebra T3",
+   "src_type": "MESH",
+   "polys": 2342
+  },
+  {
+   "name": "Vertebra T4",
+   "src_type": "MESH",
+   "polys": 2214
+  },
+  {
+   "name": "Vertebra T5",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Vertebra T6",
+   "src_type": "MESH",
+   "polys": 1774
+  },
+  {
+   "name": "Vertebra T7",
+   "src_type": "MESH",
+   "polys": 2646
+  },
+  {
+   "name": "Vertebra T9",
+   "src_type": "MESH",
+   "polys": 2968
+  },
+  {
+   "name": "Vertebra T10",
+   "src_type": "MESH",
+   "polys": 2953
+  },
+  {
+   "name": "Vertebra T11",
+   "src_type": "MESH",
+   "polys": 1780
+  },
+  {
+   "name": "Vertebra T12",
+   "src_type": "MESH",
+   "polys": 2472
+  },
+  {
+   "name": "Vertebra T8",
+   "src_type": "MESH",
+   "polys": 1706
+  },
+  {
+   "name": "Vertebra T1",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Interspinous ligaments",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Anterior longitudinal ligament",
+   "src_type": "MESH",
+   "polys": 2464
+  },
+  {
+   "name": "Posterior longitudinal ligament",
+   "src_type": "MESH",
+   "polys": 3768
+  },
+  {
+   "name": "Nuchal ligament",
+   "src_type": "MESH",
+   "polys": 324
+  },
+  {
+   "name": "Intertransverse ligaments.r",
+   "src_type": "MESH",
+   "polys": 5720
+  },
+  {
+   "name": "Ligamenta flava",
+   "src_type": "MESH",
+   "polys": 2364
+  },
+  {
+   "name": "Intertransverse ligaments.l",
+   "src_type": "MESH",
+   "polys": 5720
+  },
+  {
+   "name": "Nucleus pulposus L5-S1",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L4-L5",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L3-L4",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L2-L3",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L1-L2",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T12-L1",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T11-T12",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T10-T11",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T9-T10",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T8-T9",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T7-T8",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T6-T7",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T5-T6",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T4-T5",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T3-T4",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T2-T3",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T1-T2",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C7-T1",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C6-C7",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C5-C6",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C4-C5",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C3-C4",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C2-C3",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Intra-articular ligament of head of rib.r",
+   "src_type": "MESH",
+   "polys": 54
+  },
+  {
+   "name": "Intra-articular ligament of head of rib",
+   "src_type": "MESH",
+   "polys": 54
+  },
+  {
+   "name": "Radiate ligament of head of rib.l",
+   "src_type": "MESH",
+   "polys": 1728
+  },
+  {
+   "name": "Radiate ligament of head of rib.r",
+   "src_type": "MESH",
+   "polys": 1728
+  },
+  {
+   "name": "Intervertebral disc C2-C3",
+   "src_type": "MESH",
+   "polys": 810
+  },
+  {
+   "name": "Intervertebral disc C3-C4",
+   "src_type": "MESH",
+   "polys": 654
+  },
+  {
+   "name": "Intervertebral disc C4-C5",
+   "src_type": "MESH",
+   "polys": 822
+  },
+  {
+   "name": "Intervertebral disc C5-C6",
+   "src_type": "MESH",
+   "polys": 930
+  },
+  {
+   "name": "Intervertebral disc C6-C7",
+   "src_type": "MESH",
+   "polys": 800
+  },
+  {
+   "name": "Intervertebral disc C7-T1",
+   "src_type": "MESH",
+   "polys": 1140
+  },
+  {
+   "name": "Intervertebral disc L1-L2",
+   "src_type": "MESH",
+   "polys": 3058
+  },
+  {
+   "name": "Intervertebral disc L2-L3",
+   "src_type": "MESH",
+   "polys": 3302
+  },
+  {
+   "name": "Intervertebral disc L3-L4",
+   "src_type": "MESH",
+   "polys": 3040
+  },
+  {
+   "name": "Intervertebral disc L4-L5",
+   "src_type": "MESH",
+   "polys": 3216
+  },
+  {
+   "name": "Intervertebral disc L5-S1",
+   "src_type": "MESH",
+   "polys": 3498
+  },
+  {
+   "name": "Intervertebral disc T1-T2",
+   "src_type": "MESH",
+   "polys": 1208
+  },
+  {
+   "name": "Intervertebral disc T10-T11",
+   "src_type": "MESH",
+   "polys": 2770
+  },
+  {
+   "name": "Intervertebral disc T11-T12",
+   "src_type": "MESH",
+   "polys": 3300
+  },
+  {
+   "name": "Intervertebral disc T12-L1",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Intervertebral disc T2-T3",
+   "src_type": "MESH",
+   "polys": 1272
+  },
+  {
+   "name": "Intervertebral disc T3-T4",
+   "src_type": "MESH",
+   "polys": 1310
+  },
+  {
+   "name": "Intervertebral disc T4-T5",
+   "src_type": "MESH",
+   "polys": 1600
+  },
+  {
+   "name": "Intervertebral disc T5-T6",
+   "src_type": "MESH",
+   "polys": 1684
+  },
+  {
+   "name": "Intervertebral disc T6-T7",
+   "src_type": "MESH",
+   "polys": 2326
+  },
+  {
+   "name": "Intervertebral disc T7-T8",
+   "src_type": "MESH",
+   "polys": 2572
+  },
+  {
+   "name": "Intervertebral disc T8-T9",
+   "src_type": "MESH",
+   "polys": 2786
+  },
+  {
+   "name": "Intervertebral disc T9-T10",
+   "src_type": "MESH",
+   "polys": 1186
+  },
+  {
+   "name": "Sacrococcygeal symphysis",
+   "src_type": "MESH",
+   "polys": 178
+  },
+  {
+   "name": "Sacrum",
+   "src_type": "MESH",
+   "polys": 8522
+  },
+  {
+   "name": "Axis (C2)",
+   "src_type": "MESH",
+   "polys": 2244
+  },
+  {
+   "name": "Atlas (C1)",
+   "src_type": "MESH",
+   "polys": 2146
+  },
+  {
+   "name": "Vertebra C6",
+   "src_type": "MESH",
+   "polys": 2224
+  },
+  {
+   "name": "Vertebra C3",
+   "src_type": "MESH",
+   "polys": 2374
+  },
+  {
+   "name": "Vertebra C5",
+   "src_type": "MESH",
+   "polys": 2256
+  },
+  {
+   "name": "Vertebra C7",
+   "src_type": "MESH",
+   "polys": 2090
+  },
+  {
+   "name": "Vertebra C4",
+   "src_type": "MESH",
+   "polys": 1938
+  },
+  {
+   "name": "Vertebra T2",
+   "src_type": "MESH",
+   "polys": 2092
+  },
+  {
+   "name": "Vertebra T3",
+   "src_type": "MESH",
+   "polys": 2342
+  },
+  {
+   "name": "Vertebra T4",
+   "src_type": "MESH",
+   "polys": 2214
+  },
+  {
+   "name": "Vertebra T5",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Vertebra T6",
+   "src_type": "MESH",
+   "polys": 1774
+  },
+  {
+   "name": "Vertebra T7",
+   "src_type": "MESH",
+   "polys": 2646
+  },
+  {
+   "name": "Vertebra T9",
+   "src_type": "MESH",
+   "polys": 2968
+  },
+  {
+   "name": "Vertebra T10",
+   "src_type": "MESH",
+   "polys": 2953
+  },
+  {
+   "name": "Vertebra T11",
+   "src_type": "MESH",
+   "polys": 1780
+  },
+  {
+   "name": "Vertebra T12",
+   "src_type": "MESH",
+   "polys": 2472
+  },
+  {
+   "name": "Vertebra T8",
+   "src_type": "MESH",
+   "polys": 1706
+  },
+  {
+   "name": "Vertebra T1",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Vertebra L1",
+   "src_type": "MESH",
+   "polys": 3056
+  },
+  {
+   "name": "Vertebra L2",
+   "src_type": "MESH",
+   "polys": 2572
+  },
+  {
+   "name": "Vertebra L4",
+   "src_type": "MESH",
+   "polys": 3692
+  },
+  {
+   "name": "Vertebra L5",
+   "src_type": "MESH",
+   "polys": 3920
+  },
+  {
+   "name": "Vertebra L3",
+   "src_type": "MESH",
+   "polys": 3060
+  },
+  {
+   "name": "Vertebra T2",
+   "src_type": "MESH",
+   "polys": 2092
+  },
+  {
+   "name": "Vertebra T3",
+   "src_type": "MESH",
+   "polys": 2342
+  },
+  {
+   "name": "Vertebra T4",
+   "src_type": "MESH",
+   "polys": 2214
+  },
+  {
+   "name": "Vertebra T5",
+   "src_type": "MESH",
+   "polys": 2152
+  },
+  {
+   "name": "Vertebra T6",
+   "src_type": "MESH",
+   "polys": 1774
+  },
+  {
+   "name": "Vertebra T7",
+   "src_type": "MESH",
+   "polys": 2646
+  },
+  {
+   "name": "Vertebra T9",
+   "src_type": "MESH",
+   "polys": 2968
+  },
+  {
+   "name": "Vertebra T10",
+   "src_type": "MESH",
+   "polys": 2953
+  },
+  {
+   "name": "Vertebra T11",
+   "src_type": "MESH",
+   "polys": 1780
+  },
+  {
+   "name": "Vertebra T12",
+   "src_type": "MESH",
+   "polys": 2472
+  },
+  {
+   "name": "Vertebra T8",
+   "src_type": "MESH",
+   "polys": 1706
+  },
+  {
+   "name": "Vertebra T1",
+   "src_type": "MESH",
+   "polys": 1946
+  },
+  {
+   "name": "Fifth rib.r",
+   "src_type": "MESH",
+   "polys": 9360
+  },
+  {
+   "name": "First rib.r",
+   "src_type": "MESH",
+   "polys": 3208
+  },
+  {
+   "name": "Fourth rib.r",
+   "src_type": "MESH",
+   "polys": 8640
+  },
+  {
+   "name": "Second rib.r",
+   "src_type": "MESH",
+   "polys": 5354
+  },
+  {
+   "name": "Seventh rib.r",
+   "src_type": "MESH",
+   "polys": 9741
+  },
+  {
+   "name": "Sixth rib.r",
+   "src_type": "MESH",
+   "polys": 10092
+  },
+  {
+   "name": "Third rib.r",
+   "src_type": "MESH",
+   "polys": 6957
+  },
+  {
+   "name": "Eleventh rib.r",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.r",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.r",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.r",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.r",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Manubrium of sternum",
+   "src_type": "MESH",
+   "polys": 2662
+  },
+  {
+   "name": "Xiphoid process",
+   "src_type": "MESH",
+   "polys": 913
+  },
+  {
+   "name": "Body of sternum",
+   "src_type": "MESH",
+   "polys": 4466
+  },
+  {
+   "name": "Costal cartilage of first rib.r",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.r",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.r",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.r",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.r",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.r",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.r",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.r",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.r",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Fifth rib.l",
+   "src_type": "MESH",
+   "polys": 9360
+  },
+  {
+   "name": "First rib.l",
+   "src_type": "MESH",
+   "polys": 3208
+  },
+  {
+   "name": "Fourth rib.l",
+   "src_type": "MESH",
+   "polys": 8640
+  },
+  {
+   "name": "Second rib.l",
+   "src_type": "MESH",
+   "polys": 5354
+  },
+  {
+   "name": "Seventh rib.l",
+   "src_type": "MESH",
+   "polys": 9741
+  },
+  {
+   "name": "Sixth rib.l",
+   "src_type": "MESH",
+   "polys": 10092
+  },
+  {
+   "name": "Third rib.l",
+   "src_type": "MESH",
+   "polys": 6957
+  },
+  {
+   "name": "Eleventh rib.l",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.l",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.l",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.l",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.l",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Costal cartilage of first rib.l",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.l",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.l",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.l",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.l",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.l",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.l",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.l",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.l",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Fifth rib.r",
+   "src_type": "MESH",
+   "polys": 9360
+  },
+  {
+   "name": "First rib.r",
+   "src_type": "MESH",
+   "polys": 3208
+  },
+  {
+   "name": "Fourth rib.r",
+   "src_type": "MESH",
+   "polys": 8640
+  },
+  {
+   "name": "Second rib.r",
+   "src_type": "MESH",
+   "polys": 5354
+  },
+  {
+   "name": "Seventh rib.r",
+   "src_type": "MESH",
+   "polys": 9741
+  },
+  {
+   "name": "Sixth rib.r",
+   "src_type": "MESH",
+   "polys": 10092
+  },
+  {
+   "name": "Third rib.r",
+   "src_type": "MESH",
+   "polys": 6957
+  },
+  {
+   "name": "Eleventh rib.r",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.r",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.r",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.r",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.r",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Fifth rib.l",
+   "src_type": "MESH",
+   "polys": 9360
+  },
+  {
+   "name": "First rib.l",
+   "src_type": "MESH",
+   "polys": 3208
+  },
+  {
+   "name": "Fourth rib.l",
+   "src_type": "MESH",
+   "polys": 8640
+  },
+  {
+   "name": "Second rib.l",
+   "src_type": "MESH",
+   "polys": 5354
+  },
+  {
+   "name": "Seventh rib.l",
+   "src_type": "MESH",
+   "polys": 9741
+  },
+  {
+   "name": "Sixth rib.l",
+   "src_type": "MESH",
+   "polys": 10092
+  },
+  {
+   "name": "Third rib.l",
+   "src_type": "MESH",
+   "polys": 6957
+  },
+  {
+   "name": "Eleventh rib.l",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.l",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.l",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.l",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.l",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Eleventh rib.r",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.r",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.r",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.r",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.r",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Eleventh rib.l",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.l",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eighth rib.l",
+   "src_type": "MESH",
+   "polys": 8257
+  },
+  {
+   "name": "Ninth rib.l",
+   "src_type": "MESH",
+   "polys": 7743
+  },
+  {
+   "name": "Tenth rib.l",
+   "src_type": "MESH",
+   "polys": 7002
+  },
+  {
+   "name": "Eleventh rib.r",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.r",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Eleventh rib.l",
+   "src_type": "MESH",
+   "polys": 5032
+  },
+  {
+   "name": "Twelfth rib.l",
+   "src_type": "MESH",
+   "polys": 2995
+  },
+  {
+   "name": "Manubrium of sternum",
+   "src_type": "MESH",
+   "polys": 2662
+  },
+  {
+   "name": "Xiphoid process",
+   "src_type": "MESH",
+   "polys": 913
+  },
+  {
+   "name": "Body of sternum",
+   "src_type": "MESH",
+   "polys": 4466
+  },
+  {
+   "name": "Costal cartilage of first rib.r",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.r",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.r",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.r",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.r",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.r",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.r",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.r",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.r",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Costal cartilage of first rib.l",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.l",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.l",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.l",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.l",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.l",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.l",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.l",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.l",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Clavicle.r",
+   "src_type": "MESH",
+   "polys": 1548
+  },
+  {
+   "name": "Humerus.r",
+   "src_type": "MESH",
+   "polys": 4280
+  },
+  {
+   "name": "Scapula.r",
+   "src_type": "MESH",
+   "polys": 25255
+  },
+  {
+   "name": "Radius.r",
+   "src_type": "MESH",
+   "polys": 719
+  },
+  {
+   "name": "Ulna.r",
+   "src_type": "MESH",
+   "polys": 875
+  },
+  {
+   "name": "Clavicle.l",
+   "src_type": "MESH",
+   "polys": 1548
+  },
+  {
+   "name": "Humerus.l",
+   "src_type": "MESH",
+   "polys": 4280
+  },
+  {
+   "name": "Scapula.l",
+   "src_type": "MESH",
+   "polys": 25255
+  },
+  {
+   "name": "Radius.l",
+   "src_type": "MESH",
+   "polys": 719
+  },
+  {
+   "name": "Ulna.l",
+   "src_type": "MESH",
+   "polys": 875
+  },
+  {
+   "name": "Clavicle.r",
+   "src_type": "MESH",
+   "polys": 1548
+  },
+  {
+   "name": "Manubrium of sternum",
+   "src_type": "MESH",
+   "polys": 2662
+  },
+  {
+   "name": "Scapula.r",
+   "src_type": "MESH",
+   "polys": 25255
+  },
+  {
+   "name": "Clavicle.l",
+   "src_type": "MESH",
+   "polys": 1548
+  },
+  {
+   "name": "Scapula.l",
+   "src_type": "MESH",
+   "polys": 25255
+  },
+  {
+   "name": "Coccyx",
+   "src_type": "MESH",
+   "polys": 1066
+  },
+  {
+   "name": "Hip bone.r",
+   "src_type": "MESH",
+   "polys": 3608
+  },
+  {
+   "name": "Sacrum",
+   "src_type": "MESH",
+   "polys": 8522
+  },
+  {
+   "name": "Hip bone.l",
+   "src_type": "MESH",
+   "polys": 3608
+  },
+  {
+   "name": "Cuboid bone.r",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Sesamoid bones of foot.r",
+   "src_type": "MESH",
+   "polys": 290
+  },
+  {
+   "name": "Patella.r",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Talus.r",
+   "src_type": "MESH",
+   "polys": 1325
+  },
+  {
+   "name": "Calcaneus.r",
+   "src_type": "MESH",
+   "polys": 1432
+  },
+  {
+   "name": "Navicular bone.r",
+   "src_type": "MESH",
+   "polys": 731
+  },
+  {
+   "name": "Intermediate cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Lateral cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 632
+  },
+  {
+   "name": "Medial cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 968
+  },
+  {
+   "name": "First metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 1087
+  },
+  {
+   "name": "Fifth metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 894
+  },
+  {
+   "name": "Second metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 690
+  },
+  {
+   "name": "Third metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 804
+  },
+  {
+   "name": "Fourth metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Distal phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of first finger of foot.r",
+   "src_type": "MESH",
+   "polys": 466
+  },
+  {
+   "name": "Distal phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Distal phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Distal phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 318
+  },
+  {
+   "name": "Middle phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Middle phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Middle phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Middle phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Proximal phalanx of first finger of foot.r",
+   "src_type": "MESH",
+   "polys": 517
+  },
+  {
+   "name": "Proximal phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Proximal phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 458
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 460
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 516
+  },
+  {
+   "name": "Femur.r",
+   "src_type": "MESH",
+   "polys": 3786
+  },
+  {
+   "name": "Hip bone.r",
+   "src_type": "MESH",
+   "polys": 3608
+  },
+  {
+   "name": "Tibia.r",
+   "src_type": "MESH",
+   "polys": 1613
+  },
+  {
+   "name": "Fibula.r",
+   "src_type": "MESH",
+   "polys": 1264
+  },
+  {
+   "name": "Patella.l",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Talus.l",
+   "src_type": "MESH",
+   "polys": 1325
+  },
+  {
+   "name": "Calcaneus.l",
+   "src_type": "MESH",
+   "polys": 1432
+  },
+  {
+   "name": "Navicular bone.l",
+   "src_type": "MESH",
+   "polys": 731
+  },
+  {
+   "name": "Cuboid bone.l",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Intermediate cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Lateral cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 632
+  },
+  {
+   "name": "Medial cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 968
+  },
+  {
+   "name": "First metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 1087
+  },
+  {
+   "name": "Fifth metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 894
+  },
+  {
+   "name": "Second metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 690
+  },
+  {
+   "name": "Third metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 804
+  },
+  {
+   "name": "Fourth metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Distal phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of first finger of foot.l",
+   "src_type": "MESH",
+   "polys": 466
+  },
+  {
+   "name": "Distal phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Distal phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Distal phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 318
+  },
+  {
+   "name": "Middle phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Middle phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Middle phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Middle phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Proximal phalanx of first finger of foot.l",
+   "src_type": "MESH",
+   "polys": 517
+  },
+  {
+   "name": "Proximal phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Proximal phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 458
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 460
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 516
+  },
+  {
+   "name": "Sesamoid bones of foot.l",
+   "src_type": "MESH",
+   "polys": 290
+  },
+  {
+   "name": "Femur.l",
+   "src_type": "MESH",
+   "polys": 3786
+  },
+  {
+   "name": "Hip bone.l",
+   "src_type": "MESH",
+   "polys": 3608
+  },
+  {
+   "name": "Tibia.l",
+   "src_type": "MESH",
+   "polys": 1613
+  },
+  {
+   "name": "Fibula.l",
+   "src_type": "MESH",
+   "polys": 1264
+  },
+  {
+   "name": "Patella.r",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Talus.r",
+   "src_type": "MESH",
+   "polys": 1325
+  },
+  {
+   "name": "Calcaneus.r",
+   "src_type": "MESH",
+   "polys": 1432
+  },
+  {
+   "name": "Navicular bone.r",
+   "src_type": "MESH",
+   "polys": 731
+  },
+  {
+   "name": "Cuboid bone.r",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Intermediate cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Lateral cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 632
+  },
+  {
+   "name": "Medial cuneiform bone.r",
+   "src_type": "MESH",
+   "polys": 968
+  },
+  {
+   "name": "First metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 1087
+  },
+  {
+   "name": "Fifth metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 894
+  },
+  {
+   "name": "Second metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 690
+  },
+  {
+   "name": "Third metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 804
+  },
+  {
+   "name": "Fourth metatarsal bone.r",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Distal phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of first finger of foot.r",
+   "src_type": "MESH",
+   "polys": 466
+  },
+  {
+   "name": "Distal phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Distal phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Distal phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 318
+  },
+  {
+   "name": "Middle phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Middle phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Middle phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Middle phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Proximal phalanx of first finger of foot.r",
+   "src_type": "MESH",
+   "polys": 517
+  },
+  {
+   "name": "Proximal phalanx of second finger of foot.r",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Proximal phalanx of third finger of foot.r",
+   "src_type": "MESH",
+   "polys": 458
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 460
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of foot.r",
+   "src_type": "MESH",
+   "polys": 516
+  },
+  {
+   "name": "Sesamoid bones of foot.r",
+   "src_type": "MESH",
+   "polys": 290
+  },
+  {
+   "name": "Femur.r",
+   "src_type": "MESH",
+   "polys": 3786
+  },
+  {
+   "name": "Tibia.r",
+   "src_type": "MESH",
+   "polys": 1613
+  },
+  {
+   "name": "Fibula.r",
+   "src_type": "MESH",
+   "polys": 1264
+  },
+  {
+   "name": "Patella.l",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Talus.l",
+   "src_type": "MESH",
+   "polys": 1325
+  },
+  {
+   "name": "Calcaneus.l",
+   "src_type": "MESH",
+   "polys": 1432
+  },
+  {
+   "name": "Navicular bone.l",
+   "src_type": "MESH",
+   "polys": 731
+  },
+  {
+   "name": "Cuboid bone.l",
+   "src_type": "MESH",
+   "polys": 994
+  },
+  {
+   "name": "Intermediate cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 444
+  },
+  {
+   "name": "Lateral cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 632
+  },
+  {
+   "name": "Medial cuneiform bone.l",
+   "src_type": "MESH",
+   "polys": 968
+  },
+  {
+   "name": "First metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 1087
+  },
+  {
+   "name": "Fifth metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 894
+  },
+  {
+   "name": "Second metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 690
+  },
+  {
+   "name": "Third metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 804
+  },
+  {
+   "name": "Fourth metatarsal bone.l",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Distal phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 222
+  },
+  {
+   "name": "Distal phalanx of first finger of foot.l",
+   "src_type": "MESH",
+   "polys": 466
+  },
+  {
+   "name": "Distal phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 278
+  },
+  {
+   "name": "Distal phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 236
+  },
+  {
+   "name": "Distal phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 318
+  },
+  {
+   "name": "Middle phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 326
+  },
+  {
+   "name": "Middle phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 359
+  },
+  {
+   "name": "Middle phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Middle phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Proximal phalanx of first finger of foot.l",
+   "src_type": "MESH",
+   "polys": 517
+  },
+  {
+   "name": "Proximal phalanx of second finger of foot.l",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Proximal phalanx of third finger of foot.l",
+   "src_type": "MESH",
+   "polys": 458
+  },
+  {
+   "name": "Proximal phalanx of fourth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 460
+  },
+  {
+   "name": "Proximal phalanx of fifth finger of foot.l",
+   "src_type": "MESH",
+   "polys": 516
+  },
+  {
+   "name": "Sesamoid bones of foot.l",
+   "src_type": "MESH",
+   "polys": 290
+  },
+  {
+   "name": "Femur.l",
+   "src_type": "MESH",
+   "polys": 3786
+  },
+  {
+   "name": "Tibia.l",
+   "src_type": "MESH",
+   "polys": 1613
+  },
+  {
+   "name": "Fibula.l",
+   "src_type": "MESH",
+   "polys": 1264
+  },
+  {
+   "name": "Costal cartilage of first rib.r",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.r",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.r",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.r",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.r",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.r",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.r",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.r",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.r",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.r",
+   "src_type": "MESH",
+   "polys": 982
+  },
+  {
+   "name": "Thyroid cartilage",
+   "src_type": "MESH",
+   "polys": 4482
+  },
+  {
+   "name": "Cricoid cartilage",
+   "src_type": "MESH",
+   "polys": 1806
+  },
+  {
+   "name": "Arytenoid cartilage.r",
+   "src_type": "MESH",
+   "polys": 1890
+  },
+  {
+   "name": "Corniculate cartilage.r",
+   "src_type": "MESH",
+   "polys": 136
+  },
+  {
+   "name": "Major alar cartilage.r",
+   "src_type": "MESH",
+   "polys": 344
+  },
+  {
+   "name": "Lateral process of nasal septal cartilage.r",
+   "src_type": "MESH",
+   "polys": 347
+  },
+  {
+   "name": "Nasal septal cartilage",
+   "src_type": "MESH",
+   "polys": 360
+  },
+  {
+   "name": "Major alar cartilage.l",
+   "src_type": "MESH",
+   "polys": 344
+  },
+  {
+   "name": "Lateral process of nasal septal cartilage.l",
+   "src_type": "MESH",
+   "polys": 347
+  },
+  {
+   "name": "Arytenoid cartilage.l",
+   "src_type": "MESH",
+   "polys": 1890
+  },
+  {
+   "name": "Corniculate cartilage.l",
+   "src_type": "MESH",
+   "polys": 136
+  },
+  {
+   "name": "Costal cartilage of first rib.l",
+   "src_type": "MESH",
+   "polys": 1386
+  },
+  {
+   "name": "Costal cartilage of second rib.l",
+   "src_type": "MESH",
+   "polys": 1704
+  },
+  {
+   "name": "Costal cartilage of third rib.l",
+   "src_type": "MESH",
+   "polys": 1800
+  },
+  {
+   "name": "Costal cartilage of fourth rib.l",
+   "src_type": "MESH",
+   "polys": 2236
+  },
+  {
+   "name": "Costal cartilage of fifth rib.l",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Costal cartilage of sixth rib.l",
+   "src_type": "MESH",
+   "polys": 4060
+  },
+  {
+   "name": "Costal cartilage of seventh rib.l",
+   "src_type": "MESH",
+   "polys": 6882
+  },
+  {
+   "name": "Costal cartilage of eighth rib.l",
+   "src_type": "MESH",
+   "polys": 1312
+  },
+  {
+   "name": "Costal cartilage of tenth rib.l",
+   "src_type": "MESH",
+   "polys": 762
+  },
+  {
+   "name": "Costal cartilage of ninth rib.l",
+   "src_type": "MESH",
+   "polys": 982
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Axial skeleton.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Axial skeleton.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facial bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Facial bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neurocranium.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Neurocranium.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Viscerocranium.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Viscerocranium.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Foramen magnum.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Foramen magnum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of cranium.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of cranium.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cranium.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cranium.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Extracranial bones of head.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Extracranial bones of head.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Auditory ossicles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Auditory ossicles.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Teeth.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Teeth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Nasal cartilages.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Nasal cartilages.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cartilages of ear.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cartilages of ear.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Laryngeal cartilages.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Laryngeal cartilages.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cervical vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cervical vertebrae.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic vertebrae.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lumbar vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Lumbar vertebrae.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of vertebral column.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of vertebral column.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vertebral column.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Vertebral column.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "True ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "True ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Floating ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Floating ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "False ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "False ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternum.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of thorax.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of thorax.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal cartilages.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal cartilages.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic skeleton.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic skeleton.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Internal surface of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Internal surface of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "External surface of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "External surface of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for middle meningeal artery.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for middle meningeal artery.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior temporal line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior temporal line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior temporal line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior temporal line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Parietal eminence.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Parietal eminence.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occipital border of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Occipital border of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Squamosal border of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Squamosal border of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sagittal border of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sagittal border of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Frontal border of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Frontal border of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Frontal angle of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Frontal angle of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occipital angle of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Occipital angle of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sphenoidal angle of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sphenoidal angle of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mastoid angle of parietal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mastoid angle of parietal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Parietal foramen.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Parietal foramen.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cavity of bony thorax.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior thoracic aperture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior thoracic aperture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal arch.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intercostal space.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Intercostal space.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Infrasternal angle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Infrasternal angle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior teeth.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior teeth.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Petrous part of temporal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Petrous part of temporal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tympanic part of temporal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tympanic part of temporal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Squamous part of temporal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Squamous part of temporal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occipital margin of temporal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Occipital margin of temporal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mastoid process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mastoid process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mastoid notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mastoid notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Apex of petrous part.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Apex of petrous part.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior surface of petrous part.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior surface of petrous part.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Arcuate eminence.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Arcuate eminence.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tegmen tympani.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tegmen tympani.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior surface of petrous part.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior surface of petrous part.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Styloid process of temporal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Styloid process of temporal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for vertebral artery.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for vertebral artery.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Petrous part of temporal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Petrous part of temporal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tympanic part of temporal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tympanic part of temporal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Squamous part of temporal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Squamous part of temporal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occipital margin of temporal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Occipital margin of temporal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mastoid process.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Mastoid process.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mastoid notch.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Mastoid notch.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Apex of petrous part.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Apex of petrous part.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior surface of petrous part.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior surface of petrous part.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Arcuate eminence.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Arcuate eminence.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tegmen tympani.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tegmen tympani.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior surface of petrous part.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior surface of petrous part.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Styloid process of temporal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Styloid process of temporal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Transverse costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Transverse costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Linea terminalis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Linea terminalis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Carpal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Metacarpal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of hand.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Phalanges of hand.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Parietal margin of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Zygomatic process of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Foramen caecum of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Orbital plate of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Orbital surface of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Ethmoidal notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Ethmoidal notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Nasal spine of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trochlear fovea.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Frontal eminence.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "[Trochlear spine].j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Orbital part of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sphenoidal margin of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sphenoidal margin of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Glabella.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superciliary arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Supercilliary arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Squamous part of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Squamous part of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "External surface of squamous part of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Frontal eminence.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Frontal part of orbital margin.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Glabella.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Frontal part of orbital margin.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "External surface of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Temporal line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Temporal surface of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Zygomatic process of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Parietal margin of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Temporal surface of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Temporal line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Frontal crest.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Foramen caecum of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Internal surface of squamous part of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Internal surface of squamous part of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Frontal crest.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Nasal margin of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Nasal part of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Nasal spine of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Nasal margin of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Nasal part of frontal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Orbital part of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Orbital plate of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Supra-orbital notch).t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Supra-orbital notch).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fossa for lacrimal gland.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Orbital surface of frontal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Trochlear fovea.t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Trochlear spine).t",
+   "type": "FONT"
+  },
+  {
+   "name": "Fossa for lacrimal gland.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Opening of frontal sinus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Opening of frontal sinus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Septum of frontal sinuses.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Septum of frontal sinuses.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Basilar part of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Basilar part of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pharyngeal tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pharyngeal tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cerebral fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cerebral fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Condylar canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Condylar canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Hypoglossal canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Hypoglossal canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intrajugular process of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Intrajugular process of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Jugular notch of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Jugular notch of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Jugular process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Jugular process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral part of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral part of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occipital condyle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Occipital condyle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cerebellar fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cerebellar fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Condylar fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Condylar fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cruciform eminence.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cruciform eminence.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "(External occipital crest).t",
+   "type": "FONT"
+  },
+  {
+   "name": "(External occipital crest).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "External occipital protuberance.t",
+   "type": "FONT"
+  },
+  {
+   "name": "External occipital protuberance.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for marginal sinus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for marginal sinus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for occipital sinus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for occipital sinus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for transverse sinus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for transverse sinus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior nuchal line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior nuchal line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "(Internal occipital crest).t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Internal occipital crest).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Internal occipital protuberance.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Internal occipital protuberance.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mastoid border of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mastoid border of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occipital plane.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Occipital plane.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Squamous part of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Squamous part of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior nuchal line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior nuchal line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Supreme nuchal line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Supreme nuchal line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "(Vermian fossa).t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Vermian fossa).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Basilar part of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Basilar part of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cerebral fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Condylar canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Condylar canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Hypoglossal canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Hypoglossal canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intrajugular process of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Jugular notch of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Jugular notch of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Jugular process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral part of occipital bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral part of occipital bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pterygoid notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pterygoid notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Scaphoid fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Scaphoid fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pterygoid canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pterygoid canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pterygospinous process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pterygospinous process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pterygoid fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pterygoid fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of sphenoid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of sphenoid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Carotid sulcus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Carotid sulcus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Chiasmatic sulcus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Chiasmatic sulcus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Limbus of sphenoid.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Limbus of sphenoid.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sphenoidal crest.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sphenoidal crest.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sphenoidal lingula.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sphenoidal lingula.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sphenoidal yoke.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sphenoidal yoke.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Dorsum sellae.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Dorsum sellae.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Hypophysial fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Hypophysial fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "(Middle clinoid process).t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Middle clinoid process).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior clinoid process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior clinoid process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sella turcica.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sella turcica.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberculum sellae.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberculum sellae.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Septum of sphenoidal sinuses.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Septum of sphenoidal sinuses.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior clinoid process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior clinoid process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lesser wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lesser wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Optic canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Optic canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Foramen rotundum.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Foramen rotundum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cerebral surface of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cerebral surface of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Foramen ovale.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Foramen ovale.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Foramen spinosum.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Foramen spinosum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Frontal margin of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Frontal margin of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Infratemporal surface of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Infratemporal surface of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Maxillary surface of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Maxillary surface of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Orbital surface of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Orbital surface of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Parietal margin of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Parietal margin of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Temporal surface of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Temporal surface of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Zygomatic margin of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Zygomatic margin of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Spine of sphenoid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Spine of sphenoid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Squamosal margin of greater wing.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Squamosal margin of greater wing.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sulcus of auditory tube.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sulcus of auditory tube.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral pterygoid plate.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral pterygoid plate.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial pterygoid plate.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial pterygoid plate.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pterygoid process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pterygoid process .j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vaginal process of sphenoid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vaginal process of sphenoid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove of pterygoid hamulus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove of pterygoid hamulus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pterygoid hamulus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pterygoid hamulus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior semicircular canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior semicircular canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior bony ampulla.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior bony ampulla.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior semicircular canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior semicircular canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior bony ampulla.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior bony ampulla.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Common bony limb.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Common bony limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral semicircular canal.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral semicircular canal.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral bony ampulla.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral bony ampulla.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Simple bony limb.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Simple bony limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cochlear cupula.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cochlear cupula.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of cochlea.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of cochlea.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Spiral canal of cochlea.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Spiral canal of cochlea.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Maxillary dental arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Maxillary dental arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Maxillary dental arch.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Maxillary dental arch.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Extracranial bones of head.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Mandibular dental arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mandibular dental arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of mandible.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of mandible.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of mandible.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of mandible.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "(Mandibular symphysis).t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Mandibular symphysis).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Gnathion.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Gnathion.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mental protuberance.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mental protuberance.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mental tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mental tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior mental spine.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior mental spine.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior mental spine.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior mental spine.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Genion.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Genion.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mental foramen.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mental foramen.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mylohyoid line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mylohyoid line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Digastric fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Digastric fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Oblique line of mandible.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Oblique line of mandible.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sublingual fossa.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sublingual fossa.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of hyoid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of hyoid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lesser horn of hyoid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lesser horn of hyoid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Greater horn of hyoid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Greater horn of hyoid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Auditory ossicles.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Handle of malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Handle of malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral process of malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral process of malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior process of malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior process of malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet of head of malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet of head of malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior process of malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior process of malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet of head of malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet of head of malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Handle of malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Handle of malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral process of malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral process of malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet for malleus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet for malleus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Long limb of incus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Long limb of incus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lenticular process of incus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lenticular process of incus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of incus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of incus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet for stapes.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet for stapes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet for malleus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet for malleus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet for stapes.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet for stapes.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of incus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of incus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lenticular process of incus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lenticular process of incus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Long limb of incus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Long limb of incus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Stapes.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Stapes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet of head of stapes.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet of head of stapes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior limb of stapes.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior limb of stapes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior limb of stapes.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior limb of stapes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of stapes.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of stapes.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior limb of stapes.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior limb of stapes.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet of head of stapes.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet of head of stapes.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of stapes.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of stapes.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior limb of stapes.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior limb of stapes.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Stapes.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Stapes.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Teeth.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior teeth.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior teeth.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Crown of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Crown of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occlusal surface of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Occlusal surface of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vestibular surface of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vestibular surface of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lingual surface of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lingual surface of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mesial surface of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Mesial surface of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Distal surface of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Distal surface of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Root of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Root of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Root apex.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Root apex.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cusp of tooth.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cusp of tooth.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Crown of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Crown of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cusp of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Cusp of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Distal surface of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Distal surface of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lingual surface of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lingual surface of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Mesial surface of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Mesial surface of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occlusal surface of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Root apex.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Root of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Root of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vestibular surface of tooth.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Vestibular surface of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Occlusal surface of tooth.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Laryngeal prominence.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Laryngeal prominence.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior thyroid notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior thyroid notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior thyroid notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior thyroid notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior horn of thyroid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior horn of thyroid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior thyroid tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior thyroid tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lamina of thyroid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lamina of thyroid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Oblique line of thyroid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Oblique line of thyroid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior horn of thyroid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior horn of thyroid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior thyroid tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior thyroid tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Arch of cricoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Arch of cricoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Arytenoid articular surface.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Arytenoid articular surface.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lamina of cricoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lamina of cricoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thyroid articular surface.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Thyroid articular surface.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial surface of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial surface of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior surface of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior surface of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Apex of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Apex of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Apex of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Apex of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial surface of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial surface of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior surface of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior surface of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular surface of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular surface of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscular process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscular process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vocal process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vocal process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular surface of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular surface of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Muscular process.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Muscular process.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterolateral surface of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterolateral surface of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Arcuate crest.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Arcuate crest.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Colliculus of arytenoid cartilage.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Colliculus of arytenoid cartilage.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Oblong fovea.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Oblong fovea.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Triangular fovea.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Triangular fovea.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterolateral surface of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterolateral surface of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Arcuate crest.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Arcuate crest.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Colliculus of arytenoid cartilage.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Colliculus of arytenoid cartilage.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Oblong fovea.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Oblong fovea.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Triangular fovea.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Triangular fovea.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cervical vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Lumbar vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of vertebral column.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for vertebral artery.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for vertebral artery.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Transverse costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Transverse costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Annular epiphysis.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Annular epiphysis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intervertebral surface.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Intervertebral surface.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vertebral body.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vertebral body.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vertebral arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vertebral arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pedicle of vertebral arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pedicle of vertebral arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lamina of vertebral arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lamina of vertebral arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pars interarticularis of vertebral arch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Pars interarticularis of vertebral arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal part of transverse process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal part of transverse process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral part of transverse process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral part of transverse process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Transverse process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Transverse process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior articular process of vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior articular process of vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior vertebral notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior vertebral notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior vertebral notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior vertebral notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intervertebral foramen.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Intervertebral foramen.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for vertebral artery.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for vertebral artery.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cervical vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior tubercle of transverse process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior tubercle of transverse process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cervical vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Cervical vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Foramen transversarium.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Foramen transversarium.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for spinal nerve.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for spinal nerve.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior tubercle of transverse process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior tubercle of transverse process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Uncinate process of vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Uncinate process of vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Atlas (C1).t",
+   "type": "FONT"
+  },
+  {
+   "name": "Atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior arch of atlas.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior arch of atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior tubercle of atlas.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior tubercle of atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facet for dens.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Facet for dens.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "(Canal for vertebral artery).t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior arch of atlas.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior tubercle of atlas.t",
+   "type": "FONT"
+  },
+  {
+   "name": "(Canal for vertebral artery).j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior arch of atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior tubercle of atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior articular surface of atlas.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral mass.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior articular surface of atlas.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Transverse ligament tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior articular surface of atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral mass.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior articular surface of atlas.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Transverse ligament tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Uncinate process of first thoracic vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Uncinate process of first thoracic vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Transverse costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Transverse costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Spinous process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Spinous process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior articular facet of vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior articular facet of vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Vertebral foramen.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Vertebral foramen.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior articular facet of vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior articular facet of vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lumbar vertebrae.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Coccyx.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Coccyx.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of coccyx.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of coccyx.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Apex of coccyx.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Apex of coccyx.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Coccygeal horn.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Coccygeal horn.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "True ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "True ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Floating ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Floating ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "False ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "False ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Ribs.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternum.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of thorax.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of thorax.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal cartilages.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal cartilages.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Cavity of bony thorax.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior thoracic aperture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior thoracic aperture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal arch.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal arch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Intercostal space.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Intercostal space.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Infrasternal angle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Infrasternal angle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic skeleton.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Inferior costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Inferior costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Transverse costal facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Transverse costal facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Thoracic vertebra.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Thoracic vertebra.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "True ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Floating ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "False ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Floating ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "False ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Floating ribs.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facets of head of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facets of head of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Crest of head of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Crest of head of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facets of head of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facets of head of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Crest of head of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Crest of head of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Crest of neck of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Crest of neck of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Crest of neck of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Crest of neck of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Angle of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Angle of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal groove.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal groove.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Angle of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Angle of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal groove.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal groove.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tubercle of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tubercle of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet of tubercle of rib.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet of tubercle of rib.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular facet of tubercle of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular facet of tubercle of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tubercle of rib.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tubercle of rib.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternum.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternal angle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternal angle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal notches.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Costal notches.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Clavicular notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Clavicular notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Manubrium of sternum.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Manubrium of sternum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Xiphoid process.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Xiphoid process.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternum.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Clavicular notch.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Clavicular notch.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Manubrium of sternum.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Manubrium of sternum.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Costal cartilages.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of pectoral girdle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of pectoral girdle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Carpal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Carpal bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Metacarpal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Metacarpal bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of hand.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of hand.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of free part of upper limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of free part of upper limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of upper limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of upper limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Phalanges of hand.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Phalanges of hand.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of pectoral girdle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pectoral girdle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Impression for costoclavicular ligament.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Impression for costoclavicular ligament.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternal articular surface.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternal articular surface.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternal end.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternal end.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Impression for costoclavicular ligament.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Impression for costoclavicular ligament.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternal articular surface.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternal articular surface.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sternal end.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Sternal end.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of clavicle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of clavicle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for subclavius muscle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for subclavius muscle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of clavicle.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of clavicle.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for subclavius muscle.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for subclavius muscle.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Acromial end.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Acromial end.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Acromial facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Acromial facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Acromial facet.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Acromial facet.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Acromial end.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Acromial end.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Conoid tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Conoid tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trapezoid line.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Trapezoid line.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity for coracoclavicular ligament.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity for coracoclavicular ligament.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Conoid tubercle.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Conoid tubercle.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity for coracoclavicular ligament.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity for coracoclavicular ligament.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trapezoid line.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Trapezoid line.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pelvic girdle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bony pelvis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pelvic cavity.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pubic arch.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Subpubic angle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Linea terminalis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Greater pelvis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Lesser pelvis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pelvic inlet.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pelvic outlet.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of pelvic girdle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bony pelvis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bony pelvis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of pelvic girdle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of pelvic girdle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tarsal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tarsal bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Metatarsal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Metatarsal bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Phalanges of foot.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Phalanges of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of foot.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of free part of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of free part of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Pelvic cavity.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pubic arch.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Subpubic angle.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Linea terminalis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Linea terminalis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Greater pelvis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Lesser pelvis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pelvic inlet.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Pelvic outlet.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tarsal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Tarsal bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Metatarsal bones.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Metatarsal bones.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Phalanges of foot.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Phalanges of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of foot.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Bones of free part of lower limb.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bones of free part of lower limb.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Talar sulcus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Talar sulcus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial malleolar facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial malleolar facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior calcaneal articular facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior calcaneal articular facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial malleolar facet.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial malleolar facet.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior calcaneal articular facet.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior calcaneal articular facet.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Talar sulcus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Talar sulcus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Navicular articular surface.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Navicular articular surface.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facet for plantar calcaneonavicular ligament.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Facet for plantar calcaneonavicular ligament.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facet for calcaneonavicular part of bifurcate ligament.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Facet for calcaneonavicular part of bifurcate ligament.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facet for calcaneonavicular part of bifurcate ligament.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Facet for calcaneonavicular part of bifurcate ligament.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Facet for plantar calcaneonavicular ligament.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Facet for plantar calcaneonavicular ligament.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Navicular articular surface.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Navicular articular surface.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Middle facet for calcaneus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Middle facet for calcaneus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Middle facet for calcaneus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Middle facet for calcaneus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Neck of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Neck of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior facet of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior facet of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trochlea of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Trochlea of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Superior facet of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Superior facet of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trochlea of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Trochlea of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral malleolar facet.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral malleolar facet.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral process of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral process of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral malleolar facet.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral malleolar facet.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral process of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral process of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior process of talus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior process of talus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral tubercle.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral tubercle.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial tubercle.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial tubercle.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Posterior process of talus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Posterior process of talus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Calcaneal tubercle.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Calcaneal tubercle.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Calcaneal sulcus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Calcaneal sulcus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tarsal sinus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tarsal sinus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular surface for cuboid.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular surface for cuboid.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior process of calcaneus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior process of calcaneus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Anterior process of calcaneus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Anterior process of calcaneus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Articular surface for cuboid.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Articular surface for cuboid.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Calcaneal sulcus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Calcaneal sulcus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Calcaneal tubercle.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Calcaneal tubercle.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tarsal sinus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tarsal sinus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Calcaneal tuberosity.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Calcaneal tuberosity.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral process of calcaneal tuberosity.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral process of calcaneal tuberosity.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial process of calcaneal tuberosity.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial process of calcaneal tuberosity.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Calcaneal tuberosity.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Calcaneal tuberosity.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Lateral process of calcaneal tuberosity.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Lateral process of calcaneal tuberosity.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Medial process of calcaneal tuberosity.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Medial process of calcaneal tuberosity.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of calcaneus.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of calcaneus.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sustentaculum tali.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Sustentaculum tali.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of calcaneus.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for tendon of flexor hallucis longus of calcaneus.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Sustentaculum tali.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Sustentaculum tali.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity of navicular bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity of navicular bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity of navicular bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity of navicular bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for tendon of fibularis longus muscle of cuboid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for tendon of fibularis longus muscle of cuboid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity of cuboid bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity of cuboid bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Groove for tendon of fibularis longus muscle of cuboid bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Groove for tendon of fibularis longus muscle of cuboid bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity of cuboid bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity of cuboid bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of metatarsal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of metatarsal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of metatarsal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of metatarsal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of metatarsal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of metatarsal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of metatarsal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of metatarsal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of metatarsal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of metatarsal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of metatarsal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of metatarsal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "First metatarsal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "First metatarsal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "First metatarsal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "First metatarsal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fifth metatarsal bone.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Fifth metatarsal bone.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Fifth metatarsal bone.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Fifth metatarsal bone.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity of distal phalanx of foot.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity of distal phalanx of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Tuberosity of distal phalanx of foot.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Tuberosity of distal phalanx of foot.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of phalanx of foot.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of phalanx of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of phalanx of foot.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of phalanx of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Base of phalanx of foot.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Base of phalanx of foot.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Body of phalanx of foot.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Body of phalanx of foot.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of phalanx of foot.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of phalanx of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trochlea of phalanx of foot.t",
+   "type": "FONT"
+  },
+  {
+   "name": "Trochlea of phalanx of foot.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Head of phalanx of foot.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Head of phalanx of foot.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Trochlea of phalanx of foot.s",
+   "type": "FONT"
+  },
+  {
+   "name": "Trochlea of phalanx of foot.i",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  }
+ ]
+}

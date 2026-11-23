@@ -1,0 +1,4291 @@
+{
+ "manifest_version": 1,
+ "source": "z-anatomy",
+ "systems": [
+  {
+   "name": "skeletal",
+   "label": {
+    "en": "skeletal"
+   },
+   "structures": [
+    {
+     "id": "TA2:504:skeletal:parietal_bone_r",
+     "ta2_id": "504",
+     "names": {
+      "en": "Parietal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Parietal bone.r"
+     },
+     "polys": 6713
+    },
+    {
+     "id": "TA2:504:skeletal:parietal_bone_l",
+     "ta2_id": "504",
+     "names": {
+      "en": "Parietal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Parietal bone.l"
+     },
+     "polys": 6886
+    },
+    {
+     "id": "TA2:549:skeletal:sinus_of_frontal_bone",
+     "ta2_id": "549",
+     "names": {
+      "en": "Sinus of frontal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sinus of frontal bone"
+     },
+     "polys": 752
+    },
+    {
+     "id": "TA2:520:skeletal:frontal_bone",
+     "ta2_id": "520",
+     "names": {
+      "en": "Frontal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Frontal bone"
+     },
+     "polys": 7754
+    },
+    {
+     "id": "TA2:552:skeletal:occipital_bone",
+     "ta2_id": "552",
+     "names": {
+      "en": "Occipital bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Occipital bone"
+     },
+     "polys": 7493
+    },
+    {
+     "id": "TA2:600:skeletal:sinus_of_sphenoid_bone",
+     "ta2_id": "600",
+     "names": {
+      "en": "Sinus of sphenoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sinus of sphenoid bone"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:584:skeletal:sphenoid_bone",
+     "ta2_id": "584",
+     "names": {
+      "en": "Sphenoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sphenoid bone"
+     },
+     "polys": 7308
+    },
+    {
+     "id": "TA2:641:skeletal:temporal_bone_r",
+     "ta2_id": "641",
+     "names": {
+      "en": "Temporal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Temporal bone.r"
+     },
+     "polys": 14094
+    },
+    {
+     "id": "TA2:721:skeletal:ethmoid_bone",
+     "ta2_id": "721",
+     "names": {
+      "en": "Ethmoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Ethmoid bone"
+     },
+     "polys": 6696
+    },
+    {
+     "id": "TA2:740:skeletal:inferior_nasal_concha_bone_r",
+     "ta2_id": "740",
+     "names": {
+      "en": "Inferior nasal concha bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Inferior nasal concha bone.r"
+     },
+     "polys": 476
+    },
+    {
+     "id": "TA2:744:skeletal:lacrimal_bone_r",
+     "ta2_id": "744",
+     "names": {
+      "en": "Lacrimal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lacrimal bone.r"
+     },
+     "polys": 588
+    },
+    {
+     "id": "TA2:748:skeletal:nasal_bone_r",
+     "ta2_id": "748",
+     "names": {
+      "en": "Nasal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nasal bone.r"
+     },
+     "polys": 292
+    },
+    {
+     "id": "TA2:756:skeletal:maxilla_r",
+     "ta2_id": "756",
+     "names": {
+      "en": "Maxilla"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Maxilla.r"
+     },
+     "polys": 4798
+    },
+    {
+     "id": "TA2:798:skeletal:palatine_bone_r",
+     "ta2_id": "798",
+     "names": {
+      "en": "Palatine bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Palatine bone.r"
+     },
+     "polys": 1460
+    },
+    {
+     "id": "TA2:818:skeletal:zygomatic_bone_r",
+     "ta2_id": "818",
+     "names": {
+      "en": "Zygomatic bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Zygomatic bone.r"
+     },
+     "polys": 1328
+    },
+    {
+     "id": "TA2:835:skeletal:mandible",
+     "ta2_id": "835",
+     "names": {
+      "en": "Mandible"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Mandible"
+     },
+     "polys": 18838
+    },
+    {
+     "id": "TA2:876:skeletal:hyoid_bone",
+     "ta2_id": "876",
+     "names": {
+      "en": "Hyoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Hyoid bone"
+     },
+     "polys": 1310
+    },
+    {
+     "id": "TA2:881:skeletal:malleus_r",
+     "ta2_id": "881",
+     "names": {
+      "en": "Malleus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Malleus.r"
+     },
+     "polys": 1998
+    },
+    {
+     "id": "TA2:888:skeletal:incus_r",
+     "ta2_id": "888",
+     "names": {
+      "en": "Incus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Incus.r"
+     },
+     "polys": 1277
+    },
+    {
+     "id": "TA2:895:skeletal:stapes_r",
+     "ta2_id": "895",
+     "names": {
+      "en": "Stapes"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Stapes.r"
+     },
+     "polys": 2180
+    },
+    {
+     "id": "TA2:906*11:skeletal:upper_medial_incisor_r",
+     "ta2_id": "906*11",
+     "names": {
+      "en": "Upper medial incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper medial incisor.r"
+     },
+     "polys": 1368
+    },
+    {
+     "id": "TA2:906*12:skeletal:upper_lateral_incisor_r",
+     "ta2_id": "906*12",
+     "names": {
+      "en": "Upper lateral incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper lateral incisor.r"
+     },
+     "polys": 1412
+    },
+    {
+     "id": "TA2:907*13:skeletal:upper_canine_r",
+     "ta2_id": "907*13",
+     "names": {
+      "en": "Upper canine"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper canine.r"
+     },
+     "polys": 1434
+    },
+    {
+     "id": "TA2:906*31:skeletal:lower_medial_incisor_r",
+     "ta2_id": "906*31",
+     "names": {
+      "en": "Lower medial incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower medial incisor.r"
+     },
+     "polys": 984
+    },
+    {
+     "id": "TA2:906*32:skeletal:lower_lateral_incisor_r",
+     "ta2_id": "906*32",
+     "names": {
+      "en": "Lower lateral incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower lateral incisor.r"
+     },
+     "polys": 1033
+    },
+    {
+     "id": "TA2:907*33:skeletal:lower_canine_r",
+     "ta2_id": "907*33",
+     "names": {
+      "en": "Lower canine"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower canine.r"
+     },
+     "polys": 1276
+    },
+    {
+     "id": "TA2:909*14:skeletal:upper_first_premolar_r",
+     "ta2_id": "909*14",
+     "names": {
+      "en": "Upper first premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper first premolar.r"
+     },
+     "polys": 1651
+    },
+    {
+     "id": "TA2:909*15:skeletal:upper_second_premolar_r",
+     "ta2_id": "909*15",
+     "names": {
+      "en": "Upper second premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper second premolar.r"
+     },
+     "polys": 1511
+    },
+    {
+     "id": "TA2:910*16:skeletal:upper_first_molar_tooth_r",
+     "ta2_id": "910*16",
+     "names": {
+      "en": "Upper first molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper first molar tooth.r"
+     },
+     "polys": 2168
+    },
+    {
+     "id": "TA2:910*17:skeletal:upper_second_molar_tooth_r",
+     "ta2_id": "910*17",
+     "names": {
+      "en": "Upper second molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper second molar tooth.r"
+     },
+     "polys": 1843
+    },
+    {
+     "id": "TA2:909*34:skeletal:lower_first_premolar_r",
+     "ta2_id": "909*34",
+     "names": {
+      "en": "Lower first premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower first premolar.r"
+     },
+     "polys": 1207
+    },
+    {
+     "id": "TA2:909*35:skeletal:lower_second_premolar_r",
+     "ta2_id": "909*35",
+     "names": {
+      "en": "Lower second premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower second premolar.r"
+     },
+     "polys": 1180
+    },
+    {
+     "id": "TA2:910*36:skeletal:lower_first_molar_tooth_r",
+     "ta2_id": "910*36",
+     "names": {
+      "en": "Lower first molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower first molar tooth.r"
+     },
+     "polys": 4475
+    },
+    {
+     "id": "TA2:910*37:skeletal:lower_second_molar_tooth_r",
+     "ta2_id": "910*37",
+     "names": {
+      "en": "Lower second molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower second molar tooth.r"
+     },
+     "polys": 1655
+    },
+    {
+     "id": "TA2:940:skeletal:major_alar_cartilage_r",
+     "ta2_id": "940",
+     "names": {
+      "en": "Major alar cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Major alar cartilage.r"
+     },
+     "polys": 344
+    },
+    {
+     "id": "TA2:947:skeletal:lateral_process_of_nasal_septal_cartilage_r",
+     "ta2_id": "947",
+     "names": {
+      "en": "Lateral process of nasal septal cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lateral process of nasal septal cartilage.r"
+     },
+     "polys": 347
+    },
+    {
+     "id": "TA2:946:skeletal:nasal_septal_cartilage",
+     "ta2_id": "946",
+     "names": {
+      "en": "Nasal septal cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nasal septal cartilage"
+     },
+     "polys": 360
+    },
+    {
+     "id": "TA2:967:skeletal:thyroid_cartilage",
+     "ta2_id": "967",
+     "names": {
+      "en": "Thyroid cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Thyroid cartilage"
+     },
+     "polys": 4482
+    },
+    {
+     "id": "TA2:978:skeletal:cricoid_cartilage",
+     "ta2_id": "978",
+     "names": {
+      "en": "Cricoid cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Cricoid cartilage"
+     },
+     "polys": 1806
+    },
+    {
+     "id": "TA2:983:skeletal:arytenoid_cartilage_r",
+     "ta2_id": "983",
+     "names": {
+      "en": "Arytenoid cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Arytenoid cartilage.r"
+     },
+     "polys": 1890
+    },
+    {
+     "id": "TA2:997:skeletal:corniculate_cartilage_r",
+     "ta2_id": "997",
+     "names": {
+      "en": "Corniculate cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Corniculate cartilage.r"
+     },
+     "polys": 136
+    },
+    {
+     "id": "TA2:1038:skeletal:atlas_c1",
+     "ta2_id": "1038",
+     "names": {
+      "en": "Atlas (C1)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Atlas (C1)"
+     },
+     "polys": 2146
+    },
+    {
+     "id": "TA2:1055:skeletal:vertebra_c6",
+     "ta2_id": "1055",
+     "names": {
+      "en": "Vertebra C6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra C6"
+     },
+     "polys": 2224
+    },
+    {
+     "id": "TA2:1032*3:skeletal:vertebra_c3",
+     "ta2_id": "1032*3",
+     "names": {
+      "en": "Vertebra C3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra C3"
+     },
+     "polys": 2374
+    },
+    {
+     "id": "TA2:1032*5:skeletal:vertebra_c5",
+     "ta2_id": "1032*5",
+     "names": {
+      "en": "Vertebra C5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra C5"
+     },
+     "polys": 2256
+    },
+    {
+     "id": "TA2:1032*7:skeletal:vertebra_c7",
+     "ta2_id": "1032*7",
+     "names": {
+      "en": "Vertebra C7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra C7"
+     },
+     "polys": 2090
+    },
+    {
+     "id": "TA2:1032*4:skeletal:vertebra_c4",
+     "ta2_id": "1032*4",
+     "names": {
+      "en": "Vertebra C4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra C4"
+     },
+     "polys": 1938
+    },
+    {
+     "id": "TA2:1059*2:skeletal:vertebra_t2",
+     "ta2_id": "1059*2",
+     "names": {
+      "en": "Vertebra T2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T2"
+     },
+     "polys": 2092
+    },
+    {
+     "id": "TA2:1059*3:skeletal:vertebra_t3",
+     "ta2_id": "1059*3",
+     "names": {
+      "en": "Vertebra T3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T3"
+     },
+     "polys": 2342
+    },
+    {
+     "id": "TA2:1059*4:skeletal:vertebra_t4",
+     "ta2_id": "1059*4",
+     "names": {
+      "en": "Vertebra T4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T4"
+     },
+     "polys": 2214
+    },
+    {
+     "id": "TA2:1059*5:skeletal:vertebra_t5",
+     "ta2_id": "1059*5",
+     "names": {
+      "en": "Vertebra T5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T5"
+     },
+     "polys": 2152
+    },
+    {
+     "id": "TA2:1059*6:skeletal:vertebra_t6",
+     "ta2_id": "1059*6",
+     "names": {
+      "en": "Vertebra T6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T6"
+     },
+     "polys": 1774
+    },
+    {
+     "id": "TA2:1065*7:skeletal:vertebra_t7",
+     "ta2_id": "1065*7",
+     "names": {
+      "en": "Vertebra T7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T7"
+     },
+     "polys": 2646
+    },
+    {
+     "id": "TA2:1065*9:skeletal:vertebra_t9",
+     "ta2_id": "1065*9",
+     "names": {
+      "en": "Vertebra T9"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T9"
+     },
+     "polys": 2968
+    },
+    {
+     "id": "TA2:1065*10:skeletal:vertebra_t10",
+     "ta2_id": "1065*10",
+     "names": {
+      "en": "Vertebra T10"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T10"
+     },
+     "polys": 2953
+    },
+    {
+     "id": "TA2:1065*11:skeletal:vertebra_t11",
+     "ta2_id": "1065*11",
+     "names": {
+      "en": "Vertebra T11"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T11"
+     },
+     "polys": 1780
+    },
+    {
+     "id": "TA2:1065*12:skeletal:vertebra_t12",
+     "ta2_id": "1065*12",
+     "names": {
+      "en": "Vertebra T12"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T12"
+     },
+     "polys": 2472
+    },
+    {
+     "id": "TA2:1065*8:skeletal:vertebra_t8",
+     "ta2_id": "1065*8",
+     "names": {
+      "en": "Vertebra T8"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T8"
+     },
+     "polys": 1706
+    },
+    {
+     "id": "TA2:1063*1:skeletal:vertebra_t1",
+     "ta2_id": "1063*1",
+     "names": {
+      "en": "Vertebra T1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra T1"
+     },
+     "polys": 1946
+    },
+    {
+     "id": "TA2:1068*1:skeletal:vertebra_l1",
+     "ta2_id": "1068*1",
+     "names": {
+      "en": "Vertebra L1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra L1"
+     },
+     "polys": 3056
+    },
+    {
+     "id": "TA2:1068*2:skeletal:vertebra_l2",
+     "ta2_id": "1068*2",
+     "names": {
+      "en": "Vertebra L2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra L2"
+     },
+     "polys": 2572
+    },
+    {
+     "id": "TA2:1068*4:skeletal:vertebra_l4",
+     "ta2_id": "1068*4",
+     "names": {
+      "en": "Vertebra L4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra L4"
+     },
+     "polys": 3692
+    },
+    {
+     "id": "TA2:1068*5:skeletal:vertebra_l5",
+     "ta2_id": "1068*5",
+     "names": {
+      "en": "Vertebra L5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra L5"
+     },
+     "polys": 3920
+    },
+    {
+     "id": "TA2:1068*3:skeletal:vertebra_l3",
+     "ta2_id": "1068*3",
+     "names": {
+      "en": "Vertebra L3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vertebra L3"
+     },
+     "polys": 3060
+    },
+    {
+     "id": "TA2:1092:skeletal:coccyx",
+     "ta2_id": "1092",
+     "names": {
+      "en": "Coccyx"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Coccyx"
+     },
+     "polys": 1066
+    },
+    {
+     "id": "TA2:1106*5:skeletal:fifth_rib_r",
+     "ta2_id": "1106*5",
+     "names": {
+      "en": "Fifth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fifth rib.r"
+     },
+     "polys": 9360
+    },
+    {
+     "id": "TA2:1107:skeletal:first_rib_r",
+     "ta2_id": "1107",
+     "names": {
+      "en": "First rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "First rib.r"
+     },
+     "polys": 3208
+    },
+    {
+     "id": "TA2:1106*4:skeletal:fourth_rib_r",
+     "ta2_id": "1106*4",
+     "names": {
+      "en": "Fourth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fourth rib.r"
+     },
+     "polys": 8640
+    },
+    {
+     "id": "TA2:1111:skeletal:second_rib_r",
+     "ta2_id": "1111",
+     "names": {
+      "en": "Second rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Second rib.r"
+     },
+     "polys": 5354
+    },
+    {
+     "id": "TA2:1106*7:skeletal:seventh_rib_r",
+     "ta2_id": "1106*7",
+     "names": {
+      "en": "Seventh rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Seventh rib.r"
+     },
+     "polys": 9741
+    },
+    {
+     "id": "TA2:1106*6:skeletal:sixth_rib_r",
+     "ta2_id": "1106*6",
+     "names": {
+      "en": "Sixth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sixth rib.r"
+     },
+     "polys": 10092
+    },
+    {
+     "id": "TA2:1106*3:skeletal:third_rib_r",
+     "ta2_id": "1106*3",
+     "names": {
+      "en": "Third rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Third rib.r"
+     },
+     "polys": 6957
+    },
+    {
+     "id": "TA2:1114*11:skeletal:eleventh_rib_r",
+     "ta2_id": "1114*11",
+     "names": {
+      "en": "Eleventh rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Eleventh rib.r"
+     },
+     "polys": 5032
+    },
+    {
+     "id": "TA2:1114*12:skeletal:twelfth_rib_r",
+     "ta2_id": "1114*12",
+     "names": {
+      "en": "Twelfth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Twelfth rib.r"
+     },
+     "polys": 2995
+    },
+    {
+     "id": "TA2:1113*8:skeletal:eighth_rib_r",
+     "ta2_id": "1113*8",
+     "names": {
+      "en": "Eighth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Eighth rib.r"
+     },
+     "polys": 8257
+    },
+    {
+     "id": "TA2:1113*9:skeletal:ninth_rib_r",
+     "ta2_id": "1113*9",
+     "names": {
+      "en": "Ninth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Ninth rib.r"
+     },
+     "polys": 7743
+    },
+    {
+     "id": "TA2:1113*10:skeletal:tenth_rib_r",
+     "ta2_id": "1113*10",
+     "names": {
+      "en": "Tenth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Tenth rib.r"
+     },
+     "polys": 7002
+    },
+    {
+     "id": "TA2:1130:skeletal:manubrium_of_sternum",
+     "ta2_id": "1130",
+     "names": {
+      "en": "Manubrium of sternum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Manubrium of sternum"
+     },
+     "polys": 2662
+    },
+    {
+     "id": "TA2:1135:skeletal:xiphoid_process",
+     "ta2_id": "1135",
+     "names": {
+      "en": "Xiphoid process"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Xiphoid process"
+     },
+     "polys": 913
+    },
+    {
+     "id": "TA2:1134:skeletal:body_of_sternum",
+     "ta2_id": "1134",
+     "names": {
+      "en": "Body of sternum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Body of sternum"
+     },
+     "polys": 4466
+    },
+    {
+     "id": "TA2:1140*1:skeletal:costal_cartilage_of_first_rib_r",
+     "ta2_id": "1140*1",
+     "names": {
+      "en": "Costal cartilage of first rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of first rib.r"
+     },
+     "polys": 1386
+    },
+    {
+     "id": "TA2:1140*2:skeletal:costal_cartilage_of_second_rib_r",
+     "ta2_id": "1140*2",
+     "names": {
+      "en": "Costal cartilage of second rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of second rib.r"
+     },
+     "polys": 1704
+    },
+    {
+     "id": "TA2:1140*3:skeletal:costal_cartilage_of_third_rib_r",
+     "ta2_id": "1140*3",
+     "names": {
+      "en": "Costal cartilage of third rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of third rib.r"
+     },
+     "polys": 1800
+    },
+    {
+     "id": "TA2:1140*4:skeletal:costal_cartilage_of_fourth_rib_r",
+     "ta2_id": "1140*4",
+     "names": {
+      "en": "Costal cartilage of fourth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of fourth rib.r"
+     },
+     "polys": 2236
+    },
+    {
+     "id": "TA2:1140*5:skeletal:costal_cartilage_of_fifth_rib_r",
+     "ta2_id": "1140*5",
+     "names": {
+      "en": "Costal cartilage of fifth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of fifth rib.r"
+     },
+     "polys": 3246
+    },
+    {
+     "id": "TA2:1140*6:skeletal:costal_cartilage_of_sixth_rib_r",
+     "ta2_id": "1140*6",
+     "names": {
+      "en": "Costal cartilage of sixth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of sixth rib.r"
+     },
+     "polys": 4060
+    },
+    {
+     "id": "TA2:1140*7:skeletal:costal_cartilage_of_seventh_rib_r",
+     "ta2_id": "1140*7",
+     "names": {
+      "en": "Costal cartilage of seventh rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of seventh rib.r"
+     },
+     "polys": 6882
+    },
+    {
+     "id": "TA2:1140*8:skeletal:costal_cartilage_of_eighth_rib_r",
+     "ta2_id": "1140*8",
+     "names": {
+      "en": "Costal cartilage of eighth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of eighth rib.r"
+     },
+     "polys": 1312
+    },
+    {
+     "id": "TA2:1140*10:skeletal:costal_cartilage_of_tenth_rib_r",
+     "ta2_id": "1140*10",
+     "names": {
+      "en": "Costal cartilage of tenth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of tenth rib.r"
+     },
+     "polys": 762
+    },
+    {
+     "id": "TA2:1140*9:skeletal:costal_cartilage_of_ninth_rib_r",
+     "ta2_id": "1140*9",
+     "names": {
+      "en": "Costal cartilage of ninth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of ninth rib.r"
+     },
+     "polys": 982
+    },
+    {
+     "id": "TA2:1050:skeletal:axis_c2",
+     "ta2_id": "1050",
+     "names": {
+      "en": "Axis (C2)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Axis (C2)"
+     },
+     "polys": 2244
+    },
+    {
+     "id": "TA2:1071:skeletal:sacrum",
+     "ta2_id": "1071",
+     "names": {
+      "en": "Sacrum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sacrum"
+     },
+     "polys": 8522
+    },
+    {
+     "id": "TA2:641:skeletal:temporal_bone_l",
+     "ta2_id": "641",
+     "names": {
+      "en": "Temporal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Temporal bone.l"
+     },
+     "polys": 14094
+    },
+    {
+     "id": "TA2:740:skeletal:inferior_nasal_concha_bone_l",
+     "ta2_id": "740",
+     "names": {
+      "en": "Inferior nasal concha bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Inferior nasal concha bone.l"
+     },
+     "polys": 476
+    },
+    {
+     "id": "TA2:744:skeletal:lacrimal_bone_l",
+     "ta2_id": "744",
+     "names": {
+      "en": "Lacrimal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lacrimal bone.l"
+     },
+     "polys": 588
+    },
+    {
+     "id": "TA2:748:skeletal:nasal_bone_l",
+     "ta2_id": "748",
+     "names": {
+      "en": "Nasal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nasal bone.l"
+     },
+     "polys": 292
+    },
+    {
+     "id": "TA2:751:skeletal:vomer",
+     "ta2_id": "751",
+     "names": {
+      "en": "Vomer"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Vomer"
+     },
+     "polys": 946
+    },
+    {
+     "id": "TA2:756:skeletal:maxilla_l",
+     "ta2_id": "756",
+     "names": {
+      "en": "Maxilla"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Maxilla.l"
+     },
+     "polys": 4798
+    },
+    {
+     "id": "TA2:798:skeletal:palatine_bone_l",
+     "ta2_id": "798",
+     "names": {
+      "en": "Palatine bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Palatine bone.l"
+     },
+     "polys": 1460
+    },
+    {
+     "id": "TA2:818:skeletal:zygomatic_bone_l",
+     "ta2_id": "818",
+     "names": {
+      "en": "Zygomatic bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Zygomatic bone.l"
+     },
+     "polys": 1328
+    },
+    {
+     "id": "TA2:881:skeletal:malleus_l",
+     "ta2_id": "881",
+     "names": {
+      "en": "Malleus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Malleus.l"
+     },
+     "polys": 1998
+    },
+    {
+     "id": "TA2:888:skeletal:incus_l",
+     "ta2_id": "888",
+     "names": {
+      "en": "Incus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Incus.l"
+     },
+     "polys": 1277
+    },
+    {
+     "id": "TA2:895:skeletal:stapes_l",
+     "ta2_id": "895",
+     "names": {
+      "en": "Stapes"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Stapes.l"
+     },
+     "polys": 2180
+    },
+    {
+     "id": "TA2:906*11:skeletal:upper_medial_incisor_l",
+     "ta2_id": "906*11",
+     "names": {
+      "en": "Upper medial incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper medial incisor.l"
+     },
+     "polys": 1368
+    },
+    {
+     "id": "TA2:906*12:skeletal:upper_lateral_incisor_l",
+     "ta2_id": "906*12",
+     "names": {
+      "en": "Upper lateral incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper lateral incisor.l"
+     },
+     "polys": 1412
+    },
+    {
+     "id": "TA2:907*13:skeletal:upper_canine_l",
+     "ta2_id": "907*13",
+     "names": {
+      "en": "Upper canine"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper canine.l"
+     },
+     "polys": 1434
+    },
+    {
+     "id": "TA2:906*31:skeletal:lower_medial_incisor_l",
+     "ta2_id": "906*31",
+     "names": {
+      "en": "Lower medial incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower medial incisor.l"
+     },
+     "polys": 984
+    },
+    {
+     "id": "TA2:906*32:skeletal:lower_lateral_incisor_l",
+     "ta2_id": "906*32",
+     "names": {
+      "en": "Lower lateral incisor"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower lateral incisor.l"
+     },
+     "polys": 1033
+    },
+    {
+     "id": "TA2:907*33:skeletal:lower_canine_l",
+     "ta2_id": "907*33",
+     "names": {
+      "en": "Lower canine"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower canine.l"
+     },
+     "polys": 1276
+    },
+    {
+     "id": "TA2:909*14:skeletal:upper_first_premolar_l",
+     "ta2_id": "909*14",
+     "names": {
+      "en": "Upper first premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper first premolar.l"
+     },
+     "polys": 1651
+    },
+    {
+     "id": "TA2:909*15:skeletal:upper_second_premolar_l",
+     "ta2_id": "909*15",
+     "names": {
+      "en": "Upper second premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper second premolar.l"
+     },
+     "polys": 1511
+    },
+    {
+     "id": "TA2:910*16:skeletal:upper_first_molar_tooth_l",
+     "ta2_id": "910*16",
+     "names": {
+      "en": "Upper first molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper first molar tooth.l"
+     },
+     "polys": 2168
+    },
+    {
+     "id": "TA2:910*17:skeletal:upper_second_molar_tooth_l",
+     "ta2_id": "910*17",
+     "names": {
+      "en": "Upper second molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Upper second molar tooth.l"
+     },
+     "polys": 1843
+    },
+    {
+     "id": "TA2:909*34:skeletal:lower_first_premolar_l",
+     "ta2_id": "909*34",
+     "names": {
+      "en": "Lower first premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower first premolar.l"
+     },
+     "polys": 1207
+    },
+    {
+     "id": "TA2:909*35:skeletal:lower_second_premolar_l",
+     "ta2_id": "909*35",
+     "names": {
+      "en": "Lower second premolar"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower second premolar.l"
+     },
+     "polys": 1180
+    },
+    {
+     "id": "TA2:910*36:skeletal:lower_first_molar_tooth_l",
+     "ta2_id": "910*36",
+     "names": {
+      "en": "Lower first molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower first molar tooth.l"
+     },
+     "polys": 4475
+    },
+    {
+     "id": "TA2:910*37:skeletal:lower_second_molar_tooth_l",
+     "ta2_id": "910*37",
+     "names": {
+      "en": "Lower second molar tooth"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lower second molar tooth.l"
+     },
+     "polys": 1655
+    },
+    {
+     "id": "TA2:940:skeletal:major_alar_cartilage_l",
+     "ta2_id": "940",
+     "names": {
+      "en": "Major alar cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Major alar cartilage.l"
+     },
+     "polys": 344
+    },
+    {
+     "id": "TA2:947:skeletal:lateral_process_of_nasal_septal_cartilage_l",
+     "ta2_id": "947",
+     "names": {
+      "en": "Lateral process of nasal septal cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lateral process of nasal septal cartilage.l"
+     },
+     "polys": 347
+    },
+    {
+     "id": "TA2:983:skeletal:arytenoid_cartilage_l",
+     "ta2_id": "983",
+     "names": {
+      "en": "Arytenoid cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Arytenoid cartilage.l"
+     },
+     "polys": 1890
+    },
+    {
+     "id": "TA2:997:skeletal:corniculate_cartilage_l",
+     "ta2_id": "997",
+     "names": {
+      "en": "Corniculate cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Corniculate cartilage.l"
+     },
+     "polys": 136
+    },
+    {
+     "id": "TA2:1106*5:skeletal:fifth_rib_l",
+     "ta2_id": "1106*5",
+     "names": {
+      "en": "Fifth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fifth rib.l"
+     },
+     "polys": 9360
+    },
+    {
+     "id": "TA2:1107:skeletal:first_rib_l",
+     "ta2_id": "1107",
+     "names": {
+      "en": "First rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "First rib.l"
+     },
+     "polys": 3208
+    },
+    {
+     "id": "TA2:1106*4:skeletal:fourth_rib_l",
+     "ta2_id": "1106*4",
+     "names": {
+      "en": "Fourth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fourth rib.l"
+     },
+     "polys": 8640
+    },
+    {
+     "id": "TA2:1111:skeletal:second_rib_l",
+     "ta2_id": "1111",
+     "names": {
+      "en": "Second rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Second rib.l"
+     },
+     "polys": 5354
+    },
+    {
+     "id": "TA2:1106*7:skeletal:seventh_rib_l",
+     "ta2_id": "1106*7",
+     "names": {
+      "en": "Seventh rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Seventh rib.l"
+     },
+     "polys": 9741
+    },
+    {
+     "id": "TA2:1106*6:skeletal:sixth_rib_l",
+     "ta2_id": "1106*6",
+     "names": {
+      "en": "Sixth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sixth rib.l"
+     },
+     "polys": 10092
+    },
+    {
+     "id": "TA2:1106*3:skeletal:third_rib_l",
+     "ta2_id": "1106*3",
+     "names": {
+      "en": "Third rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Third rib.l"
+     },
+     "polys": 6957
+    },
+    {
+     "id": "TA2:1114*11:skeletal:eleventh_rib_l",
+     "ta2_id": "1114*11",
+     "names": {
+      "en": "Eleventh rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Eleventh rib.l"
+     },
+     "polys": 5032
+    },
+    {
+     "id": "TA2:1114*12:skeletal:twelfth_rib_l",
+     "ta2_id": "1114*12",
+     "names": {
+      "en": "Twelfth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Twelfth rib.l"
+     },
+     "polys": 2995
+    },
+    {
+     "id": "TA2:1113*8:skeletal:eighth_rib_l",
+     "ta2_id": "1113*8",
+     "names": {
+      "en": "Eighth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Eighth rib.l"
+     },
+     "polys": 8257
+    },
+    {
+     "id": "TA2:1113*9:skeletal:ninth_rib_l",
+     "ta2_id": "1113*9",
+     "names": {
+      "en": "Ninth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Ninth rib.l"
+     },
+     "polys": 7743
+    },
+    {
+     "id": "TA2:1113*10:skeletal:tenth_rib_l",
+     "ta2_id": "1113*10",
+     "names": {
+      "en": "Tenth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Tenth rib.l"
+     },
+     "polys": 7002
+    },
+    {
+     "id": "TA2:1140*1:skeletal:costal_cartilage_of_first_rib_l",
+     "ta2_id": "1140*1",
+     "names": {
+      "en": "Costal cartilage of first rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of first rib.l"
+     },
+     "polys": 1386
+    },
+    {
+     "id": "TA2:1140*2:skeletal:costal_cartilage_of_second_rib_l",
+     "ta2_id": "1140*2",
+     "names": {
+      "en": "Costal cartilage of second rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of second rib.l"
+     },
+     "polys": 1704
+    },
+    {
+     "id": "TA2:1140*3:skeletal:costal_cartilage_of_third_rib_l",
+     "ta2_id": "1140*3",
+     "names": {
+      "en": "Costal cartilage of third rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of third rib.l"
+     },
+     "polys": 1800
+    },
+    {
+     "id": "TA2:1140*4:skeletal:costal_cartilage_of_fourth_rib_l",
+     "ta2_id": "1140*4",
+     "names": {
+      "en": "Costal cartilage of fourth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of fourth rib.l"
+     },
+     "polys": 2236
+    },
+    {
+     "id": "TA2:1140*5:skeletal:costal_cartilage_of_fifth_rib_l",
+     "ta2_id": "1140*5",
+     "names": {
+      "en": "Costal cartilage of fifth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of fifth rib.l"
+     },
+     "polys": 3246
+    },
+    {
+     "id": "TA2:1140*6:skeletal:costal_cartilage_of_sixth_rib_l",
+     "ta2_id": "1140*6",
+     "names": {
+      "en": "Costal cartilage of sixth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of sixth rib.l"
+     },
+     "polys": 4060
+    },
+    {
+     "id": "TA2:1140*7:skeletal:costal_cartilage_of_seventh_rib_l",
+     "ta2_id": "1140*7",
+     "names": {
+      "en": "Costal cartilage of seventh rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of seventh rib.l"
+     },
+     "polys": 6882
+    },
+    {
+     "id": "TA2:1140*8:skeletal:costal_cartilage_of_eighth_rib_l",
+     "ta2_id": "1140*8",
+     "names": {
+      "en": "Costal cartilage of eighth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of eighth rib.l"
+     },
+     "polys": 1312
+    },
+    {
+     "id": "TA2:1140*10:skeletal:costal_cartilage_of_tenth_rib_l",
+     "ta2_id": "1140*10",
+     "names": {
+      "en": "Costal cartilage of tenth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of tenth rib.l"
+     },
+     "polys": 762
+    },
+    {
+     "id": "TA2:1140*9:skeletal:costal_cartilage_of_ninth_rib_l",
+     "ta2_id": "1140*9",
+     "names": {
+      "en": "Costal cartilage of ninth rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Costal cartilage of ninth rib.l"
+     },
+     "polys": 982
+    },
+    {
+     "id": "TA2:1168:skeletal:clavicle_r",
+     "ta2_id": "1168",
+     "names": {
+      "en": "Clavicle"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Clavicle.r"
+     },
+     "polys": 1548
+    },
+    {
+     "id": "TA2:1180:skeletal:humerus_r",
+     "ta2_id": "1180",
+     "names": {
+      "en": "Humerus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Humerus.r"
+     },
+     "polys": 4280
+    },
+    {
+     "id": "TA2:1390:skeletal:patella_r",
+     "ta2_id": "1390",
+     "names": {
+      "en": "Patella"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Patella.r"
+     },
+     "polys": 274
+    },
+    {
+     "id": "TA2:1448:skeletal:talus_r",
+     "ta2_id": "1448",
+     "names": {
+      "en": "Talus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Talus.r"
+     },
+     "polys": 1325
+    },
+    {
+     "id": "TA2:1468:skeletal:calcaneus_r",
+     "ta2_id": "1468",
+     "names": {
+      "en": "Calcaneus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Calcaneus.r"
+     },
+     "polys": 1432
+    },
+    {
+     "id": "TA2:1484:skeletal:navicular_bone_r",
+     "ta2_id": "1484",
+     "names": {
+      "en": "Navicular bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Navicular bone.r"
+     },
+     "polys": 731
+    },
+    {
+     "id": "TA2:1487:skeletal:intermediate_cuneiform_bone_r",
+     "ta2_id": "1487",
+     "names": {
+      "en": "Intermediate cuneiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intermediate cuneiform bone.r"
+     },
+     "polys": 444
+    },
+    {
+     "id": "TA2:1488:skeletal:lateral_cuneiform_bone_r",
+     "ta2_id": "1488",
+     "names": {
+      "en": "Lateral cuneiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lateral cuneiform bone.r"
+     },
+     "polys": 632
+    },
+    {
+     "id": "TA2:1486:skeletal:medial_cuneiform_bone_r",
+     "ta2_id": "1486",
+     "names": {
+      "en": "Medial cuneiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Medial cuneiform bone.r"
+     },
+     "polys": 968
+    },
+    {
+     "id": "TA2:1500:skeletal:first_metatarsal_bone_r",
+     "ta2_id": "1500",
+     "names": {
+      "en": "First metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "First metatarsal bone.r"
+     },
+     "polys": 1087
+    },
+    {
+     "id": "TA2:1502:skeletal:fifth_metatarsal_bone_r",
+     "ta2_id": "1502",
+     "names": {
+      "en": "Fifth metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fifth metatarsal bone.r"
+     },
+     "polys": 894
+    },
+    {
+     "id": "TA2:1496*2:skeletal:second_metatarsal_bone_r",
+     "ta2_id": "1496*2",
+     "names": {
+      "en": "Second metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Second metatarsal bone.r"
+     },
+     "polys": 690
+    },
+    {
+     "id": "TA2:1496*3:skeletal:third_metatarsal_bone_r",
+     "ta2_id": "1496*3",
+     "names": {
+      "en": "Third metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Third metatarsal bone.r"
+     },
+     "polys": 804
+    },
+    {
+     "id": "TA2:1496*4:skeletal:fourth_metatarsal_bone_r",
+     "ta2_id": "1496*4",
+     "names": {
+      "en": "Fourth metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fourth metatarsal bone.r"
+     },
+     "polys": 732
+    },
+    {
+     "id": "TA2:1512*5:skeletal:distal_phalanx_of_fifth_finger_of_foot_r",
+     "ta2_id": "1512*5",
+     "names": {
+      "en": "Distal phalanx of fifth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fifth finger of foot.r"
+     },
+     "polys": 222
+    },
+    {
+     "id": "TA2:1512*1:skeletal:distal_phalanx_of_first_finger_of_foot_r",
+     "ta2_id": "1512*1",
+     "names": {
+      "en": "Distal phalanx of first finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of first finger of foot.r"
+     },
+     "polys": 466
+    },
+    {
+     "id": "TA2:1512*4:skeletal:distal_phalanx_of_fourth_finger_of_foot_r",
+     "ta2_id": "1512*4",
+     "names": {
+      "en": "Distal phalanx of fourth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fourth finger of foot.r"
+     },
+     "polys": 278
+    },
+    {
+     "id": "TA2:1512*2:skeletal:distal_phalanx_of_second_finger_of_foot_r",
+     "ta2_id": "1512*2",
+     "names": {
+      "en": "Distal phalanx of second finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of second finger of foot.r"
+     },
+     "polys": 236
+    },
+    {
+     "id": "TA2:1512*3:skeletal:distal_phalanx_of_third_finger_of_foot_r",
+     "ta2_id": "1512*3",
+     "names": {
+      "en": "Distal phalanx of third finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of third finger of foot.r"
+     },
+     "polys": 318
+    },
+    {
+     "id": "TA2:1511*2:skeletal:middle_phalanx_of_second_finger_of_foot_r",
+     "ta2_id": "1511*2",
+     "names": {
+      "en": "Middle phalanx of second finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of second finger of foot.r"
+     },
+     "polys": 326
+    },
+    {
+     "id": "TA2:1511*3:skeletal:middle_phalanx_of_third_finger_of_foot_r",
+     "ta2_id": "1511*3",
+     "names": {
+      "en": "Middle phalanx of third finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of third finger of foot.r"
+     },
+     "polys": 359
+    },
+    {
+     "id": "TA2:1511*4:skeletal:middle_phalanx_of_fourth_finger_of_foot_r",
+     "ta2_id": "1511*4",
+     "names": {
+      "en": "Middle phalanx of fourth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fourth finger of foot.r"
+     },
+     "polys": 404
+    },
+    {
+     "id": "TA2:1511*5:skeletal:middle_phalanx_of_fifth_finger_of_foot_r",
+     "ta2_id": "1511*5",
+     "names": {
+      "en": "Middle phalanx of fifth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fifth finger of foot.r"
+     },
+     "polys": 216
+    },
+    {
+     "id": "TA2:1510*1:skeletal:proximal_phalanx_of_first_finger_of_foot_r",
+     "ta2_id": "1510*1",
+     "names": {
+      "en": "Proximal phalanx of first finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of first finger of foot.r"
+     },
+     "polys": 517
+    },
+    {
+     "id": "TA2:1510*2:skeletal:proximal_phalanx_of_second_finger_of_foot_r",
+     "ta2_id": "1510*2",
+     "names": {
+      "en": "Proximal phalanx of second finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of second finger of foot.r"
+     },
+     "polys": 424
+    },
+    {
+     "id": "TA2:1510*3:skeletal:proximal_phalanx_of_third_finger_of_foot_r",
+     "ta2_id": "1510*3",
+     "names": {
+      "en": "Proximal phalanx of third finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of third finger of foot.r"
+     },
+     "polys": 458
+    },
+    {
+     "id": "TA2:1510*4:skeletal:proximal_phalanx_of_fourth_finger_of_foot_r",
+     "ta2_id": "1510*4",
+     "names": {
+      "en": "Proximal phalanx of fourth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fourth finger of foot.r"
+     },
+     "polys": 460
+    },
+    {
+     "id": "TA2:1510*5:skeletal:proximal_phalanx_of_fifth_finger_of_foot_r",
+     "ta2_id": "1510*5",
+     "names": {
+      "en": "Proximal phalanx of fifth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fifth finger of foot.r"
+     },
+     "polys": 516
+    },
+    {
+     "id": "TA2:1489:skeletal:cuboid_bone_r",
+     "ta2_id": "1489",
+     "names": {
+      "en": "Cuboid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Cuboid bone.r"
+     },
+     "polys": 994
+    },
+    {
+     "id": "TA2:1514:skeletal:sesamoid_bones_of_foot_r",
+     "ta2_id": "1514",
+     "names": {
+      "en": "Sesamoid bones of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sesamoid bones of foot.r"
+     },
+     "polys": 290
+    },
+    {
+     "id": "TA2:1279*1:skeletal:distal_phalanx_of_first_finger_of_hand_r",
+     "ta2_id": "1279*1",
+     "names": {
+      "en": "Distal phalanx of first finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of first finger of hand.r"
+     },
+     "polys": 222
+    },
+    {
+     "id": "TA2:1279*2:skeletal:distal_phalanx_of_second_finger_of_hand_r",
+     "ta2_id": "1279*2",
+     "names": {
+      "en": "Distal phalanx of second finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of second finger of hand.r"
+     },
+     "polys": 250
+    },
+    {
+     "id": "TA2:1279*3:skeletal:distal_phalanx_of_third_finger_of_hand_r",
+     "ta2_id": "1279*3",
+     "names": {
+      "en": "Distal phalanx of third finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of third finger of hand.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:1279*4:skeletal:distal_phalanx_of_fourth_finger_of_hand_r",
+     "ta2_id": "1279*4",
+     "names": {
+      "en": "Distal phalanx of fourth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fourth finger of hand.r"
+     },
+     "polys": 134
+    },
+    {
+     "id": "TA2:1279*5:skeletal:distal_phalanx_of_fifth_finger_of_hand_r",
+     "ta2_id": "1279*5",
+     "names": {
+      "en": "Distal phalanx of fifth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fifth finger of hand.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:1278*2:skeletal:middle_phalanx_of_second_finger_of_hand_r",
+     "ta2_id": "1278*2",
+     "names": {
+      "en": "Middle phalanx of second finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of second finger of hand.r"
+     },
+     "polys": 314
+    },
+    {
+     "id": "TA2:1278*3:skeletal:middle_phalanx_of_third_finger_of_hand_r",
+     "ta2_id": "1278*3",
+     "names": {
+      "en": "Middle phalanx of third finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of third finger of hand.r"
+     },
+     "polys": 360
+    },
+    {
+     "id": "TA2:1278*4:skeletal:middle_phalanx_of_fourth_finger_of_hand_r",
+     "ta2_id": "1278*4",
+     "names": {
+      "en": "Middle phalanx of fourth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fourth finger of hand.r"
+     },
+     "polys": 446
+    },
+    {
+     "id": "TA2:1278*5:skeletal:middle_phalanx_of_fifth_finger_of_hand_r",
+     "ta2_id": "1278*5",
+     "names": {
+      "en": "Middle phalanx of fifth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fifth finger of hand.r"
+     },
+     "polys": 292
+    },
+    {
+     "id": "TA2:1277*1:skeletal:proximal_phalanx_of_first_finger_of_hand_r",
+     "ta2_id": "1277*1",
+     "names": {
+      "en": "Proximal phalanx of first finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of first finger of hand.r"
+     },
+     "polys": 328
+    },
+    {
+     "id": "TA2:1277*2:skeletal:proximal_phalanx_of_second_finger_of_hand_r",
+     "ta2_id": "1277*2",
+     "names": {
+      "en": "Proximal phalanx of second finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of second finger of hand.r"
+     },
+     "polys": 414
+    },
+    {
+     "id": "TA2:1277*3:skeletal:proximal_phalanx_of_third_finger_of_hand_r",
+     "ta2_id": "1277*3",
+     "names": {
+      "en": "Proximal phalanx of third finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of third finger of hand.r"
+     },
+     "polys": 439
+    },
+    {
+     "id": "TA2:1277*4:skeletal:proximal_phalanx_of_fourth_finger_of_hand_r",
+     "ta2_id": "1277*4",
+     "names": {
+      "en": "Proximal phalanx of fourth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fourth finger of hand.r"
+     },
+     "polys": 368
+    },
+    {
+     "id": "TA2:1277*5:skeletal:proximal_phalanx_of_fifth_finger_of_hand_r",
+     "ta2_id": "1277*5",
+     "names": {
+      "en": "Proximal phalanx of fifth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fifth finger of hand.r"
+     },
+     "polys": 560
+    },
+    {
+     "id": "TA2:1265*1:skeletal:first_metacarpal_bone_r",
+     "ta2_id": "1265*1",
+     "names": {
+      "en": "First metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "First metacarpal bone.r"
+     },
+     "polys": 682
+    },
+    {
+     "id": "TA2:1265*2:skeletal:second_metacarpal_bone_r",
+     "ta2_id": "1265*2",
+     "names": {
+      "en": "Second metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Second metacarpal bone.r"
+     },
+     "polys": 764
+    },
+    {
+     "id": "TA2:1269:skeletal:third_metacarpal_bone_r",
+     "ta2_id": "1269",
+     "names": {
+      "en": "Third metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Third metacarpal bone.r"
+     },
+     "polys": 708
+    },
+    {
+     "id": "TA2:1265*4:skeletal:fourth_metacarpal_bone_r",
+     "ta2_id": "1265*4",
+     "names": {
+      "en": "Fourth metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fourth metacarpal bone.r"
+     },
+     "polys": 642
+    },
+    {
+     "id": "TA2:1265*5:skeletal:fifth_metacarpal_bone_r",
+     "ta2_id": "1265*5",
+     "names": {
+      "en": "Fifth metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fifth metacarpal bone.r"
+     },
+     "polys": 503
+    },
+    {
+     "id": "TA2:1258:skeletal:capitate_bone_r",
+     "ta2_id": "1258",
+     "names": {
+      "en": "Capitate bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Capitate bone.r"
+     },
+     "polys": 470
+    },
+    {
+     "id": "TA2:1259:skeletal:hamate_bone_r",
+     "ta2_id": "1259",
+     "names": {
+      "en": "Hamate bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Hamate bone.r"
+     },
+     "polys": 536
+    },
+    {
+     "id": "TA2:1252:skeletal:lunate_bone_r",
+     "ta2_id": "1252",
+     "names": {
+      "en": "Lunate bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lunate bone.r"
+     },
+     "polys": 1044
+    },
+    {
+     "id": "TA2:1254:skeletal:pisiform_bone_r",
+     "ta2_id": "1254",
+     "names": {
+      "en": "Pisiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Pisiform bone.r"
+     },
+     "polys": 834
+    },
+    {
+     "id": "TA2:1250:skeletal:scaphoid_bone_r",
+     "ta2_id": "1250",
+     "names": {
+      "en": "Scaphoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Scaphoid bone.r"
+     },
+     "polys": 390
+    },
+    {
+     "id": "TA2:1255:skeletal:trapezium_bone_r",
+     "ta2_id": "1255",
+     "names": {
+      "en": "Trapezium bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Trapezium bone.r"
+     },
+     "polys": 500
+    },
+    {
+     "id": "TA2:1257:skeletal:trapezoid_bone_r",
+     "ta2_id": "1257",
+     "names": {
+      "en": "Trapezoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Trapezoid bone.r"
+     },
+     "polys": 364
+    },
+    {
+     "id": "TA2:1253:skeletal:triquetrum_bone_r",
+     "ta2_id": "1253",
+     "names": {
+      "en": "Triquetrum bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Triquetrum bone.r"
+     },
+     "polys": 176
+    },
+    {
+     "id": "TA2:1143:skeletal:scapula_r",
+     "ta2_id": "1143",
+     "names": {
+      "en": "Scapula"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Scapula.r"
+     },
+     "polys": 25255
+    },
+    {
+     "id": "TA2:1210:skeletal:radius_r",
+     "ta2_id": "1210",
+     "names": {
+      "en": "Radius"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Radius.r"
+     },
+     "polys": 719
+    },
+    {
+     "id": "TA2:1230:skeletal:ulna_r",
+     "ta2_id": "1230",
+     "names": {
+      "en": "Ulna"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Ulna.r"
+     },
+     "polys": 875
+    },
+    {
+     "id": "TA2:1360:skeletal:femur_r",
+     "ta2_id": "1360",
+     "names": {
+      "en": "Femur"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Femur.r"
+     },
+     "polys": 3786
+    },
+    {
+     "id": "TA2:1307:skeletal:hip_bone_r",
+     "ta2_id": "1307",
+     "names": {
+      "en": "Hip bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Hip bone.r"
+     },
+     "polys": 3608
+    },
+    {
+     "id": "TA2:1397:skeletal:tibia_r",
+     "ta2_id": "1397",
+     "names": {
+      "en": "Tibia"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Tibia.r"
+     },
+     "polys": 1613
+    },
+    {
+     "id": "TA2:1427:skeletal:fibula_r",
+     "ta2_id": "1427",
+     "names": {
+      "en": "Fibula"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fibula.r"
+     },
+     "polys": 1264
+    },
+    {
+     "id": "TA2:1168:skeletal:clavicle_l",
+     "ta2_id": "1168",
+     "names": {
+      "en": "Clavicle"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Clavicle.l"
+     },
+     "polys": 1548
+    },
+    {
+     "id": "TA2:1180:skeletal:humerus_l",
+     "ta2_id": "1180",
+     "names": {
+      "en": "Humerus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Humerus.l"
+     },
+     "polys": 4280
+    },
+    {
+     "id": "TA2:1390:skeletal:patella_l",
+     "ta2_id": "1390",
+     "names": {
+      "en": "Patella"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Patella.l"
+     },
+     "polys": 274
+    },
+    {
+     "id": "TA2:1448:skeletal:talus_l",
+     "ta2_id": "1448",
+     "names": {
+      "en": "Talus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Talus.l"
+     },
+     "polys": 1325
+    },
+    {
+     "id": "TA2:1468:skeletal:calcaneus_l",
+     "ta2_id": "1468",
+     "names": {
+      "en": "Calcaneus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Calcaneus.l"
+     },
+     "polys": 1432
+    },
+    {
+     "id": "TA2:1484:skeletal:navicular_bone_l",
+     "ta2_id": "1484",
+     "names": {
+      "en": "Navicular bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Navicular bone.l"
+     },
+     "polys": 731
+    },
+    {
+     "id": "TA2:1489:skeletal:cuboid_bone_l",
+     "ta2_id": "1489",
+     "names": {
+      "en": "Cuboid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Cuboid bone.l"
+     },
+     "polys": 994
+    },
+    {
+     "id": "TA2:1487:skeletal:intermediate_cuneiform_bone_l",
+     "ta2_id": "1487",
+     "names": {
+      "en": "Intermediate cuneiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intermediate cuneiform bone.l"
+     },
+     "polys": 444
+    },
+    {
+     "id": "TA2:1488:skeletal:lateral_cuneiform_bone_l",
+     "ta2_id": "1488",
+     "names": {
+      "en": "Lateral cuneiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lateral cuneiform bone.l"
+     },
+     "polys": 632
+    },
+    {
+     "id": "TA2:1486:skeletal:medial_cuneiform_bone_l",
+     "ta2_id": "1486",
+     "names": {
+      "en": "Medial cuneiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Medial cuneiform bone.l"
+     },
+     "polys": 968
+    },
+    {
+     "id": "TA2:1500:skeletal:first_metatarsal_bone_l",
+     "ta2_id": "1500",
+     "names": {
+      "en": "First metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "First metatarsal bone.l"
+     },
+     "polys": 1087
+    },
+    {
+     "id": "TA2:1502:skeletal:fifth_metatarsal_bone_l",
+     "ta2_id": "1502",
+     "names": {
+      "en": "Fifth metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fifth metatarsal bone.l"
+     },
+     "polys": 894
+    },
+    {
+     "id": "TA2:1496*2:skeletal:second_metatarsal_bone_l",
+     "ta2_id": "1496*2",
+     "names": {
+      "en": "Second metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Second metatarsal bone.l"
+     },
+     "polys": 690
+    },
+    {
+     "id": "TA2:1496*3:skeletal:third_metatarsal_bone_l",
+     "ta2_id": "1496*3",
+     "names": {
+      "en": "Third metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Third metatarsal bone.l"
+     },
+     "polys": 804
+    },
+    {
+     "id": "TA2:1496*4:skeletal:fourth_metatarsal_bone_l",
+     "ta2_id": "1496*4",
+     "names": {
+      "en": "Fourth metatarsal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fourth metatarsal bone.l"
+     },
+     "polys": 732
+    },
+    {
+     "id": "TA2:1512*5:skeletal:distal_phalanx_of_fifth_finger_of_foot_l",
+     "ta2_id": "1512*5",
+     "names": {
+      "en": "Distal phalanx of fifth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fifth finger of foot.l"
+     },
+     "polys": 222
+    },
+    {
+     "id": "TA2:1512*1:skeletal:distal_phalanx_of_first_finger_of_foot_l",
+     "ta2_id": "1512*1",
+     "names": {
+      "en": "Distal phalanx of first finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of first finger of foot.l"
+     },
+     "polys": 466
+    },
+    {
+     "id": "TA2:1512*4:skeletal:distal_phalanx_of_fourth_finger_of_foot_l",
+     "ta2_id": "1512*4",
+     "names": {
+      "en": "Distal phalanx of fourth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fourth finger of foot.l"
+     },
+     "polys": 278
+    },
+    {
+     "id": "TA2:1512*2:skeletal:distal_phalanx_of_second_finger_of_foot_l",
+     "ta2_id": "1512*2",
+     "names": {
+      "en": "Distal phalanx of second finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of second finger of foot.l"
+     },
+     "polys": 236
+    },
+    {
+     "id": "TA2:1512*3:skeletal:distal_phalanx_of_third_finger_of_foot_l",
+     "ta2_id": "1512*3",
+     "names": {
+      "en": "Distal phalanx of third finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of third finger of foot.l"
+     },
+     "polys": 318
+    },
+    {
+     "id": "TA2:1511*2:skeletal:middle_phalanx_of_second_finger_of_foot_l",
+     "ta2_id": "1511*2",
+     "names": {
+      "en": "Middle phalanx of second finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of second finger of foot.l"
+     },
+     "polys": 326
+    },
+    {
+     "id": "TA2:1511*3:skeletal:middle_phalanx_of_third_finger_of_foot_l",
+     "ta2_id": "1511*3",
+     "names": {
+      "en": "Middle phalanx of third finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of third finger of foot.l"
+     },
+     "polys": 359
+    },
+    {
+     "id": "TA2:1511*4:skeletal:middle_phalanx_of_fourth_finger_of_foot_l",
+     "ta2_id": "1511*4",
+     "names": {
+      "en": "Middle phalanx of fourth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fourth finger of foot.l"
+     },
+     "polys": 404
+    },
+    {
+     "id": "TA2:1511*5:skeletal:middle_phalanx_of_fifth_finger_of_foot_l",
+     "ta2_id": "1511*5",
+     "names": {
+      "en": "Middle phalanx of fifth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fifth finger of foot.l"
+     },
+     "polys": 216
+    },
+    {
+     "id": "TA2:1510*1:skeletal:proximal_phalanx_of_first_finger_of_foot_l",
+     "ta2_id": "1510*1",
+     "names": {
+      "en": "Proximal phalanx of first finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of first finger of foot.l"
+     },
+     "polys": 517
+    },
+    {
+     "id": "TA2:1510*2:skeletal:proximal_phalanx_of_second_finger_of_foot_l",
+     "ta2_id": "1510*2",
+     "names": {
+      "en": "Proximal phalanx of second finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of second finger of foot.l"
+     },
+     "polys": 424
+    },
+    {
+     "id": "TA2:1510*3:skeletal:proximal_phalanx_of_third_finger_of_foot_l",
+     "ta2_id": "1510*3",
+     "names": {
+      "en": "Proximal phalanx of third finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of third finger of foot.l"
+     },
+     "polys": 458
+    },
+    {
+     "id": "TA2:1510*4:skeletal:proximal_phalanx_of_fourth_finger_of_foot_l",
+     "ta2_id": "1510*4",
+     "names": {
+      "en": "Proximal phalanx of fourth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fourth finger of foot.l"
+     },
+     "polys": 460
+    },
+    {
+     "id": "TA2:1510*5:skeletal:proximal_phalanx_of_fifth_finger_of_foot_l",
+     "ta2_id": "1510*5",
+     "names": {
+      "en": "Proximal phalanx of fifth finger of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fifth finger of foot.l"
+     },
+     "polys": 516
+    },
+    {
+     "id": "TA2:1514:skeletal:sesamoid_bones_of_foot_l",
+     "ta2_id": "1514",
+     "names": {
+      "en": "Sesamoid bones of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sesamoid bones of foot.l"
+     },
+     "polys": 290
+    },
+    {
+     "id": "TA2:1279*1:skeletal:distal_phalanx_of_first_finger_of_hand_l",
+     "ta2_id": "1279*1",
+     "names": {
+      "en": "Distal phalanx of first finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of first finger of hand.l"
+     },
+     "polys": 222
+    },
+    {
+     "id": "TA2:1279*2:skeletal:distal_phalanx_of_second_finger_of_hand_l",
+     "ta2_id": "1279*2",
+     "names": {
+      "en": "Distal phalanx of second finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of second finger of hand.l"
+     },
+     "polys": 250
+    },
+    {
+     "id": "TA2:1279*3:skeletal:distal_phalanx_of_third_finger_of_hand_l",
+     "ta2_id": "1279*3",
+     "names": {
+      "en": "Distal phalanx of third finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of third finger of hand.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:1279*4:skeletal:distal_phalanx_of_fourth_finger_of_hand_l",
+     "ta2_id": "1279*4",
+     "names": {
+      "en": "Distal phalanx of fourth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fourth finger of hand.l"
+     },
+     "polys": 134
+    },
+    {
+     "id": "TA2:1279*5:skeletal:distal_phalanx_of_fifth_finger_of_hand_l",
+     "ta2_id": "1279*5",
+     "names": {
+      "en": "Distal phalanx of fifth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Distal phalanx of fifth finger of hand.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:1278*2:skeletal:middle_phalanx_of_second_finger_of_hand_l",
+     "ta2_id": "1278*2",
+     "names": {
+      "en": "Middle phalanx of second finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of second finger of hand.l"
+     },
+     "polys": 314
+    },
+    {
+     "id": "TA2:1278*3:skeletal:middle_phalanx_of_third_finger_of_hand_l",
+     "ta2_id": "1278*3",
+     "names": {
+      "en": "Middle phalanx of third finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of third finger of hand.l"
+     },
+     "polys": 360
+    },
+    {
+     "id": "TA2:1278*4:skeletal:middle_phalanx_of_fourth_finger_of_hand_l",
+     "ta2_id": "1278*4",
+     "names": {
+      "en": "Middle phalanx of fourth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fourth finger of hand.l"
+     },
+     "polys": 446
+    },
+    {
+     "id": "TA2:1278*5:skeletal:middle_phalanx_of_fifth_finger_of_hand_l",
+     "ta2_id": "1278*5",
+     "names": {
+      "en": "Middle phalanx of fifth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Middle phalanx of fifth finger of hand.l"
+     },
+     "polys": 292
+    },
+    {
+     "id": "TA2:1277*1:skeletal:proximal_phalanx_of_first_finger_of_hand_l",
+     "ta2_id": "1277*1",
+     "names": {
+      "en": "Proximal phalanx of first finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of first finger of hand.l"
+     },
+     "polys": 328
+    },
+    {
+     "id": "TA2:1277*2:skeletal:proximal_phalanx_of_second_finger_of_hand_l",
+     "ta2_id": "1277*2",
+     "names": {
+      "en": "Proximal phalanx of second finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of second finger of hand.l"
+     },
+     "polys": 414
+    },
+    {
+     "id": "TA2:1277*3:skeletal:proximal_phalanx_of_third_finger_of_hand_l",
+     "ta2_id": "1277*3",
+     "names": {
+      "en": "Proximal phalanx of third finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of third finger of hand.l"
+     },
+     "polys": 439
+    },
+    {
+     "id": "TA2:1277*4:skeletal:proximal_phalanx_of_fourth_finger_of_hand_l",
+     "ta2_id": "1277*4",
+     "names": {
+      "en": "Proximal phalanx of fourth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fourth finger of hand.l"
+     },
+     "polys": 368
+    },
+    {
+     "id": "TA2:1277*5:skeletal:proximal_phalanx_of_fifth_finger_of_hand_l",
+     "ta2_id": "1277*5",
+     "names": {
+      "en": "Proximal phalanx of fifth finger of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Proximal phalanx of fifth finger of hand.l"
+     },
+     "polys": 560
+    },
+    {
+     "id": "TA2:1265*1:skeletal:first_metacarpal_bone_l",
+     "ta2_id": "1265*1",
+     "names": {
+      "en": "First metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "First metacarpal bone.l"
+     },
+     "polys": 682
+    },
+    {
+     "id": "TA2:1265*2:skeletal:second_metacarpal_bone_l",
+     "ta2_id": "1265*2",
+     "names": {
+      "en": "Second metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Second metacarpal bone.l"
+     },
+     "polys": 764
+    },
+    {
+     "id": "TA2:1269:skeletal:third_metacarpal_bone_l",
+     "ta2_id": "1269",
+     "names": {
+      "en": "Third metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Third metacarpal bone.l"
+     },
+     "polys": 708
+    },
+    {
+     "id": "TA2:1265*4:skeletal:fourth_metacarpal_bone_l",
+     "ta2_id": "1265*4",
+     "names": {
+      "en": "Fourth metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fourth metacarpal bone.l"
+     },
+     "polys": 642
+    },
+    {
+     "id": "TA2:1265*5:skeletal:fifth_metacarpal_bone_l",
+     "ta2_id": "1265*5",
+     "names": {
+      "en": "Fifth metacarpal bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fifth metacarpal bone.l"
+     },
+     "polys": 503
+    },
+    {
+     "id": "TA2:1258:skeletal:capitate_bone_l",
+     "ta2_id": "1258",
+     "names": {
+      "en": "Capitate bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Capitate bone.l"
+     },
+     "polys": 470
+    },
+    {
+     "id": "TA2:1259:skeletal:hamate_bone_l",
+     "ta2_id": "1259",
+     "names": {
+      "en": "Hamate bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Hamate bone.l"
+     },
+     "polys": 536
+    },
+    {
+     "id": "TA2:1252:skeletal:lunate_bone_l",
+     "ta2_id": "1252",
+     "names": {
+      "en": "Lunate bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Lunate bone.l"
+     },
+     "polys": 1044
+    },
+    {
+     "id": "TA2:1254:skeletal:pisiform_bone_l",
+     "ta2_id": "1254",
+     "names": {
+      "en": "Pisiform bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Pisiform bone.l"
+     },
+     "polys": 834
+    },
+    {
+     "id": "TA2:1250:skeletal:scaphoid_bone_l",
+     "ta2_id": "1250",
+     "names": {
+      "en": "Scaphoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Scaphoid bone.l"
+     },
+     "polys": 390
+    },
+    {
+     "id": "TA2:1255:skeletal:trapezium_bone_l",
+     "ta2_id": "1255",
+     "names": {
+      "en": "Trapezium bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Trapezium bone.l"
+     },
+     "polys": 500
+    },
+    {
+     "id": "TA2:1257:skeletal:trapezoid_bone_l",
+     "ta2_id": "1257",
+     "names": {
+      "en": "Trapezoid bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Trapezoid bone.l"
+     },
+     "polys": 364
+    },
+    {
+     "id": "TA2:1253:skeletal:triquetrum_bone_l",
+     "ta2_id": "1253",
+     "names": {
+      "en": "Triquetrum bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Triquetrum bone.l"
+     },
+     "polys": 176
+    },
+    {
+     "id": "TA2:1143:skeletal:scapula_l",
+     "ta2_id": "1143",
+     "names": {
+      "en": "Scapula"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Scapula.l"
+     },
+     "polys": 25255
+    },
+    {
+     "id": "TA2:1210:skeletal:radius_l",
+     "ta2_id": "1210",
+     "names": {
+      "en": "Radius"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Radius.l"
+     },
+     "polys": 719
+    },
+    {
+     "id": "TA2:1230:skeletal:ulna_l",
+     "ta2_id": "1230",
+     "names": {
+      "en": "Ulna"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Ulna.l"
+     },
+     "polys": 875
+    },
+    {
+     "id": "TA2:1360:skeletal:femur_l",
+     "ta2_id": "1360",
+     "names": {
+      "en": "Femur"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Femur.l"
+     },
+     "polys": 3786
+    },
+    {
+     "id": "TA2:1307:skeletal:hip_bone_l",
+     "ta2_id": "1307",
+     "names": {
+      "en": "Hip bone"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Hip bone.l"
+     },
+     "polys": 3608
+    },
+    {
+     "id": "TA2:1397:skeletal:tibia_l",
+     "ta2_id": "1397",
+     "names": {
+      "en": "Tibia"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Tibia.l"
+     },
+     "polys": 1613
+    },
+    {
+     "id": "TA2:1427:skeletal:fibula_l",
+     "ta2_id": "1427",
+     "names": {
+      "en": "Fibula"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Fibula.l"
+     },
+     "polys": 1264
+    },
+    {
+     "id": "TA2:1674:skeletal:interspinous_ligaments",
+     "ta2_id": "1674",
+     "names": {
+      "en": "Interspinous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Interspinous ligaments"
+     },
+     "polys": 292
+    },
+    {
+     "id": "TA2:1679:skeletal:anterior_longitudinal_ligament",
+     "ta2_id": "1679",
+     "names": {
+      "en": "Anterior longitudinal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Anterior longitudinal ligament"
+     },
+     "polys": 2464
+    },
+    {
+     "id": "TA2:1680:skeletal:posterior_longitudinal_ligament",
+     "ta2_id": "1680",
+     "names": {
+      "en": "Posterior longitudinal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Posterior longitudinal ligament"
+     },
+     "polys": 3768
+    },
+    {
+     "id": "TA2:1678:skeletal:nuchal_ligament",
+     "ta2_id": "1678",
+     "names": {
+      "en": "Nuchal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nuchal ligament"
+     },
+     "polys": 324
+    },
+    {
+     "id": "TA2:1676:skeletal:intertransverse_ligaments_r",
+     "ta2_id": "1676",
+     "names": {
+      "en": "Intertransverse ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intertransverse ligaments.r"
+     },
+     "polys": 5720
+    },
+    {
+     "id": "TA2:1675:skeletal:ligamenta_flava",
+     "ta2_id": "1675",
+     "names": {
+      "en": "Ligamenta flava"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Ligamenta flava"
+     },
+     "polys": 2364
+    },
+    {
+     "id": "TA2:1676:skeletal:intertransverse_ligaments_l",
+     "ta2_id": "1676",
+     "names": {
+      "en": "Intertransverse ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intertransverse ligaments.l"
+     },
+     "polys": 5720
+    },
+    {
+     "id": "TA2:7188:skeletal:nucleus_pulposus_l5_s1",
+     "ta2_id": "7188",
+     "names": {
+      "en": "Nucleus pulposus L5-S1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus L5-S1"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7187:skeletal:nucleus_pulposus_l4_l5",
+     "ta2_id": "7187",
+     "names": {
+      "en": "Nucleus pulposus L4-L5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus L4-L5"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7186:skeletal:nucleus_pulposus_l3_l4",
+     "ta2_id": "7186",
+     "names": {
+      "en": "Nucleus pulposus L3-L4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus L3-L4"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7185:skeletal:nucleus_pulposus_l2_l3",
+     "ta2_id": "7185",
+     "names": {
+      "en": "Nucleus pulposus L2-L3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus L2-L3"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7184:skeletal:nucleus_pulposus_l1_l2",
+     "ta2_id": "7184",
+     "names": {
+      "en": "Nucleus pulposus L1-L2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus L1-L2"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7200:skeletal:nucleus_pulposus_t12_l1",
+     "ta2_id": "7200",
+     "names": {
+      "en": "Nucleus pulposus T12-L1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T12-L1"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7199:skeletal:nucleus_pulposus_t11_t12",
+     "ta2_id": "7199",
+     "names": {
+      "en": "Nucleus pulposus T11-T12"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T11-T12"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7198:skeletal:nucleus_pulposus_t10_t11",
+     "ta2_id": "7198",
+     "names": {
+      "en": "Nucleus pulposus T10-T11"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T10-T11"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7197:skeletal:nucleus_pulposus_t9_t10",
+     "ta2_id": "7197",
+     "names": {
+      "en": "Nucleus pulposus T9-T10"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T9-T10"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7196:skeletal:nucleus_pulposus_t8_t9",
+     "ta2_id": "7196",
+     "names": {
+      "en": "Nucleus pulposus T8-T9"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T8-T9"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7195:skeletal:nucleus_pulposus_t7_t8",
+     "ta2_id": "7195",
+     "names": {
+      "en": "Nucleus pulposus T7-T8"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T7-T8"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7194:skeletal:nucleus_pulposus_t6_t7",
+     "ta2_id": "7194",
+     "names": {
+      "en": "Nucleus pulposus T6-T7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T6-T7"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7193:skeletal:nucleus_pulposus_t5_t6",
+     "ta2_id": "7193",
+     "names": {
+      "en": "Nucleus pulposus T5-T6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T5-T6"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7192:skeletal:nucleus_pulposus_t4_t5",
+     "ta2_id": "7192",
+     "names": {
+      "en": "Nucleus pulposus T4-T5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T4-T5"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7191:skeletal:nucleus_pulposus_t3_t4",
+     "ta2_id": "7191",
+     "names": {
+      "en": "Nucleus pulposus T3-T4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T3-T4"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7190:skeletal:nucleus_pulposus_t2_t3",
+     "ta2_id": "7190",
+     "names": {
+      "en": "Nucleus pulposus T2-T3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T2-T3"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7189:skeletal:nucleus_pulposus_t1_t2",
+     "ta2_id": "7189",
+     "names": {
+      "en": "Nucleus pulposus T1-T2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus T1-T2"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7183:skeletal:nucleus_pulposus_c7_t1",
+     "ta2_id": "7183",
+     "names": {
+      "en": "Nucleus pulposus C7-T1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus C7-T1"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7182:skeletal:nucleus_pulposus_c6_c7",
+     "ta2_id": "7182",
+     "names": {
+      "en": "Nucleus pulposus C6-C7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus C6-C7"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7181:skeletal:nucleus_pulposus_c5_c6",
+     "ta2_id": "7181",
+     "names": {
+      "en": "Nucleus pulposus C5-C6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus C5-C6"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7180:skeletal:nucleus_pulposus_c4_c5",
+     "ta2_id": "7180",
+     "names": {
+      "en": "Nucleus pulposus C4-C5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus C4-C5"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7179:skeletal:nucleus_pulposus_c3_c4",
+     "ta2_id": "7179",
+     "names": {
+      "en": "Nucleus pulposus C3-C4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus C3-C4"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7178:skeletal:nucleus_pulposus_c2_c3",
+     "ta2_id": "7178",
+     "names": {
+      "en": "Nucleus pulposus C2-C3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Nucleus pulposus C2-C3"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:1723:skeletal:intra_articular_ligament_of_head_of_rib_r",
+     "ta2_id": "1723",
+     "names": {
+      "en": "Intra-articular ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intra-articular ligament of head of rib.r"
+     },
+     "polys": 54
+    },
+    {
+     "id": "TA2:1723:skeletal:intra_articular_ligament_of_head_of_rib",
+     "ta2_id": "1723",
+     "names": {
+      "en": "Intra-articular ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intra-articular ligament of head of rib"
+     },
+     "polys": 54
+    },
+    {
+     "id": "TA2:1722:skeletal:radiate_ligament_of_head_of_rib_l",
+     "ta2_id": "1722",
+     "names": {
+      "en": "Radiate ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Radiate ligament of head of rib.l"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:1722:skeletal:radiate_ligament_of_head_of_rib_r",
+     "ta2_id": "1722",
+     "names": {
+      "en": "Radiate ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Radiate ligament of head of rib.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:7154:skeletal:intervertebral_disc_c2_c3",
+     "ta2_id": "7154",
+     "names": {
+      "en": "Intervertebral disc C2-C3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc C2-C3"
+     },
+     "polys": 810
+    },
+    {
+     "id": "TA2:7155:skeletal:intervertebral_disc_c3_c4",
+     "ta2_id": "7155",
+     "names": {
+      "en": "Intervertebral disc C3-C4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc C3-C4"
+     },
+     "polys": 654
+    },
+    {
+     "id": "TA2:7156:skeletal:intervertebral_disc_c4_c5",
+     "ta2_id": "7156",
+     "names": {
+      "en": "Intervertebral disc C4-C5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc C4-C5"
+     },
+     "polys": 822
+    },
+    {
+     "id": "TA2:7157:skeletal:intervertebral_disc_c5_c6",
+     "ta2_id": "7157",
+     "names": {
+      "en": "Intervertebral disc C5-C6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc C5-C6"
+     },
+     "polys": 930
+    },
+    {
+     "id": "TA2:7158:skeletal:intervertebral_disc_c6_c7",
+     "ta2_id": "7158",
+     "names": {
+      "en": "Intervertebral disc C6-C7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc C6-C7"
+     },
+     "polys": 800
+    },
+    {
+     "id": "TA2:7159:skeletal:intervertebral_disc_c7_t1",
+     "ta2_id": "7159",
+     "names": {
+      "en": "Intervertebral disc C7-T1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc C7-T1"
+     },
+     "polys": 1140
+    },
+    {
+     "id": "TA2:7160:skeletal:intervertebral_disc_l1_l2",
+     "ta2_id": "7160",
+     "names": {
+      "en": "Intervertebral disc L1-L2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc L1-L2"
+     },
+     "polys": 3058
+    },
+    {
+     "id": "TA2:7161:skeletal:intervertebral_disc_l2_l3",
+     "ta2_id": "7161",
+     "names": {
+      "en": "Intervertebral disc L2-L3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc L2-L3"
+     },
+     "polys": 3302
+    },
+    {
+     "id": "TA2:7162:skeletal:intervertebral_disc_l3_l4",
+     "ta2_id": "7162",
+     "names": {
+      "en": "Intervertebral disc L3-L4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc L3-L4"
+     },
+     "polys": 3040
+    },
+    {
+     "id": "TA2:7163:skeletal:intervertebral_disc_l4_l5",
+     "ta2_id": "7163",
+     "names": {
+      "en": "Intervertebral disc L4-L5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc L4-L5"
+     },
+     "polys": 3216
+    },
+    {
+     "id": "TA2:7164:skeletal:intervertebral_disc_l5_s1",
+     "ta2_id": "7164",
+     "names": {
+      "en": "Intervertebral disc L5-S1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc L5-S1"
+     },
+     "polys": 3498
+    },
+    {
+     "id": "TA2:7165:skeletal:intervertebral_disc_t1_t2",
+     "ta2_id": "7165",
+     "names": {
+      "en": "Intervertebral disc T1-T2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T1-T2"
+     },
+     "polys": 1208
+    },
+    {
+     "id": "TA2:7174:skeletal:intervertebral_disc_t10_t11",
+     "ta2_id": "7174",
+     "names": {
+      "en": "Intervertebral disc T10-T11"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T10-T11"
+     },
+     "polys": 2770
+    },
+    {
+     "id": "TA2:7175:skeletal:intervertebral_disc_t11_t12",
+     "ta2_id": "7175",
+     "names": {
+      "en": "Intervertebral disc T11-T12"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T11-T12"
+     },
+     "polys": 3300
+    },
+    {
+     "id": "TA2:7176:skeletal:intervertebral_disc_t12_l1",
+     "ta2_id": "7176",
+     "names": {
+      "en": "Intervertebral disc T12-L1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T12-L1"
+     },
+     "polys": 3246
+    },
+    {
+     "id": "TA2:7166:skeletal:intervertebral_disc_t2_t3",
+     "ta2_id": "7166",
+     "names": {
+      "en": "Intervertebral disc T2-T3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T2-T3"
+     },
+     "polys": 1272
+    },
+    {
+     "id": "TA2:7167:skeletal:intervertebral_disc_t3_t4",
+     "ta2_id": "7167",
+     "names": {
+      "en": "Intervertebral disc T3-T4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T3-T4"
+     },
+     "polys": 1310
+    },
+    {
+     "id": "TA2:7168:skeletal:intervertebral_disc_t4_t5",
+     "ta2_id": "7168",
+     "names": {
+      "en": "Intervertebral disc T4-T5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T4-T5"
+     },
+     "polys": 1600
+    },
+    {
+     "id": "TA2:7169:skeletal:intervertebral_disc_t5_t6",
+     "ta2_id": "7169",
+     "names": {
+      "en": "Intervertebral disc T5-T6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T5-T6"
+     },
+     "polys": 1684
+    },
+    {
+     "id": "TA2:7170:skeletal:intervertebral_disc_t6_t7",
+     "ta2_id": "7170",
+     "names": {
+      "en": "Intervertebral disc T6-T7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T6-T7"
+     },
+     "polys": 2326
+    },
+    {
+     "id": "TA2:7171:skeletal:intervertebral_disc_t7_t8",
+     "ta2_id": "7171",
+     "names": {
+      "en": "Intervertebral disc T7-T8"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T7-T8"
+     },
+     "polys": 2572
+    },
+    {
+     "id": "TA2:7172:skeletal:intervertebral_disc_t8_t9",
+     "ta2_id": "7172",
+     "names": {
+      "en": "Intervertebral disc T8-T9"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T8-T9"
+     },
+     "polys": 2786
+    },
+    {
+     "id": "TA2:7173:skeletal:intervertebral_disc_t9_t10",
+     "ta2_id": "7173",
+     "names": {
+      "en": "Intervertebral disc T9-T10"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Intervertebral disc T9-T10"
+     },
+     "polys": 1186
+    },
+    {
+     "id": "TA2:7177:skeletal:sacrococcygeal_symphysis",
+     "ta2_id": "7177",
+     "names": {
+      "en": "Sacrococcygeal symphysis"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "skeletal.glb",
+      "node": "Sacrococcygeal symphysis"
+     },
+     "polys": 178
+    }
+   ]
+  }
+ ]
+}

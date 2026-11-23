@@ -1,0 +1,2549 @@
+{
+ "manifest_version": 1,
+ "source": "z-anatomy",
+ "systems": [
+  {
+   "name": "visceral",
+   "label": {
+    "en": "visceral"
+   },
+   "structures": [
+    {
+     "id": "TA2:2781:visceral:uvula_of_palate",
+     "ta2_id": "2781",
+     "names": {
+      "en": "Uvula of palate"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Uvula of palate"
+     },
+     "polys": 1502
+    },
+    {
+     "id": "TA2:2790:visceral:gingiva",
+     "ta2_id": "2790",
+     "names": {
+      "en": "Gingiva"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Gingiva"
+     },
+     "polys": 12298
+    },
+    {
+     "id": "TA2:2800:visceral:parotid_gland_r",
+     "ta2_id": "2800",
+     "names": {
+      "en": "Parotid gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Parotid gland.r"
+     },
+     "polys": 852
+    },
+    {
+     "id": "TA2:2806:visceral:accessory_parotid_gland_r",
+     "ta2_id": "2806",
+     "names": {
+      "en": "(Accessory parotid gland)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Accessory parotid gland).r"
+     },
+     "polys": 106
+    },
+    {
+     "id": "TA2:2800:visceral:parotid_gland_l",
+     "ta2_id": "2800",
+     "names": {
+      "en": "Parotid gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Parotid gland.l"
+     },
+     "polys": 852
+    },
+    {
+     "id": "TA2:2806:visceral:accessory_parotid_gland_l",
+     "ta2_id": "2806",
+     "names": {
+      "en": "(Accessory parotid gland)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Accessory parotid gland).l"
+     },
+     "polys": 106
+    },
+    {
+     "id": "TA2:2805:visceral:parotid_duct_l",
+     "ta2_id": "2805",
+     "names": {
+      "en": "Parotid duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Parotid duct.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:2805:visceral:parotid_duct_r",
+     "ta2_id": "2805",
+     "names": {
+      "en": "Parotid duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Parotid duct.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:2807:visceral:sublingual_gland_l",
+     "ta2_id": "2807",
+     "names": {
+      "en": "Sublingual gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Sublingual gland.l"
+     },
+     "polys": 324
+    },
+    {
+     "id": "TA2:2807:visceral:sublingual_gland_r",
+     "ta2_id": "2807",
+     "names": {
+      "en": "Sublingual gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Sublingual gland.r"
+     },
+     "polys": 324
+    },
+    {
+     "id": "TA2:2810:visceral:submandibular_gland_l",
+     "ta2_id": "2810",
+     "names": {
+      "en": "Submandibular gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submandibular gland.l"
+     },
+     "polys": 392
+    },
+    {
+     "id": "TA2:2810:visceral:submandibular_gland_r",
+     "ta2_id": "2810",
+     "names": {
+      "en": "Submandibular gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submandibular gland.r"
+     },
+     "polys": 392
+    },
+    {
+     "id": "TA2:2811:visceral:submandibular_duct_l",
+     "ta2_id": "2811",
+     "names": {
+      "en": "Submandibular duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submandibular duct.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:2811:visceral:submandibular_duct_r",
+     "ta2_id": "2811",
+     "names": {
+      "en": "Submandibular duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submandibular duct.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:2820:visceral:tongue",
+     "ta2_id": "2820",
+     "names": {
+      "en": "Tongue"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Tongue"
+     },
+     "polys": 602
+    },
+    {
+     "id": "TA2:2855:visceral:pharynx_j",
+     "ta2_id": "2855",
+     "names": {
+      "en": "Pharynx"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Pharynx.j"
+     },
+     "polys": 1
+    },
+    {
+     "id": "TA2:2887:visceral:oesophagus",
+     "ta2_id": "2887",
+     "names": {
+      "en": "Oesophagus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Oesophagus"
+     },
+     "polys": 8160
+    },
+    {
+     "id": "TA2:2901:visceral:stomach",
+     "ta2_id": "2901",
+     "names": {
+      "en": "Stomach"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Stomach"
+     },
+     "polys": 4734
+    },
+    {
+     "id": "TA2:2944:visceral:duodenum",
+     "ta2_id": "2944",
+     "names": {
+      "en": "Duodenum"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Duodenum"
+     },
+     "polys": 1737
+    },
+    {
+     "id": "TA2:2958:visceral:jejunum",
+     "ta2_id": "2958",
+     "names": {
+      "en": "Jejunum"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Jejunum"
+     },
+     "polys": 13824
+    },
+    {
+     "id": "TA2:2976:visceral:vermiform_appendix",
+     "ta2_id": "2976",
+     "names": {
+      "en": "Vermiform appendix"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Vermiform appendix"
+     },
+     "polys": 442
+    },
+    {
+     "id": "TA2:2996:visceral:free_taenia",
+     "ta2_id": "2996",
+     "names": {
+      "en": "Free taenia"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Free taenia"
+     },
+     "polys": 3356
+    },
+    {
+     "id": "TA2:2994:visceral:mesocolic_taenia",
+     "ta2_id": "2994",
+     "names": {
+      "en": "Mesocolic taenia"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Mesocolic taenia"
+     },
+     "polys": 3396
+    },
+    {
+     "id": "TA2:2995:visceral:omental_taenia",
+     "ta2_id": "2995",
+     "names": {
+      "en": "Omental taenia"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Omental taenia"
+     },
+     "polys": 3116
+    },
+    {
+     "id": "TA2:2987:visceral:sigmoid_colon",
+     "ta2_id": "2987",
+     "names": {
+      "en": "Sigmoid colon"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Sigmoid colon"
+     },
+     "polys": 3377
+    },
+    {
+     "id": "TA2:2982:visceral:ascending_colon",
+     "ta2_id": "2982",
+     "names": {
+      "en": "Ascending colon"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ascending colon"
+     },
+     "polys": 8756
+    },
+    {
+     "id": "TA2:2986:visceral:descending_colon",
+     "ta2_id": "2986",
+     "names": {
+      "en": "Descending colon"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Descending colon"
+     },
+     "polys": 12372
+    },
+    {
+     "id": "TA2:2984:visceral:transverse_colon",
+     "ta2_id": "2984",
+     "names": {
+      "en": "Transverse colon"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Transverse colon"
+     },
+     "polys": 8308
+    },
+    {
+     "id": "TA2:3068:visceral:left_posterior_lateral_segment_of_liver_ii",
+     "ta2_id": "3068",
+     "names": {
+      "en": "Left posterior lateral segment of liver (II)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left posterior lateral segment of liver (II)"
+     },
+     "polys": 1658
+    },
+    {
+     "id": "TA2:3069:visceral:left_anterior_lateral_segment_of_liver_iii",
+     "ta2_id": "3069",
+     "names": {
+      "en": "Left anterior lateral segment of liver (III)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left anterior lateral segment of liver (III)"
+     },
+     "polys": 1722
+    },
+    {
+     "id": "TA2:3071:visceral:left_medial_segment_of_liver_iv",
+     "ta2_id": "3071",
+     "names": {
+      "en": "Left medial segment of liver (IV)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left medial segment of liver (IV)"
+     },
+     "polys": 2386
+    },
+    {
+     "id": "TA2:3076:visceral:anterior_medial_segment_of_liver_v",
+     "ta2_id": "3076",
+     "names": {
+      "en": "Anterior medial segment of liver (V)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior medial segment of liver (V)"
+     },
+     "polys": 1769
+    },
+    {
+     "id": "TA2:3079:visceral:anterior_lateral_segment_of_liver_vi",
+     "ta2_id": "3079",
+     "names": {
+      "en": "Anterior lateral segment of liver (VI)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior lateral segment of liver (VI)"
+     },
+     "polys": 1676
+    },
+    {
+     "id": "TA2:3080:visceral:posterior_lateral_segment_of_liver_vii",
+     "ta2_id": "3080",
+     "names": {
+      "en": "Posterior lateral segment of liver (VII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Posterior lateral segment of liver (VII)"
+     },
+     "polys": 1194
+    },
+    {
+     "id": "TA2:3073:visceral:posterior_segment_of_liver_i",
+     "ta2_id": "3073",
+     "names": {
+      "en": "Posterior segment of liver (I)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Posterior segment of liver (I)"
+     },
+     "polys": 1304
+    },
+    {
+     "id": "TA2:3077:visceral:posterior_medial_segment_of_liver_viii",
+     "ta2_id": "3077",
+     "names": {
+      "en": "Posterior medial segment of liver (VIII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Posterior medial segment of liver (VIII)"
+     },
+     "polys": 1780
+    },
+    {
+     "id": "TA2:3023:visceral:liver",
+     "ta2_id": "3023",
+     "names": {
+      "en": "Liver"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Liver"
+     },
+     "polys": 6135
+    },
+    {
+     "id": "TA2:3081:visceral:gallbladder",
+     "ta2_id": "3081",
+     "names": {
+      "en": "Gallbladder"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Gallbladder"
+     },
+     "polys": 368
+    },
+    {
+     "id": "TA2:3103:visceral:bile_duct",
+     "ta2_id": "3103",
+     "names": {
+      "en": "Bile duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Bile duct"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:3129:visceral:pancreatic_duct",
+     "ta2_id": "3129",
+     "names": {
+      "en": "Pancreatic duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Pancreatic duct"
+     },
+     "polys": 27912
+    },
+    {
+     "id": "TA2:3131:visceral:accessory_pancreatic_duct",
+     "ta2_id": "3131",
+     "names": {
+      "en": "Accessory pancreatic duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Accessory pancreatic duct"
+     },
+     "polys": 5688
+    },
+    {
+     "id": "TA2:3114:visceral:pancreas",
+     "ta2_id": "3114",
+     "names": {
+      "en": "Pancreas"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Pancreas"
+     },
+     "polys": 5056
+    },
+    {
+     "id": "TA2:2914:visceral:mucosa_of_stomach",
+     "ta2_id": "2914",
+     "names": {
+      "en": "Mucosa of stomach"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Mucosa of stomach"
+     },
+     "polys": 4874
+    },
+    {
+     "id": "TA2:906*11:visceral:upper_medial_incisor_r",
+     "ta2_id": "906*11",
+     "names": {
+      "en": "Upper medial incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper medial incisor.r"
+     },
+     "polys": 1368
+    },
+    {
+     "id": "TA2:906*12:visceral:upper_lateral_incisor_r",
+     "ta2_id": "906*12",
+     "names": {
+      "en": "Upper lateral incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper lateral incisor.r"
+     },
+     "polys": 1412
+    },
+    {
+     "id": "TA2:907*13:visceral:upper_canine_r",
+     "ta2_id": "907*13",
+     "names": {
+      "en": "Upper canine"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper canine.r"
+     },
+     "polys": 1434
+    },
+    {
+     "id": "TA2:906*31:visceral:lower_medial_incisor_r",
+     "ta2_id": "906*31",
+     "names": {
+      "en": "Lower medial incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower medial incisor.r"
+     },
+     "polys": 984
+    },
+    {
+     "id": "TA2:906*32:visceral:lower_lateral_incisor_r",
+     "ta2_id": "906*32",
+     "names": {
+      "en": "Lower lateral incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower lateral incisor.r"
+     },
+     "polys": 1033
+    },
+    {
+     "id": "TA2:907*33:visceral:lower_canine_r",
+     "ta2_id": "907*33",
+     "names": {
+      "en": "Lower canine"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower canine.r"
+     },
+     "polys": 1276
+    },
+    {
+     "id": "TA2:909*14:visceral:upper_first_premolar_r",
+     "ta2_id": "909*14",
+     "names": {
+      "en": "Upper first premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper first premolar.r"
+     },
+     "polys": 1651
+    },
+    {
+     "id": "TA2:909*15:visceral:upper_second_premolar_r",
+     "ta2_id": "909*15",
+     "names": {
+      "en": "Upper second premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper second premolar.r"
+     },
+     "polys": 1511
+    },
+    {
+     "id": "TA2:910*16:visceral:upper_first_molar_tooth_r",
+     "ta2_id": "910*16",
+     "names": {
+      "en": "Upper first molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper first molar tooth.r"
+     },
+     "polys": 2168
+    },
+    {
+     "id": "TA2:910*17:visceral:upper_second_molar_tooth_r",
+     "ta2_id": "910*17",
+     "names": {
+      "en": "Upper second molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper second molar tooth.r"
+     },
+     "polys": 1843
+    },
+    {
+     "id": "TA2:909*34:visceral:lower_first_premolar_r",
+     "ta2_id": "909*34",
+     "names": {
+      "en": "Lower first premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower first premolar.r"
+     },
+     "polys": 1207
+    },
+    {
+     "id": "TA2:909*35:visceral:lower_second_premolar_r",
+     "ta2_id": "909*35",
+     "names": {
+      "en": "Lower second premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower second premolar.r"
+     },
+     "polys": 1180
+    },
+    {
+     "id": "TA2:910*36:visceral:lower_first_molar_tooth_r",
+     "ta2_id": "910*36",
+     "names": {
+      "en": "Lower first molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower first molar tooth.r"
+     },
+     "polys": 4475
+    },
+    {
+     "id": "TA2:910*37:visceral:lower_second_molar_tooth_r",
+     "ta2_id": "910*37",
+     "names": {
+      "en": "Lower second molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower second molar tooth.r"
+     },
+     "polys": 1655
+    },
+    {
+     "id": "TA2:967:visceral:thyroid_cartilage",
+     "ta2_id": "967",
+     "names": {
+      "en": "Thyroid cartilage"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Thyroid cartilage"
+     },
+     "polys": 4482
+    },
+    {
+     "id": "TA2:2426:visceral:external_anal_sphincter_r",
+     "ta2_id": "2426",
+     "names": {
+      "en": "External anal sphincter"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "External anal sphincter.r"
+     },
+     "polys": 202
+    },
+    {
+     "id": "TA2:2426:visceral:external_anal_sphincter_l",
+     "ta2_id": "2426",
+     "names": {
+      "en": "External anal sphincter"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "External anal sphincter.l"
+     },
+     "polys": 202
+    },
+    {
+     "id": "TA2:3190:visceral:epiglottis",
+     "ta2_id": "3190",
+     "names": {
+      "en": "Epiglottis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Epiglottis"
+     },
+     "polys": 3326
+    },
+    {
+     "id": "TA2:906*11:visceral:upper_medial_incisor_l",
+     "ta2_id": "906*11",
+     "names": {
+      "en": "Upper medial incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper medial incisor.l"
+     },
+     "polys": 1368
+    },
+    {
+     "id": "TA2:906*12:visceral:upper_lateral_incisor_l",
+     "ta2_id": "906*12",
+     "names": {
+      "en": "Upper lateral incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper lateral incisor.l"
+     },
+     "polys": 1412
+    },
+    {
+     "id": "TA2:907*13:visceral:upper_canine_l",
+     "ta2_id": "907*13",
+     "names": {
+      "en": "Upper canine"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper canine.l"
+     },
+     "polys": 1434
+    },
+    {
+     "id": "TA2:906*31:visceral:lower_medial_incisor_l",
+     "ta2_id": "906*31",
+     "names": {
+      "en": "Lower medial incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower medial incisor.l"
+     },
+     "polys": 984
+    },
+    {
+     "id": "TA2:906*32:visceral:lower_lateral_incisor_l",
+     "ta2_id": "906*32",
+     "names": {
+      "en": "Lower lateral incisor"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower lateral incisor.l"
+     },
+     "polys": 1033
+    },
+    {
+     "id": "TA2:907*33:visceral:lower_canine_l",
+     "ta2_id": "907*33",
+     "names": {
+      "en": "Lower canine"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower canine.l"
+     },
+     "polys": 1276
+    },
+    {
+     "id": "TA2:909*14:visceral:upper_first_premolar_l",
+     "ta2_id": "909*14",
+     "names": {
+      "en": "Upper first premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper first premolar.l"
+     },
+     "polys": 1651
+    },
+    {
+     "id": "TA2:909*15:visceral:upper_second_premolar_l",
+     "ta2_id": "909*15",
+     "names": {
+      "en": "Upper second premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper second premolar.l"
+     },
+     "polys": 1511
+    },
+    {
+     "id": "TA2:910*16:visceral:upper_first_molar_tooth_l",
+     "ta2_id": "910*16",
+     "names": {
+      "en": "Upper first molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper first molar tooth.l"
+     },
+     "polys": 2168
+    },
+    {
+     "id": "TA2:910*17:visceral:upper_second_molar_tooth_l",
+     "ta2_id": "910*17",
+     "names": {
+      "en": "Upper second molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Upper second molar tooth.l"
+     },
+     "polys": 1843
+    },
+    {
+     "id": "TA2:909*34:visceral:lower_first_premolar_l",
+     "ta2_id": "909*34",
+     "names": {
+      "en": "Lower first premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower first premolar.l"
+     },
+     "polys": 1207
+    },
+    {
+     "id": "TA2:909*35:visceral:lower_second_premolar_l",
+     "ta2_id": "909*35",
+     "names": {
+      "en": "Lower second premolar"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower second premolar.l"
+     },
+     "polys": 1180
+    },
+    {
+     "id": "TA2:910*36:visceral:lower_first_molar_tooth_l",
+     "ta2_id": "910*36",
+     "names": {
+      "en": "Lower first molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower first molar tooth.l"
+     },
+     "polys": 4475
+    },
+    {
+     "id": "TA2:910*37:visceral:lower_second_molar_tooth_l",
+     "ta2_id": "910*37",
+     "names": {
+      "en": "Lower second molar tooth"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lower second molar tooth.l"
+     },
+     "polys": 1655
+    },
+    {
+     "id": "TA2:3213:visceral:trachea",
+     "ta2_id": "3213",
+     "names": {
+      "en": "Trachea"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Trachea"
+     },
+     "polys": 4516
+    },
+    {
+     "id": "TA2:3247:visceral:superior_segmental_bronchus_of_right_lung_bvi",
+     "ta2_id": "3247",
+     "names": {
+      "en": "Superior segmental bronchus of right lung (BVI)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superior segmental bronchus of right lung (BVI)"
+     },
+     "polys": 4464
+    },
+    {
+     "id": "TA2:3244:visceral:lateral_segmental_bronchus_of_right_lung_biv",
+     "ta2_id": "3244",
+     "names": {
+      "en": "Lateral segmental bronchus of right lung (BIV)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lateral segmental bronchus of right lung (BIV)"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:3246:visceral:right_inferior_lobar_bronchus",
+     "ta2_id": "3246",
+     "names": {
+      "en": "Right inferior lobar bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Right inferior lobar bronchus"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:3251:visceral:posterior_basal_segmental_bronchus_of_right_lung_bx",
+     "ta2_id": "3251",
+     "names": {
+      "en": "Posterior basal segmental bronchus of right lung (BX)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Posterior basal segmental bronchus of right lung (BX)"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:3248:visceral:medial_basal_segmental_bronchus_of_right_lung_bvii",
+     "ta2_id": "3248",
+     "names": {
+      "en": "Medial basal segmental bronchus of right lung (BVII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Medial basal segmental bronchus of right lung (BVII)"
+     },
+     "polys": 864
+    },
+    {
+     "id": "TA2:3250:visceral:lateral_basal_segmental_bronchus_of_right_lung_bix",
+     "ta2_id": "3250",
+     "names": {
+      "en": "Lateral basal segmental bronchus of right lung (BIX)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lateral basal segmental bronchus of right lung (BIX)"
+     },
+     "polys": 2304
+    },
+    {
+     "id": "TA2:3249:visceral:anterior_basal_segmental_bronchus_of_right_lung_bviii",
+     "ta2_id": "3249",
+     "names": {
+      "en": "Anterior basal segmental bronchus of right lung (BVIII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior basal segmental bronchus of right lung (BVIII)"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:3253:visceral:left_superior_lobar_bronchus",
+     "ta2_id": "3253",
+     "names": {
+      "en": "Left superior lobar bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left superior lobar bronchus"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:3254:visceral:apicoposterior_segmental_bronchus_of_left_lung_bi_bii",
+     "ta2_id": "3254",
+     "names": {
+      "en": "Apicoposterior segmental bronchus of left lung (BI+BII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Apicoposterior segmental bronchus of left lung (BI+BII)"
+     },
+     "polys": 3744
+    },
+    {
+     "id": "TA2:3255:visceral:anterior_segmental_bronchus_of_left_lung_biii",
+     "ta2_id": "3255",
+     "names": {
+      "en": "Anterior segmental bronchus of left lung (BIII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior segmental bronchus of left lung (BIII)"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:3256:visceral:superior_lingular_segmental_bronchus_of_left_lung_biv",
+     "ta2_id": "3256",
+     "names": {
+      "en": "Superior lingular segmental bronchus of left lung (BIV)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superior lingular segmental bronchus of left lung (BIV)"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:3257:visceral:inferior_lingular_segmental_bronchus_of_left_lung_bv",
+     "ta2_id": "3257",
+     "names": {
+      "en": "Inferior lingular segmental bronchus of left lung (BV)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Inferior lingular segmental bronchus of left lung (BV)"
+     },
+     "polys": 1008
+    },
+    {
+     "id": "TA2:3259:visceral:superior_segmental_bronchus_of_left_lung_bvi",
+     "ta2_id": "3259",
+     "names": {
+      "en": "Superior segmental bronchus of left lung (BVI)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superior segmental bronchus of left lung (BVI)"
+     },
+     "polys": 2160
+    },
+    {
+     "id": "TA2:3260:visceral:medial_basal_segmental_bronchus_of_left_lung_bvii",
+     "ta2_id": "3260",
+     "names": {
+      "en": "Medial basal segmental bronchus of left lung (BVII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Medial basal segmental bronchus of left lung (BVII)"
+     },
+     "polys": 2880
+    },
+    {
+     "id": "TA2:3262:visceral:anterior_basal_segmental_bronchus_of_left_lung_bviii",
+     "ta2_id": "3262",
+     "names": {
+      "en": "Anterior basal segmental bronchus of left lung (BVIII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior basal segmental bronchus of left lung (BVIII)"
+     },
+     "polys": 720
+    },
+    {
+     "id": "TA2:3258:visceral:left_inferior_lobar_bronchus",
+     "ta2_id": "3258",
+     "names": {
+      "en": "Left inferior lobar bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left inferior lobar bronchus"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:3263:visceral:lateral_basal_segmental_bronchus_of_left_lung_bix",
+     "ta2_id": "3263",
+     "names": {
+      "en": "Lateral basal segmental bronchus of left lung (BIX)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lateral basal segmental bronchus of left lung (BIX)"
+     },
+     "polys": 1152
+    },
+    {
+     "id": "TA2:3252:visceral:left_main_bronchus",
+     "ta2_id": "3252",
+     "names": {
+      "en": "Left main bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left main bronchus"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:3241:visceral:anterior_segmental_bronchus_of_right_lung_biii",
+     "ta2_id": "3241",
+     "names": {
+      "en": "Anterior segmental bronchus of right lung (BIII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior segmental bronchus of right lung (BIII)"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:3239:visceral:apical_segmental_bronchus_of_right_lung_bi",
+     "ta2_id": "3239",
+     "names": {
+      "en": "Apical segmental bronchus of right lung (BI)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Apical segmental bronchus of right lung (BI)"
+     },
+     "polys": 3312
+    },
+    {
+     "id": "TA2:3240:visceral:posterior_segmental_bronchus_of_right_lung_bii",
+     "ta2_id": "3240",
+     "names": {
+      "en": "Posterior segmental bronchus of right lung (BII)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Posterior segmental bronchus of right lung (BII)"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:3238:visceral:right_superior_lobar_bronchus",
+     "ta2_id": "3238",
+     "names": {
+      "en": "Right superior lobar bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Right superior lobar bronchus"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:3237:visceral:right_main_bronchus",
+     "ta2_id": "3237",
+     "names": {
+      "en": "Right main bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Right main bronchus"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:3284:visceral:superior_lobe_of_right_lung",
+     "ta2_id": "3284",
+     "names": {
+      "en": "Superior lobe of right lung"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superior lobe of right lung"
+     },
+     "polys": 3874
+    },
+    {
+     "id": "TA2:3289:visceral:middle_lobe_of_right_lung",
+     "ta2_id": "3289",
+     "names": {
+      "en": "Middle lobe of right lung"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Middle lobe of right lung"
+     },
+     "polys": 3698
+    },
+    {
+     "id": "TA2:3293:visceral:inferior_lobe_of_right_lung",
+     "ta2_id": "3293",
+     "names": {
+      "en": "Inferior lobe of right lung"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Inferior lobe of right lung"
+     },
+     "polys": 4226
+    },
+    {
+     "id": "TA2:3300:visceral:superior_lobe_of_left_lung",
+     "ta2_id": "3300",
+     "names": {
+      "en": "Superior lobe of left lung"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superior lobe of left lung"
+     },
+     "polys": 4645
+    },
+    {
+     "id": "TA2:3308:visceral:inferior_lobe_of_left_lung",
+     "ta2_id": "3308",
+     "names": {
+      "en": "Inferior lobe of left lung"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Inferior lobe of left lung"
+     },
+     "polys": 4629
+    },
+    {
+     "id": "TA2:3243:visceral:middle_lobar_bronchus_r",
+     "ta2_id": "3243",
+     "names": {
+      "en": "Middle lobar bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Middle lobar bronchus.r"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:3242:visceral:intermediate_bronchus_r",
+     "ta2_id": "3242",
+     "names": {
+      "en": "Intermediate bronchus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Intermediate bronchus.r"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:3245:visceral:medial_segmental_bronchus_of_right_lung_bv",
+     "ta2_id": "3245",
+     "names": {
+      "en": "Medial segmental bronchus of right lung (BV)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Medial segmental bronchus of right lung (BV)"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:3264:visceral:posterior_basal_segmental_bronchus_of_left_lung_bx",
+     "ta2_id": "3264",
+     "names": {
+      "en": "Posterior basal segmental bronchus of left lung (BX)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Posterior basal segmental bronchus of left lung (BX)"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:3261:visceral:anteromedial_basal_segmental_bronchus_of_left_lung",
+     "ta2_id": "3261",
+     "names": {
+      "en": "(Anteromedial basal segmental bronchus of left lung)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Anteromedial basal segmental bronchus of left lung)"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:3322:visceral:pleura",
+     "ta2_id": "3322",
+     "names": {
+      "en": "Pleura"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Pleura"
+     },
+     "polys": 56144
+    },
+    {
+     "id": "TA2:3358:visceral:kidney_l",
+     "ta2_id": "3358",
+     "names": {
+      "en": "Kidney"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Kidney.l"
+     },
+     "polys": 2982
+    },
+    {
+     "id": "TA2:3358:visceral:kidney_r",
+     "ta2_id": "3358",
+     "names": {
+      "en": "Kidney"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Kidney.r"
+     },
+     "polys": 2319
+    },
+    {
+     "id": "TA2:3401:visceral:urinary_bladder",
+     "ta2_id": "3401",
+     "names": {
+      "en": "Urinary bladder"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Urinary bladder"
+     },
+     "polys": 1518
+    },
+    {
+     "id": "TA2:3425:visceral:urethra",
+     "ta2_id": "3425",
+     "names": {
+      "en": "Urethra"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Urethra"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:3384:visceral:renal_pelvis_l",
+     "ta2_id": "3384",
+     "names": {
+      "en": "Renal pelvis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Renal pelvis.l"
+     },
+     "polys": 1450
+    },
+    {
+     "id": "TA2:3384:visceral:renal_pelvis_r",
+     "ta2_id": "3384",
+     "names": {
+      "en": "Renal pelvis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Renal pelvis.r"
+     },
+     "polys": 1262
+    },
+    {
+     "id": "TA2:3394:visceral:ureter_l",
+     "ta2_id": "3394",
+     "names": {
+      "en": "Ureter"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ureter.l"
+     },
+     "polys": 1440
+    },
+    {
+     "id": "TA2:3394:visceral:ureter_r",
+     "ta2_id": "3394",
+     "names": {
+      "en": "Ureter"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ureter.r"
+     },
+     "polys": 1584
+    },
+    {
+     "id": "TA2:3576:visceral:testis_r",
+     "ta2_id": "3576",
+     "names": {
+      "en": "Testis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Testis.r"
+     },
+     "polys": 678
+    },
+    {
+     "id": "TA2:3576:visceral:testis_l",
+     "ta2_id": "3576",
+     "names": {
+      "en": "Testis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Testis.l"
+     },
+     "polys": 678
+    },
+    {
+     "id": "TA2:3603:visceral:epididymis_r",
+     "ta2_id": "3603",
+     "names": {
+      "en": "Epididymis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Epididymis.r"
+     },
+     "polys": 216
+    },
+    {
+     "id": "TA2:3603:visceral:epididymis_l",
+     "ta2_id": "3603",
+     "names": {
+      "en": "Epididymis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Epididymis.l"
+     },
+     "polys": 216
+    },
+    {
+     "id": "TA2:3621:visceral:ductus_deferens_l",
+     "ta2_id": "3621",
+     "names": {
+      "en": "Ductus deferens"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ductus deferens.l"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:3621:visceral:ductus_deferens_r",
+     "ta2_id": "3621",
+     "names": {
+      "en": "Ductus deferens"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ductus deferens.r"
+     },
+     "polys": 2448
+    },
+    {
+     "id": "TA2:3631:visceral:seminal_gland_r",
+     "ta2_id": "3631",
+     "names": {
+      "en": "Seminal gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Seminal gland.r"
+     },
+     "polys": 360
+    },
+    {
+     "id": "TA2:3631:visceral:seminal_gland_l",
+     "ta2_id": "3631",
+     "names": {
+      "en": "Seminal gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Seminal gland.l"
+     },
+     "polys": 360
+    },
+    {
+     "id": "TA2:3637:visceral:prostate",
+     "ta2_id": "3637",
+     "names": {
+      "en": "Prostate"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Prostate"
+     },
+     "polys": 468
+    },
+    {
+     "id": "TA2:3636:visceral:ejaculatory_duct_l",
+     "ta2_id": "3636",
+     "names": {
+      "en": "Ejaculatory duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ejaculatory duct.l"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:3636:visceral:ejaculatory_duct_r",
+     "ta2_id": "3636",
+     "names": {
+      "en": "Ejaculatory duct"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Ejaculatory duct.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:3668:visceral:glans_penis",
+     "ta2_id": "3668",
+     "names": {
+      "en": "Glans penis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Glans penis"
+     },
+     "polys": 1391
+    },
+    {
+     "id": "TA2:3678:visceral:corpus_cavernosum_of_penis",
+     "ta2_id": "3678",
+     "names": {
+      "en": "Corpus cavernosum of penis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Corpus cavernosum of penis"
+     },
+     "polys": 1288
+    },
+    {
+     "id": "TA2:3681:visceral:corpus_spongiosum_of_penis",
+     "ta2_id": "3681",
+     "names": {
+      "en": "Corpus spongiosum of penis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Corpus spongiosum of penis"
+     },
+     "polys": 560
+    },
+    {
+     "id": "TA2:3744:visceral:mesocolon",
+     "ta2_id": "3744",
+     "names": {
+      "en": "Mesocolon"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Mesocolon"
+     },
+     "polys": 7884
+    },
+    {
+     "id": "TA2:3757:visceral:greater_omentum",
+     "ta2_id": "3757",
+     "names": {
+      "en": "Greater omentum"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Greater omentum"
+     },
+     "polys": 38984
+    },
+    {
+     "id": "TA2:3750:visceral:lesser_omentum",
+     "ta2_id": "3750",
+     "names": {
+      "en": "Lesser omentum"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Lesser omentum"
+     },
+     "polys": 2380
+    },
+    {
+     "id": "TA2:5199:visceral:occipital_nodes_l",
+     "ta2_id": "5199",
+     "names": {
+      "en": "Occipital nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Occipital nodes.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5207:visceral:bucinator_node_l",
+     "ta2_id": "5207",
+     "names": {
+      "en": "Bucinator node"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Bucinator node.l"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5213:visceral:submental_nodes_l",
+     "ta2_id": "5213",
+     "names": {
+      "en": "Submental nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submental nodes.l"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:5204:visceral:infra_auricular_nodes_l",
+     "ta2_id": "5204",
+     "names": {
+      "en": "Infra-auricular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Infra-auricular nodes.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5199:visceral:occipital_nodes_r",
+     "ta2_id": "5199",
+     "names": {
+      "en": "Occipital nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Occipital nodes.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5207:visceral:bucinator_node_r",
+     "ta2_id": "5207",
+     "names": {
+      "en": "Bucinator node"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Bucinator node.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5213:visceral:submental_nodes_r",
+     "ta2_id": "5213",
+     "names": {
+      "en": "Submental nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submental nodes.r"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:5204:visceral:infra_auricular_nodes_r",
+     "ta2_id": "5204",
+     "names": {
+      "en": "Infra-auricular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Infra-auricular nodes.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5233:visceral:supraclavicular_nodes_r",
+     "ta2_id": "5233",
+     "names": {
+      "en": "Supraclavicular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Supraclavicular nodes.r"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:5233:visceral:supraclavicular_nodes_l",
+     "ta2_id": "5233",
+     "names": {
+      "en": "Supraclavicular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Supraclavicular nodes.l"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:5216:visceral:superficial_anterior_cervical_nodes",
+     "ta2_id": "5216",
+     "names": {
+      "en": "Superficial anterior cervical nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superficial anterior cervical nodes"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:5278:visceral:retrocaval_nodes",
+     "ta2_id": "5278",
+     "names": {
+      "en": "Retrocaval nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Retrocaval nodes"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5280:visceral:inferior_epigastric_nodes_l",
+     "ta2_id": "5280",
+     "names": {
+      "en": "Inferior epigastric nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Inferior epigastric nodes.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5293:visceral:superior_pancreatic_nodes",
+     "ta2_id": "5293",
+     "names": {
+      "en": "Superior pancreatic nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superior pancreatic nodes"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:5306:visceral:precaecal_nodes",
+     "ta2_id": "5306",
+     "names": {
+      "en": "Precaecal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Precaecal nodes"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5320:visceral:medial_common_iliac_nodes",
+     "ta2_id": "5320",
+     "names": {
+      "en": "Medial common iliac nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Medial common iliac nodes"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:5326:visceral:medial_external_iliac_nodes_r",
+     "ta2_id": "5326",
+     "names": {
+      "en": "Medial external iliac nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Medial external iliac nodes.r"
+     },
+     "polys": 768
+    },
+    {
+     "id": "TA2:5326:visceral:medial_external_iliac_nodes_l",
+     "ta2_id": "5326",
+     "names": {
+      "en": "Medial external iliac nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Medial external iliac nodes.l"
+     },
+     "polys": 768
+    },
+    {
+     "id": "TA2:5280:visceral:inferior_epigastric_nodes_r",
+     "ta2_id": "5280",
+     "names": {
+      "en": "Inferior epigastric nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Inferior epigastric nodes.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5244:visceral:brachial_nodes_r",
+     "ta2_id": "5244",
+     "names": {
+      "en": "Brachial nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Brachial nodes.r"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5241:visceral:anterior_axillary_nodes_r",
+     "ta2_id": "5241",
+     "names": {
+      "en": "Anterior axillary nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior axillary nodes.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:5244:visceral:brachial_nodes_l",
+     "ta2_id": "5244",
+     "names": {
+      "en": "Brachial nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Brachial nodes.l"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5246:visceral:supratrochlear_nodes_l",
+     "ta2_id": "5246",
+     "names": {
+      "en": "Supratrochlear nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Supratrochlear nodes.l"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5241:visceral:anterior_axillary_nodes_l",
+     "ta2_id": "5241",
+     "names": {
+      "en": "Anterior axillary nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Anterior axillary nodes.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:5246:visceral:supratrochlear_nodes_r",
+     "ta2_id": "5246",
+     "names": {
+      "en": "Supratrochlear nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Supratrochlear nodes.r"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5358:visceral:superficial_popliteal_nodes_l",
+     "ta2_id": "5358",
+     "names": {
+      "en": "Superficial popliteal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superficial popliteal nodes.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5358:visceral:superficial_popliteal_nodes_r",
+     "ta2_id": "5358",
+     "names": {
+      "en": "Superficial popliteal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Superficial popliteal nodes.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5360:visceral:anterior_tibial_node_l",
+     "ta2_id": "5360",
+     "names": {
+      "en": "(Anterior tibial node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Anterior tibial node).l"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5360:visceral:anterior_tibial_node_r",
+     "ta2_id": "5360",
+     "names": {
+      "en": "(Anterior tibial node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Anterior tibial node).r"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5354:visceral:proximal_deep_inguinal_node_l",
+     "ta2_id": "5354",
+     "names": {
+      "en": "(Proximal deep inguinal node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Proximal deep inguinal node).l"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5354:visceral:proximal_deep_inguinal_node_r",
+     "ta2_id": "5354",
+     "names": {
+      "en": "(Proximal deep inguinal node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Proximal deep inguinal node).r"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5300:visceral:cystic_node",
+     "ta2_id": "5300",
+     "names": {
+      "en": "Cystic node"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Cystic node"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5234:visceral:retropharyngeal_nodes_r",
+     "ta2_id": "5234",
+     "names": {
+      "en": "Retropharyngeal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Retropharyngeal nodes.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5200:visceral:mastoid_nodes_l",
+     "ta2_id": "5200",
+     "names": {
+      "en": "Mastoid nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Mastoid nodes.l"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:2853:visceral:palatine_tonsil_l",
+     "ta2_id": "2853",
+     "names": {
+      "en": "Palatine tonsil"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Palatine tonsil.l"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5234:visceral:retropharyngeal_nodes_l",
+     "ta2_id": "5234",
+     "names": {
+      "en": "Retropharyngeal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Retropharyngeal nodes.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5200:visceral:mastoid_nodes_r",
+     "ta2_id": "5200",
+     "names": {
+      "en": "Mastoid nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Mastoid nodes.r"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:2853:visceral:palatine_tonsil_r",
+     "ta2_id": "2853",
+     "names": {
+      "en": "Palatine tonsil"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Palatine tonsil.r"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5214:visceral:submandibular_nodes_r",
+     "ta2_id": "5214",
+     "names": {
+      "en": "Submandibular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submandibular nodes.r"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5273:visceral:retro_aortic_nodes",
+     "ta2_id": "5273",
+     "names": {
+      "en": "Retro-aortic nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Retro-aortic nodes"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:7224:visceral:left_lobe_of_thymus",
+     "ta2_id": "7224",
+     "names": {
+      "en": "Left lobe of thymus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Left lobe of thymus"
+     },
+     "polys": 9188
+    },
+    {
+     "id": "TA2:7223:visceral:right_lobe_of_thymus",
+     "ta2_id": "7223",
+     "names": {
+      "en": "Right lobe of thymus"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Right lobe of thymus"
+     },
+     "polys": 6452
+    },
+    {
+     "id": "TA2:5159:visceral:spleen",
+     "ta2_id": "5159",
+     "names": {
+      "en": "Spleen"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Spleen"
+     },
+     "polys": 1330
+    },
+    {
+     "id": "TA2:5307:visceral:retrocaecal_nodes",
+     "ta2_id": "5307",
+     "names": {
+      "en": "Retrocaecal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Retrocaecal nodes"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:5342:visceral:postvesical_nodes",
+     "ta2_id": "5342",
+     "names": {
+      "en": "Postvesical nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Postvesical nodes"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:5243:visceral:infraclavicular_nodes_l",
+     "ta2_id": "5243",
+     "names": {
+      "en": "Infraclavicular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Infraclavicular nodes.l"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5243:visceral:infraclavicular_nodes_r",
+     "ta2_id": "5243",
+     "names": {
+      "en": "Infraclavicular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Infraclavicular nodes.r"
+     },
+     "polys": 480
+    },
+    {
+     "id": "TA2:5359:visceral:deep_popliteal_nodes_l",
+     "ta2_id": "5359",
+     "names": {
+      "en": "Deep popliteal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Deep popliteal nodes.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5359:visceral:deep_popliteal_nodes_r",
+     "ta2_id": "5359",
+     "names": {
+      "en": "Deep popliteal nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Deep popliteal nodes.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:5361:visceral:posterior_tibial_node_l",
+     "ta2_id": "5361",
+     "names": {
+      "en": "(Posterior tibial node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Posterior tibial node).l"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5361:visceral:posterior_tibial_node_r",
+     "ta2_id": "5361",
+     "names": {
+      "en": "(Posterior tibial node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Posterior tibial node).r"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5355:visceral:intermediate_deep_inguinal_node_l",
+     "ta2_id": "5355",
+     "names": {
+      "en": "(Intermediate deep inguinal node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Intermediate deep inguinal node).l"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5355:visceral:intermediate_deep_inguinal_node_r",
+     "ta2_id": "5355",
+     "names": {
+      "en": "(Intermediate deep inguinal node)"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "(Intermediate deep inguinal node).r"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:5214:visceral:submandibular_nodes_l",
+     "ta2_id": "5214",
+     "names": {
+      "en": "Submandibular nodes"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Submandibular nodes.l"
+     },
+     "polys": 288
+    },
+    {
+     "id": "TA2:3855:visceral:adenohypophysis",
+     "ta2_id": "3855",
+     "names": {
+      "en": "Adenohypophysis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Adenohypophysis"
+     },
+     "polys": 678
+    },
+    {
+     "id": "TA2:3859:visceral:neurohypophysis",
+     "ta2_id": "3859",
+     "names": {
+      "en": "Neurohypophysis"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Neurohypophysis"
+     },
+     "polys": 592
+    },
+    {
+     "id": "TA2:3863:visceral:thyroid_gland",
+     "ta2_id": "3863",
+     "names": {
+      "en": "Thyroid gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Thyroid gland"
+     },
+     "polys": 1300
+    },
+    {
+     "id": "TA2:3874:visceral:suprarenal_gland_l",
+     "ta2_id": "3874",
+     "names": {
+      "en": "Suprarenal gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Suprarenal gland.l"
+     },
+     "polys": 3996
+    },
+    {
+     "id": "TA2:3874:visceral:suprarenal_gland_r",
+     "ta2_id": "3874",
+     "names": {
+      "en": "Suprarenal gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Suprarenal gland.r"
+     },
+     "polys": 2294
+    },
+    {
+     "id": "TA2:3862:visceral:pineal_gland",
+     "ta2_id": "3862",
+     "names": {
+      "en": "Pineal gland"
+     },
+     "kind": "organ",
+     "mesh": {
+      "glb": "visceral.glb",
+      "node": "Pineal gland"
+     },
+     "polys": 592
+    }
+   ]
+  }
+ ]
+}

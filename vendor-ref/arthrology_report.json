@@ -1,0 +1,2304 @@
+{
+ "collection": "Arthrology",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/arthrology.glb",
+ "converted": 437,
+ "total_polygons": 230045,
+ "objects": [
+  {
+   "name": "Stylomandibular ligament.r",
+   "src_type": "MESH",
+   "polys": 22
+  },
+  {
+   "name": "Stylohyoid ligament.r",
+   "src_type": "MESH",
+   "polys": 312
+  },
+  {
+   "name": "Pterygospinous ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Sphenomandibular ligament.r",
+   "src_type": "MESH",
+   "polys": 144
+  },
+  {
+   "name": "Stylomandibular ligament.l",
+   "src_type": "MESH",
+   "polys": 22
+  },
+  {
+   "name": "Stylohyoid ligament.l",
+   "src_type": "MESH",
+   "polys": 312
+  },
+  {
+   "name": "Pterygospinous ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Sphenomandibular ligament.l",
+   "src_type": "MESH",
+   "polys": 144
+  },
+  {
+   "name": "Articular capsule of temporomandibular joint.r",
+   "src_type": "MESH",
+   "polys": 900
+  },
+  {
+   "name": "Lateral temporomandibular ligament.l",
+   "src_type": "MESH",
+   "polys": 38
+  },
+  {
+   "name": "Articular disc of temporomandibular joint.r",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Articular capsule of temporomandibular joint.l",
+   "src_type": "MESH",
+   "polys": 900
+  },
+  {
+   "name": "Lateral temporomandibular ligament.r",
+   "src_type": "MESH",
+   "polys": 38
+  },
+  {
+   "name": "Articular disc of temporomandibular joint.l",
+   "src_type": "MESH",
+   "polys": 274
+  },
+  {
+   "name": "Median cricothyroid ligament",
+   "src_type": "MESH",
+   "polys": 1872
+  },
+  {
+   "name": "Lateral thyrohyoid ligament.r",
+   "src_type": "MESH",
+   "polys": 912
+  },
+  {
+   "name": "Lateral thyrohyoid ligament.l",
+   "src_type": "MESH",
+   "polys": 912
+  },
+  {
+   "name": "Median thyrohyoid ligament",
+   "src_type": "MESH",
+   "polys": 2753
+  },
+  {
+   "name": "Quadrangular membrane.r",
+   "src_type": "MESH",
+   "polys": 4592
+  },
+  {
+   "name": "Quadrangular membrane.l",
+   "src_type": "MESH",
+   "polys": 4592
+  },
+  {
+   "name": "Cricopharyngeal ligament.r",
+   "src_type": "MESH",
+   "polys": 3119
+  },
+  {
+   "name": "Cricopharyngeal ligament.l",
+   "src_type": "MESH",
+   "polys": 3119
+  },
+  {
+   "name": "Supraspinous ligament",
+   "src_type": "MESH",
+   "polys": 436
+  },
+  {
+   "name": "Interspinous ligaments",
+   "src_type": "MESH",
+   "polys": 292
+  },
+  {
+   "name": "Anterior longitudinal ligament",
+   "src_type": "MESH",
+   "polys": 2464
+  },
+  {
+   "name": "Posterior longitudinal ligament",
+   "src_type": "MESH",
+   "polys": 3768
+  },
+  {
+   "name": "Nuchal ligament",
+   "src_type": "MESH",
+   "polys": 324
+  },
+  {
+   "name": "Intertransverse ligaments.r",
+   "src_type": "MESH",
+   "polys": 5720
+  },
+  {
+   "name": "Ligamenta flava",
+   "src_type": "MESH",
+   "polys": 2364
+  },
+  {
+   "name": "Intercornual ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Intertransverse ligaments.l",
+   "src_type": "MESH",
+   "polys": 5720
+  },
+  {
+   "name": "Intercornual ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Intervertebral disc C2-C3",
+   "src_type": "MESH",
+   "polys": 810
+  },
+  {
+   "name": "Intervertebral disc C3-C4",
+   "src_type": "MESH",
+   "polys": 654
+  },
+  {
+   "name": "Intervertebral disc C4-C5",
+   "src_type": "MESH",
+   "polys": 822
+  },
+  {
+   "name": "Intervertebral disc C5-C6",
+   "src_type": "MESH",
+   "polys": 930
+  },
+  {
+   "name": "Intervertebral disc C6-C7",
+   "src_type": "MESH",
+   "polys": 800
+  },
+  {
+   "name": "Intervertebral disc C7-T1",
+   "src_type": "MESH",
+   "polys": 1140
+  },
+  {
+   "name": "Intervertebral disc L1-L2",
+   "src_type": "MESH",
+   "polys": 3058
+  },
+  {
+   "name": "Intervertebral disc L2-L3",
+   "src_type": "MESH",
+   "polys": 3302
+  },
+  {
+   "name": "Intervertebral disc L3-L4",
+   "src_type": "MESH",
+   "polys": 3040
+  },
+  {
+   "name": "Intervertebral disc L4-L5",
+   "src_type": "MESH",
+   "polys": 3216
+  },
+  {
+   "name": "Intervertebral disc L5-S1",
+   "src_type": "MESH",
+   "polys": 3498
+  },
+  {
+   "name": "Intervertebral disc T1-T2",
+   "src_type": "MESH",
+   "polys": 1208
+  },
+  {
+   "name": "Intervertebral disc T10-T11",
+   "src_type": "MESH",
+   "polys": 2770
+  },
+  {
+   "name": "Intervertebral disc T11-T12",
+   "src_type": "MESH",
+   "polys": 3300
+  },
+  {
+   "name": "Intervertebral disc T12-L1",
+   "src_type": "MESH",
+   "polys": 3246
+  },
+  {
+   "name": "Intervertebral disc T2-T3",
+   "src_type": "MESH",
+   "polys": 1272
+  },
+  {
+   "name": "Intervertebral disc T3-T4",
+   "src_type": "MESH",
+   "polys": 1310
+  },
+  {
+   "name": "Intervertebral disc T4-T5",
+   "src_type": "MESH",
+   "polys": 1600
+  },
+  {
+   "name": "Intervertebral disc T5-T6",
+   "src_type": "MESH",
+   "polys": 1684
+  },
+  {
+   "name": "Intervertebral disc T6-T7",
+   "src_type": "MESH",
+   "polys": 2326
+  },
+  {
+   "name": "Intervertebral disc T7-T8",
+   "src_type": "MESH",
+   "polys": 2572
+  },
+  {
+   "name": "Intervertebral disc T8-T9",
+   "src_type": "MESH",
+   "polys": 2786
+  },
+  {
+   "name": "Intervertebral disc T9-T10",
+   "src_type": "MESH",
+   "polys": 1186
+  },
+  {
+   "name": "Nucleus pulposus L5-S1",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L4-L5",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L3-L4",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L2-L3",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus L1-L2",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T12-L1",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T11-T12",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T10-T11",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T9-T10",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T8-T9",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T7-T8",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T6-T7",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T5-T6",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T4-T5",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T3-T4",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T2-T3",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus T1-T2",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C7-T1",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C6-C7",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C5-C6",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C4-C5",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C3-C4",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Nucleus pulposus C2-C3",
+   "src_type": "MESH",
+   "polys": 512
+  },
+  {
+   "name": "Sacrococcygeal symphysis",
+   "src_type": "MESH",
+   "polys": 178
+  },
+  {
+   "name": "External intercostal membrane.r",
+   "src_type": "MESH",
+   "polys": 3368
+  },
+  {
+   "name": "Internal intercostal membrane.r",
+   "src_type": "MESH",
+   "polys": 2360
+  },
+  {
+   "name": "External intercostal membrane.l",
+   "src_type": "MESH",
+   "polys": 3368
+  },
+  {
+   "name": "Internal intercostal membrane.l",
+   "src_type": "MESH",
+   "polys": 2360
+  },
+  {
+   "name": "Intra-articular ligament of head of rib.r",
+   "src_type": "MESH",
+   "polys": 54
+  },
+  {
+   "name": "Intra-articular ligament of head of rib",
+   "src_type": "MESH",
+   "polys": 54
+  },
+  {
+   "name": "Radiate ligament of head of rib.l",
+   "src_type": "MESH",
+   "polys": 1728
+  },
+  {
+   "name": "Radiate ligament of head of rib.r",
+   "src_type": "MESH",
+   "polys": 1728
+  },
+  {
+   "name": "Costotransverse ligament.r",
+   "src_type": "MESH",
+   "polys": 198
+  },
+  {
+   "name": "Costotransverse ligament.l",
+   "src_type": "MESH",
+   "polys": 198
+  },
+  {
+   "name": "Coraco-acromial ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Superior transverse scapular ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Inferior transverse scapular ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Coraco-acromial ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Superior transverse scapular ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Inferior transverse scapular ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Articular capsule of acromioclavicular joint.r",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Acromioclavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 160
+  },
+  {
+   "name": "Articular disc of acromioclavicular joint.r",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Articular capsule of acromioclavicular joint.l",
+   "src_type": "MESH",
+   "polys": 576
+  },
+  {
+   "name": "Acromioclavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 160
+  },
+  {
+   "name": "Articular disc of acromioclavicular joint.l",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Trapezoid ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Conoid ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Trapezoid ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Conoid ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Articular capsule of sternoclavicular joint.r",
+   "src_type": "MESH",
+   "polys": 504
+  },
+  {
+   "name": "Articular disc of sternoclavicular joint.r",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Anterior sternoclavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 160
+  },
+  {
+   "name": "Costoclavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Interclavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Posterior sternoclavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Articular capsule of sternoclavicular joint.l",
+   "src_type": "MESH",
+   "polys": 504
+  },
+  {
+   "name": "Articular disc of sternoclavicular joint.l",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Anterior sternoclavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 160
+  },
+  {
+   "name": "Costoclavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Interclavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Posterior sternoclavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Oblique cord.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Oblique cord.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Articular capsule of glenohumeral joint.r",
+   "src_type": "MESH",
+   "polys": 1616
+  },
+  {
+   "name": "Glenoid labrum.r",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Coracohumeral ligament.r",
+   "src_type": "MESH",
+   "polys": 100
+  },
+  {
+   "name": "Transverse humeral ligament.r",
+   "src_type": "MESH",
+   "polys": 232
+  },
+  {
+   "name": "Articular capsule of glenohumeral joint.l",
+   "src_type": "MESH",
+   "polys": 1616
+  },
+  {
+   "name": "Glenoid labrum.l",
+   "src_type": "MESH",
+   "polys": 424
+  },
+  {
+   "name": "Coracohumeral ligament.l",
+   "src_type": "MESH",
+   "polys": 100
+  },
+  {
+   "name": "Transverse humeral ligament.l",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Superior glenohumeral ligament.r",
+   "src_type": "MESH",
+   "polys": 100
+  },
+  {
+   "name": "Middle glenohumeral ligament.r",
+   "src_type": "MESH",
+   "polys": 140
+  },
+  {
+   "name": "Inferior glenohumeral ligament.r",
+   "src_type": "MESH",
+   "polys": 160
+  },
+  {
+   "name": "Superior glenohumeral ligament.l",
+   "src_type": "MESH",
+   "polys": 100
+  },
+  {
+   "name": "Middle glenohumeral ligament.l",
+   "src_type": "MESH",
+   "polys": 140
+  },
+  {
+   "name": "Inferior glenohumeral ligament.l",
+   "src_type": "MESH",
+   "polys": 160
+  },
+  {
+   "name": "Articular capsule of elbow joint.r",
+   "src_type": "MESH",
+   "polys": 878
+  },
+  {
+   "name": "Radial collateral ligament.r",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Ulnar collateral ligament.r",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Annular ligament of radius.r",
+   "src_type": "MESH",
+   "polys": 188
+  },
+  {
+   "name": "Quadrate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Articular capsule of elbow joint.l",
+   "src_type": "MESH",
+   "polys": 878
+  },
+  {
+   "name": "Radial collateral ligament.l",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Ulnar collateral ligament.l",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Annular ligament of radius.l",
+   "src_type": "MESH",
+   "polys": 188
+  },
+  {
+   "name": "Quadrate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Articular capsule of radiocarpal joint.r",
+   "src_type": "MESH",
+   "polys": 671
+  },
+  {
+   "name": "Articular disc of distal radio-ulnar joint.r",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Palmar radio-ulnar ligament.r",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Dorsal radio-ulnar ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Articular disc of distal radio-ulnar joint.l",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Palmar radio-ulnar ligament.l",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Dorsal radio-ulnar ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Articular capsule of radiocarpal joint.l",
+   "src_type": "MESH",
+   "polys": 671
+  },
+  {
+   "name": "Dorsal radiocarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Ulnar collateral ligament of wrist joint.r",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Radial collateral ligament of wrist joint.r",
+   "src_type": "MESH",
+   "polys": 72
+  },
+  {
+   "name": "Dorsal ulnocarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 60
+  },
+  {
+   "name": "Dorsal radiocarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Ulnar collateral ligament of wrist joint.l",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Radial collateral ligament of wrist joint.l",
+   "src_type": "MESH",
+   "polys": 72
+  },
+  {
+   "name": "Dorsal ulnocarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 60
+  },
+  {
+   "name": "Radiocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Radioscaphocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 10
+  },
+  {
+   "name": "Radiocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Radioscaphocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 10
+  },
+  {
+   "name": "Ulnocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Ulnopisiform ligament",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Ulnotriquetral ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Ulnolunate ligament.r",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Ulnocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Ulnopisiform ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Ulnotriquetral ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Ulnolunate ligament.l",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Articular capsule of radiocarpal joint.r",
+   "src_type": "MESH",
+   "polys": 671
+  },
+  {
+   "name": "Radiocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Radioscaphocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 10
+  },
+  {
+   "name": "Ulnocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Ulnopisiform ligament",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Ulnotriquetral ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Ulnolunate ligament.r",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Dorsal radiocarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Ulnar collateral ligament of wrist joint.r",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Radial collateral ligament of wrist joint.r",
+   "src_type": "MESH",
+   "polys": 72
+  },
+  {
+   "name": "Dorsal ulnocarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 60
+  },
+  {
+   "name": "Radiate carpal ligament.r",
+   "src_type": "MESH",
+   "polys": 204
+  },
+  {
+   "name": "Articular capsule of radiocarpal joint.l",
+   "src_type": "MESH",
+   "polys": 671
+  },
+  {
+   "name": "Radiocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Radioscaphocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 10
+  },
+  {
+   "name": "Ulnocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Ulnopisiform ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Ulnotriquetral ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Ulnolunate ligament.l",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Dorsal radiocarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Ulnar collateral ligament of wrist joint.l",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Radial collateral ligament of wrist joint.l",
+   "src_type": "MESH",
+   "polys": 72
+  },
+  {
+   "name": "Dorsal ulnocarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 60
+  },
+  {
+   "name": "Radiate carpal ligament.l",
+   "src_type": "MESH",
+   "polys": 204
+  },
+  {
+   "name": "Radiate carpal ligament.r",
+   "src_type": "MESH",
+   "polys": 204
+  },
+  {
+   "name": "Radiate carpal ligament.l",
+   "src_type": "MESH",
+   "polys": 204
+  },
+  {
+   "name": "Dorsal scaphotriquetral ligament.r",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Dorsal intercarpal ligaments.r",
+   "src_type": "MESH",
+   "polys": 220
+  },
+  {
+   "name": "Dorsal scaphotriquetral ligament.l",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Dorsal intercarpal ligaments.l",
+   "src_type": "MESH",
+   "polys": 220
+  },
+  {
+   "name": "Scaphotrapeziotrapezoidal ligament.r",
+   "src_type": "MESH",
+   "polys": 72
+  },
+  {
+   "name": "Scaphocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Palmar scaphotriquetral ligament.r",
+   "src_type": "MESH",
+   "polys": 128
+  },
+  {
+   "name": "Triquetrocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 10
+  },
+  {
+   "name": "Triquetrohamate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Pisotriquetral ligament.r",
+   "src_type": "MESH",
+   "polys": 132
+  },
+  {
+   "name": "Palmar capitohamate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Palmar trapezoideocapitate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Palmar lunotriquetral ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Scaphotrapeziotrapezoidal ligament.l",
+   "src_type": "MESH",
+   "polys": 72
+  },
+  {
+   "name": "Scaphocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Palmar scaphotriquetral ligament.l",
+   "src_type": "MESH",
+   "polys": 128
+  },
+  {
+   "name": "Triquetrocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 10
+  },
+  {
+   "name": "Triquetrohamate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Pisotriquetral ligament.l",
+   "src_type": "MESH",
+   "polys": 132
+  },
+  {
+   "name": "Palmar capitohamate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Palmar trapezoideocapitate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Palmar lunotriquetral ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Scapholunate interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Trapeziotrapezoidal interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Capitohamate interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Trapezoideocapitate interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Lunotriquetral interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Scapholunate interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Trapeziotrapezoidal interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Capitohamate interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Trapezoideocapitate interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Lunotriquetral interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Pisohamate ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Pisometacarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Pisohamate ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Pisometacarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Dorsal carpometacarpal ligaments.r",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Palmar carpometacarpal ligaments.r",
+   "src_type": "MESH",
+   "polys": 208
+  },
+  {
+   "name": "Dorsal carpometacarpal ligaments.l",
+   "src_type": "MESH",
+   "polys": 74
+  },
+  {
+   "name": "Palmar carpometacarpal ligaments.l",
+   "src_type": "MESH",
+   "polys": 208
+  },
+  {
+   "name": "Dorsal metacarpal ligaments.r",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Palmar metacarpal ligaments.r",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Interosseous metacarpal ligaments.r",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Dorsal metacarpal ligaments.l",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Palmar metacarpal ligaments.l",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Interosseous metacarpal ligaments.l",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Articular capsules of metacarpophalangeal joints.r",
+   "src_type": "MESH",
+   "polys": 784
+  },
+  {
+   "name": "Collateral metacarpophalangeal ligaments.r",
+   "src_type": "MESH",
+   "polys": 520
+  },
+  {
+   "name": "Deep transverse metacarpal ligament.r",
+   "src_type": "MESH",
+   "polys": 30
+  },
+  {
+   "name": "Articular capsules of metacarpophalangeal joints.l",
+   "src_type": "MESH",
+   "polys": 784
+  },
+  {
+   "name": "Collateral metacarpophalangeal ligaments.l",
+   "src_type": "MESH",
+   "polys": 520
+  },
+  {
+   "name": "Deep transverse metacarpal ligament.l",
+   "src_type": "MESH",
+   "polys": 30
+  },
+  {
+   "name": "Articular capsules of proximal interphalangeal joints.r",
+   "src_type": "MESH",
+   "polys": 696
+  },
+  {
+   "name": "Articular capsules of distal interphalangeal joints.r",
+   "src_type": "MESH",
+   "polys": 752
+  },
+  {
+   "name": "Collateral interphalangeal ligaments of hand.r",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Palmar interphalangeal ligaments.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Articular capsules of proximal interphalangeal joints.l",
+   "src_type": "MESH",
+   "polys": 696
+  },
+  {
+   "name": "Articular capsules of distal interphalangeal joints.l",
+   "src_type": "MESH",
+   "polys": 752
+  },
+  {
+   "name": "Collateral interphalangeal ligaments of hand.l",
+   "src_type": "MESH",
+   "polys": 984
+  },
+  {
+   "name": "Palmar interphalangeal ligaments.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Sacrospinous ligament.r",
+   "src_type": "MESH",
+   "polys": 140
+  },
+  {
+   "name": "Iliolumbar ligament.r",
+   "src_type": "MESH",
+   "polys": 56
+  },
+  {
+   "name": "Sacrospinous ligament.l",
+   "src_type": "MESH",
+   "polys": 140
+  },
+  {
+   "name": "Iliolumbar ligament.l",
+   "src_type": "MESH",
+   "polys": 56
+  },
+  {
+   "name": "Obturator membrane.r",
+   "src_type": "MESH",
+   "polys": 536
+  },
+  {
+   "name": "Obturator membrane.l",
+   "src_type": "MESH",
+   "polys": 536
+  },
+  {
+   "name": "Sacrotuberous ligament.r",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Sacrotuberous ligament.l",
+   "src_type": "MESH",
+   "polys": 328
+  },
+  {
+   "name": "Triradiate cartilage.r",
+   "src_type": "MESH",
+   "polys": 802
+  },
+  {
+   "name": "Triradiate cartilage.l",
+   "src_type": "MESH",
+   "polys": 802
+  },
+  {
+   "name": "Pubic symphysis",
+   "src_type": "MESH",
+   "polys": 208
+  },
+  {
+   "name": "Interpubic disc",
+   "src_type": "MESH",
+   "polys": 208
+  },
+  {
+   "name": "Inferior pubic ligament",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Superior pubic ligament",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Anterior sacro-iliac ligament.r",
+   "src_type": "MESH",
+   "polys": 252
+  },
+  {
+   "name": "Posterior sacro-iliac ligament.r",
+   "src_type": "MESH",
+   "polys": 2728
+  },
+  {
+   "name": "Interosseous sacro-iliac ligament.r",
+   "src_type": "MESH",
+   "polys": 100
+  },
+  {
+   "name": "Anterior sacro-iliac ligament.l",
+   "src_type": "MESH",
+   "polys": 252
+  },
+  {
+   "name": "Posterior sacro-iliac ligament.l",
+   "src_type": "MESH",
+   "polys": 2728
+  },
+  {
+   "name": "Interosseous sacro-iliac ligament.l",
+   "src_type": "MESH",
+   "polys": 100
+  },
+  {
+   "name": "Interosseous membrane of leg.l",
+   "src_type": "MESH",
+   "polys": 12642
+  },
+  {
+   "name": "Interosseous membrane of leg.r",
+   "src_type": "MESH",
+   "polys": 12642
+  },
+  {
+   "name": "Anterior tibiofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Posterior tibiofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Transverse tibiofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Anterior tibiofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Posterior tibiofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Transverse tibiofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Transverse acetabular ligament.r",
+   "src_type": "MESH",
+   "polys": 284
+  },
+  {
+   "name": "Acetabular labrum.r",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Pubofemoral ligament.r",
+   "src_type": "MESH",
+   "polys": 196
+  },
+  {
+   "name": "Zona orbicularis.r",
+   "src_type": "MESH",
+   "polys": 2368
+  },
+  {
+   "name": "Ischiofemoral ligament.r",
+   "src_type": "MESH",
+   "polys": 336
+  },
+  {
+   "name": "Ligament of head of femur.r",
+   "src_type": "MESH",
+   "polys": 390
+  },
+  {
+   "name": "Articular capsule of hip joint.r",
+   "src_type": "MESH",
+   "polys": 560
+  },
+  {
+   "name": "Frenula capsulae.r",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Transverse acetabular ligament.l",
+   "src_type": "MESH",
+   "polys": 284
+  },
+  {
+   "name": "Acetabular labrum.l",
+   "src_type": "MESH",
+   "polys": 704
+  },
+  {
+   "name": "Pubofemoral ligament.l",
+   "src_type": "MESH",
+   "polys": 196
+  },
+  {
+   "name": "Zona orbicularis.l",
+   "src_type": "MESH",
+   "polys": 2368
+  },
+  {
+   "name": "Ischiofemoral ligament.l",
+   "src_type": "MESH",
+   "polys": 336
+  },
+  {
+   "name": "Ligament of head of femur.l",
+   "src_type": "MESH",
+   "polys": 390
+  },
+  {
+   "name": "Articular capsule of hip joint.l",
+   "src_type": "MESH",
+   "polys": 560
+  },
+  {
+   "name": "Frenula capsulae.l",
+   "src_type": "MESH",
+   "polys": 432
+  },
+  {
+   "name": "Transverse part of iliofemoral ligament.r",
+   "src_type": "MESH",
+   "polys": 232
+  },
+  {
+   "name": "Descending part of iliofemoral ligament.r",
+   "src_type": "MESH",
+   "polys": 304
+  },
+  {
+   "name": "Transverse part of iliofemoral ligament.l",
+   "src_type": "MESH",
+   "polys": 232
+  },
+  {
+   "name": "Descending part of iliofemoral ligament.l",
+   "src_type": "MESH",
+   "polys": 304
+  },
+  {
+   "name": "Lateral meniscus.r",
+   "src_type": "MESH",
+   "polys": 234
+  },
+  {
+   "name": "Articular capsule of knee joint.r",
+   "src_type": "MESH",
+   "polys": 1472
+  },
+  {
+   "name": "Meniscopatellar ligament.r",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Transverse ligament of knee.r",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Posterior cruciate ligament.r",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Anterior cruciate ligament.r",
+   "src_type": "MESH",
+   "polys": 808
+  },
+  {
+   "name": "Fibular collateral ligament.r",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Oblique popliteal ligament.r",
+   "src_type": "MESH",
+   "polys": 184
+  },
+  {
+   "name": "Infrapatellar fat pad.r",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Arcuate popliteal ligament.r",
+   "src_type": "MESH",
+   "polys": 644
+  },
+  {
+   "name": "Popliteofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 448
+  },
+  {
+   "name": "Lateral meniscus.l",
+   "src_type": "MESH",
+   "polys": 234
+  },
+  {
+   "name": "Articular capsule of knee joint.l",
+   "src_type": "MESH",
+   "polys": 1472
+  },
+  {
+   "name": "Meniscopatellar ligament.l",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Transverse ligament of knee.l",
+   "src_type": "MESH",
+   "polys": 216
+  },
+  {
+   "name": "Posterior cruciate ligament.l",
+   "src_type": "MESH",
+   "polys": 404
+  },
+  {
+   "name": "Anterior cruciate ligament.l",
+   "src_type": "MESH",
+   "polys": 808
+  },
+  {
+   "name": "Fibular collateral ligament.l",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Oblique popliteal ligament.l",
+   "src_type": "MESH",
+   "polys": 184
+  },
+  {
+   "name": "Infrapatellar fat pad.l",
+   "src_type": "MESH",
+   "polys": 384
+  },
+  {
+   "name": "Arcuate popliteal ligament.l",
+   "src_type": "MESH",
+   "polys": 644
+  },
+  {
+   "name": "Popliteofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 448
+  },
+  {
+   "name": "Superficial part of tibial collateral ligament.r",
+   "src_type": "MESH",
+   "polys": 248
+  },
+  {
+   "name": "Superficial part of tibial collateral ligament.l",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Anterior meniscotibial ligament (Medial meniscus).r",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Posterior meniscotibial ligament (Medial meniscus).r",
+   "src_type": "MESH",
+   "polys": 152
+  },
+  {
+   "name": "Anterior meniscotibial ligament (Medial meniscus).l",
+   "src_type": "MESH",
+   "polys": 64
+  },
+  {
+   "name": "Posterior meniscotibial ligament (Medial meniscus).l",
+   "src_type": "MESH",
+   "polys": 152
+  },
+  {
+   "name": "Medial meniscus.r",
+   "src_type": "MESH",
+   "polys": 142
+  },
+  {
+   "name": "Anterior meniscotibial ligament (Lateral meniscus).r",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Posterior meniscotibial ligament (Lateral meniscus).r",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Medial meniscus.l",
+   "src_type": "MESH",
+   "polys": 142
+  },
+  {
+   "name": "Anterior meniscotibial ligament (Lateral meniscus).l",
+   "src_type": "MESH",
+   "polys": 124
+  },
+  {
+   "name": "Posterior meniscotibial ligament (Lateral meniscus).l",
+   "src_type": "MESH",
+   "polys": 96
+  },
+  {
+   "name": "Superficial part of tibial collateral ligament.r",
+   "src_type": "MESH",
+   "polys": 248
+  },
+  {
+   "name": "Deep part of tibial collateral ligament.r",
+   "src_type": "MESH",
+   "polys": 128
+  },
+  {
+   "name": "Superficial part of tibial collateral ligament.l",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Deep part of tibial collateral ligament.l",
+   "src_type": "MESH",
+   "polys": 128
+  },
+  {
+   "name": "Anterior ligament of fibular head.r",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Posterior ligament of fibular head.r",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Articular capsule of superior tibiofibular joint.r",
+   "src_type": "MESH",
+   "polys": 280
+  },
+  {
+   "name": "Anterior ligament of fibular head.l",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Posterior ligament of fibular head.l",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Articular capsule of superior tibiofibular joint.l",
+   "src_type": "MESH",
+   "polys": 280
+  },
+  {
+   "name": "Posterior tibiotalar ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Tibiocalcaneal ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Tibionavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 116
+  },
+  {
+   "name": "Tibiocalcaneal ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Posterior tibiotalar ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Tibionavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 116
+  },
+  {
+   "name": "Posterior talofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Anterior talofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Calcaneofibular ligament.r",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Posterior talofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Calcaneofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Anterior talofibular ligament.l",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Lateral talocalcaneal ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Medial talocalcaneal ligament.r",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Posterior talocalcaneal ligament.r",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Talocalcaneal interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 212
+  },
+  {
+   "name": "Anterior talocalcaneal ligament.r",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Lateral talocalcaneal ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Medial talocalcaneal ligament.l",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Posterior talocalcaneal ligament.l",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Talocalcaneal interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 212
+  },
+  {
+   "name": "Anterior talocalcaneal ligament.l",
+   "src_type": "MESH",
+   "polys": 52
+  },
+  {
+   "name": "Long plantar ligament.r",
+   "src_type": "MESH",
+   "polys": 3486
+  },
+  {
+   "name": "Long plantar ligament.l",
+   "src_type": "MESH",
+   "polys": 3486
+  },
+  {
+   "name": "Calcaneonavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Calcaneocuboid ligament.r",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Calcaneonavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Calcaneocuboid ligament.l",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Plantar calcaneonavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Talonavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Plantar calcaneonavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 16
+  },
+  {
+   "name": "Talonavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Plantar calcaneocuboid ligament.r",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Dorsal calcaneocuboid ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Plantar calcaneocuboid ligament.l",
+   "src_type": "MESH",
+   "polys": 68
+  },
+  {
+   "name": "Dorsal calcaneocuboid ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Dorsal cuneonavicular ligaments.r",
+   "src_type": "MESH",
+   "polys": 30
+  },
+  {
+   "name": "Plantar cuneonavicular ligaments.r",
+   "src_type": "MESH",
+   "polys": 26
+  },
+  {
+   "name": "Dorsal cuneonavicular ligaments.l",
+   "src_type": "MESH",
+   "polys": 30
+  },
+  {
+   "name": "Plantar cuneonavicular ligaments.l",
+   "src_type": "MESH",
+   "polys": 26
+  },
+  {
+   "name": "Cuneocuboid interosseous ligament.r",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Dorsal cuneocuboid ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Plantar cuneocuboid ligament.r",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Cuneocuboid interosseous ligament.l",
+   "src_type": "MESH",
+   "polys": 40
+  },
+  {
+   "name": "Dorsal cuneocuboid ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Plantar cuneocuboid ligament.l",
+   "src_type": "MESH",
+   "polys": 48
+  },
+  {
+   "name": "Plantar cuboideonavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Dorsal cuboideonavicular ligament.r",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Plantar cuboideonavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Dorsal cuboideonavicular ligament.l",
+   "src_type": "MESH",
+   "polys": 6
+  },
+  {
+   "name": "Intercuneiform interosseous ligaments.r",
+   "src_type": "MESH",
+   "polys": 12
+  },
+  {
+   "name": "Dorsal intercuneiform ligaments.r",
+   "src_type": "MESH",
+   "polys": 12
+  },
+  {
+   "name": "Plantar intercuneiform ligaments.r",
+   "src_type": "MESH",
+   "polys": 12
+  },
+  {
+   "name": "Intercuneiform interosseous ligaments.l",
+   "src_type": "MESH",
+   "polys": 12
+  },
+  {
+   "name": "Dorsal intercuneiform ligaments.l",
+   "src_type": "MESH",
+   "polys": 12
+  },
+  {
+   "name": "Plantar intercuneiform ligaments.l",
+   "src_type": "MESH",
+   "polys": 12
+  },
+  {
+   "name": "Dorsal tarsometatarsal ligaments.r",
+   "src_type": "MESH",
+   "polys": 196
+  },
+  {
+   "name": "Plantar tarsometatarsal ligaments.r",
+   "src_type": "MESH",
+   "polys": 50
+  },
+  {
+   "name": "Cuneometatarsal interosseous ligaments.r",
+   "src_type": "MESH",
+   "polys": 18
+  },
+  {
+   "name": "Dorsal tarsometatarsal ligaments.l",
+   "src_type": "MESH",
+   "polys": 196
+  },
+  {
+   "name": "Plantar tarsometatarsal ligaments.l",
+   "src_type": "MESH",
+   "polys": 50
+  },
+  {
+   "name": "Cuneometatarsal interosseous ligaments.l",
+   "src_type": "MESH",
+   "polys": 18
+  },
+  {
+   "name": "Dorsal metatarsal ligaments.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Plantar metatarsal ligaments.r",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Metatarsal interosseous ligaments.r",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Intersesamoid ligament.r",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Dorsal metatarsal ligaments.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Plantar metatarsal ligaments.l",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Metatarsal interosseous ligaments.l",
+   "src_type": "MESH",
+   "polys": 24
+  },
+  {
+   "name": "Intersesamoid ligament.l",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Collateral metatarsophalangeal ligaments.r",
+   "src_type": "MESH",
+   "polys": 808
+  },
+  {
+   "name": "Plantar metatarsophalangeal ligaments.r",
+   "src_type": "MESH",
+   "polys": 440
+  },
+  {
+   "name": "Deep transverse metatarsal ligament.r",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Articular capsules of metatarsophalangeal joints.r",
+   "src_type": "MESH",
+   "polys": 876
+  },
+  {
+   "name": "Collateral metatarsophalangeal ligaments.l",
+   "src_type": "MESH",
+   "polys": 808
+  },
+  {
+   "name": "Plantar metatarsophalangeal ligaments.l",
+   "src_type": "MESH",
+   "polys": 440
+  },
+  {
+   "name": "Deep transverse metatarsal ligament.l",
+   "src_type": "MESH",
+   "polys": 76
+  },
+  {
+   "name": "Articular capsules of metatarsophalangeal joints.l",
+   "src_type": "MESH",
+   "polys": 876
+  },
+  {
+   "name": "Articular capsules of distal interphalangeal joints of foot.r",
+   "src_type": "MESH",
+   "polys": 712
+  },
+  {
+   "name": "Articular capsule of interphalangeal joint of great toe.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Articular capsules of proximal interphalangeal joints of foot.r",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Collateral interphalangeal ligaments of foot.r",
+   "src_type": "MESH",
+   "polys": 1348
+  },
+  {
+   "name": "Plantar interphalangeal ligaments.r",
+   "src_type": "MESH",
+   "polys": 808
+  },
+  {
+   "name": "Articular capsules of distal interphalangeal joints of foot.l",
+   "src_type": "MESH",
+   "polys": 712
+  },
+  {
+   "name": "Articular capsule of interphalangeal joint of great toe.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Articular capsules of proximal interphalangeal joints of foot.l",
+   "src_type": "MESH",
+   "polys": 732
+  },
+  {
+   "name": "Collateral interphalangeal ligaments of foot.l",
+   "src_type": "MESH",
+   "polys": 1348
+  },
+  {
+   "name": "Plantar interphalangeal ligaments.l",
+   "src_type": "MESH",
+   "polys": 808
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Gomphosis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Gomphosis.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Synarthrosis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Amphiarthrosis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Diarthrosis.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Simple joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Complex joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Plane joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Cylindrical joints.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Bicondylar joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Saddle joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Ellipsoid joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Ball and socket joint.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Interosseous ligament.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Interosseous ligament.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Interosseous membrane.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Interosseous membrane.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Plane suture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Serrate suture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Denticulate suture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Limbous suture.g",
+   "type": "FONT"
+  },
+  {
+   "name": "Denticulate suture.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Limbous suture.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Plane suture.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  },
+  {
+   "name": "Serrate suture.j",
+   "type": "MESH",
+   "reason": "empty-mesh"
+  }
+ ]
+}

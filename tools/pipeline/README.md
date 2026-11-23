@@ -36,6 +36,35 @@ Z-Anatomy（Blender 应用模板，CC BY-SA 4.0）
 - 前置闸门：`check_pipeline_prereqs()`（Blender 在位 / 源文件在位）
 - 契约：`docs/契约/structure-manifest-v1.md`
 
+## 完整命令序列（M1 已实跑）
+
+```bash
+# 0. 源文件：Z-Anatomy.zip（86.7MB）内含 Startup.blend（306.8MB），解压到 assets/raw/
+#    国内网络：小文件 jsDelivr，大文件 gh-proxy.com + Range 分块并行（见 docs/问题记录.md P11）
+
+# 1. 结构摸底（1945 collections / 4569 几何对象）
+blender --background assets/raw/Z-Anatomy/Startup.blend \
+  --python tools/pipeline/blender_export.py -- --inspect --out vendor-ref/inspect_zanatomy.json
+
+# 2. 逐系统导出（示例：心血管；系统路径取自 inspect 的 "Bonus collection/..." 子树）
+blender --background assets/raw/Z-Anatomy/Startup.blend \
+  --python tools/pipeline/blender_export.py -- \
+  --collection "Bonus collection/Cardiovascular system" \
+  --out assets/cardiovascular.glb --report vendor-ref/cardiovascular_report.json
+
+# 3. 导出报告 → 系统 manifest（TA2 join + 后缀清洗 + 契约校验）
+PYTHONPATH=. python tools/pipeline/build_manifest.py \
+  --report vendor-ref/cardiovascular_report.json --ta2 vendor-ref/TA2.csv \
+  --system cardiovascular --out assets/cardiovascular.manifest.json
+
+# 4. 合并全图谱（幂等，跳过上次输出）
+PYTHONPATH=. python tools/pipeline/merge_manifests.py
+```
+
+**实装后新增的两个坑**（详见 docs/问题记录.md P8）：
+- `new_from_object` 继承材质节点树 → glTF gatherer 断链 IndexError ⇒ `export_materials="NONE"`（枚举名实测）；
+- 不删原场景会让导出器把整文件导进去（17 对象导出 3407 mesh）⇒ 烘焙后 `bpy.data.scenes.remove` 原场景。
+
 ## 数据署名
 
 导出产物（GLB + manifest）沿上游 CC BY-SA，分发时随包 NOTICE —— 见根 NOTICE。

@@ -1,0 +1,266 @@
+{
+ "collection": "Reference lines, planes & movements'",
+ "export_ok": true,
+ "export_error": "",
+ "out": "assets/reference.glb",
+ "converted": 51,
+ "total_polygons": 3493,
+ "objects": [
+  {
+   "name": "Distal",
+   "src_type": "MESH",
+   "polys": 42
+  },
+  {
+   "name": "Dorsal",
+   "src_type": "MESH",
+   "polys": 63
+  },
+  {
+   "name": "Fibular",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Plantar",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Proximal",
+   "src_type": "MESH",
+   "polys": 42
+  },
+  {
+   "name": "Radial",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Tibial",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Ulnar",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Ventral",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Frontal",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Occipital",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Cranial",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Caudal",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Palmar",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Paramedian plane",
+   "src_type": "MESH",
+   "polys": 1
+  },
+  {
+   "name": "Coronal planes",
+   "src_type": "MESH",
+   "polys": 2
+  },
+  {
+   "name": "Median plane",
+   "src_type": "MESH",
+   "polys": 1
+  },
+  {
+   "name": "Transverse planes",
+   "src_type": "MESH",
+   "polys": 5
+  },
+  {
+   "name": "Mamillary line.r",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Midclavicular line.r",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Parasternal line.r",
+   "src_type": "MESH",
+   "polys": 248
+  },
+  {
+   "name": "Sternal line.r",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Mamillary line.l",
+   "src_type": "MESH",
+   "polys": 192
+  },
+  {
+   "name": "Midclavicular line.l",
+   "src_type": "MESH",
+   "polys": 464
+  },
+  {
+   "name": "Parasternal line.l",
+   "src_type": "MESH",
+   "polys": 248
+  },
+  {
+   "name": "Sternal line.l",
+   "src_type": "MESH",
+   "polys": 88
+  },
+  {
+   "name": "Abduction",
+   "src_type": "MESH",
+   "polys": 46
+  },
+  {
+   "name": "Adduction",
+   "src_type": "MESH",
+   "polys": 552
+  },
+  {
+   "name": "Circumduction",
+   "src_type": "MESH",
+   "polys": 28
+  },
+  {
+   "name": "Lateral rotation",
+   "src_type": "MESH",
+   "polys": 23
+  },
+  {
+   "name": "Medial rotation",
+   "src_type": "MESH",
+   "polys": 23
+  },
+  {
+   "name": "Supination",
+   "src_type": "MESH",
+   "polys": 23
+  },
+  {
+   "name": "Pronation",
+   "src_type": "MESH",
+   "polys": 23
+  },
+  {
+   "name": "Inversion",
+   "src_type": "MESH",
+   "polys": 23
+  },
+  {
+   "name": "Eversion",
+   "src_type": "MESH",
+   "polys": 23
+  },
+  {
+   "name": "Plantar flexion",
+   "src_type": "MESH",
+   "polys": 13
+  },
+  {
+   "name": "Dorsiflexion",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Distal",
+   "src_type": "MESH",
+   "polys": 42
+  },
+  {
+   "name": "Dorsal",
+   "src_type": "MESH",
+   "polys": 63
+  },
+  {
+   "name": "Fibular",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Plantar",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Proximal",
+   "src_type": "MESH",
+   "polys": 42
+  },
+  {
+   "name": "Radial",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Tibial",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Ulnar",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Ventral",
+   "src_type": "MESH",
+   "polys": 21
+  },
+  {
+   "name": "Frontal",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Occipital",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Cranial",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Caudal",
+   "src_type": "MESH",
+   "polys": 15
+  },
+  {
+   "name": "Palmar",
+   "src_type": "MESH",
+   "polys": 21
+  }
+ ],
+ "skipped": []
+}

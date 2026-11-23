@@ -1,0 +1,5331 @@
+{
+ "manifest_version": 1,
+ "source": "z-anatomy",
+ "systems": [
+  {
+   "name": "arthrology",
+   "label": {
+    "en": "arthrology"
+   },
+   "structures": [
+    {
+     "id": "TA2:1569:arthrology:stylomandibular_ligament_r",
+     "ta2_id": "1569",
+     "names": {
+      "en": "Stylomandibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Stylomandibular ligament.r"
+     },
+     "polys": 22
+    },
+    {
+     "id": "TA2:1567:arthrology:stylohyoid_ligament_r",
+     "ta2_id": "1567",
+     "names": {
+      "en": "Stylohyoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Stylohyoid ligament.r"
+     },
+     "polys": 312
+    },
+    {
+     "id": "TA2:1566:arthrology:pterygospinous_ligament_r",
+     "ta2_id": "1566",
+     "names": {
+      "en": "Pterygospinous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pterygospinous ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1568:arthrology:sphenomandibular_ligament_r",
+     "ta2_id": "1568",
+     "names": {
+      "en": "Sphenomandibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sphenomandibular ligament.r"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:1569:arthrology:stylomandibular_ligament_l",
+     "ta2_id": "1569",
+     "names": {
+      "en": "Stylomandibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Stylomandibular ligament.l"
+     },
+     "polys": 22
+    },
+    {
+     "id": "TA2:1567:arthrology:stylohyoid_ligament_l",
+     "ta2_id": "1567",
+     "names": {
+      "en": "Stylohyoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Stylohyoid ligament.l"
+     },
+     "polys": 312
+    },
+    {
+     "id": "TA2:1566:arthrology:pterygospinous_ligament_l",
+     "ta2_id": "1566",
+     "names": {
+      "en": "Pterygospinous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pterygospinous ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1568:arthrology:sphenomandibular_ligament_l",
+     "ta2_id": "1568",
+     "names": {
+      "en": "Sphenomandibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sphenomandibular ligament.l"
+     },
+     "polys": 144
+    },
+    {
+     "id": "TA2:7151:arthrology:articular_capsule_of_temporomandibular_joint_r",
+     "ta2_id": "7151",
+     "names": {
+      "en": "Articular capsule of temporomandibular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of temporomandibular joint.r"
+     },
+     "polys": 900
+    },
+    {
+     "id": "TA2:1624:arthrology:lateral_temporomandibular_ligament_l",
+     "ta2_id": "1624",
+     "names": {
+      "en": "Lateral temporomandibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral temporomandibular ligament.l"
+     },
+     "polys": 38
+    },
+    {
+     "id": "TA2:1623:arthrology:articular_disc_of_temporomandibular_joint_r",
+     "ta2_id": "1623",
+     "names": {
+      "en": "Articular disc of temporomandibular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of temporomandibular joint.r"
+     },
+     "polys": 274
+    },
+    {
+     "id": "TA2:7151:arthrology:articular_capsule_of_temporomandibular_joint_l",
+     "ta2_id": "7151",
+     "names": {
+      "en": "Articular capsule of temporomandibular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of temporomandibular joint.l"
+     },
+     "polys": 900
+    },
+    {
+     "id": "TA2:1624:arthrology:lateral_temporomandibular_ligament_r",
+     "ta2_id": "1624",
+     "names": {
+      "en": "Lateral temporomandibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral temporomandibular ligament.r"
+     },
+     "polys": 38
+    },
+    {
+     "id": "TA2:1623:arthrology:articular_disc_of_temporomandibular_joint_l",
+     "ta2_id": "1623",
+     "names": {
+      "en": "Articular disc of temporomandibular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of temporomandibular joint.l"
+     },
+     "polys": 274
+    },
+    {
+     "id": "TA2:1662:arthrology:median_cricothyroid_ligament",
+     "ta2_id": "1662",
+     "names": {
+      "en": "Median cricothyroid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Median cricothyroid ligament"
+     },
+     "polys": 1872
+    },
+    {
+     "id": "TA2:1653:arthrology:lateral_thyrohyoid_ligament_r",
+     "ta2_id": "1653",
+     "names": {
+      "en": "Lateral thyrohyoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral thyrohyoid ligament.r"
+     },
+     "polys": 912
+    },
+    {
+     "id": "TA2:1653:arthrology:lateral_thyrohyoid_ligament_l",
+     "ta2_id": "1653",
+     "names": {
+      "en": "Lateral thyrohyoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral thyrohyoid ligament.l"
+     },
+     "polys": 912
+    },
+    {
+     "id": "TA2:1652:arthrology:median_thyrohyoid_ligament",
+     "ta2_id": "1652",
+     "names": {
+      "en": "Median thyrohyoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Median thyrohyoid ligament"
+     },
+     "polys": 2753
+    },
+    {
+     "id": "TA2:1658:arthrology:quadrangular_membrane_r",
+     "ta2_id": "1658",
+     "names": {
+      "en": "Quadrangular membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Quadrangular membrane.r"
+     },
+     "polys": 4592
+    },
+    {
+     "id": "TA2:1658:arthrology:quadrangular_membrane_l",
+     "ta2_id": "1658",
+     "names": {
+      "en": "Quadrangular membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Quadrangular membrane.l"
+     },
+     "polys": 4592
+    },
+    {
+     "id": "TA2:1669:arthrology:cricopharyngeal_ligament_r",
+     "ta2_id": "1669",
+     "names": {
+      "en": "Cricopharyngeal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Cricopharyngeal ligament.r"
+     },
+     "polys": 3119
+    },
+    {
+     "id": "TA2:1669:arthrology:cricopharyngeal_ligament_l",
+     "ta2_id": "1669",
+     "names": {
+      "en": "Cricopharyngeal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Cricopharyngeal ligament.l"
+     },
+     "polys": 3119
+    },
+    {
+     "id": "TA2:1677:arthrology:supraspinous_ligament",
+     "ta2_id": "1677",
+     "names": {
+      "en": "Supraspinous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Supraspinous ligament"
+     },
+     "polys": 436
+    },
+    {
+     "id": "TA2:1674:arthrology:interspinous_ligaments",
+     "ta2_id": "1674",
+     "names": {
+      "en": "Interspinous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interspinous ligaments"
+     },
+     "polys": 292
+    },
+    {
+     "id": "TA2:1679:arthrology:anterior_longitudinal_ligament",
+     "ta2_id": "1679",
+     "names": {
+      "en": "Anterior longitudinal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior longitudinal ligament"
+     },
+     "polys": 2464
+    },
+    {
+     "id": "TA2:1680:arthrology:posterior_longitudinal_ligament",
+     "ta2_id": "1680",
+     "names": {
+      "en": "Posterior longitudinal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior longitudinal ligament"
+     },
+     "polys": 3768
+    },
+    {
+     "id": "TA2:1678:arthrology:nuchal_ligament",
+     "ta2_id": "1678",
+     "names": {
+      "en": "Nuchal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nuchal ligament"
+     },
+     "polys": 324
+    },
+    {
+     "id": "TA2:1676:arthrology:intertransverse_ligaments_r",
+     "ta2_id": "1676",
+     "names": {
+      "en": "Intertransverse ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intertransverse ligaments.r"
+     },
+     "polys": 5720
+    },
+    {
+     "id": "TA2:1675:arthrology:ligamenta_flava",
+     "ta2_id": "1675",
+     "names": {
+      "en": "Ligamenta flava"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ligamenta flava"
+     },
+     "polys": 2364
+    },
+    {
+     "id": "TA2:1681:arthrology:intercornual_ligament_r",
+     "ta2_id": "1681",
+     "names": {
+      "en": "Intercornual ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intercornual ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1676:arthrology:intertransverse_ligaments_l",
+     "ta2_id": "1676",
+     "names": {
+      "en": "Intertransverse ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intertransverse ligaments.l"
+     },
+     "polys": 5720
+    },
+    {
+     "id": "TA2:1681:arthrology:intercornual_ligament_l",
+     "ta2_id": "1681",
+     "names": {
+      "en": "Intercornual ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intercornual ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:7154:arthrology:intervertebral_disc_c2_c3",
+     "ta2_id": "7154",
+     "names": {
+      "en": "Intervertebral disc C2-C3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc C2-C3"
+     },
+     "polys": 810
+    },
+    {
+     "id": "TA2:7155:arthrology:intervertebral_disc_c3_c4",
+     "ta2_id": "7155",
+     "names": {
+      "en": "Intervertebral disc C3-C4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc C3-C4"
+     },
+     "polys": 654
+    },
+    {
+     "id": "TA2:7156:arthrology:intervertebral_disc_c4_c5",
+     "ta2_id": "7156",
+     "names": {
+      "en": "Intervertebral disc C4-C5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc C4-C5"
+     },
+     "polys": 822
+    },
+    {
+     "id": "TA2:7157:arthrology:intervertebral_disc_c5_c6",
+     "ta2_id": "7157",
+     "names": {
+      "en": "Intervertebral disc C5-C6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc C5-C6"
+     },
+     "polys": 930
+    },
+    {
+     "id": "TA2:7158:arthrology:intervertebral_disc_c6_c7",
+     "ta2_id": "7158",
+     "names": {
+      "en": "Intervertebral disc C6-C7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc C6-C7"
+     },
+     "polys": 800
+    },
+    {
+     "id": "TA2:7159:arthrology:intervertebral_disc_c7_t1",
+     "ta2_id": "7159",
+     "names": {
+      "en": "Intervertebral disc C7-T1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc C7-T1"
+     },
+     "polys": 1140
+    },
+    {
+     "id": "TA2:7160:arthrology:intervertebral_disc_l1_l2",
+     "ta2_id": "7160",
+     "names": {
+      "en": "Intervertebral disc L1-L2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc L1-L2"
+     },
+     "polys": 3058
+    },
+    {
+     "id": "TA2:7161:arthrology:intervertebral_disc_l2_l3",
+     "ta2_id": "7161",
+     "names": {
+      "en": "Intervertebral disc L2-L3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc L2-L3"
+     },
+     "polys": 3302
+    },
+    {
+     "id": "TA2:7162:arthrology:intervertebral_disc_l3_l4",
+     "ta2_id": "7162",
+     "names": {
+      "en": "Intervertebral disc L3-L4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc L3-L4"
+     },
+     "polys": 3040
+    },
+    {
+     "id": "TA2:7163:arthrology:intervertebral_disc_l4_l5",
+     "ta2_id": "7163",
+     "names": {
+      "en": "Intervertebral disc L4-L5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc L4-L5"
+     },
+     "polys": 3216
+    },
+    {
+     "id": "TA2:7164:arthrology:intervertebral_disc_l5_s1",
+     "ta2_id": "7164",
+     "names": {
+      "en": "Intervertebral disc L5-S1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc L5-S1"
+     },
+     "polys": 3498
+    },
+    {
+     "id": "TA2:7165:arthrology:intervertebral_disc_t1_t2",
+     "ta2_id": "7165",
+     "names": {
+      "en": "Intervertebral disc T1-T2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T1-T2"
+     },
+     "polys": 1208
+    },
+    {
+     "id": "TA2:7174:arthrology:intervertebral_disc_t10_t11",
+     "ta2_id": "7174",
+     "names": {
+      "en": "Intervertebral disc T10-T11"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T10-T11"
+     },
+     "polys": 2770
+    },
+    {
+     "id": "TA2:7175:arthrology:intervertebral_disc_t11_t12",
+     "ta2_id": "7175",
+     "names": {
+      "en": "Intervertebral disc T11-T12"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T11-T12"
+     },
+     "polys": 3300
+    },
+    {
+     "id": "TA2:7176:arthrology:intervertebral_disc_t12_l1",
+     "ta2_id": "7176",
+     "names": {
+      "en": "Intervertebral disc T12-L1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T12-L1"
+     },
+     "polys": 3246
+    },
+    {
+     "id": "TA2:7166:arthrology:intervertebral_disc_t2_t3",
+     "ta2_id": "7166",
+     "names": {
+      "en": "Intervertebral disc T2-T3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T2-T3"
+     },
+     "polys": 1272
+    },
+    {
+     "id": "TA2:7167:arthrology:intervertebral_disc_t3_t4",
+     "ta2_id": "7167",
+     "names": {
+      "en": "Intervertebral disc T3-T4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T3-T4"
+     },
+     "polys": 1310
+    },
+    {
+     "id": "TA2:7168:arthrology:intervertebral_disc_t4_t5",
+     "ta2_id": "7168",
+     "names": {
+      "en": "Intervertebral disc T4-T5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T4-T5"
+     },
+     "polys": 1600
+    },
+    {
+     "id": "TA2:7169:arthrology:intervertebral_disc_t5_t6",
+     "ta2_id": "7169",
+     "names": {
+      "en": "Intervertebral disc T5-T6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T5-T6"
+     },
+     "polys": 1684
+    },
+    {
+     "id": "TA2:7170:arthrology:intervertebral_disc_t6_t7",
+     "ta2_id": "7170",
+     "names": {
+      "en": "Intervertebral disc T6-T7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T6-T7"
+     },
+     "polys": 2326
+    },
+    {
+     "id": "TA2:7171:arthrology:intervertebral_disc_t7_t8",
+     "ta2_id": "7171",
+     "names": {
+      "en": "Intervertebral disc T7-T8"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T7-T8"
+     },
+     "polys": 2572
+    },
+    {
+     "id": "TA2:7172:arthrology:intervertebral_disc_t8_t9",
+     "ta2_id": "7172",
+     "names": {
+      "en": "Intervertebral disc T8-T9"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T8-T9"
+     },
+     "polys": 2786
+    },
+    {
+     "id": "TA2:7173:arthrology:intervertebral_disc_t9_t10",
+     "ta2_id": "7173",
+     "names": {
+      "en": "Intervertebral disc T9-T10"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intervertebral disc T9-T10"
+     },
+     "polys": 1186
+    },
+    {
+     "id": "TA2:7188:arthrology:nucleus_pulposus_l5_s1",
+     "ta2_id": "7188",
+     "names": {
+      "en": "Nucleus pulposus L5-S1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus L5-S1"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7187:arthrology:nucleus_pulposus_l4_l5",
+     "ta2_id": "7187",
+     "names": {
+      "en": "Nucleus pulposus L4-L5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus L4-L5"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7186:arthrology:nucleus_pulposus_l3_l4",
+     "ta2_id": "7186",
+     "names": {
+      "en": "Nucleus pulposus L3-L4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus L3-L4"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7185:arthrology:nucleus_pulposus_l2_l3",
+     "ta2_id": "7185",
+     "names": {
+      "en": "Nucleus pulposus L2-L3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus L2-L3"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7184:arthrology:nucleus_pulposus_l1_l2",
+     "ta2_id": "7184",
+     "names": {
+      "en": "Nucleus pulposus L1-L2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus L1-L2"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7200:arthrology:nucleus_pulposus_t12_l1",
+     "ta2_id": "7200",
+     "names": {
+      "en": "Nucleus pulposus T12-L1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T12-L1"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7199:arthrology:nucleus_pulposus_t11_t12",
+     "ta2_id": "7199",
+     "names": {
+      "en": "Nucleus pulposus T11-T12"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T11-T12"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7198:arthrology:nucleus_pulposus_t10_t11",
+     "ta2_id": "7198",
+     "names": {
+      "en": "Nucleus pulposus T10-T11"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T10-T11"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7197:arthrology:nucleus_pulposus_t9_t10",
+     "ta2_id": "7197",
+     "names": {
+      "en": "Nucleus pulposus T9-T10"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T9-T10"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7196:arthrology:nucleus_pulposus_t8_t9",
+     "ta2_id": "7196",
+     "names": {
+      "en": "Nucleus pulposus T8-T9"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T8-T9"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7195:arthrology:nucleus_pulposus_t7_t8",
+     "ta2_id": "7195",
+     "names": {
+      "en": "Nucleus pulposus T7-T8"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T7-T8"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7194:arthrology:nucleus_pulposus_t6_t7",
+     "ta2_id": "7194",
+     "names": {
+      "en": "Nucleus pulposus T6-T7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T6-T7"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7193:arthrology:nucleus_pulposus_t5_t6",
+     "ta2_id": "7193",
+     "names": {
+      "en": "Nucleus pulposus T5-T6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T5-T6"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7192:arthrology:nucleus_pulposus_t4_t5",
+     "ta2_id": "7192",
+     "names": {
+      "en": "Nucleus pulposus T4-T5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T4-T5"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7191:arthrology:nucleus_pulposus_t3_t4",
+     "ta2_id": "7191",
+     "names": {
+      "en": "Nucleus pulposus T3-T4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T3-T4"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7190:arthrology:nucleus_pulposus_t2_t3",
+     "ta2_id": "7190",
+     "names": {
+      "en": "Nucleus pulposus T2-T3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T2-T3"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7189:arthrology:nucleus_pulposus_t1_t2",
+     "ta2_id": "7189",
+     "names": {
+      "en": "Nucleus pulposus T1-T2"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus T1-T2"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7183:arthrology:nucleus_pulposus_c7_t1",
+     "ta2_id": "7183",
+     "names": {
+      "en": "Nucleus pulposus C7-T1"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus C7-T1"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7182:arthrology:nucleus_pulposus_c6_c7",
+     "ta2_id": "7182",
+     "names": {
+      "en": "Nucleus pulposus C6-C7"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus C6-C7"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7181:arthrology:nucleus_pulposus_c5_c6",
+     "ta2_id": "7181",
+     "names": {
+      "en": "Nucleus pulposus C5-C6"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus C5-C6"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7180:arthrology:nucleus_pulposus_c4_c5",
+     "ta2_id": "7180",
+     "names": {
+      "en": "Nucleus pulposus C4-C5"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus C4-C5"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7179:arthrology:nucleus_pulposus_c3_c4",
+     "ta2_id": "7179",
+     "names": {
+      "en": "Nucleus pulposus C3-C4"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus C3-C4"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7178:arthrology:nucleus_pulposus_c2_c3",
+     "ta2_id": "7178",
+     "names": {
+      "en": "Nucleus pulposus C2-C3"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Nucleus pulposus C2-C3"
+     },
+     "polys": 512
+    },
+    {
+     "id": "TA2:7177:arthrology:sacrococcygeal_symphysis",
+     "ta2_id": "7177",
+     "names": {
+      "en": "Sacrococcygeal symphysis"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sacrococcygeal symphysis"
+     },
+     "polys": 178
+    },
+    {
+     "id": "TA2:1710:arthrology:external_intercostal_membrane_r",
+     "ta2_id": "1710",
+     "names": {
+      "en": "External intercostal membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "External intercostal membrane.r"
+     },
+     "polys": 3368
+    },
+    {
+     "id": "TA2:1711:arthrology:internal_intercostal_membrane_r",
+     "ta2_id": "1711",
+     "names": {
+      "en": "Internal intercostal membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Internal intercostal membrane.r"
+     },
+     "polys": 2360
+    },
+    {
+     "id": "TA2:1710:arthrology:external_intercostal_membrane_l",
+     "ta2_id": "1710",
+     "names": {
+      "en": "External intercostal membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "External intercostal membrane.l"
+     },
+     "polys": 3368
+    },
+    {
+     "id": "TA2:1711:arthrology:internal_intercostal_membrane_l",
+     "ta2_id": "1711",
+     "names": {
+      "en": "Internal intercostal membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Internal intercostal membrane.l"
+     },
+     "polys": 2360
+    },
+    {
+     "id": "TA2:1723:arthrology:intra_articular_ligament_of_head_of_rib_r",
+     "ta2_id": "1723",
+     "names": {
+      "en": "Intra-articular ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intra-articular ligament of head of rib.r"
+     },
+     "polys": 54
+    },
+    {
+     "id": "TA2:1723:arthrology:intra_articular_ligament_of_head_of_rib",
+     "ta2_id": "1723",
+     "names": {
+      "en": "Intra-articular ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intra-articular ligament of head of rib"
+     },
+     "polys": 54
+    },
+    {
+     "id": "TA2:1722:arthrology:radiate_ligament_of_head_of_rib_l",
+     "ta2_id": "1722",
+     "names": {
+      "en": "Radiate ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radiate ligament of head of rib.l"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:1722:arthrology:radiate_ligament_of_head_of_rib_r",
+     "ta2_id": "1722",
+     "names": {
+      "en": "Radiate ligament of head of rib"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radiate ligament of head of rib.r"
+     },
+     "polys": 1728
+    },
+    {
+     "id": "TA2:1725:arthrology:costotransverse_ligament_r",
+     "ta2_id": "1725",
+     "names": {
+      "en": "Costotransverse ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Costotransverse ligament.r"
+     },
+     "polys": 198
+    },
+    {
+     "id": "TA2:1725:arthrology:costotransverse_ligament_l",
+     "ta2_id": "1725",
+     "names": {
+      "en": "Costotransverse ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Costotransverse ligament.l"
+     },
+     "polys": 198
+    },
+    {
+     "id": "TA2:1740:arthrology:coraco_acromial_ligament_r",
+     "ta2_id": "1740",
+     "names": {
+      "en": "Coraco-acromial ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Coraco-acromial ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1741:arthrology:superior_transverse_scapular_ligament_r",
+     "ta2_id": "1741",
+     "names": {
+      "en": "Superior transverse scapular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superior transverse scapular ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1742:arthrology:inferior_transverse_scapular_ligament_r",
+     "ta2_id": "1742",
+     "names": {
+      "en": "Inferior transverse scapular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Inferior transverse scapular ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1740:arthrology:coraco_acromial_ligament_l",
+     "ta2_id": "1740",
+     "names": {
+      "en": "Coraco-acromial ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Coraco-acromial ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1741:arthrology:superior_transverse_scapular_ligament_l",
+     "ta2_id": "1741",
+     "names": {
+      "en": "Superior transverse scapular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superior transverse scapular ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1742:arthrology:inferior_transverse_scapular_ligament_l",
+     "ta2_id": "1742",
+     "names": {
+      "en": "Inferior transverse scapular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Inferior transverse scapular ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:7152:arthrology:articular_capsule_of_acromioclavicular_joint_r",
+     "ta2_id": "7152",
+     "names": {
+      "en": "Articular capsule of acromioclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of acromioclavicular joint.r"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:1745:arthrology:acromioclavicular_ligament_r",
+     "ta2_id": "1745",
+     "names": {
+      "en": "Acromioclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Acromioclavicular ligament.r"
+     },
+     "polys": 160
+    },
+    {
+     "id": "TA2:1746:arthrology:articular_disc_of_acromioclavicular_joint_r",
+     "ta2_id": "1746",
+     "names": {
+      "en": "Articular disc of acromioclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of acromioclavicular joint.r"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:7152:arthrology:articular_capsule_of_acromioclavicular_joint_l",
+     "ta2_id": "7152",
+     "names": {
+      "en": "Articular capsule of acromioclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of acromioclavicular joint.l"
+     },
+     "polys": 576
+    },
+    {
+     "id": "TA2:1745:arthrology:acromioclavicular_ligament_l",
+     "ta2_id": "1745",
+     "names": {
+      "en": "Acromioclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Acromioclavicular ligament.l"
+     },
+     "polys": 160
+    },
+    {
+     "id": "TA2:1746:arthrology:articular_disc_of_acromioclavicular_joint_l",
+     "ta2_id": "1746",
+     "names": {
+      "en": "Articular disc of acromioclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of acromioclavicular joint.l"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:1748:arthrology:trapezoid_ligament_r",
+     "ta2_id": "1748",
+     "names": {
+      "en": "Trapezoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Trapezoid ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1749:arthrology:conoid_ligament_r",
+     "ta2_id": "1749",
+     "names": {
+      "en": "Conoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Conoid ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1748:arthrology:trapezoid_ligament_l",
+     "ta2_id": "1748",
+     "names": {
+      "en": "Trapezoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Trapezoid ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1749:arthrology:conoid_ligament_l",
+     "ta2_id": "1749",
+     "names": {
+      "en": "Conoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Conoid ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:7153:arthrology:articular_capsule_of_sternoclavicular_joint_r",
+     "ta2_id": "7153",
+     "names": {
+      "en": "Articular capsule of sternoclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of sternoclavicular joint.r"
+     },
+     "polys": 504
+    },
+    {
+     "id": "TA2:1751:arthrology:articular_disc_of_sternoclavicular_joint_r",
+     "ta2_id": "1751",
+     "names": {
+      "en": "Articular disc of sternoclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of sternoclavicular joint.r"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:1754:arthrology:anterior_sternoclavicular_ligament_r",
+     "ta2_id": "1754",
+     "names": {
+      "en": "Anterior sternoclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior sternoclavicular ligament.r"
+     },
+     "polys": 160
+    },
+    {
+     "id": "TA2:1756:arthrology:costoclavicular_ligament_r",
+     "ta2_id": "1756",
+     "names": {
+      "en": "Costoclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Costoclavicular ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1757:arthrology:interclavicular_ligament_r",
+     "ta2_id": "1757",
+     "names": {
+      "en": "Interclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interclavicular ligament.r"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1755:arthrology:posterior_sternoclavicular_ligament_r",
+     "ta2_id": "1755",
+     "names": {
+      "en": "Posterior sternoclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior sternoclavicular ligament.r"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:7153:arthrology:articular_capsule_of_sternoclavicular_joint_l",
+     "ta2_id": "7153",
+     "names": {
+      "en": "Articular capsule of sternoclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of sternoclavicular joint.l"
+     },
+     "polys": 504
+    },
+    {
+     "id": "TA2:1751:arthrology:articular_disc_of_sternoclavicular_joint_l",
+     "ta2_id": "1751",
+     "names": {
+      "en": "Articular disc of sternoclavicular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of sternoclavicular joint.l"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:1754:arthrology:anterior_sternoclavicular_ligament_l",
+     "ta2_id": "1754",
+     "names": {
+      "en": "Anterior sternoclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior sternoclavicular ligament.l"
+     },
+     "polys": 160
+    },
+    {
+     "id": "TA2:1756:arthrology:costoclavicular_ligament_l",
+     "ta2_id": "1756",
+     "names": {
+      "en": "Costoclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Costoclavicular ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1757:arthrology:interclavicular_ligament_l",
+     "ta2_id": "1757",
+     "names": {
+      "en": "Interclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interclavicular ligament.l"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1755:arthrology:posterior_sternoclavicular_ligament_l",
+     "ta2_id": "1755",
+     "names": {
+      "en": "Posterior sternoclavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior sternoclavicular ligament.l"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1762:arthrology:oblique_cord_r",
+     "ta2_id": "1762",
+     "names": {
+      "en": "Oblique cord"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Oblique cord.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1762:arthrology:oblique_cord_l",
+     "ta2_id": "1762",
+     "names": {
+      "en": "Oblique cord"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Oblique cord.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:7138:arthrology:articular_capsule_of_glenohumeral_joint_r",
+     "ta2_id": "7138",
+     "names": {
+      "en": "Articular capsule of glenohumeral joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of glenohumeral joint.r"
+     },
+     "polys": 1616
+    },
+    {
+     "id": "TA2:1765:arthrology:glenoid_labrum_r",
+     "ta2_id": "1765",
+     "names": {
+      "en": "Glenoid labrum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Glenoid labrum.r"
+     },
+     "polys": 424
+    },
+    {
+     "id": "TA2:1770:arthrology:coracohumeral_ligament_r",
+     "ta2_id": "1770",
+     "names": {
+      "en": "Coracohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Coracohumeral ligament.r"
+     },
+     "polys": 100
+    },
+    {
+     "id": "TA2:1771:arthrology:transverse_humeral_ligament_r",
+     "ta2_id": "1771",
+     "names": {
+      "en": "Transverse humeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse humeral ligament.r"
+     },
+     "polys": 232
+    },
+    {
+     "id": "TA2:7138:arthrology:articular_capsule_of_glenohumeral_joint_l",
+     "ta2_id": "7138",
+     "names": {
+      "en": "Articular capsule of glenohumeral joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of glenohumeral joint.l"
+     },
+     "polys": 1616
+    },
+    {
+     "id": "TA2:1765:arthrology:glenoid_labrum_l",
+     "ta2_id": "1765",
+     "names": {
+      "en": "Glenoid labrum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Glenoid labrum.l"
+     },
+     "polys": 424
+    },
+    {
+     "id": "TA2:1770:arthrology:coracohumeral_ligament_l",
+     "ta2_id": "1770",
+     "names": {
+      "en": "Coracohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Coracohumeral ligament.l"
+     },
+     "polys": 100
+    },
+    {
+     "id": "TA2:1771:arthrology:transverse_humeral_ligament_l",
+     "ta2_id": "1771",
+     "names": {
+      "en": "Transverse humeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse humeral ligament.l"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1767:arthrology:superior_glenohumeral_ligament_r",
+     "ta2_id": "1767",
+     "names": {
+      "en": "Superior glenohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superior glenohumeral ligament.r"
+     },
+     "polys": 100
+    },
+    {
+     "id": "TA2:1768:arthrology:middle_glenohumeral_ligament_r",
+     "ta2_id": "1768",
+     "names": {
+      "en": "Middle glenohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Middle glenohumeral ligament.r"
+     },
+     "polys": 140
+    },
+    {
+     "id": "TA2:1769:arthrology:inferior_glenohumeral_ligament_r",
+     "ta2_id": "1769",
+     "names": {
+      "en": "Inferior glenohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Inferior glenohumeral ligament.r"
+     },
+     "polys": 160
+    },
+    {
+     "id": "TA2:1767:arthrology:superior_glenohumeral_ligament_l",
+     "ta2_id": "1767",
+     "names": {
+      "en": "Superior glenohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superior glenohumeral ligament.l"
+     },
+     "polys": 100
+    },
+    {
+     "id": "TA2:1768:arthrology:middle_glenohumeral_ligament_l",
+     "ta2_id": "1768",
+     "names": {
+      "en": "Middle glenohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Middle glenohumeral ligament.l"
+     },
+     "polys": 140
+    },
+    {
+     "id": "TA2:1769:arthrology:inferior_glenohumeral_ligament_l",
+     "ta2_id": "1769",
+     "names": {
+      "en": "Inferior glenohumeral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Inferior glenohumeral ligament.l"
+     },
+     "polys": 160
+    },
+    {
+     "id": "TA2:1772*1:arthrology:articular_capsule_of_elbow_joint_r",
+     "ta2_id": "1772*1",
+     "names": {
+      "en": "Articular capsule of elbow joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of elbow joint.r"
+     },
+     "polys": 878
+    },
+    {
+     "id": "TA2:1777:arthrology:radial_collateral_ligament_r",
+     "ta2_id": "1777",
+     "names": {
+      "en": "Radial collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radial collateral ligament.r"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1776:arthrology:ulnar_collateral_ligament_r",
+     "ta2_id": "1776",
+     "names": {
+      "en": "Ulnar collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnar collateral ligament.r"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:1778:arthrology:annular_ligament_of_radius_r",
+     "ta2_id": "1778",
+     "names": {
+      "en": "Annular ligament of radius"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Annular ligament of radius.r"
+     },
+     "polys": 188
+    },
+    {
+     "id": "TA2:1779:arthrology:quadrate_ligament_r",
+     "ta2_id": "1779",
+     "names": {
+      "en": "Quadrate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Quadrate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1772*1:arthrology:articular_capsule_of_elbow_joint_l",
+     "ta2_id": "1772*1",
+     "names": {
+      "en": "Articular capsule of elbow joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of elbow joint.l"
+     },
+     "polys": 878
+    },
+    {
+     "id": "TA2:1777:arthrology:radial_collateral_ligament_l",
+     "ta2_id": "1777",
+     "names": {
+      "en": "Radial collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radial collateral ligament.l"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1776:arthrology:ulnar_collateral_ligament_l",
+     "ta2_id": "1776",
+     "names": {
+      "en": "Ulnar collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnar collateral ligament.l"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:1778:arthrology:annular_ligament_of_radius_l",
+     "ta2_id": "1778",
+     "names": {
+      "en": "Annular ligament of radius"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Annular ligament of radius.l"
+     },
+     "polys": 188
+    },
+    {
+     "id": "TA2:1779:arthrology:quadrate_ligament_l",
+     "ta2_id": "1779",
+     "names": {
+      "en": "Quadrate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Quadrate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1786*1:arthrology:articular_capsule_of_radiocarpal_joint_r",
+     "ta2_id": "1786*1",
+     "names": {
+      "en": "Articular capsule of radiocarpal joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of radiocarpal joint.r"
+     },
+     "polys": 671
+    },
+    {
+     "id": "TA2:1782:arthrology:articular_disc_of_distal_radio_ulnar_joint_r",
+     "ta2_id": "1782",
+     "names": {
+      "en": "Articular disc of distal radio-ulnar joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of distal radio-ulnar joint.r"
+     },
+     "polys": 15
+    },
+    {
+     "id": "TA2:1785:arthrology:palmar_radio_ulnar_ligament_r",
+     "ta2_id": "1785",
+     "names": {
+      "en": "Palmar radio-ulnar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar radio-ulnar ligament.r"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1784:arthrology:dorsal_radio_ulnar_ligament_r",
+     "ta2_id": "1784",
+     "names": {
+      "en": "Dorsal radio-ulnar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal radio-ulnar ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1782:arthrology:articular_disc_of_distal_radio_ulnar_joint_l",
+     "ta2_id": "1782",
+     "names": {
+      "en": "Articular disc of distal radio-ulnar joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular disc of distal radio-ulnar joint.l"
+     },
+     "polys": 15
+    },
+    {
+     "id": "TA2:1785:arthrology:palmar_radio_ulnar_ligament_l",
+     "ta2_id": "1785",
+     "names": {
+      "en": "Palmar radio-ulnar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar radio-ulnar ligament.l"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1784:arthrology:dorsal_radio_ulnar_ligament_l",
+     "ta2_id": "1784",
+     "names": {
+      "en": "Dorsal radio-ulnar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal radio-ulnar ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1786*1:arthrology:articular_capsule_of_radiocarpal_joint_l",
+     "ta2_id": "1786*1",
+     "names": {
+      "en": "Articular capsule of radiocarpal joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of radiocarpal joint.l"
+     },
+     "polys": 671
+    },
+    {
+     "id": "TA2:1787:arthrology:dorsal_radiocarpal_ligament_r",
+     "ta2_id": "1787",
+     "names": {
+      "en": "Dorsal radiocarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal radiocarpal ligament.r"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:1800:arthrology:ulnar_collateral_ligament_of_wrist_joint_r",
+     "ta2_id": "1800",
+     "names": {
+      "en": "Ulnar collateral ligament of wrist joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnar collateral ligament of wrist joint.r"
+     },
+     "polys": 64
+    },
+    {
+     "id": "TA2:1801:arthrology:radial_collateral_ligament_of_wrist_joint_r",
+     "ta2_id": "1801",
+     "names": {
+      "en": "Radial collateral ligament of wrist joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radial collateral ligament of wrist joint.r"
+     },
+     "polys": 72
+    },
+    {
+     "id": "TA2:1794:arthrology:dorsal_ulnocarpal_ligament_r",
+     "ta2_id": "1794",
+     "names": {
+      "en": "Dorsal ulnocarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal ulnocarpal ligament.r"
+     },
+     "polys": 60
+    },
+    {
+     "id": "TA2:1787:arthrology:dorsal_radiocarpal_ligament_l",
+     "ta2_id": "1787",
+     "names": {
+      "en": "Dorsal radiocarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal radiocarpal ligament.l"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:1800:arthrology:ulnar_collateral_ligament_of_wrist_joint_l",
+     "ta2_id": "1800",
+     "names": {
+      "en": "Ulnar collateral ligament of wrist joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnar collateral ligament of wrist joint.l"
+     },
+     "polys": 64
+    },
+    {
+     "id": "TA2:1801:arthrology:radial_collateral_ligament_of_wrist_joint_l",
+     "ta2_id": "1801",
+     "names": {
+      "en": "Radial collateral ligament of wrist joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radial collateral ligament of wrist joint.l"
+     },
+     "polys": 72
+    },
+    {
+     "id": "TA2:1794:arthrology:dorsal_ulnocarpal_ligament_l",
+     "ta2_id": "1794",
+     "names": {
+      "en": "Dorsal ulnocarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal ulnocarpal ligament.l"
+     },
+     "polys": 60
+    },
+    {
+     "id": "TA2:1790:arthrology:radiocapitate_ligament_r",
+     "ta2_id": "1790",
+     "names": {
+      "en": "Radiocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radiocapitate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1789:arthrology:radioscaphocapitate_ligament_r",
+     "ta2_id": "1789",
+     "names": {
+      "en": "Radioscaphocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radioscaphocapitate ligament.r"
+     },
+     "polys": 10
+    },
+    {
+     "id": "TA2:1790:arthrology:radiocapitate_ligament_l",
+     "ta2_id": "1790",
+     "names": {
+      "en": "Radiocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radiocapitate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1789:arthrology:radioscaphocapitate_ligament_l",
+     "ta2_id": "1789",
+     "names": {
+      "en": "Radioscaphocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radioscaphocapitate ligament.l"
+     },
+     "polys": 10
+    },
+    {
+     "id": "TA2:1796:arthrology:ulnocapitate_ligament_r",
+     "ta2_id": "1796",
+     "names": {
+      "en": "Ulnocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnocapitate ligament.r"
+     },
+     "polys": 64
+    },
+    {
+     "id": "TA2:1799:arthrology:ulnopisiform_ligament",
+     "ta2_id": "1799",
+     "names": {
+      "en": "Ulnopisiform ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnopisiform ligament"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1798:arthrology:ulnotriquetral_ligament_r",
+     "ta2_id": "1798",
+     "names": {
+      "en": "Ulnotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnotriquetral ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1797:arthrology:ulnolunate_ligament_r",
+     "ta2_id": "1797",
+     "names": {
+      "en": "Ulnolunate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnolunate ligament.r"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1796:arthrology:ulnocapitate_ligament_l",
+     "ta2_id": "1796",
+     "names": {
+      "en": "Ulnocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnocapitate ligament.l"
+     },
+     "polys": 64
+    },
+    {
+     "id": "TA2:1799:arthrology:ulnopisiform_ligament_l",
+     "ta2_id": "1799",
+     "names": {
+      "en": "Ulnopisiform ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnopisiform ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1798:arthrology:ulnotriquetral_ligament_l",
+     "ta2_id": "1798",
+     "names": {
+      "en": "Ulnotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnotriquetral ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1797:arthrology:ulnolunate_ligament_l",
+     "ta2_id": "1797",
+     "names": {
+      "en": "Ulnolunate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ulnolunate ligament.l"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1805:arthrology:radiate_carpal_ligament_r",
+     "ta2_id": "1805",
+     "names": {
+      "en": "Radiate carpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radiate carpal ligament.r"
+     },
+     "polys": 204
+    },
+    {
+     "id": "TA2:1805:arthrology:radiate_carpal_ligament_l",
+     "ta2_id": "1805",
+     "names": {
+      "en": "Radiate carpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Radiate carpal ligament.l"
+     },
+     "polys": 204
+    },
+    {
+     "id": "TA2:1807:arthrology:dorsal_scaphotriquetral_ligament_r",
+     "ta2_id": "1807",
+     "names": {
+      "en": "Dorsal scaphotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal scaphotriquetral ligament.r"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1806:arthrology:dorsal_intercarpal_ligaments_r",
+     "ta2_id": "1806",
+     "names": {
+      "en": "Dorsal intercarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal intercarpal ligaments.r"
+     },
+     "polys": 220
+    },
+    {
+     "id": "TA2:1807:arthrology:dorsal_scaphotriquetral_ligament_l",
+     "ta2_id": "1807",
+     "names": {
+      "en": "Dorsal scaphotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal scaphotriquetral ligament.l"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1806:arthrology:dorsal_intercarpal_ligaments_l",
+     "ta2_id": "1806",
+     "names": {
+      "en": "Dorsal intercarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal intercarpal ligaments.l"
+     },
+     "polys": 220
+    },
+    {
+     "id": "TA2:1809:arthrology:scaphotrapeziotrapezoidal_ligament_r",
+     "ta2_id": "1809",
+     "names": {
+      "en": "Scaphotrapeziotrapezoidal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Scaphotrapeziotrapezoidal ligament.r"
+     },
+     "polys": 72
+    },
+    {
+     "id": "TA2:1810:arthrology:scaphocapitate_ligament_r",
+     "ta2_id": "1810",
+     "names": {
+      "en": "Scaphocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Scaphocapitate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1811:arthrology:palmar_scaphotriquetral_ligament_r",
+     "ta2_id": "1811",
+     "names": {
+      "en": "Palmar scaphotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar scaphotriquetral ligament.r"
+     },
+     "polys": 128
+    },
+    {
+     "id": "TA2:1812:arthrology:triquetrocapitate_ligament_r",
+     "ta2_id": "1812",
+     "names": {
+      "en": "Triquetrocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Triquetrocapitate ligament.r"
+     },
+     "polys": 10
+    },
+    {
+     "id": "TA2:1813:arthrology:triquetrohamate_ligament_r",
+     "ta2_id": "1813",
+     "names": {
+      "en": "Triquetrohamate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Triquetrohamate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1814:arthrology:pisotriquetral_ligament_r",
+     "ta2_id": "1814",
+     "names": {
+      "en": "Pisotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pisotriquetral ligament.r"
+     },
+     "polys": 132
+    },
+    {
+     "id": "TA2:1815:arthrology:palmar_capitohamate_ligament_r",
+     "ta2_id": "1815",
+     "names": {
+      "en": "Palmar capitohamate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar capitohamate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1816:arthrology:palmar_trapezoideocapitate_ligament_r",
+     "ta2_id": "1816",
+     "names": {
+      "en": "Palmar trapezoideocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar trapezoideocapitate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1817:arthrology:palmar_lunotriquetral_ligament_r",
+     "ta2_id": "1817",
+     "names": {
+      "en": "Palmar lunotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar lunotriquetral ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1809:arthrology:scaphotrapeziotrapezoidal_ligament_l",
+     "ta2_id": "1809",
+     "names": {
+      "en": "Scaphotrapeziotrapezoidal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Scaphotrapeziotrapezoidal ligament.l"
+     },
+     "polys": 72
+    },
+    {
+     "id": "TA2:1810:arthrology:scaphocapitate_ligament_l",
+     "ta2_id": "1810",
+     "names": {
+      "en": "Scaphocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Scaphocapitate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1811:arthrology:palmar_scaphotriquetral_ligament_l",
+     "ta2_id": "1811",
+     "names": {
+      "en": "Palmar scaphotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar scaphotriquetral ligament.l"
+     },
+     "polys": 128
+    },
+    {
+     "id": "TA2:1812:arthrology:triquetrocapitate_ligament_l",
+     "ta2_id": "1812",
+     "names": {
+      "en": "Triquetrocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Triquetrocapitate ligament.l"
+     },
+     "polys": 10
+    },
+    {
+     "id": "TA2:1813:arthrology:triquetrohamate_ligament_l",
+     "ta2_id": "1813",
+     "names": {
+      "en": "Triquetrohamate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Triquetrohamate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1814:arthrology:pisotriquetral_ligament_l",
+     "ta2_id": "1814",
+     "names": {
+      "en": "Pisotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pisotriquetral ligament.l"
+     },
+     "polys": 132
+    },
+    {
+     "id": "TA2:1815:arthrology:palmar_capitohamate_ligament_l",
+     "ta2_id": "1815",
+     "names": {
+      "en": "Palmar capitohamate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar capitohamate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1816:arthrology:palmar_trapezoideocapitate_ligament_l",
+     "ta2_id": "1816",
+     "names": {
+      "en": "Palmar trapezoideocapitate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar trapezoideocapitate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1817:arthrology:palmar_lunotriquetral_ligament_l",
+     "ta2_id": "1817",
+     "names": {
+      "en": "Palmar lunotriquetral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar lunotriquetral ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1819:arthrology:scapholunate_interosseous_ligament_r",
+     "ta2_id": "1819",
+     "names": {
+      "en": "Scapholunate interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Scapholunate interosseous ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1820:arthrology:trapeziotrapezoidal_interosseous_ligament_r",
+     "ta2_id": "1820",
+     "names": {
+      "en": "Trapeziotrapezoidal interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Trapeziotrapezoidal interosseous ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1821:arthrology:capitohamate_interosseous_ligament_r",
+     "ta2_id": "1821",
+     "names": {
+      "en": "Capitohamate interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Capitohamate interosseous ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1822:arthrology:trapezoideocapitate_interosseous_ligament_r",
+     "ta2_id": "1822",
+     "names": {
+      "en": "Trapezoideocapitate interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Trapezoideocapitate interosseous ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1823:arthrology:lunotriquetral_interosseous_ligament_r",
+     "ta2_id": "1823",
+     "names": {
+      "en": "Lunotriquetral interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lunotriquetral interosseous ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1819:arthrology:scapholunate_interosseous_ligament_l",
+     "ta2_id": "1819",
+     "names": {
+      "en": "Scapholunate interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Scapholunate interosseous ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1820:arthrology:trapeziotrapezoidal_interosseous_ligament_l",
+     "ta2_id": "1820",
+     "names": {
+      "en": "Trapeziotrapezoidal interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Trapeziotrapezoidal interosseous ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1821:arthrology:capitohamate_interosseous_ligament_l",
+     "ta2_id": "1821",
+     "names": {
+      "en": "Capitohamate interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Capitohamate interosseous ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1822:arthrology:trapezoideocapitate_interosseous_ligament_l",
+     "ta2_id": "1822",
+     "names": {
+      "en": "Trapezoideocapitate interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Trapezoideocapitate interosseous ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1823:arthrology:lunotriquetral_interosseous_ligament_l",
+     "ta2_id": "1823",
+     "names": {
+      "en": "Lunotriquetral interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lunotriquetral interosseous ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1825:arthrology:pisohamate_ligament_r",
+     "ta2_id": "1825",
+     "names": {
+      "en": "Pisohamate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pisohamate ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1826:arthrology:pisometacarpal_ligament_r",
+     "ta2_id": "1826",
+     "names": {
+      "en": "Pisometacarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pisometacarpal ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1825:arthrology:pisohamate_ligament_l",
+     "ta2_id": "1825",
+     "names": {
+      "en": "Pisohamate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pisohamate ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1826:arthrology:pisometacarpal_ligament_l",
+     "ta2_id": "1826",
+     "names": {
+      "en": "Pisometacarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pisometacarpal ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1828:arthrology:dorsal_carpometacarpal_ligaments_r",
+     "ta2_id": "1828",
+     "names": {
+      "en": "Dorsal carpometacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal carpometacarpal ligaments.r"
+     },
+     "polys": 74
+    },
+    {
+     "id": "TA2:1829:arthrology:palmar_carpometacarpal_ligaments_r",
+     "ta2_id": "1829",
+     "names": {
+      "en": "Palmar carpometacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar carpometacarpal ligaments.r"
+     },
+     "polys": 208
+    },
+    {
+     "id": "TA2:1828:arthrology:dorsal_carpometacarpal_ligaments_l",
+     "ta2_id": "1828",
+     "names": {
+      "en": "Dorsal carpometacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal carpometacarpal ligaments.l"
+     },
+     "polys": 74
+    },
+    {
+     "id": "TA2:1829:arthrology:palmar_carpometacarpal_ligaments_l",
+     "ta2_id": "1829",
+     "names": {
+      "en": "Palmar carpometacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar carpometacarpal ligaments.l"
+     },
+     "polys": 208
+    },
+    {
+     "id": "TA2:1832:arthrology:dorsal_metacarpal_ligaments_r",
+     "ta2_id": "1832",
+     "names": {
+      "en": "Dorsal metacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal metacarpal ligaments.r"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1833:arthrology:palmar_metacarpal_ligaments_r",
+     "ta2_id": "1833",
+     "names": {
+      "en": "Palmar metacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar metacarpal ligaments.r"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1834:arthrology:interosseous_metacarpal_ligaments_r",
+     "ta2_id": "1834",
+     "names": {
+      "en": "Interosseous metacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interosseous metacarpal ligaments.r"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1832:arthrology:dorsal_metacarpal_ligaments_l",
+     "ta2_id": "1832",
+     "names": {
+      "en": "Dorsal metacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal metacarpal ligaments.l"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1833:arthrology:palmar_metacarpal_ligaments_l",
+     "ta2_id": "1833",
+     "names": {
+      "en": "Palmar metacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar metacarpal ligaments.l"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1834:arthrology:interosseous_metacarpal_ligaments_l",
+     "ta2_id": "1834",
+     "names": {
+      "en": "Interosseous metacarpal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interosseous metacarpal ligaments.l"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1835*1:arthrology:articular_capsules_of_metacarpophalangeal_joints_r",
+     "ta2_id": "1835*1",
+     "names": {
+      "en": "Articular capsules of metacarpophalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of metacarpophalangeal joints.r"
+     },
+     "polys": 784
+    },
+    {
+     "id": "TA2:1836:arthrology:collateral_metacarpophalangeal_ligaments_r",
+     "ta2_id": "1836",
+     "names": {
+      "en": "Collateral metacarpophalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral metacarpophalangeal ligaments.r"
+     },
+     "polys": 520
+    },
+    {
+     "id": "TA2:1838:arthrology:deep_transverse_metacarpal_ligament_r",
+     "ta2_id": "1838",
+     "names": {
+      "en": "Deep transverse metacarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Deep transverse metacarpal ligament.r"
+     },
+     "polys": 30
+    },
+    {
+     "id": "TA2:1835*1:arthrology:articular_capsules_of_metacarpophalangeal_joints_l",
+     "ta2_id": "1835*1",
+     "names": {
+      "en": "Articular capsules of metacarpophalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of metacarpophalangeal joints.l"
+     },
+     "polys": 784
+    },
+    {
+     "id": "TA2:1836:arthrology:collateral_metacarpophalangeal_ligaments_l",
+     "ta2_id": "1836",
+     "names": {
+      "en": "Collateral metacarpophalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral metacarpophalangeal ligaments.l"
+     },
+     "polys": 520
+    },
+    {
+     "id": "TA2:1838:arthrology:deep_transverse_metacarpal_ligament_l",
+     "ta2_id": "1838",
+     "names": {
+      "en": "Deep transverse metacarpal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Deep transverse metacarpal ligament.l"
+     },
+     "polys": 30
+    },
+    {
+     "id": "TA2:7140:arthrology:articular_capsules_of_proximal_interphalangeal_joints_r",
+     "ta2_id": "7140",
+     "names": {
+      "en": "Articular capsules of proximal interphalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of proximal interphalangeal joints.r"
+     },
+     "polys": 696
+    },
+    {
+     "id": "TA2:7141:arthrology:articular_capsules_of_distal_interphalangeal_joints_r",
+     "ta2_id": "7141",
+     "names": {
+      "en": "Articular capsules of distal interphalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of distal interphalangeal joints.r"
+     },
+     "polys": 752
+    },
+    {
+     "id": "TA2:1843:arthrology:collateral_interphalangeal_ligaments_of_hand_r",
+     "ta2_id": "1843",
+     "names": {
+      "en": "Collateral interphalangeal ligaments of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral interphalangeal ligaments of hand.r"
+     },
+     "polys": 984
+    },
+    {
+     "id": "TA2:1844:arthrology:palmar_interphalangeal_ligaments_r",
+     "ta2_id": "1844",
+     "names": {
+      "en": "Palmar interphalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar interphalangeal ligaments.r"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:7140:arthrology:articular_capsules_of_proximal_interphalangeal_joints_l",
+     "ta2_id": "7140",
+     "names": {
+      "en": "Articular capsules of proximal interphalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of proximal interphalangeal joints.l"
+     },
+     "polys": 696
+    },
+    {
+     "id": "TA2:7141:arthrology:articular_capsules_of_distal_interphalangeal_joints_l",
+     "ta2_id": "7141",
+     "names": {
+      "en": "Articular capsules of distal interphalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of distal interphalangeal joints.l"
+     },
+     "polys": 752
+    },
+    {
+     "id": "TA2:1843:arthrology:collateral_interphalangeal_ligaments_of_hand_l",
+     "ta2_id": "1843",
+     "names": {
+      "en": "Collateral interphalangeal ligaments of hand"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral interphalangeal ligaments of hand.l"
+     },
+     "polys": 984
+    },
+    {
+     "id": "TA2:1844:arthrology:palmar_interphalangeal_ligaments_l",
+     "ta2_id": "1844",
+     "names": {
+      "en": "Palmar interphalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Palmar interphalangeal ligaments.l"
+     },
+     "polys": 432
+    },
+    {
+     "id": "TA2:1852:arthrology:sacrospinous_ligament_r",
+     "ta2_id": "1852",
+     "names": {
+      "en": "Sacrospinous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sacrospinous ligament.r"
+     },
+     "polys": 140
+    },
+    {
+     "id": "TA2:1853:arthrology:iliolumbar_ligament_r",
+     "ta2_id": "1853",
+     "names": {
+      "en": "Iliolumbar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Iliolumbar ligament.r"
+     },
+     "polys": 56
+    },
+    {
+     "id": "TA2:1852:arthrology:sacrospinous_ligament_l",
+     "ta2_id": "1852",
+     "names": {
+      "en": "Sacrospinous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sacrospinous ligament.l"
+     },
+     "polys": 140
+    },
+    {
+     "id": "TA2:1853:arthrology:iliolumbar_ligament_l",
+     "ta2_id": "1853",
+     "names": {
+      "en": "Iliolumbar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Iliolumbar ligament.l"
+     },
+     "polys": 56
+    },
+    {
+     "id": "TA2:1848:arthrology:obturator_membrane_r",
+     "ta2_id": "1848",
+     "names": {
+      "en": "Obturator membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Obturator membrane.r"
+     },
+     "polys": 536
+    },
+    {
+     "id": "TA2:1848:arthrology:obturator_membrane_l",
+     "ta2_id": "1848",
+     "names": {
+      "en": "Obturator membrane"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Obturator membrane.l"
+     },
+     "polys": 536
+    },
+    {
+     "id": "TA2:1850:arthrology:sacrotuberous_ligament_r",
+     "ta2_id": "1850",
+     "names": {
+      "en": "Sacrotuberous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sacrotuberous ligament.r"
+     },
+     "polys": 328
+    },
+    {
+     "id": "TA2:1850:arthrology:sacrotuberous_ligament_l",
+     "ta2_id": "1850",
+     "names": {
+      "en": "Sacrotuberous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Sacrotuberous ligament.l"
+     },
+     "polys": 328
+    },
+    {
+     "id": "TA2:1859:arthrology:triradiate_cartilage_r",
+     "ta2_id": "1859",
+     "names": {
+      "en": "Triradiate cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Triradiate cartilage.r"
+     },
+     "polys": 802
+    },
+    {
+     "id": "TA2:1859:arthrology:triradiate_cartilage_l",
+     "ta2_id": "1859",
+     "names": {
+      "en": "Triradiate cartilage"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Triradiate cartilage.l"
+     },
+     "polys": 802
+    },
+    {
+     "id": "TA2:1855:arthrology:pubic_symphysis",
+     "ta2_id": "1855",
+     "names": {
+      "en": "Pubic symphysis"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pubic symphysis"
+     },
+     "polys": 208
+    },
+    {
+     "id": "TA2:1856:arthrology:interpubic_disc",
+     "ta2_id": "1856",
+     "names": {
+      "en": "Interpubic disc"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interpubic disc"
+     },
+     "polys": 208
+    },
+    {
+     "id": "TA2:1858:arthrology:inferior_pubic_ligament",
+     "ta2_id": "1858",
+     "names": {
+      "en": "Inferior pubic ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Inferior pubic ligament"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1857:arthrology:superior_pubic_ligament",
+     "ta2_id": "1857",
+     "names": {
+      "en": "Superior pubic ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superior pubic ligament"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1862:arthrology:anterior_sacro_iliac_ligament_r",
+     "ta2_id": "1862",
+     "names": {
+      "en": "Anterior sacro-iliac ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior sacro-iliac ligament.r"
+     },
+     "polys": 252
+    },
+    {
+     "id": "TA2:1864:arthrology:posterior_sacro_iliac_ligament_r",
+     "ta2_id": "1864",
+     "names": {
+      "en": "Posterior sacro-iliac ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior sacro-iliac ligament.r"
+     },
+     "polys": 2728
+    },
+    {
+     "id": "TA2:1863:arthrology:interosseous_sacro_iliac_ligament_r",
+     "ta2_id": "1863",
+     "names": {
+      "en": "Interosseous sacro-iliac ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interosseous sacro-iliac ligament.r"
+     },
+     "polys": 100
+    },
+    {
+     "id": "TA2:1862:arthrology:anterior_sacro_iliac_ligament_l",
+     "ta2_id": "1862",
+     "names": {
+      "en": "Anterior sacro-iliac ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior sacro-iliac ligament.l"
+     },
+     "polys": 252
+    },
+    {
+     "id": "TA2:1864:arthrology:posterior_sacro_iliac_ligament_l",
+     "ta2_id": "1864",
+     "names": {
+      "en": "Posterior sacro-iliac ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior sacro-iliac ligament.l"
+     },
+     "polys": 2728
+    },
+    {
+     "id": "TA2:1863:arthrology:interosseous_sacro_iliac_ligament_l",
+     "ta2_id": "1863",
+     "names": {
+      "en": "Interosseous sacro-iliac ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interosseous sacro-iliac ligament.l"
+     },
+     "polys": 100
+    },
+    {
+     "id": "TA2:1867:arthrology:interosseous_membrane_of_leg_l",
+     "ta2_id": "1867",
+     "names": {
+      "en": "Interosseous membrane of leg"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interosseous membrane of leg.l"
+     },
+     "polys": 12642
+    },
+    {
+     "id": "TA2:1867:arthrology:interosseous_membrane_of_leg_r",
+     "ta2_id": "1867",
+     "names": {
+      "en": "Interosseous membrane of leg"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Interosseous membrane of leg.r"
+     },
+     "polys": 12642
+    },
+    {
+     "id": "TA2:1869:arthrology:anterior_tibiofibular_ligament_r",
+     "ta2_id": "1869",
+     "names": {
+      "en": "Anterior tibiofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior tibiofibular ligament.r"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:1870:arthrology:posterior_tibiofibular_ligament_r",
+     "ta2_id": "1870",
+     "names": {
+      "en": "Posterior tibiofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior tibiofibular ligament.r"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:1871:arthrology:transverse_tibiofibular_ligament_r",
+     "ta2_id": "1871",
+     "names": {
+      "en": "Transverse tibiofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse tibiofibular ligament.r"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1869:arthrology:anterior_tibiofibular_ligament_l",
+     "ta2_id": "1869",
+     "names": {
+      "en": "Anterior tibiofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior tibiofibular ligament.l"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:1870:arthrology:posterior_tibiofibular_ligament_l",
+     "ta2_id": "1870",
+     "names": {
+      "en": "Posterior tibiofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior tibiofibular ligament.l"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:1871:arthrology:transverse_tibiofibular_ligament_l",
+     "ta2_id": "1871",
+     "names": {
+      "en": "Transverse tibiofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse tibiofibular ligament.l"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1881:arthrology:transverse_acetabular_ligament_r",
+     "ta2_id": "1881",
+     "names": {
+      "en": "Transverse acetabular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse acetabular ligament.r"
+     },
+     "polys": 284
+    },
+    {
+     "id": "TA2:1880:arthrology:acetabular_labrum_r",
+     "ta2_id": "1880",
+     "names": {
+      "en": "Acetabular labrum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Acetabular labrum.r"
+     },
+     "polys": 704
+    },
+    {
+     "id": "TA2:1879:arthrology:pubofemoral_ligament_r",
+     "ta2_id": "1879",
+     "names": {
+      "en": "Pubofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pubofemoral ligament.r"
+     },
+     "polys": 196
+    },
+    {
+     "id": "TA2:1874:arthrology:zona_orbicularis_r",
+     "ta2_id": "1874",
+     "names": {
+      "en": "Zona orbicularis"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Zona orbicularis.r"
+     },
+     "polys": 2368
+    },
+    {
+     "id": "TA2:1878:arthrology:ischiofemoral_ligament_r",
+     "ta2_id": "1878",
+     "names": {
+      "en": "Ischiofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ischiofemoral ligament.r"
+     },
+     "polys": 336
+    },
+    {
+     "id": "TA2:1882:arthrology:ligament_of_head_of_femur_r",
+     "ta2_id": "1882",
+     "names": {
+      "en": "Ligament of head of femur"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ligament of head of femur.r"
+     },
+     "polys": 390
+    },
+    {
+     "id": "TA2:7142:arthrology:articular_capsule_of_hip_joint_r",
+     "ta2_id": "7142",
+     "names": {
+      "en": "Articular capsule of hip joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of hip joint.r"
+     },
+     "polys": 560
+    },
+    {
+     "id": "TA2:1881:arthrology:transverse_acetabular_ligament_l",
+     "ta2_id": "1881",
+     "names": {
+      "en": "Transverse acetabular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse acetabular ligament.l"
+     },
+     "polys": 284
+    },
+    {
+     "id": "TA2:1880:arthrology:acetabular_labrum_l",
+     "ta2_id": "1880",
+     "names": {
+      "en": "Acetabular labrum"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Acetabular labrum.l"
+     },
+     "polys": 704
+    },
+    {
+     "id": "TA2:1879:arthrology:pubofemoral_ligament_l",
+     "ta2_id": "1879",
+     "names": {
+      "en": "Pubofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Pubofemoral ligament.l"
+     },
+     "polys": 196
+    },
+    {
+     "id": "TA2:1874:arthrology:zona_orbicularis_l",
+     "ta2_id": "1874",
+     "names": {
+      "en": "Zona orbicularis"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Zona orbicularis.l"
+     },
+     "polys": 2368
+    },
+    {
+     "id": "TA2:1878:arthrology:ischiofemoral_ligament_l",
+     "ta2_id": "1878",
+     "names": {
+      "en": "Ischiofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ischiofemoral ligament.l"
+     },
+     "polys": 336
+    },
+    {
+     "id": "TA2:1882:arthrology:ligament_of_head_of_femur_l",
+     "ta2_id": "1882",
+     "names": {
+      "en": "Ligament of head of femur"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Ligament of head of femur.l"
+     },
+     "polys": 390
+    },
+    {
+     "id": "TA2:7142:arthrology:articular_capsule_of_hip_joint_l",
+     "ta2_id": "7142",
+     "names": {
+      "en": "Articular capsule of hip joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of hip joint.l"
+     },
+     "polys": 560
+    },
+    {
+     "id": "TA2:1876:arthrology:transverse_part_of_iliofemoral_ligament_r",
+     "ta2_id": "1876",
+     "names": {
+      "en": "Transverse part of iliofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse part of iliofemoral ligament.r"
+     },
+     "polys": 232
+    },
+    {
+     "id": "TA2:1877:arthrology:descending_part_of_iliofemoral_ligament_r",
+     "ta2_id": "1877",
+     "names": {
+      "en": "Descending part of iliofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Descending part of iliofemoral ligament.r"
+     },
+     "polys": 304
+    },
+    {
+     "id": "TA2:1876:arthrology:transverse_part_of_iliofemoral_ligament_l",
+     "ta2_id": "1876",
+     "names": {
+      "en": "Transverse part of iliofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse part of iliofemoral ligament.l"
+     },
+     "polys": 232
+    },
+    {
+     "id": "TA2:1877:arthrology:descending_part_of_iliofemoral_ligament_l",
+     "ta2_id": "1877",
+     "names": {
+      "en": "Descending part of iliofemoral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Descending part of iliofemoral ligament.l"
+     },
+     "polys": 304
+    },
+    {
+     "id": "TA2:1885:arthrology:lateral_meniscus_r",
+     "ta2_id": "1885",
+     "names": {
+      "en": "Lateral meniscus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral meniscus.r"
+     },
+     "polys": 234
+    },
+    {
+     "id": "TA2:1883*1:arthrology:articular_capsule_of_knee_joint_r",
+     "ta2_id": "1883*1",
+     "names": {
+      "en": "Articular capsule of knee joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of knee joint.r"
+     },
+     "polys": 1472
+    },
+    {
+     "id": "TA2:1904:arthrology:meniscopatellar_ligament_r",
+     "ta2_id": "1904",
+     "names": {
+      "en": "Meniscopatellar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Meniscopatellar ligament.r"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:1889:arthrology:transverse_ligament_of_knee_r",
+     "ta2_id": "1889",
+     "names": {
+      "en": "Transverse ligament of knee"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse ligament of knee.r"
+     },
+     "polys": 216
+    },
+    {
+     "id": "TA2:1891:arthrology:posterior_cruciate_ligament_r",
+     "ta2_id": "1891",
+     "names": {
+      "en": "Posterior cruciate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior cruciate ligament.r"
+     },
+     "polys": 404
+    },
+    {
+     "id": "TA2:1890:arthrology:anterior_cruciate_ligament_r",
+     "ta2_id": "1890",
+     "names": {
+      "en": "Anterior cruciate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior cruciate ligament.r"
+     },
+     "polys": 808
+    },
+    {
+     "id": "TA2:1895:arthrology:fibular_collateral_ligament_r",
+     "ta2_id": "1895",
+     "names": {
+      "en": "Fibular collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Fibular collateral ligament.r"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1899:arthrology:oblique_popliteal_ligament_r",
+     "ta2_id": "1899",
+     "names": {
+      "en": "Oblique popliteal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Oblique popliteal ligament.r"
+     },
+     "polys": 184
+    },
+    {
+     "id": "TA2:1908:arthrology:infrapatellar_fat_pad_r",
+     "ta2_id": "1908",
+     "names": {
+      "en": "Infrapatellar fat pad"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Infrapatellar fat pad.r"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:1900:arthrology:arcuate_popliteal_ligament_r",
+     "ta2_id": "1900",
+     "names": {
+      "en": "Arcuate popliteal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Arcuate popliteal ligament.r"
+     },
+     "polys": 644
+    },
+    {
+     "id": "TA2:1906:arthrology:popliteofibular_ligament_r",
+     "ta2_id": "1906",
+     "names": {
+      "en": "Popliteofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Popliteofibular ligament.r"
+     },
+     "polys": 448
+    },
+    {
+     "id": "TA2:1885:arthrology:lateral_meniscus_l",
+     "ta2_id": "1885",
+     "names": {
+      "en": "Lateral meniscus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral meniscus.l"
+     },
+     "polys": 234
+    },
+    {
+     "id": "TA2:1883*1:arthrology:articular_capsule_of_knee_joint_l",
+     "ta2_id": "1883*1",
+     "names": {
+      "en": "Articular capsule of knee joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of knee joint.l"
+     },
+     "polys": 1472
+    },
+    {
+     "id": "TA2:1904:arthrology:meniscopatellar_ligament_l",
+     "ta2_id": "1904",
+     "names": {
+      "en": "Meniscopatellar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Meniscopatellar ligament.l"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:1889:arthrology:transverse_ligament_of_knee_l",
+     "ta2_id": "1889",
+     "names": {
+      "en": "Transverse ligament of knee"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Transverse ligament of knee.l"
+     },
+     "polys": 216
+    },
+    {
+     "id": "TA2:1891:arthrology:posterior_cruciate_ligament_l",
+     "ta2_id": "1891",
+     "names": {
+      "en": "Posterior cruciate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior cruciate ligament.l"
+     },
+     "polys": 404
+    },
+    {
+     "id": "TA2:1890:arthrology:anterior_cruciate_ligament_l",
+     "ta2_id": "1890",
+     "names": {
+      "en": "Anterior cruciate ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior cruciate ligament.l"
+     },
+     "polys": 808
+    },
+    {
+     "id": "TA2:1895:arthrology:fibular_collateral_ligament_l",
+     "ta2_id": "1895",
+     "names": {
+      "en": "Fibular collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Fibular collateral ligament.l"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1899:arthrology:oblique_popliteal_ligament_l",
+     "ta2_id": "1899",
+     "names": {
+      "en": "Oblique popliteal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Oblique popliteal ligament.l"
+     },
+     "polys": 184
+    },
+    {
+     "id": "TA2:1908:arthrology:infrapatellar_fat_pad_l",
+     "ta2_id": "1908",
+     "names": {
+      "en": "Infrapatellar fat pad"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Infrapatellar fat pad.l"
+     },
+     "polys": 384
+    },
+    {
+     "id": "TA2:1900:arthrology:arcuate_popliteal_ligament_l",
+     "ta2_id": "1900",
+     "names": {
+      "en": "Arcuate popliteal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Arcuate popliteal ligament.l"
+     },
+     "polys": 644
+    },
+    {
+     "id": "TA2:1906:arthrology:popliteofibular_ligament_l",
+     "ta2_id": "1906",
+     "names": {
+      "en": "Popliteofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Popliteofibular ligament.l"
+     },
+     "polys": 448
+    },
+    {
+     "id": "TA2:1897:arthrology:superficial_part_of_tibial_collateral_ligament_r",
+     "ta2_id": "1897",
+     "names": {
+      "en": "Superficial part of tibial collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superficial part of tibial collateral ligament.r"
+     },
+     "polys": 248
+    },
+    {
+     "id": "TA2:1897:arthrology:superficial_part_of_tibial_collateral_ligament_l",
+     "ta2_id": "1897",
+     "names": {
+      "en": "Superficial part of tibial collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Superficial part of tibial collateral ligament.l"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:7147:arthrology:anterior_meniscotibial_ligament_medial_meniscus_r",
+     "ta2_id": "7147",
+     "names": {
+      "en": "Anterior meniscotibial ligament (Medial meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior meniscotibial ligament (Medial meniscus).r"
+     },
+     "polys": 64
+    },
+    {
+     "id": "TA2:7149:arthrology:posterior_meniscotibial_ligament_medial_meniscus_r",
+     "ta2_id": "7149",
+     "names": {
+      "en": "Posterior meniscotibial ligament (Medial meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior meniscotibial ligament (Medial meniscus).r"
+     },
+     "polys": 152
+    },
+    {
+     "id": "TA2:7147:arthrology:anterior_meniscotibial_ligament_medial_meniscus_l",
+     "ta2_id": "7147",
+     "names": {
+      "en": "Anterior meniscotibial ligament (Medial meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior meniscotibial ligament (Medial meniscus).l"
+     },
+     "polys": 64
+    },
+    {
+     "id": "TA2:7149:arthrology:posterior_meniscotibial_ligament_medial_meniscus_l",
+     "ta2_id": "7149",
+     "names": {
+      "en": "Posterior meniscotibial ligament (Medial meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior meniscotibial ligament (Medial meniscus).l"
+     },
+     "polys": 152
+    },
+    {
+     "id": "TA2:1888:arthrology:medial_meniscus_r",
+     "ta2_id": "1888",
+     "names": {
+      "en": "Medial meniscus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Medial meniscus.r"
+     },
+     "polys": 142
+    },
+    {
+     "id": "TA2:7146:arthrology:anterior_meniscotibial_ligament_lateral_meniscus_r",
+     "ta2_id": "7146",
+     "names": {
+      "en": "Anterior meniscotibial ligament (Lateral meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior meniscotibial ligament (Lateral meniscus).r"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:7148:arthrology:posterior_meniscotibial_ligament_lateral_meniscus_r",
+     "ta2_id": "7148",
+     "names": {
+      "en": "Posterior meniscotibial ligament (Lateral meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior meniscotibial ligament (Lateral meniscus).r"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:1888:arthrology:medial_meniscus_l",
+     "ta2_id": "1888",
+     "names": {
+      "en": "Medial meniscus"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Medial meniscus.l"
+     },
+     "polys": 142
+    },
+    {
+     "id": "TA2:7146:arthrology:anterior_meniscotibial_ligament_lateral_meniscus_l",
+     "ta2_id": "7146",
+     "names": {
+      "en": "Anterior meniscotibial ligament (Lateral meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior meniscotibial ligament (Lateral meniscus).l"
+     },
+     "polys": 124
+    },
+    {
+     "id": "TA2:7148:arthrology:posterior_meniscotibial_ligament_lateral_meniscus_l",
+     "ta2_id": "7148",
+     "names": {
+      "en": "Posterior meniscotibial ligament (Lateral meniscus)"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior meniscotibial ligament (Lateral meniscus).l"
+     },
+     "polys": 96
+    },
+    {
+     "id": "TA2:1898:arthrology:deep_part_of_tibial_collateral_ligament_r",
+     "ta2_id": "1898",
+     "names": {
+      "en": "Deep part of tibial collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Deep part of tibial collateral ligament.r"
+     },
+     "polys": 128
+    },
+    {
+     "id": "TA2:1898:arthrology:deep_part_of_tibial_collateral_ligament_l",
+     "ta2_id": "1898",
+     "names": {
+      "en": "Deep part of tibial collateral ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Deep part of tibial collateral ligament.l"
+     },
+     "polys": 128
+    },
+    {
+     "id": "TA2:1910:arthrology:anterior_ligament_of_fibular_head_r",
+     "ta2_id": "1910",
+     "names": {
+      "en": "Anterior ligament of fibular head"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior ligament of fibular head.r"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1911:arthrology:posterior_ligament_of_fibular_head_r",
+     "ta2_id": "1911",
+     "names": {
+      "en": "Posterior ligament of fibular head"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior ligament of fibular head.r"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:7150:arthrology:articular_capsule_of_superior_tibiofibular_joint_r",
+     "ta2_id": "7150",
+     "names": {
+      "en": "Articular capsule of superior tibiofibular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of superior tibiofibular joint.r"
+     },
+     "polys": 280
+    },
+    {
+     "id": "TA2:1910:arthrology:anterior_ligament_of_fibular_head_l",
+     "ta2_id": "1910",
+     "names": {
+      "en": "Anterior ligament of fibular head"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior ligament of fibular head.l"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1911:arthrology:posterior_ligament_of_fibular_head_l",
+     "ta2_id": "1911",
+     "names": {
+      "en": "Posterior ligament of fibular head"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior ligament of fibular head.l"
+     },
+     "polys": 88
+    },
+    {
+     "id": "TA2:7150:arthrology:articular_capsule_of_superior_tibiofibular_joint_l",
+     "ta2_id": "7150",
+     "names": {
+      "en": "Articular capsule of superior tibiofibular joint"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of superior tibiofibular joint.l"
+     },
+     "polys": 280
+    },
+    {
+     "id": "TA2:1917:arthrology:posterior_tibiotalar_ligament_r",
+     "ta2_id": "1917",
+     "names": {
+      "en": "Posterior tibiotalar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior tibiotalar ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1915:arthrology:tibiocalcaneal_ligament_r",
+     "ta2_id": "1915",
+     "names": {
+      "en": "Tibiocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Tibiocalcaneal ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1914:arthrology:tibionavicular_ligament_r",
+     "ta2_id": "1914",
+     "names": {
+      "en": "Tibionavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Tibionavicular ligament.r"
+     },
+     "polys": 116
+    },
+    {
+     "id": "TA2:1915:arthrology:tibiocalcaneal_ligament_l",
+     "ta2_id": "1915",
+     "names": {
+      "en": "Tibiocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Tibiocalcaneal ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1917:arthrology:posterior_tibiotalar_ligament_l",
+     "ta2_id": "1917",
+     "names": {
+      "en": "Posterior tibiotalar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior tibiotalar ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1914:arthrology:tibionavicular_ligament_l",
+     "ta2_id": "1914",
+     "names": {
+      "en": "Tibionavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Tibionavicular ligament.l"
+     },
+     "polys": 116
+    },
+    {
+     "id": "TA2:1920:arthrology:posterior_talofibular_ligament_r",
+     "ta2_id": "1920",
+     "names": {
+      "en": "Posterior talofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior talofibular ligament.r"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1919:arthrology:anterior_talofibular_ligament_r",
+     "ta2_id": "1919",
+     "names": {
+      "en": "Anterior talofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior talofibular ligament.r"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1921:arthrology:calcaneofibular_ligament_r",
+     "ta2_id": "1921",
+     "names": {
+      "en": "Calcaneofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Calcaneofibular ligament.r"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1920:arthrology:posterior_talofibular_ligament_l",
+     "ta2_id": "1920",
+     "names": {
+      "en": "Posterior talofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior talofibular ligament.l"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1921:arthrology:calcaneofibular_ligament_l",
+     "ta2_id": "1921",
+     "names": {
+      "en": "Calcaneofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Calcaneofibular ligament.l"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1919:arthrology:anterior_talofibular_ligament_l",
+     "ta2_id": "1919",
+     "names": {
+      "en": "Anterior talofibular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior talofibular ligament.l"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1925:arthrology:lateral_talocalcaneal_ligament_r",
+     "ta2_id": "1925",
+     "names": {
+      "en": "Lateral talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral talocalcaneal ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1926:arthrology:medial_talocalcaneal_ligament_r",
+     "ta2_id": "1926",
+     "names": {
+      "en": "Medial talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Medial talocalcaneal ligament.r"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1927:arthrology:posterior_talocalcaneal_ligament_r",
+     "ta2_id": "1927",
+     "names": {
+      "en": "Posterior talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior talocalcaneal ligament.r"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1928:arthrology:talocalcaneal_interosseous_ligament_r",
+     "ta2_id": "1928",
+     "names": {
+      "en": "Talocalcaneal interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Talocalcaneal interosseous ligament.r"
+     },
+     "polys": 212
+    },
+    {
+     "id": "TA2:1929:arthrology:anterior_talocalcaneal_ligament_r",
+     "ta2_id": "1929",
+     "names": {
+      "en": "Anterior talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior talocalcaneal ligament.r"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1925:arthrology:lateral_talocalcaneal_ligament_l",
+     "ta2_id": "1925",
+     "names": {
+      "en": "Lateral talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Lateral talocalcaneal ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1926:arthrology:medial_talocalcaneal_ligament_l",
+     "ta2_id": "1926",
+     "names": {
+      "en": "Medial talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Medial talocalcaneal ligament.l"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1927:arthrology:posterior_talocalcaneal_ligament_l",
+     "ta2_id": "1927",
+     "names": {
+      "en": "Posterior talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Posterior talocalcaneal ligament.l"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1928:arthrology:talocalcaneal_interosseous_ligament_l",
+     "ta2_id": "1928",
+     "names": {
+      "en": "Talocalcaneal interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Talocalcaneal interosseous ligament.l"
+     },
+     "polys": 212
+    },
+    {
+     "id": "TA2:1929:arthrology:anterior_talocalcaneal_ligament_l",
+     "ta2_id": "1929",
+     "names": {
+      "en": "Anterior talocalcaneal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Anterior talocalcaneal ligament.l"
+     },
+     "polys": 52
+    },
+    {
+     "id": "TA2:1934:arthrology:long_plantar_ligament_r",
+     "ta2_id": "1934",
+     "names": {
+      "en": "Long plantar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Long plantar ligament.r"
+     },
+     "polys": 3486
+    },
+    {
+     "id": "TA2:1934:arthrology:long_plantar_ligament_l",
+     "ta2_id": "1934",
+     "names": {
+      "en": "Long plantar ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Long plantar ligament.l"
+     },
+     "polys": 3486
+    },
+    {
+     "id": "TA2:1932:arthrology:calcaneonavicular_ligament_r",
+     "ta2_id": "1932",
+     "names": {
+      "en": "Calcaneonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Calcaneonavicular ligament.r"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1933:arthrology:calcaneocuboid_ligament_r",
+     "ta2_id": "1933",
+     "names": {
+      "en": "Calcaneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Calcaneocuboid ligament.r"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1932:arthrology:calcaneonavicular_ligament_l",
+     "ta2_id": "1932",
+     "names": {
+      "en": "Calcaneonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Calcaneonavicular ligament.l"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1933:arthrology:calcaneocuboid_ligament_l",
+     "ta2_id": "1933",
+     "names": {
+      "en": "Calcaneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Calcaneocuboid ligament.l"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1937:arthrology:plantar_calcaneonavicular_ligament_r",
+     "ta2_id": "1937",
+     "names": {
+      "en": "Plantar calcaneonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar calcaneonavicular ligament.r"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1936:arthrology:talonavicular_ligament_r",
+     "ta2_id": "1936",
+     "names": {
+      "en": "Talonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Talonavicular ligament.r"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1937:arthrology:plantar_calcaneonavicular_ligament_l",
+     "ta2_id": "1937",
+     "names": {
+      "en": "Plantar calcaneonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar calcaneonavicular ligament.l"
+     },
+     "polys": 16
+    },
+    {
+     "id": "TA2:1936:arthrology:talonavicular_ligament_l",
+     "ta2_id": "1936",
+     "names": {
+      "en": "Talonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Talonavicular ligament.l"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1940:arthrology:plantar_calcaneocuboid_ligament_r",
+     "ta2_id": "1940",
+     "names": {
+      "en": "Plantar calcaneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar calcaneocuboid ligament.r"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1939:arthrology:dorsal_calcaneocuboid_ligament_r",
+     "ta2_id": "1939",
+     "names": {
+      "en": "Dorsal calcaneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal calcaneocuboid ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1940:arthrology:plantar_calcaneocuboid_ligament_l",
+     "ta2_id": "1940",
+     "names": {
+      "en": "Plantar calcaneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar calcaneocuboid ligament.l"
+     },
+     "polys": 68
+    },
+    {
+     "id": "TA2:1939:arthrology:dorsal_calcaneocuboid_ligament_l",
+     "ta2_id": "1939",
+     "names": {
+      "en": "Dorsal calcaneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal calcaneocuboid ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1942:arthrology:dorsal_cuneonavicular_ligaments_r",
+     "ta2_id": "1942",
+     "names": {
+      "en": "Dorsal cuneonavicular ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal cuneonavicular ligaments.r"
+     },
+     "polys": 30
+    },
+    {
+     "id": "TA2:1943:arthrology:plantar_cuneonavicular_ligaments_r",
+     "ta2_id": "1943",
+     "names": {
+      "en": "Plantar cuneonavicular ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar cuneonavicular ligaments.r"
+     },
+     "polys": 26
+    },
+    {
+     "id": "TA2:1942:arthrology:dorsal_cuneonavicular_ligaments_l",
+     "ta2_id": "1942",
+     "names": {
+      "en": "Dorsal cuneonavicular ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal cuneonavicular ligaments.l"
+     },
+     "polys": 30
+    },
+    {
+     "id": "TA2:1943:arthrology:plantar_cuneonavicular_ligaments_l",
+     "ta2_id": "1943",
+     "names": {
+      "en": "Plantar cuneonavicular ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar cuneonavicular ligaments.l"
+     },
+     "polys": 26
+    },
+    {
+     "id": "TA2:1945:arthrology:cuneocuboid_interosseous_ligament_r",
+     "ta2_id": "1945",
+     "names": {
+      "en": "Cuneocuboid interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Cuneocuboid interosseous ligament.r"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1946:arthrology:dorsal_cuneocuboid_ligament_r",
+     "ta2_id": "1946",
+     "names": {
+      "en": "Dorsal cuneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal cuneocuboid ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1947:arthrology:plantar_cuneocuboid_ligament_r",
+     "ta2_id": "1947",
+     "names": {
+      "en": "Plantar cuneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar cuneocuboid ligament.r"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1945:arthrology:cuneocuboid_interosseous_ligament_l",
+     "ta2_id": "1945",
+     "names": {
+      "en": "Cuneocuboid interosseous ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Cuneocuboid interosseous ligament.l"
+     },
+     "polys": 40
+    },
+    {
+     "id": "TA2:1946:arthrology:dorsal_cuneocuboid_ligament_l",
+     "ta2_id": "1946",
+     "names": {
+      "en": "Dorsal cuneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal cuneocuboid ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1947:arthrology:plantar_cuneocuboid_ligament_l",
+     "ta2_id": "1947",
+     "names": {
+      "en": "Plantar cuneocuboid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar cuneocuboid ligament.l"
+     },
+     "polys": 48
+    },
+    {
+     "id": "TA2:1950:arthrology:plantar_cuboideonavicular_ligament_r",
+     "ta2_id": "1950",
+     "names": {
+      "en": "Plantar cuboideonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar cuboideonavicular ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1949:arthrology:dorsal_cuboideonavicular_ligament_r",
+     "ta2_id": "1949",
+     "names": {
+      "en": "Dorsal cuboideonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal cuboideonavicular ligament.r"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1950:arthrology:plantar_cuboideonavicular_ligament_l",
+     "ta2_id": "1950",
+     "names": {
+      "en": "Plantar cuboideonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar cuboideonavicular ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1949:arthrology:dorsal_cuboideonavicular_ligament_l",
+     "ta2_id": "1949",
+     "names": {
+      "en": "Dorsal cuboideonavicular ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal cuboideonavicular ligament.l"
+     },
+     "polys": 6
+    },
+    {
+     "id": "TA2:1952:arthrology:intercuneiform_interosseous_ligaments_r",
+     "ta2_id": "1952",
+     "names": {
+      "en": "Intercuneiform interosseous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intercuneiform interosseous ligaments.r"
+     },
+     "polys": 12
+    },
+    {
+     "id": "TA2:1953:arthrology:dorsal_intercuneiform_ligaments_r",
+     "ta2_id": "1953",
+     "names": {
+      "en": "Dorsal intercuneiform ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal intercuneiform ligaments.r"
+     },
+     "polys": 12
+    },
+    {
+     "id": "TA2:1954:arthrology:plantar_intercuneiform_ligaments_r",
+     "ta2_id": "1954",
+     "names": {
+      "en": "Plantar intercuneiform ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar intercuneiform ligaments.r"
+     },
+     "polys": 12
+    },
+    {
+     "id": "TA2:1952:arthrology:intercuneiform_interosseous_ligaments_l",
+     "ta2_id": "1952",
+     "names": {
+      "en": "Intercuneiform interosseous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intercuneiform interosseous ligaments.l"
+     },
+     "polys": 12
+    },
+    {
+     "id": "TA2:1953:arthrology:dorsal_intercuneiform_ligaments_l",
+     "ta2_id": "1953",
+     "names": {
+      "en": "Dorsal intercuneiform ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal intercuneiform ligaments.l"
+     },
+     "polys": 12
+    },
+    {
+     "id": "TA2:1954:arthrology:plantar_intercuneiform_ligaments_l",
+     "ta2_id": "1954",
+     "names": {
+      "en": "Plantar intercuneiform ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar intercuneiform ligaments.l"
+     },
+     "polys": 12
+    },
+    {
+     "id": "TA2:1956:arthrology:dorsal_tarsometatarsal_ligaments_r",
+     "ta2_id": "1956",
+     "names": {
+      "en": "Dorsal tarsometatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal tarsometatarsal ligaments.r"
+     },
+     "polys": 196
+    },
+    {
+     "id": "TA2:1957:arthrology:plantar_tarsometatarsal_ligaments_r",
+     "ta2_id": "1957",
+     "names": {
+      "en": "Plantar tarsometatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar tarsometatarsal ligaments.r"
+     },
+     "polys": 50
+    },
+    {
+     "id": "TA2:1958:arthrology:cuneometatarsal_interosseous_ligaments_r",
+     "ta2_id": "1958",
+     "names": {
+      "en": "Cuneometatarsal interosseous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Cuneometatarsal interosseous ligaments.r"
+     },
+     "polys": 18
+    },
+    {
+     "id": "TA2:1956:arthrology:dorsal_tarsometatarsal_ligaments_l",
+     "ta2_id": "1956",
+     "names": {
+      "en": "Dorsal tarsometatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal tarsometatarsal ligaments.l"
+     },
+     "polys": 196
+    },
+    {
+     "id": "TA2:1957:arthrology:plantar_tarsometatarsal_ligaments_l",
+     "ta2_id": "1957",
+     "names": {
+      "en": "Plantar tarsometatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar tarsometatarsal ligaments.l"
+     },
+     "polys": 50
+    },
+    {
+     "id": "TA2:1958:arthrology:cuneometatarsal_interosseous_ligaments_l",
+     "ta2_id": "1958",
+     "names": {
+      "en": "Cuneometatarsal interosseous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Cuneometatarsal interosseous ligaments.l"
+     },
+     "polys": 18
+    },
+    {
+     "id": "TA2:1961:arthrology:dorsal_metatarsal_ligaments_r",
+     "ta2_id": "1961",
+     "names": {
+      "en": "Dorsal metatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal metatarsal ligaments.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1962:arthrology:plantar_metatarsal_ligaments_r",
+     "ta2_id": "1962",
+     "names": {
+      "en": "Plantar metatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar metatarsal ligaments.r"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1960:arthrology:metatarsal_interosseous_ligaments_r",
+     "ta2_id": "1960",
+     "names": {
+      "en": "Metatarsal interosseous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Metatarsal interosseous ligaments.r"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1963:arthrology:intersesamoid_ligament_r",
+     "ta2_id": "1963",
+     "names": {
+      "en": "Intersesamoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intersesamoid ligament.r"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1961:arthrology:dorsal_metatarsal_ligaments_l",
+     "ta2_id": "1961",
+     "names": {
+      "en": "Dorsal metatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Dorsal metatarsal ligaments.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1962:arthrology:plantar_metatarsal_ligaments_l",
+     "ta2_id": "1962",
+     "names": {
+      "en": "Plantar metatarsal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar metatarsal ligaments.l"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1960:arthrology:metatarsal_interosseous_ligaments_l",
+     "ta2_id": "1960",
+     "names": {
+      "en": "Metatarsal interosseous ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Metatarsal interosseous ligaments.l"
+     },
+     "polys": 24
+    },
+    {
+     "id": "TA2:1963:arthrology:intersesamoid_ligament_l",
+     "ta2_id": "1963",
+     "names": {
+      "en": "Intersesamoid ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Intersesamoid ligament.l"
+     },
+     "polys": 28
+    },
+    {
+     "id": "TA2:1965:arthrology:collateral_metatarsophalangeal_ligaments_r",
+     "ta2_id": "1965",
+     "names": {
+      "en": "Collateral metatarsophalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral metatarsophalangeal ligaments.r"
+     },
+     "polys": 808
+    },
+    {
+     "id": "TA2:1966:arthrology:plantar_metatarsophalangeal_ligaments_r",
+     "ta2_id": "1966",
+     "names": {
+      "en": "Plantar metatarsophalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar metatarsophalangeal ligaments.r"
+     },
+     "polys": 440
+    },
+    {
+     "id": "TA2:1967:arthrology:deep_transverse_metatarsal_ligament_r",
+     "ta2_id": "1967",
+     "names": {
+      "en": "Deep transverse metatarsal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Deep transverse metatarsal ligament.r"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:7139:arthrology:articular_capsules_of_metatarsophalangeal_joints_r",
+     "ta2_id": "7139",
+     "names": {
+      "en": "Articular capsules of metatarsophalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of metatarsophalangeal joints.r"
+     },
+     "polys": 876
+    },
+    {
+     "id": "TA2:1965:arthrology:collateral_metatarsophalangeal_ligaments_l",
+     "ta2_id": "1965",
+     "names": {
+      "en": "Collateral metatarsophalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral metatarsophalangeal ligaments.l"
+     },
+     "polys": 808
+    },
+    {
+     "id": "TA2:1966:arthrology:plantar_metatarsophalangeal_ligaments_l",
+     "ta2_id": "1966",
+     "names": {
+      "en": "Plantar metatarsophalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar metatarsophalangeal ligaments.l"
+     },
+     "polys": 440
+    },
+    {
+     "id": "TA2:1967:arthrology:deep_transverse_metatarsal_ligament_l",
+     "ta2_id": "1967",
+     "names": {
+      "en": "Deep transverse metatarsal ligament"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Deep transverse metatarsal ligament.l"
+     },
+     "polys": 76
+    },
+    {
+     "id": "TA2:7139:arthrology:articular_capsules_of_metatarsophalangeal_joints_l",
+     "ta2_id": "7139",
+     "names": {
+      "en": "Articular capsules of metatarsophalangeal joints"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of metatarsophalangeal joints.l"
+     },
+     "polys": 876
+    },
+    {
+     "id": "TA2:7144:arthrology:articular_capsules_of_distal_interphalangeal_joints_of_foot_r",
+     "ta2_id": "7144",
+     "names": {
+      "en": "Articular capsules of distal interphalangeal joints of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of distal interphalangeal joints of foot.r"
+     },
+     "polys": 712
+    },
+    {
+     "id": "TA2:7143:arthrology:articular_capsule_of_interphalangeal_joint_of_great_toe_r",
+     "ta2_id": "7143",
+     "names": {
+      "en": "Articular capsule of interphalangeal joint of great toe"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of interphalangeal joint of great toe.r"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:7145:arthrology:articular_capsules_of_proximal_interphalangeal_joints_of_foot_r",
+     "ta2_id": "7145",
+     "names": {
+      "en": "Articular capsules of proximal interphalangeal joints of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of proximal interphalangeal joints of foot.r"
+     },
+     "polys": 732
+    },
+    {
+     "id": "TA2:1972:arthrology:collateral_interphalangeal_ligaments_of_foot_r",
+     "ta2_id": "1972",
+     "names": {
+      "en": "Collateral interphalangeal ligaments of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral interphalangeal ligaments of foot.r"
+     },
+     "polys": 1348
+    },
+    {
+     "id": "TA2:1973:arthrology:plantar_interphalangeal_ligaments_r",
+     "ta2_id": "1973",
+     "names": {
+      "en": "Plantar interphalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar interphalangeal ligaments.r"
+     },
+     "polys": 808
+    },
+    {
+     "id": "TA2:7144:arthrology:articular_capsules_of_distal_interphalangeal_joints_of_foot_l",
+     "ta2_id": "7144",
+     "names": {
+      "en": "Articular capsules of distal interphalangeal joints of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of distal interphalangeal joints of foot.l"
+     },
+     "polys": 712
+    },
+    {
+     "id": "TA2:7143:arthrology:articular_capsule_of_interphalangeal_joint_of_great_toe_l",
+     "ta2_id": "7143",
+     "names": {
+      "en": "Articular capsule of interphalangeal joint of great toe"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsule of interphalangeal joint of great toe.l"
+     },
+     "polys": 192
+    },
+    {
+     "id": "TA2:7145:arthrology:articular_capsules_of_proximal_interphalangeal_joints_of_foot_l",
+     "ta2_id": "7145",
+     "names": {
+      "en": "Articular capsules of proximal interphalangeal joints of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Articular capsules of proximal interphalangeal joints of foot.l"
+     },
+     "polys": 732
+    },
+    {
+     "id": "TA2:1972:arthrology:collateral_interphalangeal_ligaments_of_foot_l",
+     "ta2_id": "1972",
+     "names": {
+      "en": "Collateral interphalangeal ligaments of foot"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Collateral interphalangeal ligaments of foot.l"
+     },
+     "polys": 1348
+    },
+    {
+     "id": "TA2:1973:arthrology:plantar_interphalangeal_ligaments_l",
+     "ta2_id": "1973",
+     "names": {
+      "en": "Plantar interphalangeal ligaments"
+     },
+     "kind": "bone",
+     "mesh": {
+      "glb": "arthrology.glb",
+      "node": "Plantar interphalangeal ligaments.l"
+     },
+     "polys": 808
+    }
+   ]
+  }
+ ]
+}

@@ -2,6 +2,19 @@
 
 本仓遵循「用户可见变更逐条记录」；格式参照 Keep a Changelog 精神（简化版）。
 
+## [0.3.0] - 2026-11-23
+
+### Added
+- M1 完成：9 系统 GLB 全量导出（约 702MB，gitignore 不入库）
+  + 9 份系统 manifest + 全图谱合并清单 `assets/anatomy.manifest.json`（5954 结构、契约 PASS）
+- `tools/pipeline/merge_manifests.py`：多系统清单合并（幂等、跳过自身输出）
+
+### Changed
+- manifest id 改为复合键 `TA2:<id>:<system>:<node-slug>`（修复跨系统概念重复误删，P13）
+
+### Fixed
+- P12-P15 问题流水（M2 build_scene 性能红线 / 复合 id / 合并自引用 / FONT-only 系统）
+
 ## [0.2.0] - 2026-11-23
 
 ### Added
