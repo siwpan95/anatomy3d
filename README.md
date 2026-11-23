@@ -59,3 +59,7 @@ python -m unittest discover -s tests
 ## 署名（数据引入后生效）
 
 解剖模型数据的署名与许可声明统一写在 [NOTICE](NOTICE)；在数据真正入库前，该文件仅登记计划引入的数据源与各自许可，避免「先引入后补署名」的合规空窗。
+
+## 许可
+
+代码以 MIT 许可发布（见 [LICENSE](LICENSE)）。解剖模型数据的许可边界与署名要求见 [NOTICE](NOTICE)。
