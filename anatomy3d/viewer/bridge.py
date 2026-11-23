@@ -40,5 +40,16 @@ class AnatomyViewer(Protocol):
 
 
 def resolve_tdworld_src() -> str | None:
-    """定位 3dworld 源码（不写死盘符：环境变量指路，缺省 None）。"""
-    return os.environ.get("ANATOMY3D_TDWORLD_SRC") or None
+    """定位 3dworld 源码（不写死盘符，铁律 5）。
+
+    优先级：环境变量 ``ANATOMY3D_TDWORLD_SRC`` → 与本仓并排的 ``../3dworld``。
+    找不到返回 None（调用方如实报错，不猜路径）。
+    """
+    override = os.environ.get("ANATOMY3D_TDWORLD_SRC")
+    if override and os.path.isdir(override):
+        return override
+    repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    sibling = os.path.join(os.path.dirname(repo_root), "3dworld")
+    if os.path.isdir(sibling):
+        return sibling
+    return None

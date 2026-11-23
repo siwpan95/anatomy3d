@@ -2,6 +2,20 @@
 
 本仓遵循「用户可见变更逐条记录」；格式参照 Keep a Changelog 精神（简化版）。
 
+## [0.4.0] - 2026-11-24
+
+### Added
+- M2 查看器骨架（按 P12 性能红线设计）：
+  - `viewer/lazy.py`：headless 可测的节点选择 + 结构映射（budget 硬闸门、原/sanitize/.001 三形态查找）
+  - `viewer/app.py`：EngineApp 子类，只对待显示节点调 `primitive_meshdata`（绕开全量
+    `build_scene`）；轨道相机 + 自动取景 + PBR 光照 + 点选 + 显隐/隔离/增量加载 + HUD
+  - `--smoke` / `--bench` / `--shot` 三种无值守验证形态；截图落在 `docs/viewer_smoke.png`
+- 单测 12/12（含懒加载核心红绿覆盖）
+
+### Fixed
+- P16-P18 问题流水（上游 bench_report 解包 bug 绕行 / glTF `.001` 后缀 alias /
+  PBR 无光照全黑）
+
 ## [0.3.0] - 2026-11-23
 
 ### Added

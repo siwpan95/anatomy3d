@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "anatomy3d"
-version = "0.3.0"
+version = "0.4.0"
 description = "开放数据人体解剖 3D 教育查看器（教学用途，非临床）"
 readme = "README.md"
 license = { file = "LICENSE" }
