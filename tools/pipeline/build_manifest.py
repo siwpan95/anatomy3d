@@ -41,6 +41,12 @@ SYSTEM_KIND = {
     "regions": "region",
 }
 
+# 仓内运行时把包根加入 path（MatchIndex 分层匹配可用）；仓外缺包时 build_ta2_index
+# 会 ImportError 退回纯 dict（仅精确+剥后缀），脚本仍可跑（stdlib-only 纪律）。
+import os as _os
+import sys as _sys
+_sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(__file__), "..", "..")))
+
 
 def load_ta2_en_index(path: str) -> dict[str, str]:
     """TA2.csv → {English: TA2ID}。
@@ -70,18 +76,58 @@ def load_ta2_en_index(path: str) -> dict[str, str]:
     return idx
 
 
-def lookup(name: str, ta2: dict[str, str]) -> tuple[str, str] | None:
-    """返回 (matched_term, ta2_id) 或 None。逐层剥离后缀与引号后匹配。"""
-    cur = name.strip()
-    for _ in range(3):
-        hit = ta2.get(cur.lower())
-        if hit:
-            return cur, hit
-        stripped = SUFFIX_RE.sub("", PRIME_RE.sub("", cur))
-        if stripped == cur:
+def lookup(name: str, ta2) -> tuple[str, str] | None:
+    """返回 (matched_term, ta2_id) 或 None。
+
+    P23：ta2 参数升级为 MatchIndex（分层 exact→suffix→normalized→edit1，
+    见 anatomy3d/knowledge/ta2_match.py）；传旧式 dict 仍可跑（仅精确+剥后缀）。
+    """
+    if isinstance(ta2, dict):
+        cur = name.strip()
+        for _ in range(3):
+            hit = ta2.get(cur.lower())
+            if hit:
+                return cur, hit
+            stripped = SUFFIX_RE.sub("", PRIME_RE.sub("", cur))
+            if stripped == cur:
+                break
+            cur = stripped.strip()
+        return None
+    m = ta2.match(name)
+    return (m.term, m.value) if m else None
+
+
+def build_ta2_index(ta2_path: str):
+    """TA2.csv → 分层匹配索引（优先用 MatchIndex；不可导入时退回 dict）。"""
+    try:
+        from anatomy3d.knowledge.ta2_match import MatchIndex
+        return MatchIndex.from_pairs(load_ta2_en_index_pairs(ta2_path))
+    except ImportError:
+        return load_ta2_en_index(ta2_path)
+
+
+def load_ta2_en_index_pairs(path: str) -> list[tuple[str, str]]:
+    """load_ta2_en_index 的 pairs 形态（供 MatchIndex.from_pairs）。"""
+    pairs = []
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        rows = [ln.strip().strip('"').split(";") for ln in f if ln.strip()]
+    header = None
+    for row in rows:
+        if row and row[0].strip().lower().startswith("ta2id"):
+            header = row
             break
-        cur = stripped.strip()
-    return None
+    if header is None:
+        raise SystemExit(f"[FAIL] TA2.csv 找不到表头: {path}")
+    cols = {name.strip().lower(): i for i, name in enumerate(header)}
+    i_id, i_en = cols["ta2id"], cols["english"]
+    for row in rows:
+        if row is header or len(row) <= max(i_id, i_en):
+            continue
+        en = row[i_en].strip()
+        tid = row[i_id].strip()
+        if en and tid:
+            pairs.append((en, tid))
+    return pairs
 
 
 def sanitize_node(name: str) -> str:
@@ -91,7 +137,7 @@ def sanitize_node(name: str) -> str:
 
 def build(report_path: str, ta2_path: str, system: str, out_path: str) -> None:
     report = json.load(open(report_path, encoding="utf-8-sig"))
-    ta2 = load_ta2_en_index(ta2_path)
+    ta2 = build_ta2_index(ta2_path)
 
     kind = SYSTEM_KIND.get(system, "other")
     glb_name = (report.get("out") or out_path).replace("\\", "/").split("/")[-1]

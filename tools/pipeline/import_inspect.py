@@ -44,9 +44,13 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 from collections import defaultdict
+
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
+from anatomy3d.knowledge.ta2_match import MatchIndex, clean_zanatomy  # noqa: E402
 
 # 与 build_manifest.py 一致的后缀清洗
 SUFFIX_RE = re.compile(r"\s*[.](?:[a-z]{1,3})\s*$")
@@ -73,7 +77,29 @@ def system_of(memberships: list[str]) -> str | None:
     return None
 
 
-def build_hierarchy(inspect: dict, manifest: dict | None = None) -> dict:
+def load_ta2_pairs(path: str) -> list[tuple[str, str]]:
+    """TA2.csv → [(English, TA2ID)]（与 build_manifest 同款解析，BOM+引号+分号）。"""
+    pairs = []
+    rows = [ln.strip().strip('"').split(";") for ln in open(path, encoding="utf-8-sig") if ln.strip()]
+    header = None
+    for row in rows:
+        if row and row[0].strip().lower().startswith("ta2id"):
+            header = row
+            break
+    if header is None:
+        return pairs
+    cols = {n.strip().lower(): i for i, n in enumerate(header)}
+    for row in rows:
+        if row is header or len(row) <= max(cols["ta2id"], cols["english"]):
+            continue
+        en, tid = row[cols["english"]].strip(), row[cols["ta2id"]].strip()
+        if en and tid:
+            pairs.append((en, tid))
+    return pairs
+
+
+def build_hierarchy(inspect: dict, manifest: dict | None = None,
+                    ta2_pairs: list[tuple[str, str]] | None = None) -> dict:
     """把场景清单转成层级索引；返回 (hierarchy dict)。纯函数，便于 selfcheck。"""
     cols = inspect.get("collections", [])
     objs = inspect.get("objects", [])
@@ -86,18 +112,24 @@ def build_hierarchy(inspect: dict, manifest: dict | None = None) -> dict:
             raise ValueError("集合条目缺 name/path: %r" % (c,))
         by_name.setdefault(n, p)
 
-    # manifest node 规范名 → id（旁路 join，只为标注，不改 manifest）
-    join_map: dict[str, str] = {}
+    # manifest node 规范名 → id（旁路 join，只为标注，不改 manifest）。
+    # P23：改用分层匹配（exact→suffix→normalized→edit1），join 率 56%→90%+。
+    join_index = MatchIndex()
     if manifest:
         for s in manifest.get("systems", []):
             for st in s.get("structures", []):
                 node = (st.get("mesh") or {}).get("node", "")
                 if node:
-                    join_map.setdefault(clean_name(node).lower(), st.get("id", ""))
+                    join_index.add(node, st.get("id", ""))
 
+    # TA2 全表索引：对 manifest join 未命中的对象做概念级匹配（P23 第二层）——
+    # 命中即「结构增量候选」（manifest 无此节点，但有 TA2 id 可追溯），输出候选表。
+    ta2_index = MatchIndex.from_pairs(ta2_pairs) if ta2_pairs else None
     nodes = []
+    candidates = []
     resolved = unresolved = 0
     parents_filled = 0
+    level_count: dict[str, int] = defaultdict(int)
     for o in objs:
         name = o.get("name")
         if not name or not isinstance(name, str):
@@ -116,8 +148,21 @@ def build_hierarchy(inspect: dict, manifest: dict | None = None) -> dict:
         parents = canonical.split("/") if canonical else []
         if parents:
             parents_filled += 1
-        clean = clean_name(name)
-        mid = join_map.get(clean.lower())
+        clean = clean_zanatomy(name)
+        m = join_index.match(clean) if manifest else None
+        mid = m.value if m else None
+        if m:
+            level_count[m.level] += 1
+        ta2_id = ta2_level = ta2_term = None
+        if mid is None and ta2_index is not None:
+            tm = ta2_index.match(clean)
+            if tm:
+                ta2_id, ta2_level, ta2_term = tm.value, tm.level, tm.term
+                candidates.append({
+                    "clean": clean, "system": system_of(members),
+                    "ta2_id": ta2_id, "level": ta2_level, "polys": o.get("polygons", 0),
+                    "parents": " > ".join(parents),
+                })
         nodes.append({
             "name": name,
             "clean": clean,
@@ -129,6 +174,10 @@ def build_hierarchy(inspect: dict, manifest: dict | None = None) -> dict:
             "hidden": {"viewport": bool(o.get("hide_viewport")),
                        "render": bool(o.get("hide_render"))},
             "manifest_id": mid,
+            "match_level": m.level if m else None,
+            "match_term": m.term if m else None,
+            "ta2_id": ta2_id,
+            "ta2_level": ta2_level,
         })
 
     joined = sum(1 for n in nodes if n["manifest_id"])
@@ -143,9 +192,12 @@ def build_hierarchy(inspect: dict, manifest: dict | None = None) -> dict:
             "unresolved": unresolved,
             "manifest_join": joined,
             "parents_filled": parents_filled,
-            "manifest_nodes": len(join_map),
+            "manifest_nodes": len(join_index),
+            "match_levels": dict(level_count),
+            "ta2_candidates": len(candidates),
         },
         "nodes": nodes,
+        "ta2_candidates": candidates,
     }
 
 
@@ -200,6 +252,9 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description="Z-Anatomy 场景清单 → 层级索引（旁路，不改 manifest）")
     ap.add_argument("--inspect", default="data/scene_inspect.json")
     ap.add_argument("--manifest", default="assets/anatomy.manifest.json")
+    ap.add_argument("--ta2", default="vendor-ref/TA2.csv",
+                    help="TA2 全表（对 manifest 未命中对象做概念级匹配，产出增量候选）")
+    ap.add_argument("--candidates", default="data/scene_ta2_candidates.csv")
     ap.add_argument("--out", default="data/scene_hierarchy.json")
     ap.add_argument("--selfcheck", action="store_true")
     args = ap.parse_args(argv)
@@ -217,16 +272,32 @@ def main(argv=None):
         man = json.load(open(args.manifest, encoding="utf-8"))
     except OSError:
         print("[WARN] 读不到 manifest，跳过 join 标注（层级索引仍生成）")
+    ta2_pairs = None
+    try:
+        ta2_pairs = load_ta2_pairs(args.ta2)
+        print("[INFO] TA2 全表 %d 条" % len(ta2_pairs))
+    except OSError as e:
+        print("[WARN] 读不到 TA2 全表，跳过概念级匹配: %s" % e)
 
-    h = build_hierarchy(insp, man)
+    h = build_hierarchy(insp, man, ta2_pairs)
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(h, f, ensure_ascii=False, indent=1)
     st = h["stats"]
     print("[OK] 已生成 %s" % args.out)
     print("[STATS] collections=%d objects=%d resolved=%d unresolved=%d "
-          "manifest_join=%d/%d parents_filled=%d"
+          "manifest_join=%d/%d parents_filled=%d ta2_candidates=%d"
           % (st["collections"], st["objects"], st["resolved"], st["unresolved"],
-             st["manifest_join"], st["objects"], st["parents_filled"]))
+             st["manifest_join"], st["objects"], st["parents_filled"], st["ta2_candidates"]))
+    if st.get("match_levels"):
+        print("[STATS] join_levels=%s" % st["match_levels"])
+
+    if h.get("ta2_candidates"):
+        import csv as _csv
+        with open(args.candidates, "w", encoding="utf-8-sig", newline="") as f:
+            w = _csv.DictWriter(f, fieldnames=["clean", "system", "ta2_id", "level", "polys", "parents"])
+            w.writeheader()
+            w.writerows(h["ta2_candidates"])
+        print("[OK] 结构增量候选 %d 条 → %s" % (len(h["ta2_candidates"]), args.candidates))
     return 0
 
 

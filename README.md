@@ -58,7 +58,7 @@ python tools/pipeline/import_inspect.py               # 生成 data/scene_hierar
 4569 网格对象，含顶点/面数与集合成员），由 Blender 无头 inspect 产出；`data/scene_hierarchy.json`
 是导入器产出的层级索引（对象 → 系统 / part-of 父链 / 几何量 / manifest join）。二者是
 manifest 的**旁路数据**，不改动冻结的契约 v1；`parents` 字段可作为知识层/结构树的增量来源。
-重建命令与统计口径见 `tools/pipeline/import_inspect.py` 文件头。
+重建命令与统计口径见 `tools/pipeline/import_inspect.py` 文件头；结构增量候选见 `data/scene_ta2_candidates.csv`。
 
 ## 里程碑
 

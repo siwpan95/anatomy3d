@@ -5,11 +5,18 @@
 ## [Unreleased]
 
 ### Added
+- TA2 分层近似匹配（P10 待办落地，P23）：
+  - `anatomy3d/knowledge/ta2_match.py`：exact→suffix→normalized→edit1 四级匹配链，
+    双向一致归一化（大小写/连字符/标点/复数）+ Z-Anatomy 命名噪声清洗
+    （`.e1l` 带数字后缀 / 整名括号去壳 / 尾部注记剥离），selfcheck 9/9 能红能绿
+  - `tools/pipeline/import_inspect.py` 接入：manifest join 2560→2802，
+    TA2 概念候选 +1729 条（`data/scene_ta2_candidates.csv`），**场景总覆盖率 99.2%**（4531/4569）
+  - `tools/pipeline/build_manifest.py` 共用同一匹配器（仓外缺包自动降级纯 dict）
+  - 单测 +7（test_ta2_match.py，26/26 全绿）
 - 场景层级数据导入：`data/scene_inspect.json`（Z-Anatomy 全量元数据，1944 集合 / 4569 对象）
   + `tools/pipeline/import_inspect.py`（stdlib only，能红能绿自检）+ 产物 `data/scene_hierarchy.json`
   - 层级解析 14814/14816 集合成员命中、父链填充 4566/4569 对象
-  - 后缀清洗与 manifest join：命中从直接匹配的 2109 提升到 2560/4569
-  - 旁路数据，不改冻结的 manifest 契约 v1；selfcheck 16/16、单测 19/19 全绿
+  - 旁路数据，不改冻结的 manifest 契约 v1；selfcheck 全绿
 
 ## [1.0.0] - 2026-11-24
 
