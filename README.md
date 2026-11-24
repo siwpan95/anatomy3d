@@ -46,7 +46,19 @@ python -m anatomy3d.knowledge.zh && python tools/pipeline/build_zh_index.py
 ```bash
 python selfcheck.py          # exit 0 = 通过
 python -m unittest discover -s tests
+
+# 场景层级数据导入（旁路，不改 manifest）：inspect.json → hierarchy.json
+python tools/pipeline/import_inspect.py --selfcheck   # 导入器能红能绿自检
+python tools/pipeline/import_inspect.py               # 生成 data/scene_hierarchy.json
 ```
+
+### 场景层级数据源
+
+`data/scene_inspect.json` 是 Z-Anatomy `Startup.blend` 的全量**元数据**清单（1944 集合 /
+4569 网格对象，含顶点/面数与集合成员），由 Blender 无头 inspect 产出；`data/scene_hierarchy.json`
+是导入器产出的层级索引（对象 → 系统 / part-of 父链 / 几何量 / manifest join）。二者是
+manifest 的**旁路数据**，不改动冻结的契约 v1；`parents` 字段可作为知识层/结构树的增量来源。
+重建命令与统计口径见 `tools/pipeline/import_inspect.py` 文件头。
 
 ## 里程碑
 

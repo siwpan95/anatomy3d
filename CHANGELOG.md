@@ -2,6 +2,15 @@
 
 本仓遵循「用户可见变更逐条记录」；格式参照 Keep a Changelog 精神（简化版）。
 
+## [Unreleased]
+
+### Added
+- 场景层级数据导入：`data/scene_inspect.json`（Z-Anatomy 全量元数据，1944 集合 / 4569 对象）
+  + `tools/pipeline/import_inspect.py`（stdlib only，能红能绿自检）+ 产物 `data/scene_hierarchy.json`
+  - 层级解析 14814/14816 集合成员命中、父链填充 4566/4569 对象
+  - 后缀清洗与 manifest join：命中从直接匹配的 2109 提升到 2560/4569
+  - 旁路数据，不改冻结的 manifest 契约 v1；selfcheck 16/16、单测 19/19 全绿
+
 ## [1.0.0] - 2026-11-24
 
 首个完整版本：M0–M4 全通。
