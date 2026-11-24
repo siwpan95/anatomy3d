@@ -13,13 +13,12 @@ import sys
 from . import __version__
 from .knowledge.ta2 import load_ta2_index
 
-# 模块就位状态：框架底座阶段如实声明「骨架已就位 / 实装待里程碑」，
-# 不虚报。viewer 的真实现（GLB 加载 / 拾取 / OIT）由 M2 里程碑落地。
+# 模块就位状态：如实声明，不虚报（装配报告是诚实口径的门面）。
 MODULES = [
     ("contracts", "structure-manifest v1 形状与校验", True),
-    ("pipeline", "Blender 无头导出管线（参数与流程占位）", True),
-    ("viewer", "GLB 加载 / 拾取 / OIT / 标注（M2 实装）", False),
-    ("knowledge", "TA2 三语术语索引（样例数据已通）", True),
+    ("pipeline", "Blender 无头导出管线 + manifest/导入构建器（M1 实装）", True),
+    ("viewer", "GLB 懒加载 / 拾取 / 显隐 / 透视 / 剖面 / 结构树 / quiz（M2-M4 实装）", True),
+    ("knowledge", "TA2 三语术语索引 + 分层近似匹配（M3 实装）", True),
 ]
 
 

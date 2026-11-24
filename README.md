@@ -15,42 +15,79 @@
 技术底座继承既有三仓流水线经验（世界生成 / 规则内核 / 表现渲染的分工范式）：
 本仓对应「资产管线 + 查看器 + 知识内核」的一体化独立应用。
 
-## 怎么跑（当前阶段：框架底座）
+## 怎么跑
 
 ```bash
-# 依赖以 pyproject.toml 为单一事实来源；当前骨架仅依赖 Python 标准库（≥3.11）
+# 依赖以 pyproject.toml 为单一事实来源；框架/知识层仅依赖 Python 标准库（≥3.11）
 python selfcheck.py          # 无头自检：契约校验 + 模块导入 + 样例术语索引
 python -m anatomy3d.cli --report   # 装配报告：各模块就位状态
 python -m unittest discover -s tests   # 单元测试
+```
 
-# M2 查看器（需带 pyglet 的 3dworld 仓内 venv；3dworld 源码经 ANATOMY3D_TDWORLD_SRC
-# 或并排目录自动注入，不 vendor 不 fork）
-python -m anatomy3d.viewer.app --system reference --smoke 3
-python -m anatomy3d.viewer.app --system cardiovascular --max-nodes 12 --shot
-# 交互：拖拽=旋转 滚轮=缩放 点击=选中/答题 I=隔离 A=全显 L=增量加载 H=隐藏
-#       C=剖面开关 [ ]=旋转剖面 - =移动剖面 Q=出题  ESC=退出
-# M3 重新生成三语清单：
-python -m anatomy3d.knowledge.zh && python tools/pipeline/build_zh_index.py
+### 查看器（M2-M4；需带 pyglet 的 3dworld 仓内 venv）
+
+3dworld 源码经 `ANATOMY3D_TDWORLD_SRC` 或并排目录自动注入，不 vendor 不 fork。
+
+```bash
+# 交互浏览（--system 取 assets/<key>.glb 的文件名键）
+python -m anatomy3d.viewer.app --system reference
+python -m anatomy3d.viewer.app --system cardiovascular --max-nodes 12
+
+# 无值守验证三形态（headless 可跑）
+python -m anatomy3d.viewer.app --system reference --smoke 3      # 跑 3s 自动关
+python -m anatomy3d.viewer.app --system cardiovascular --shot    # 按 SHOTS 抓帧存 docs/
+python -m anatomy3d.viewer.app --system skeletal --bench 5       # 基准：render_stats 输出
+
+# 本查看器自有参数
+#   --max-nodes N            首批构建节点上限（性能闸门）
+#   --names A,B              启动即构建指定节点（精确/sanitize 双形态）
+#   --clip --clip-offset F   启动即开剖面 + 平面偏移
+#   --quiz                   启动即进入测验模式
+#   --ghost                  启动即进入透视模式（非选中结构半透明）
+# 引擎参数（3dworld 透传）：--size WxH  --fps N  --duration S  --no-vsync
+```
+
+**键位**：拖拽=旋转 · 滚轮=缩放 · 点击=选中/答题 · `1-9`=切换系统 · `I`=隔离 ·
+`A`=全显 · `L`=增量加载 · `H`=显隐 · `O`=透视 · `C`=剖面开关 · `[ ]`=旋转剖面 ·
+`- =`=移动剖面 · `T`=结构树 · `↑↓`=树游标 · `Enter`=定位树节点 · `Q`=出题 · `ESC`=退出
+
+### 资产管线（tools/pipeline，stdlib only）
+
+```bash
+python tools/pipeline/blender_export.py --inspect <blend>   # 场景检查（inspect.json 来源）
+python tools/pipeline/blender_export.py --export ...        # 无头导出 GLB+report（需 Blender）
+python tools/pipeline/build_manifest.py --report <r.json> --ta2 vendor-ref/TA2.csv \
+    --system <key> --out assets/<key>.manifest.json         # report → manifest（分层匹配）
+python tools/pipeline/merge_manifests.py                    # 合并各系统 manifest
+python tools/pipeline/build_zh_index.py                     # 大词表 → 运行时三语 CSV
+
+# 场景层级数据导入（旁路，不改 manifest）：inspect.json → hierarchy.json
+python tools/pipeline/import_inspect.py --selfcheck   # 导入器能红能绿自检
+python tools/pipeline/import_inspect.py               # 生成 data/scene_hierarchy.json
+                                                      #   + data/scene_ta2_candidates.csv
+```
+
+### 模块级自检
+
+```bash
+python -m anatomy3d.knowledge.ta2_match   # 分层匹配器（P23）
+python -m anatomy3d.viewer.tree           # 结构树（P24）
+```
+
+### 门禁怎么跑
+
+```bash
+python selfcheck.py          # exit 0 = 通过
+python -m unittest discover -s tests
 ```
 
 ## 依赖
 
 | 阶段 | 依赖 | 说明 |
 |---|---|---|
-| 框架底座（现在） | 仅 Python 标准库 | selfcheck / cli / 契约校验全部可无头跑 |
+| 框架/知识层 | 仅 Python 标准库 | selfcheck / cli / 契约校验 / 匹配器 / 结构树全部可无头跑 |
 | M1 资产管线 | Blender 4.x（外部工具，非 pip） | 无头导出 GLB + manifest |
-| M2 查看器 | pyglet==2.1.16 | 沿用既有 3dworld 引擎锁版口径 |
-
-## 门禁怎么跑
-
-```bash
-python selfcheck.py          # exit 0 = 通过
-python -m unittest discover -s tests
-
-# 场景层级数据导入（旁路，不改 manifest）：inspect.json → hierarchy.json
-python tools/pipeline/import_inspect.py --selfcheck   # 导入器能红能绿自检
-python tools/pipeline/import_inspect.py               # 生成 data/scene_hierarchy.json
-```
+| M2-M4 查看器 | pyglet==2.1.16 | 沿用既有 3dworld 引擎锁版口径 |
 
 ### 场景层级数据源
 
@@ -66,7 +103,7 @@ manifest 的**旁路数据**，不改动冻结的契约 v1；`parents` 字段可
 |---|---|---|
 | M0 | 框架底座：契约 v1 + 目录骨架 + selfcheck | ✅ 本仓首发 |
 | M1 | 资产管线：Blender 无头导出 GLB + manifest（规避已知坑点，见 tools/pipeline/README.md） | ✅ 9 系统全部导出（约 702MB GLB，不入库）+ 全图谱 manifest 5954 结构、契约 PASS；M2 性能红线已实测（P12） |
-| M2 | 查看器：加载 / 拾取 / 显隐 / OIT / 标注 / 结构树 | ◐ 骨架已通：pyglet 查看器 + 按节点懒加载（心血管 8/1092 节点 4.8s 启动）+ 轨道相机/自动取景/点选/显隐/隔离/增量加载；bench 20 draw calls、截图可见颅骨与血管树；OIT/中文标注待 M3/M4 |
+| M2 | 查看器：加载 / 拾取 / 显隐 / OIT / 标注 / 结构树 | ✅ pyglet 查看器 + 按节点懒加载（心血管 8/1092 节点 4.8s 启动）+ 轨道相机/自动取景/点选/显隐/隔离/增量加载 + 透视模式（O 键，P25 走 alpha 混合）+ 结构树（T 键，P24）+ 三语标注（M3）；bench 20 draw calls、截图可见颅骨与血管树 |
 | M3 | 知识层：定义 + 三语索引 + 中文术语映射 | ✅ 5954 结构富化（中文 2547 / 拉丁 5954 / 释义 39），契约 PASS；中文源为 4 万行医学名词表 + 25 条自撰基础词与释义 |
 | M4 | 剖面裁剪 + quiz 学习模式 | ✅ 运行时 PBR shader 裁剪平面（C/[ ]/-/= 交互，截图证明半切）+ quiz 点选判分（Q 键，中文+拉丁题干）；pyglet 2 uniform 写入坑见 P19 |
 
