@@ -92,6 +92,7 @@ def parse_viewer_args(argv=None):
     own.add_argument("--clip", action="store_true", help="启动时启用剖面裁剪")
     own.add_argument("--clip-offset", type=float, default=0.0, help="剖面平面偏移")
     own.add_argument("--quiz", action="store_true", help="启动时进入测验模式")
+    own.add_argument("--ghost", action="store_true", help="启动时进入透视模式（非选中结构半透明）")
     ns, rest = own.parse_known_args(argv)
     E = _load_engine()
     ns.engine_args = E["engine_parse_args"](rest)
@@ -103,7 +104,7 @@ def make_app_class(E):
     class AnatomyApp(E["EngineApp"]):
         TITLE = "anatomy3d - open anatomy viewer"
         HELP = ("drag=orbit  wheel=zoom  click=pick/answer  1-9=switch system  "
-                "I=isolate  A=show all  L=load more  H=hide  C=clip  "
+                "I=isolate  A=show all  L=load more  H=hide  O=xray  C=clip  "
                 "[ ]=rotate clip  - =move clip  T=tree  Up/Dn/Enter=nav  Q=quiz  ESC=quit")
         SHOW_HUD = True
         SHOTS = ((2.0, "docs/viewer_smoke.png"),)
@@ -137,6 +138,9 @@ def make_app_class(E):
             self.last_quiz_message = ""
             self.selected = None
             self._nodes = {}
+            # 透视模式（P25）：O 键或 --ghost；走普通 alpha 混合（上游 WBOIT 有
+            # 「合成灰白」Known issue 且默认关，见 3dworld renderer.py 0.9.5 注——不硬开）
+            self.ghost = bool(self.ns.ghost)
             # 结构树（P24）：scene_hierarchy 父链 → 可折叠文本树，T 键开关
             from anatomy3d.viewer.tree import StructureTree
             self.tree = StructureTree.load(repo, self.ns.system)
@@ -224,11 +228,15 @@ def make_app_class(E):
                             "arthrology": "bone", "muscular": "muscle",
                             "nervous": "nerve", "visceral": "organ",
                             "regions": "region"}.get(self.ns.system, "other")
+                ghosted = (self.ghost and not (self.selected is not None
+                                               and self.selected.name == name))
                 material = E["Material"](
                     name=name,
                     base_color=KIND_COLORS.get(struct.get("kind", fallback)),
                     roughness=0.72,
                     double_sided=True,
+                    alpha=0.35 if ghosted else 1.0,
+                    alpha_mode="BLEND" if ghosted else "OPAQUE",
                 )
                 for p in prims:
                     md = self.doc.primitive_meshdata(p)   # 只构建这个节点
@@ -280,13 +288,14 @@ def make_app_class(E):
         def status_text(self):
             sel = f" | picked={self.selected.name}" if self.selected else ""
             clip = " | CLIP on" if self.clip_enabled else ""
+            ghost = " | XRAY" if self.ghost else ""
             if self.quiz is not None and self.quiz.current:
                 quiz = f" | Q: {self.quiz.current['prompt']} [{self.quiz.status()}]"
             else:
                 quiz = ""
             msg = f" | {self.last_quiz_message}" if self.last_quiz_message else ""
             return (f"{self.current_system}: built {self.lazy.built_count()}/"
-                    f"{len(self.lazy.mesh_nodes)}{sel}{clip}{quiz}{msg}")
+                    f"{len(self.lazy.mesh_nodes)}{sel}{clip}{ghost}{quiz}{msg}")
 
         def on_mouse_drag(self, x, y, dx, dy, buttons, modifiers):
             self.camera.orbit(dx, dy)
@@ -350,6 +359,15 @@ def make_app_class(E):
                 self.scene.invalidate()
             elif symbol == key.C:
                 self.clip_enabled = not self.clip_enabled
+            elif symbol == key.O:
+                self.ghost = not self.ghost
+                for name, node in self._nodes.items():
+                    m = node.drawable.material
+                    if self.ghost and node is not self.selected:
+                        m.alpha, m.alpha_mode = 0.35, "BLEND"
+                    else:
+                        m.alpha, m.alpha_mode = 1.0, "OPAQUE"
+                self.scene.invalidate()
             elif symbol == key.BRACKETLEFT:
                 self.clip_yaw -= 15.0
             elif symbol == key.BRACKETRIGHT:
