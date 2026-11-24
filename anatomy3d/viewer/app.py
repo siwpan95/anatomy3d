@@ -104,7 +104,7 @@ def make_app_class(E):
         TITLE = "anatomy3d - open anatomy viewer"
         HELP = ("drag=orbit  wheel=zoom  click=pick/answer  1-9=switch system  "
                 "I=isolate  A=show all  L=load more  H=hide  C=clip  "
-                "[ ]=rotate clip  - =move clip  Q=quiz  ESC=quit")
+                "[ ]=rotate clip  - =move clip  T=tree  Up/Dn/Enter=nav  Q=quiz  ESC=quit")
         SHOW_HUD = True
         SHOTS = ((2.0, "docs/viewer_smoke.png"),)
 
@@ -137,6 +137,10 @@ def make_app_class(E):
             self.last_quiz_message = ""
             self.selected = None
             self._nodes = {}
+            # 结构树（P24）：scene_hierarchy 父链 → 可折叠文本树，T 键开关
+            from anatomy3d.viewer.tree import StructureTree
+            self.tree = StructureTree.load(repo, self.ns.system)
+            self.tree_visible = False
             self._load_system(self.ns.system, names=self.ns.names)
             if self.ns.quiz:
                 self.quiz = Quiz(self.manifest, seed=7)
@@ -182,6 +186,11 @@ def make_app_class(E):
                     self.manifest = json.load(f)
             self.lazy = LazyAtlas(self.doc.json, self.manifest, self.ns.max_nodes)
             self.current_system = system
+            # 切系统时重建结构树并刷新面板
+            from anatomy3d.viewer.tree import StructureTree
+            self.tree = StructureTree.load(self.repo, system)
+            if self.tree_visible and self.hud:
+                self.hud.set_perf(self.tree.render() if self.tree else ["(no tree data)"])
             self.scene = E["Scene"](name=f"anatomy:{system}",
                                     environment=self.environment)
             self.scene.environment = self.environment
@@ -354,6 +363,30 @@ def make_app_class(E):
                     self.quiz = Quiz(self.manifest, seed=7)
                 self.quiz.next()
                 self.last_quiz_message = ""
+            elif symbol == key.T:
+                self.tree_visible = not self.tree_visible
+                self._update_tree_hud()
+            elif symbol == key.UP and self.tree_visible:
+                self.tree.move(-1)
+                self._update_tree_hud()
+            elif symbol == key.DOWN and self.tree_visible:
+                self.tree.move(1)
+                self._update_tree_hud()
+            elif symbol == key.ENTER and self.tree_visible and self.tree:
+                leaf = self.tree.selected_leaf()
+                if leaf:
+                    added = self._build(names=[leaf])
+                    if self.hud:
+                        self.hud.set_status(f"tree-> built {leaf!r} (+{added})")
+
+        def _update_tree_hud(self):
+            """树面板开关/游标移动时刷新 HUD 多行区（行数恒定，不触发重排抖动）。"""
+            if not self.hud:
+                return
+            if self.tree_visible:
+                self.hud.set_perf(self.tree.render() if self.tree else ["(no tree data)"])
+            else:
+                self.hud.set_perf([])
     return AnatomyApp
 
 
